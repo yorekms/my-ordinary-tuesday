@@ -142,7 +142,7 @@ def sync_google_drive(cat, ex, pdf_path, zip_path, commit_sha):
     restore_md.unlink(missing_ok=True)
 
     # Sync Data_and_Carrd_Files folder cleanly (update existing by name, upload only brand-new)
-    ls_out = subprocess.check_output(["gdrive", "readonly", "ls", DRIVE_DATA_FOLDER, "--json"], text=True)
+    ls_out = subprocess.check_output(["gdrive", "readonly", "ls", DRIVE_DATA_FOLDER, "--max", "0", "--json"], text=True)
     existing_by_name = {x["name"]: x["id"] for x in json.loads(ls_out)}
     sync_files = [
         REPO_ROOT / "assets/app.js",
@@ -173,7 +173,7 @@ def sync_google_drive(cat, ex, pdf_path, zip_path, commit_sha):
             run(["gdrive", "mutate", "upload", str(fp), "--parent", DRIVE_DATA_FOLDER])
 
     # Sync any brand-new individual markdown chapters into Book_Chapters folder (no duplicates)
-    ch_ls = subprocess.check_output(["gdrive", "readonly", "ls", DRIVE_CHAPTERS_FOLDER, "--json"], text=True)
+    ch_ls = subprocess.check_output(["gdrive", "readonly", "ls", DRIVE_CHAPTERS_FOLDER, "--max", "0", "--json"], text=True)
     ch_existing = {x["name"] for x in json.loads(ch_ls)}
     new_chs = sorted(p for p in (REPO_ROOT / "book/chapters").glob("*.md") if p.name not in ch_existing)
     if new_chs:
