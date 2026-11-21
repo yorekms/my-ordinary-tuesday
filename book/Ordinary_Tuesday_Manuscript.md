@@ -1188,6 +1188,135 @@ One survivor case proves biological possibility, not population odds—Parkinson
 - **Companion Audio (Google Drive):** [Stream Ep 2610 Audio](https://drive.google.com/file/d/13g9qFEsHK4rd72UVi_O5V8Emg5U4Ay7E/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2610_PREV_994_The_Room_Was_Warm.m4a)
 
+## File № 106 — The Rusted Bungee Hook, the Normal Eye Pressure, and the 20/800 Pupil
+*Why a two-dollar elastic strap stores enough kinetic insult to shear an iris off its anatomical anchor—and how three spotless eye-pressure checks, a negative dye test, and a clear CT scan all missed the headline right behind the cornea.*
+
+- **Part:** Part I · The Garage, Backyard & Hardware Store
+- **Companion Episode:** Ep 2615 (51:32, 8,778 spoken words)
+- **Looks Like:** A small upper-eyelid scrape with normal eye pressure, negative dye leak, and a clear CT
+- **Actually Is:** Traumatic iridodialysis, iris sphincter tear, hyphema, and 20/800 vision after bungee recoil
+- **Cause / Mechanism / Manner:** Blunt ocular recoil trauma from a rusted, hooked bungee cord causing suspected traumatic iridodialysis, iris sphincter tear, and hyphema | High-speed elastic recoil impact disrupting anterior-chamber structures and detaching the iris root without perforating the outer corneal wall or rupturing the globe | Survivor Case (Incomplete Published Final Visual Outcome)
+- **Avoidability:** 90% | **False Reassurance:** “The eyelid scrape is tiny, the eyeball moves normally, pressure is 17 mmHg three times in a row, the dye test didn't leak, and the CT says the globe isn't ruptured.”
+
+### Elastic Potential Energy With an Open Metal Fang
+
+Few hardware-store inventions radiate more unearned casualness than the humble bungee cord: a braided elastomer slingshot capped on both ends by bent steel hooks whose sole engineering commitment to staying attached is friction and optimism. Stretch one across a load and you are holding stored mechanical energy aimed squarely back along the tension line—often at eye height. In a 2021 Cureus case report (whose PDF page-one copyright panel prints CC BY 4.0 while its original XML metadata links to CC BY 3.0, a versioning hiccup worth flagging), Woo Kyung Lee and colleagues documented a 41-year-old man who walked into an emergency department with left eye pain and blurred vision after an injury involving a rusted, hooked bungee cord. Crucially, the paper stops where the chart stops: it never specifies what load he was securing, where he stood, whether anyone else was nearby, whether eye protection was worn, or mechanically proves that rust caused the release. Real forensic restraint refuses to invent a dramatic backyard diorama to make an accident feel tidy.
+
+Beside the pain and blur, he reported light sensitivity, redness, swelling, headache, and nausea. He denied losing consciousness, and his vital signs looked utterly calm. A casual glance found only a small abrasion on his upper eyelid, and every muscle steering his eyeball still tracked smoothly. Then clinicians looked directly at the optical machinery itself. His right eye read 20/20; his injured left eye registered 20/800. (Because the paper records no pre-injury left-eye baseline, honest math refuses to compute an exact percentage of vision lost or treat his right eye as a flawless historical control.) Worse, his left pupil sat enlarged, irregular in shape, and completely unreactive to light, while blood pooled in the anterior chamber between cornea and iris—a hyphema. Based on the examination and published clinical photograph, the team suspected both a traumatic iris sphincter tear and iridodialysis: separation of the iris at its anatomical root.
+
+### Four Reassuring Tests That Never Cleared the Iris
+
+If emergency medicine has a favorite practical joke, it is handing out four consecutive reassuring readings on an eye that still needs an operating room. Clinicians checked intraocular pressure three separate times in each eye: 17, 17, and 17 mmHg on the right; 17, 15, and 17 mmHg on the left. No dramatic pressure spike appeared at that initial visit—which proved only that fluid pressure sat quiet in that snapshot, not that the iris stayed intact or that delayed pressure complications could never develop later. Next, a Wood's lamp exam found neither corneal abrasion nor corneal laceration, and a Seidel test came back negative, showing no fluid leaking through an open hole in the front surface of the eye.
+
+Even the heavy hardware joined the chorus: an orbital CT scan reported no acute changes and no globe rupture. Yet every one of those investigations answered a narrow compartment question—surface integrity, aqueous leakage, bony wall, or gross eyeball rupture—none of which erased visible anterior-chamber blood, a misshapen unreactive pupil, or 20/800 sight. A superficial eyelid graze and intact extraocular muscles are notoriously lousy spokespeople for what sits behind the cornea. After emergency stabilization and ophthalmology consultation, the published record offers one final honesty check: at three-week follow-up contact, the patient reported that his ophthalmologist had recommended surgical correction and surgery was being planned. No postoperative outcome or final visual acuity was ever published—meaning no responsible writer gets to tack on a triumphant 'vision restored' epilogue that never happened in print.
+
+### Sixty-Seven Charts, Shifting Denominators, and Glasses That Lie
+
+One emergency chart is not a freak lightning strike. Two decades earlier, in a 2001 Ophthalmology retrospective series (complete original abstract and bibliographic record assessed, not full text or raw charts), Anthony Aldave and colleagues tallied 67 bungee cord ocular trauma patients treated across five years in the 1990s at Wills Eye Hospital. Hyphema appeared in 42 of 67 patients—exact math 42 ÷ 67 = 62.69%, rounded to 63%. Commotio retinae, a concussive shockwave injury to the retina, appeared in 30 of 55 patients—30 ÷ 55 = 54.55%, rounded to 55%—with a smaller denominator whose missing 12 cases the abstract never explains, so you preserve 55 rather than smearing it over 67. Twenty-one of 67 patients (31.34%, rounded 31%) required some form of surgery, and the series even included open-globe ruptures (which our 2021 patient escaped). Because one struck eye easily collects anterior blood, retinal shock, and surgery all at once, these fractions overlap and never add up—and without a denominator of every uninjured bungee stretch across America, they map clinical severity among injured arrivals, not per-use probability or a randomized proof of warning labels.
+
+Prevention starts long before anything snaps, because ordinary prescription eyeglasses are not armor—they are glass or plastic lenses sitting millimeters from your cornea with zero impact rating. Current American Academy of Ophthalmology guidance draws a sharp line between daily spectacles and task-appropriate protective eyewear carrying an impact-safety marking (such as ANSI Z87.1 for household projectile work), while bluntly reminding wearers that even rated eyewear is one protective layer, never an absolute force field. Keep impact goggles where you actually grab cords, clear bystanders and kids from the recoil path, follow manufacturer replacement guidance on weathered or rusted straps, and resist the urge to stretch-test a suspect strap toward your face or bend a tired hook back into shape like an amateur blacksmith.
+
+### RED FLAGS · DO NOT EXPERIMENT ON A STRUCK EYE — Four Instincts That Make Blunt Eye Trauma Worse
+
+- High-speed impact, altered or blurred vision, irregular pupil shape, severe pain, light sensitivity, headache, nausea, or vomiting merit immediate emergency assessment—never wait to see whether the eyeball 'looks open' or dismiss trauma because the eyelid scratch looks minor.
+- Never drive yourself with compromised vision, never rub or press on an injured eye, never tape down a tight pressure patch, and never pull out an object that has pierced the eye (NHS and American Academy of Ophthalmology guidance).
+- First aid is mechanism-specific: flushing chemical splashes or minor loose grit is NOT a universal recipe for high-speed blunt trauma or possible cut/puncture—tell clinicians the exact mechanism and wait for professional guidance before putting anything into the eye.
+- Never borrow leftover eye drops, copy published hospital drug lists as self-treatment, or skip scheduled ophthalmology follow-up just because initial pain fades—comfort does not clear iris, retinal, or delayed pressure injury.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · HIGH-SPEED EYE RECOIL INJURY
+*Normal-looking skin and intact eye movement never clear hidden anterior-chamber or iris trauma.*
+
+1. **HANDS OFF THE EYEBALL:** Do not rub, press, pry open the lid, apply a tight patch, flush indiscriminately, or pull out any embedded object—protect the eye from pressure while awaiting clinical guidance.
+2. **GET URGENT PROFESSIONAL ASSESSMENT—DON'T DRIVE:** Arrange safe transport or emergency services immediately for any high-speed cord impact, blurred sight, irregular pupil, light sensitivity, severe pain, headache, or nausea.
+3. **DELIVER A CLEAN FACTUAL HANDOVER:** Tell triage the exact object (hooked bungee cord), impact timing if known (zero guessed timestamps), vision changes, and every symptom—never self-treat with leftover eye drops.
+4. **GEAR UP BEFORE THE NEXT STRETCH:** Wear impact-rated protective eyewear (such as ANSI Z87.1)—not ordinary prescription glasses—keep bystanders clear, retire damaged or rusted straps, and never stretch-test cords toward your face.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case Report** | Lee et al. (2021), Cureus 13(2):e13280 (DOI 10.7759/cureus.13280 · PMC7949672) · 41-yr man struck in left eye by rusted, hooked bungee cord; pain, blurred vision, photophobia, redness, swelling, headache, nausea; no LOC, stable vitals |
+| **Exam vs. Reassuring Tests** | VA OD 20/20 vs. OS 20/800 (no pre-injury OS baseline); OS pupil enlarged, irregular, unreactive; hyphema + suspected iris sphincter tear & iridodialysis; intact EOMs; small upper-lid abrasion; IOP 17/17/17 OD & 17/15/17 OS mmHg; Wood's lamp & Seidel negative; orbital CT showed no acute changes or globe rupture |
+| **Published Outcome Limit** | Ophthalmology consulted; at 3-wk contact patient reported recommended/planned surgical correction — actual operation, surgical technique, and final recovered visual acuity were NEVER published |
+| **Historical Clinical Series** | Aldave et al. (2001), Ophthalmology 108:788–792 (PMID 11297499; abstract scope): 67 Wills Eye Hospital bungee-trauma patients (5 yrs, 1990s) — hyphema 42/67 (62.69%), commotio retinae 30/55 (54.55%; distinct denominator preserved), any surgery 21/67 (31.34%), plus open-globe injuries; overlapping categories, no user denominator |
+| **Audit Boundary** | Load, stance, bystanders, eyewear, and release mechanics unreported; rust was described, not mechanically proved causal; medication doses/schedules intentionally omitted; PDF copyright panel states CC BY 4.0 vs. XML CC BY 3.0 (discrepancy preserved) |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Lee et al. (2021) — Traumatic Iridodialysis Associated With Hyphema Secondary to Injury From a Bungee Cord (Cureus 13(2):e13280 · PMC7949672)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7949672/)
+- **Historical Series:** [Aldave et al. (2001) — Bungee cord-associated ocular trauma: 67 cases at Wills Eye Hospital (Ophthalmology 108:788–792 · PMID 11297499)](https://pubmed.ncbi.nlm.nih.gov/11297499/)
+- **Official Guidance:** [NHS — Eye Injuries Emergency Assessment & First-Aid Boundaries (reviewed 12 March 2026)](https://www.nhs.uk/conditions/eye-injuries/)
+- **Official Guidance:** [American Academy of Ophthalmology — Protective Eyewear & ANSI Z87.1 Standards (published 15 Jan 2026)](https://www.aao.org/eye-health/tips-prevention/injuries-protective-eyewear)
+- **Resonance Transcript:** [Ep 2615 Interactive Player & Verbatim Transcript (8,778 words)](https://yorekms.github.io/deep-dive-podcasts/resonance/?view=listen&driveId=1iKfXzxsW00OqO7wdQLAzRjw9uuNGawSr&hub=forensic-medicine)
+- **Companion Audio:** [Ep 2615 Audio Stream — The Hook and the Changed Pupil (51:32)](https://drive.google.com/file/d/1iKfXzxsW00OqO7wdQLAzRjw9uuNGawSr/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2615 Audio](https://drive.google.com/file/d/1iKfXzxsW00OqO7wdQLAzRjw9uuNGawSr/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2615_PREV_999_The_Hook_and_the_Changed_Pupil.m4a)
+
+## File № 109 — When the Living-Room Television Became a Falling Skull-Fracture Machine
+*Why we obsess over refresh rates and bezel width while parking an unanchored deadweight above toddler head height—and what 71 emergency charts in one hospital year plus 264,200 U.S. tip-over estimates prove about gravity.*
+
+- **Part:** Part I · The Garage, Backyard & Hardware Store
+- **Companion Episode:** Ep 2618 (49:04, 8,600 spoken words)
+- **Looks Like:** A solid-looking television perched quietly on a bedroom dresser or living-room console
+- **Actually Is:** An unanchored top-heavy pendulum driving overlapping skull, chest, limb, and abdominal trauma
+- **Cause / Mechanism / Manner:** Blunt pediatric head, intracranial, and multi-region trauma caused by falling televisions | Unanchored top-heavy television/furniture system tipping forward onto small children, producing skull fractures, cerebral contusions, and epidural, subdural, or subarachnoid hemorrhage | Multi-Case Clinical Series (4 Fatalities, 67 Non-Fatal Presentations)
+- **Avoidability:** 100% | **False Reassurance:** “It's sat solidly on that dresser for three years without wobbling—and besides, we're right here in the room.”
+
+### Seventy-One Children Beneath an Ordinary Appliance
+
+People spend weeks comparing contrast ratios, smart remotes, and millimeter-thin bezels, then balance the finished purchase on an unanchored bedroom dresser and declare the living room complete. Physics does not care about 4K resolution; physics reads mass, height, and an unsecured center of gravity. In a 2010 International Journal of Emergency Medicine review (infamous among vigilant archivists because a typesetting blunder printed an unrelated femoral-pseudoaneurysm abstract on the original PDF, formally replaced by a 2011 erratum), Servan Gokhan and colleagues audited twelve months of emergency records (September 2008 to September 2009) at a single hospital in Turkey. Out of 3,856 childhood home-injury emergency visits, 71 children under fifteen—50 boys and 21 girls, mean age just over three years—had been struck by falling televisions. (Because the paper's age-table row totals conflict internally and its hospital charts lacked screen sizes, supporting furniture, and scene accounts, strict forensic honesty refuses to invent fine age buckets, climbing scenes, or adult blame.)
+
+Those 71 arrivals shatter the polite assumption that a toppled TV merely cuts a cheek or cracks a bezel. Fourteen children suffered traumatic brain injury: eight cerebral contusions, four subarachnoid hemorrhages, one epidural hematoma, and one subdural hematoma. Two children underwent emergency neurosurgery for those epidural and subdural blood collections. Four children—all four documented with subarachnoid bleeding—died, one on arrival and three in intensive care. Sixteen children required hospitalization and fourteen needed ICU follow-up. And notice a subtle proofread catch in the original publication: its discharge sentence sounded awkwardly universal despite those four fatalities, and 'no neurological deficits at discharge' tracks only discharged survivors at the hospital door—not lifelong cognition, behavior, or seizure risk.
+
+### Why 102 Injuries Fit Inside 71 Children—and Why Denominators Matter
+
+Read a trauma table carelessly and you will invent patients who never existed. Across the 71 children, clinicians recorded 49 head or facial injuries (including 18 skull fractures), 30 limb injuries (including 7 limb fractures treated clinically by casting or closed reduction), 13 chest injuries (including 2 rib fractures with chest CTs showing no underlying lung-tissue injury), and 10 abdominal injuries (including minor liver laceration and free abdominal fluid on ultrasound in two children). Add 49 + 30 + 13 + 10 and you get 102—not 31 secret extra patients, just children hit hard enough to injure multiple body regions at once. Visible trouble on a forearm never clears a hidden skull fracture or intra-abdominal bleed from the same fall.
+
+Keep the denominators equally crisp. Seventy-one out of 3,856 childhood home-injury visits works out to 1.84% (rounded to 1.8% in the paper)—the falling-TV slice of that one hospital's home-injury arrivals, NOT a household probability. Inside the 71 TV cases, 49/71 equals 69.0%—resist loose headlines calling it 'almost three-quarters.' Scale out to national surveillance and the numbers grow teeth: in a 2009 Clinical Pediatrics analysis (complete original abstract and Europe PMC metadata assessed, not raw survey files), Bethany Gottesman and colleagues examined U.S. NEISS emergency data across 18 inclusive calendar years (1990–2007), estimating 264,200 pediatric furniture tip-over injuries—264,200 ÷ 18 ≈ 14,677.8, or roughly 14,700 emergency visits per year—with televisions the single most common culprit and head-and-neck trauma dominating the youngest ages. Neither study randomized brackets to publish an exact percentage reduction, yet years of uneventful living with an unanchored dresser prove nothing except good luck so far.
+
+### Anchor the Whole System—Not Just One Screw in Drywall
+
+The U.S. Consumer Product Safety Commission's Anchor It campaign (reinforced in its 2026 gathering reminder) boils television safety down to a design reality many households miss: a television and whatever holds it up are one connected physical system. Tethering a screen to an unanchored bookcase leaves the whole stack free to dive forward; mounting a set on furniture never built to bear a TV invites slow instability. Follow manufacturer instructions for both the television and its stand or wall mount—bringing in qualified installation help whenever wall structure or hardware is uncertain rather than freelancing a nylon strap into hollow drywall. Remove climbing magnets like toys and remote controls from high shelves or dresser tops, recycle aging heavy cathode-ray sets, and re-anchor every time an older screen migrates into a spare bedroom, play area, holiday rental, or crowded family watch party.
+
+If a heavy appliance ever does topple onto a child, switch instantly from hardware mode to trauma mode. Secure the scene without creating a second casualty through reckless solo heavy lifting, call local emergency services immediately if the child is trapped, unresponsive, struggling to breathe, or seriously hurt, and follow current NHS head-injury guidance: inability to stay awake, seizures, new weakness, walking or speech trouble, changed behavior, or vomiting demand emergency assessment—not home coma-scoring or 'let's see how they nap.' Hand responders the raw facts (what fell, whether it was witnessed, what changed afterward) without guessing drop heights, and remember that minor-bump home-care handouts apply only after a clinician clears a heavy-object impact, never before.
+
+### RED FLAGS · GRAVITY BEATS REFLEXES EVERY TIME — Four Living-Room Habits That Turn Furniture Into Projectiles
+
+- Placing a television on an unanchored dresser, chest, or table not built for a TV—anchor BOTH the television and any top-heavy furniture (dressers, bookcases) per manufacturer specs as one connected system.
+- Storing remotes, snacks, or bright toys atop screens or high cabinets where normal childhood curiosity turns drawers into a staircase—and forgetting spare TVs moved to guest rooms or grandparents' houses.
+- Treating a visible cut or limb fracture after a tip-over as the whole injury, or applying minor-bump 'watch at home' advice before a clinician assesses a heavy-object head impact.
+- Waiting out vomiting, drowsiness, inability to stay awake, changed behavior, weakness, or seizures after a fall—call emergency services immediately and give exact, unguessed scene facts.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · FALLING TV OR FURNITURE TIP-OVER
+*After impact, assess the child fast; before impact, anchor the whole system.*
+
+1. **KEEP THE SCENE SAFE & CALL EMERGENCY SERVICES:** If a child is trapped, unresponsive, struggling to breathe, or struck on the head by a heavy object, call 911/local EMS immediately—never trigger a secondary collapse during frantic lifting.
+2. **NEVER 'WAIT OUT' HEAVY-OBJECT HEAD IMPACTS:** Drowsiness, inability to stay awake, vomiting, seizures, weakness, speech/walking trouble, or changed behavior demand immediate emergency care—do not self-score coma scales or use unassessed home-care rules.
+3. **GIVE RAW, UNGUESSED SCENE FACTS:** Tell responders what fell, where it struck if witnessed, and every symptom change—accurate uncertainty beats a guessed height or reconstructed sequence.
+4. **ANCHOR THE FULL TV + FURNITURE SYSTEM:** Follow CPSC Anchor It advice: mount TVs or anchor both TV and stand/dresser per manufacturer instructions (with qualified help if unsure), clear climbing lures like remotes, and check spare rooms and visited homes.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Clinical Series** | Gokhan et al. (2010), Int J Emerg Med 3:305–308 (DOI 10.1007/s12245-010-0226-4 · PMC3047844) + 2011 Erratum replacing mis-typeset femoral-pseudoaneurysm abstract (DOI 10.1186/1865-1380-4-11 · PMC3076231) |
+| **One-Year ER Totals** | Sept 2008–Sept 2009 (Turkey): 71 children <15 yrs injured by falling TVs out of 3,856 childhood home-injury visits (71/3,856 = 1.84%, rounded 1.8%); 50 boys, 21 girls; mean age just over 3 yrs; 16 hospitalized, 14 ICU follow-up |
+| **Overlapping Trauma Profile** | 49 head/face (49/71 = 69.0%; 18 skull fractures), 30 limb (7 fractures), 13 chest (2 rib fractures, no lung injury on CT), 10 abdomen (minor liver laceration / free fluid on US in 2) — sum 102 reflects multi-region overlap; 14 TBIs (8 contusions, 4 SAH, 1 epidural, 1 subdural); 2 neurosurgeries; 4 deaths (all with SAH: 1 DOA, 3 ICU) |
+| **U.S. Surveillance Benchmark** | Gottesman et al. (2009), Clin Pediatr (PMID 19414446; abstract scope): NEISS 1990–2007 (18 inclusive calendar yrs) estimated 264,200 pediatric furniture tip-over ED injuries (~14,677.8 ≈ 14,700/yr); TVs most common item; head/neck trauma prominent in young children |
+| **Audit Boundary** | Screen sizes, furniture types, climbing details, individual GCS, and long-term survivor testing unavailable; inconsistent age-table row totals excluded; neither study randomized anchoring; PDF p.307 states CC BY-NC (unversioned) vs. XML CC BY-NC 4.0 |
+
+### Primary Sources & Companion Links
+
+- **Primary Series:** [Gokhan et al. (2010) — Mortality and morbidity in children caused by falling televisions: retrospective analysis of 71 cases (Int J Emerg Med 3:305–308 · PMC3047844)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3047844/)
+- **Published Erratum:** [Gokhan et al. (2011) — Erratum correcting mis-typeset original PDF abstract (Int J Emerg Med 4:11 · PMC3076231)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3076231/)
+- **U.S. Surveillance:** [Gottesman et al. (2009) — Injuries from furniture tip-overs among children and adolescents in the United States, 1990–2007 (Clin Pediatr · PMID 19414446)](https://pubmed.ncbi.nlm.nih.gov/19414446/)
+- **Official Guidance:** [U.S. CPSC — Anchor It! Television & Furniture Tip-Over Prevention Campaign](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/AnchorItgov?language=en)
+- **Official Guidance:** [NHS — Head Injury and Concussion Emergency Guidance (reviewed 29 May 2025)](https://www.nhs.uk/conditions/head-injury-and-concussion/)
+- **Resonance Transcript:** [Ep 2618 Interactive Player & Verbatim Transcript (8,600 words)](https://yorekms.github.io/deep-dive-podcasts/resonance/?view=listen&driveId=1MU8SqvAuaGmRGEgQft6ZEBJV8Rj34nE3&hub=forensic-medicine)
+- **Companion Audio:** [Ep 2618 Audio Stream — When the Screen Became the Falling Object (49:04)](https://drive.google.com/file/d/1MU8SqvAuaGmRGEgQft6ZEBJV8Rj34nE3/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2618 Audio](https://drive.google.com/file/d/1MU8SqvAuaGmRGEgQft6ZEBJV8Rj34nE3/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2618_PREV_1002_When_the_Screen_Became_the_Falling_Object.m4a)
+
 # Part II: The Kitchen & Dining Table
 *Ordinary meals, sneaky chemistry, and cleaning bottles that hate each other.*
 
@@ -5885,6 +6014,135 @@ Population averages save hundreds of patients from unnecessary CT radiation, and
 - **Companion Audio (Google Drive):** [Stream Ep 2613 Audio](https://drive.google.com/file/d/1OUkUqRxMmleKwM1pz_gwAOL8PQX3ZaOP/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2613_PREV_997_The_Scan_Before_the_Flap.m4a)
 
+## File № 107 — The Negative Legionella Test That Only Hunted One Serogroup
+*Why setting a trap engineered exclusively for red pickup trucks proves nothing about the blue sedan parked in your lungs—and how 96% oxygen on a reservoir mask plus an afebrile 36.1°C reading disguised fulminant Legionella longbeachae.*
+
+- **Part:** Part V · “The First Test Looked Normal”
+- **Companion Episode:** Ep 2616 (65:24, 10,950 spoken words)
+- **Looks Like:** Afebrile pneumonia with 96% SpO₂ and a negative Legionella urinary antigen test
+- **Actually Is:** Severe Legionella longbeachae pneumonia outside a serogroup-1-only assay's target window
+- **Cause / Mechanism / Manner:** Severe Legionella longbeachae pneumonia (with later clinically suspected, non-biopsied secondary organizing pneumonia) | Non-pneumophila Legionella species causing bilateral alveolar consolidation outside the primary target window of a serogroup-1-directed urinary antigen assay | Survivor Case (34-Day Hospitalization)
+- **Avoidability:** 70% | **False Reassurance:** “Her temperature is 36.1°C, she's awake with 96% oxygen saturation, the Gram stain didn't show a bug, and the Legionella urine test came back negative.”
+
+### Ninety-Six Percent Saturation—With Nine Liters of Fine Print
+
+Vital signs love context the way lawyers love footnotes: strip away the qualifying phrase and a catastrophe reads like a wellness check. In a 2021 Respirology Case Reports paper, Maki Asami-Noyama and colleagues documented a 66-year-old woman with rheumatoid arthritis and systemic lupus erythematosus—taking prescribed prednisolone and hydroxychloroquine, and considered immunosuppressed—who arrived at the emergency department after two days of shortness of breath and chest pain. She frequently gardened with potting soil, though no environmental sample ever proved a specific bag was contaminated and no record tells us what gloves, mask, or handwashing routine she used. At admission she was conscious with an unremarkable temperature of 36.1°C, blood pressure 109/69 mmHg, heart rate 111 beats per minute, breathing rate 30 per minute, and coarse crackles across both lungs. Her pulse oximeter printed a deceptively polite 96%—strictly because she was already pulling oxygen through a reservoir mask at 9 liters per minute. Separately, a room-air arterial blood gas exposed the real gas-exchange crisis: an oxygen partial pressure (pO₂) of just 46.5 torr (alongside pH 7.397, pCO₂ 34.4 torr, and bicarbonate 21.8 mEq/L, without exact timestamps linking the two readings and with zero excuse to fabricate an inspired oxygen fraction from flow rate alone).
+
+Inside her chest, radiography and CT mapped bilateral consolidation spanning the entire right lung and left upper lobe plus collapse of the left lower lobe. Her bloodstream shouted acute systemic assault: white blood cells surged to 30,510/µL with 99.5% neutrophils, C-reactive protein hit 41.06 mg/dL (preserve those deciliters!), hemoglobin sat at 10.1 g/dL, platelets dropped to 5.0 × 10⁴/µL (50,000/µL), blood urea nitrogen measured 30 mg/dL, creatinine 1.21 mg/dL, and LDH 341 U/L. One striking bedside detail caught the clinicians' eye: her sputum was vivid orange. Useful as a clinical nudge, orange sputum carries zero validated sensitivity or specificity—medicine does not hand out a Pantone swatch book for diagnosing pneumonia.
+
+### A Negative Trap Built for the Wrong Species
+
+Then came the diagnostic fakeout that gives this chapter its name. Clinicians ran a standard BinaxNOW urinary antigen test for Legionella, and it printed negative. Nothing in the report suggests the assay kit was defective or the lab bungled quality control; the assay simply answered the narrower question it was engineered to ask. BinaxNOW primarily targets Legionella pneumophila serogroup 1—one specific serogroup inside one species of a multi-species bacterial genus. Imagine setting a highway camera programmed solely to photograph red pickup trucks, checking an empty roll of film, and announcing the road is closed to traffic. Both sputum and subsequent lung Gram stains likewise stayed uninformative, while blood cultures and molecular tests for Pneumocystis, cytomegalovirus, and SARS-CoV-2 all turned up negative.
+
+Refusing to let a narrow negative close the folder, the team started empirical severe-pneumonia therapy, intubated her for bronchoscopy and bronchoalveolar lavage—recovering more orange fluid packed with 90% neutrophils and macrophages free of hemosiderin—and sent respiratory specimens for deeper microbiological hunting. On hospital Day 5, mass spectrometry identified colonies grown from that lavage as Legionella longbeachae, an entirely different species sitting cleanly outside the urinary test's main bullseye. The plot added one more twist on Day 6 when her breathing worsened and contrast CT showed expanding ground-glass opacity with no pulmonary embolism; suspecting secondary organizing pneumonia (a clinical judgment, never biopsy-confirmed), doctors layered anti-inflammatory therapy onto ongoing antimicrobials. Extubated on Day 12 with clearing CT shadows on Day 23, she walked home off supplemental oxygen on Day 34—a clinical marathon that documents one real recovery without promising any universal healing timetable.
+
+### Potting Mix Odds Ratios—and Why Unproven Masks Still Matter
+
+Why did her gardening history matter so much once the urine test blinked blank? In a full-text-audited 2017 Emerging Infectious Diseases case-control study across two summer seasons in Canterbury, New Zealand, Emma Kenagy and colleagues compared 31 hospitalized Legionella longbeachae patients against 172 electoral-roll controls. In Table 3 (grouping purchased compost and potting mix), 26 of 31 cases reported exposure versus 5 unexposed (exposure odds 26 ÷ 5 = 5.2), compared with 84 exposed and 88 unexposed controls (odds 84 ÷ 88 ≈ 0.955). Divide those odds—or cross-multiply (26 × 88) ÷ (5 × 84) = 2,288 ÷ 420—and you get a crude odds ratio of 5.45; adjusting for age and study period yielded the authors' reported adjusted odds ratio of 6.2 (95% CI 2.2–17.3). Respect the statistical guardrails: 6.2 is NOT a 6.2% infection risk per bag opened, nor a population incidence rate, and small-sample observational interviews carry wide intervals plus selection and recall bias.
+
+Equally instructive is what Kenagy's small study failed to prove: it did not demonstrate a statistically clear protective effect for reported mask or glove use—yet the authors themselves explicitly declined to tell gardeners to ditch precautions on thin observational data. Current public health guidance translates the broader biology into common-sense layers. The CDC recommends pairing Legionella urinary antigen assays with lower-respiratory culture or molecular testing so clinicians don't miss non-serogroup-1 species. NSW Health advises people diagnosed with pneumonia to mention any recent potting-mix handling to their doctor, follow bag warnings, minimize dust, wear gloves and a well-fitted mask (preferably P2 or N95), and wash hands before eating, drinking, or smoking. And for anyone on immunosuppressive drugs: talk precautions over with your clinician—never stop prescribed autoimmune medication because of a potting-soil story.
+
+### RED FLAGS · WHEN A NEGATIVE TEST DOESN'T END THE STORY — Four Traps That Hide Non-Pneumophila Pneumonia
+
+- Severe breathing difficulty, inability to finish sentences, sudden confusion, or pale, blue, or grey skin require immediate emergency help (NHS guidance)—never drive yourself and never dismiss crisis breathing because temperature reads 36.1°C.
+- Never read a pulse-oximeter number like 96% without asking how much supplemental oxygen is propping it up, and never treat a home oxygen gadget or a missing sputum color as permission to wait out worsening dyspnea.
+- A negative standard Legionella urinary antigen test does NOT clear non-serogroup-1 or non-pneumophila species like L. longbeachae—clinicians follow CDC paired-testing guidance when severe pneumonia needs a wider net.
+- Always include ordinary exposures like recent potting-mix or compost handling alongside autoimmune conditions and medications during medical handover—and never alter prescribed immunosuppressants without your physician.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · SEVERE BREATHLESSNESS AFTER GARDENING
+*No fever and a negative rapid urine test never rule out severe pneumonia.*
+
+1. **CALL EMERGENCY SERVICES—DO NOT DRIVE:** Severe shortness of breath, inability to speak in full sentences, sudden confusion, or pale/blue/grey skin demands immediate emergency care—do not wait for a fever or home oximeter check.
+2. **VOLUNTEER YOUR GARDEN & MEDS HISTORY:** Tell triage about recent potting-mix or compost handling, autoimmune conditions, and prescribed immunosuppressants (never stop prescribed meds on your own).
+3. **ASK WHAT A NEGATIVE TEST ACTUALLY COVERS:** If severe pneumonia persists after a negative standard Legionella urine test, ask your team whether broader respiratory testing is appropriate per CDC paired-testing guidance.
+4. **DUST-PROOF YOUR POTTING ROUTINE:** Follow potting-mix label warnings (NSW Health): dampen or minimize dust, wear gloves and a P2/N95 mask, and wash hands before eating, drinking, or smoking—especially if immunocompromised.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case Report** | Asami-Noyama et al. (2021), Respirol Case Rep 9:e0814 (DOI 10.1002/rcr2.814 · PMC8319662) · 66-yr woman with RA & SLE (prednisolone, hydroxychloroquine; immunosuppressed), frequent potting-soil gardener; 2 days dyspnea & chest pain; orange sputum |
+| **Admission Vitals & Labs** | T 36.1°C, BP 109/69 mmHg, HR 111/min, RR 30/min, SpO₂ 96% ON 9 L/min reservoir mask; separate room-air ABG: pO₂ 46.5 torr, pH 7.397, pCO₂ 34.4 torr, HCO₃⁻ 21.8 mEq/L; WBC 30,510/µL (99.5% neutrophils), CRP 41.06 mg/dL, Hb 10.1 g/dL, Plt 5.0×10⁴/µL (50,000), BUN 30 mg/dL, Cr 1.21 mg/dL, LDH 341 U/L |
+| **Microbiology & Course** | BinaxNOW Legionella UAT (targets L. pneumophila serogroup 1) NEGATIVE; Gram stains uninformative; blood cultures, Pneumocystis, CMV & SARS-CoV-2 negative → bronchoscopy/BAL (orange fluid, 90% neutrophils) → Day 5 mass spec confirmed Legionella longbeachae → Day 6 worsening CT (no PE; clinically suspected organizing pneumonia, unbiopsied) → extubated Day 12, CT improved Day 23, discharged off O₂ Day 34 |
+| **Case-Control Benchmark** | Kenagy et al. (2017), Emerg Infect Dis 23:1148–1154 (DOI 10.3201/eid2307.161429 · PMC5512494; full text read): 31 hospitalized L. longbeachae cases vs. 172 Canterbury controls; Table 3 purchased compost/potting mix: 26/31 cases vs. 84/172 controls → crude OR (26×88)/(5×84) = 2,288/420 ≈ 5.45; reported adjusted OR 6.2 (95% CI 2.2–17.3); small study did not demonstrate mask/glove benefit |
+| **Audit Boundary** | Exact timing between 9 L/min SpO₂ and room-air ABG unreported (no FiO₂ inferred); no environmental potting-mix isolate proved source bag; patient precautions unknown (zero blame); primary PDF & XML agree on CC BY-NC 4.0 (noncommercial scope noted) |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Asami-Noyama et al. (2021) — Non-pneumophila Legionella species pneumonia with orange-coloured sputum (Respirol Case Rep 9:e0814 · PMC8319662)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8319662/)
+- **Case-Control Study:** [Kenagy et al. (2017) — Risk Factors for Legionella longbeachae Legionnaires' Disease, New Zealand (Emerg Infect Dis 23:1148–1154 · PMC5512494)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5512494/)
+- **Official Guidance:** [CDC — Laboratory Testing for Legionella (Paired UAT + Respiratory Testing, updated 13 May 2026)](https://www.cdc.gov/legionella/php/laboratories/index.html)
+- **Official Guidance:** [NSW Health — Legionnaires' Disease & Potting-Mix Precautions Factsheet](https://www.health.nsw.gov.au/Infectious/factsheets/Pages/legionnaires_disease.aspx)
+- **Official Guidance:** [NHS — Shortness of Breath Emergency Warning Signs](https://www.nhs.uk/symptoms/shortness-of-breath/)
+- **Resonance Transcript:** [Ep 2616 Interactive Player & Verbatim Transcript (10,950 words)](https://yorekms.github.io/deep-dive-podcasts/resonance/?view=listen&driveId=1ZEKIf66WZG2vlTTkqjQc1o1346rhR2-E&hub=forensic-medicine)
+- **Companion Audio:** [Ep 2616 Audio Stream — The Test With a Smaller Target (65:24)](https://drive.google.com/file/d/1ZEKIf66WZG2vlTTkqjQc1o1346rhR2-E/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2616 Audio](https://drive.google.com/file/d/1ZEKIf66WZG2vlTTkqjQc1o1346rhR2-E/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2616_PREV_1000_The_Test_With_a_Smaller_Target.m4a)
+
+## File № 110 — The Recovering Platelet Count That Hid an Unfinished Immune Attack
+*How immune TTP clogs tiny blood vessels while bruising the skin at the exact same moment—and why a bouncing platelet count plus feeling completely well disguised a Day-51 relapse waiting four days behind a paused prescription.*
+
+- **Part:** Part V · “The First Test Looked Normal”
+- **Companion Episode:** Ep 2619 (46:06, 7,621 spoken words)
+- **Looks Like:** Fever and confusion with a clear head CT—and later an asymptomatic patient whose blood count recovered
+- **Actually Is:** Immune TTP simultaneously clotting and bleeding while persistent ADAMTS13 inhibitors waited underneath
+- **Cause / Mechanism / Manner:** Immune thrombotic thrombocytopenic purpura (iTTP) with refractory ADAMTS13 inhibition and asymptomatic Day-51 relapse | Autoantibodies inhibiting ADAMTS13 prevent cleavage of oversized von Willebrand factor multimers, consuming circulating platelets into microvascular clots while shearing red blood cells | Survivor Case (100-Day Admission; 7-Month Remission Follow-Up)
+- **Avoidability:** 75% | **False Reassurance:** “The head CT is clean, creatinine and aPTT are in range—and weeks later, I feel completely fine and my platelet count already recovered.”
+
+### Clotting and Bleeding Inside the Same Bloodstream
+
+Human intuition likes tidy opposites: either blood clots too much or it bleeds too easily. Immune thrombotic thrombocytopenic purpura (iTTP) laughs at that binary and runs both disasters simultaneously. In a 2025 Cureus case report, Yusuke Fujiwara and Muneo Okamoto documented an 81-year-old man—with prior treated ocular myasthenia gravis and a documented SARS-CoV-2 infection several weeks earlier (admission SARS-CoV-2 antigen negative; sequence is history, not proved viral causation)—who arrived with impaired consciousness (Glasgow Coma Scale 10: E3, V2, M5), a blazing 40.2°C fever, jaundice, and bleeding beneath his skin. A head CT showed no structural explanation for his clouded mind. The culprit was microscopic: autoantibodies attacking ADAMTS13, the enzymatic scissors that normally trim sticky von Willebrand factor ribbons down to size. Without working scissors, giant protein ribbons snag circulating platelets into tiny vessel-plugging clots—starving organs while draining the bloodstream of platelets and slicing passing red blood cells to shreds.
+
+Table 1 laid out the wreckage alongside two sneaky normal-ish decoys. Hemoglobin plunged to 7.5 g/dL, platelets crashed to 1.4 × 10⁴/µL—14,000/µL against a printed lower limit of 15.8 × 10⁴/µL (158,000/µL)—and the blood smear showed 0.8% fragmented red cells (schistocytes), joined by LDH 1,016 U/L, depleted haptoglobin of 1.0 mg/dL, indirect bilirubin 5.5 mg/dL, and a negative direct Coombs test. Meanwhile, creatinine sat politely inside range at 1.05 mg/dL even while BUN climbed to 42.9 mg/dL, and aPTT stayed normal at 31.7 seconds (ref 26–38 s) even while PT nudged high at 13.9 seconds (upper limit 12 s). Recognizing a hematologic emergency (aided by clinical PLASMIC scoring—never a home quiz), clinicians launched plasma exchange, caplacizumab, and corticosteroids immediately rather than sitting on their hands for seven days until the ELISA confirmed admission ADAMTS13 activity of 8% (printed table ref >10%) and an inhibitor of 1.9 Bethesda units/mL (ref <0.5).
+
+### When Feeling Fine Outruns Your Immune System
+
+Here is the chapter's sharper diagnostic trap—not just missing a disease on Day 1, but declaring victory too early on Day 47. Plasma exchange replenishes working enzyme while clearing antibodies, caplacizumab blocks platelets from sticking to oversized von Willebrand chains, and immunosuppressants quiet the antibody factory. Sure enough, his fever broke, his alertness returned, and his platelet count rose enough to wrap up initial plasma exchange. Yet his specialist blood panel told an unfinished story: ADAMTS13 activity stayed sluggish and the inhibitor stubbornly hung on, prompting clinicians to classify the disease as refractory and add rituximab on Day 31.
+
+Then real life walked into the chart. On Day 47, caplacizumab was temporarily discontinued at the patient's request amid concern over continuing a costly drug while feeling completely asymptomatic—a deeply understandable human worry that deserves empathetic financial and clinical navigation, never moralizing lectures. Just four days later, on Day 51, routine monitoring caught an ambush with ZERO outward symptoms: platelets had plunged back to 12,000/µL, ADAMTS13 activity sat at 18%, and the inhibitor had climbed to 3.5 BU/mL. Notice the subtle lab-cutoff trap: 18% sits numerically ABOVE the admission table's printed '>10%' threshold, yet amid ongoing immune inhibition and renewed thrombocytopenia it signaled active relapse, not recovery. Resumed multi-agent therapy drove inhibitor disappearance and remission on Day 57 (note a clean audit discrepancy: the Discussion prints '34 days after rituximab' even though Day 31 to Day 57 is 26 days—preserved transparently without inventing a fix), discharge on Day 100, and seven relapse-free months into remission.
+
+### What a 1991 Trial Measured—and What Your Follow-Up Plan Needs Today
+
+To appreciate why separating 'platelet recovery' from 'immune recovery' matters, glance back at the landmark 1991 New England Journal of Medicine randomized trial by G. A. Rock and the Canadian Apheresis Study Group (complete original abstract and metadata assessed, not full paper or raw charts). Randomizing 102 TTP patients—51 to plasma exchange, 51 to plasma infusion—they tracked first-cycle Day-9 platelet-count response: 24/51 (47.1%) responded with exchange versus 13/51 (25.5%) with infusion. That equals an absolute advantage of 11/51 (21.6 percentage points) and a relative response ratio of 24 ÷ 13 ≈ 1.85 times—never misquoted as an '85-percentage-point gain.' That historical endpoint proved plasma exchange transformed early platelet rescue, yet it belonged to an era before modern enzyme-and-inhibitor trajectories and targeted add-on drugs existed.
+
+Today, surviving TTP runs on two distinct tracks: recognizing acute emergencies fast, and making long-term follow-up actually workable. The NHLBI emphasizes that TTP is life-threatening—unexplained bruising, profound fatigue, jaundice, fever, slurred speech, confusion, or stroke-like signs trigger immediate emergency care without waiting for a full textbook pentad or a clinic callback. Once diagnosed, borrow the practical architecture of specialist TTP patient plans (such as the University Hospital Southampton TTP Centre model, adapted to your own clinic): know your exact urgent and out-of-hours contact, ask which labs track circulating cells versus enzyme inhibition, never pause a prescribed therapy on a good day without your hematology team, and bring medication cost, pharmacy, or transport obstacles straight to the table before they force an interruption.
+
+### RED FLAGS · COUNT RECOVERY ≠ IMMUNE CURE — Four Myths That Turn TTP Remission Into Relapse
+
+- Unexplained bruising or skin bleeding, yellowing skin/eyes, high fever, extreme fatigue, confusion, altered speech, or seizures demand immediate emergency evaluation—never wait for a routine blood draw or assume a clear head CT rules out a systemic blood crisis.
+- Never read one in-range number (like normal creatinine, normal aPTT, or an 18% ADAMTS13 reading above a '>10%' admission cutoff) as whole-system clearance when inhibitors persist or platelets fall.
+- Feeling completely asymptomatic does not prove underlying immune inhibition has vanished—this patient's Day-51 platelet crash to 12,000/µL arrived with zero outward symptoms and was caught strictly by scheduled monitoring.
+- Never pause or alter prescribed hematology medications on your own—raise drug cost, side effects, and appointment barriers directly with your care team and pharmacist so safe support plans can be built.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · SUSPECTED TTP OR PLATELET-DISORDER RELAPSE
+*Emergency symptoms go straight to 911; symptom-free days still obey scheduled labs.*
+
+1. **CALL 911 FOR ACUTE BLEEDING, CONFUSION, OR STROKE SIGNS:** Sudden confusion, slurred speech, severe bleeding, chest pain, jaundice, high fever, or widespread unexplained bruising require immediate emergency services—never wait for a clinic return call.
+2. **NEVER SELF-STOP PRESCRIBED TTP THERAPY:** Feeling well and seeing normal platelets do not guarantee ADAMTS13 immune recovery—discuss medication costs, side effects, or pharmacy hurdles early with your hematology team.
+3. **KNOW BOTH NUMBERS ON YOUR LAB SHEET:** Ask your specialist which tests track circulating platelets, which track ADAMTS13 activity and inhibitors, how urgent results reach you, and what triggers immediate re-evaluation.
+4. **CARRY AN EXPLICIT URGENT-CONTACT PLAN:** Keep your diagnosis, active medication list, and hematology urgent/out-of-hours contact details handy for family and carers so any new change bypasses routine queues.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case Report** | Fujiwara & Okamoto (2025), Cureus 17:e78884 (DOI 10.7759/cureus.78884 · PMC11909616) · 81-yr man (prior treated ocular myasthenia gravis; SARS-CoV-2 wks earlier, admission antigen negative); GCS 10 (E3V2M5), T 40.2°C, jaundice, subcutaneous hemorrhage, normal head CT |
+| **Admission Labs (Table 1)** | Hb 7.5 g/dL, Plt 1.4×10⁴/µL (14,000; ref ≥15.8×10⁴), schistocytes 0.8%, LDH 1,016 U/L, haptoglobin 1.0 mg/dL, indirect bilirubin 5.5 mg/dL, direct Coombs neg; Cr 1.05 mg/dL (in range) vs. BUN 42.9 mg/dL (high); aPTT 31.7 s (26–38) vs. PT 13.9 s (>12); Day-7 ELISA on admission blood: ADAMTS13 activity 8% (printed ref >10%), inhibitor 1.9 BU/mL (ref <0.5) |
+| **Refractory Course & Silent Relapse** | Initial plasma exchange + caplacizumab + corticosteroids improved symptoms/platelets while ADAMTS13 stayed suppressed → Day 31 rituximab added → Day 47 caplacizumab paused at patient request (cost concern while asymptomatic) → Day 51 SILENT relapse: Plt 12,000/µL, ADAMTS13 18%, inhibitor 3.5 BU/mL, zero clinical symptoms → Day 57 remission, Day 100 discharge, 7 mo relapse-free |
+| **Historical RCT Benchmark** | Rock et al. (1991), NEJM 325:393–397 (PMID 2062330; abstract scope): 102 randomized TTP patients (51 exchange vs. 51 infusion); Day-9 first-cycle platelet response 24/51 (47.1%) vs. 13/51 (25.5%) — diff 11/51 (21.6 pct pts), relative ratio 24/13 ≈ 1.85× |
+| **Audit Boundary** | Discussion prints '34 days after rituximab' vs. Day 31→57 = 26 days (discrepancy preserved without reconciliation); doses/volumes/tapering excluded; multi-drug course isolates no single causal agent; PDF & XML agree on CC BY 4.0 |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Fujiwara & Okamoto (2025) — Delayed Recovery of ADAMTS13 Activity in Immune TTP Treated With Caplacizumab and Rituximab (Cureus 17:e78884 · PMC11909616)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11909616/)
+- **Landmark RCT:** [Rock et al. (1991), Canadian Apheresis Study Group — Plasma Exchange vs. Plasma Infusion in TTP (NEJM 325:393–397 · PMID 2062330)](https://pubmed.ncbi.nlm.nih.gov/2062330/)
+- **Official Guidance:** [NHLBI — Thrombotic Thrombocytopenic Purpura (TTP) Overview & Warning Signs (updated 18 Feb 2025)](https://www.nhlbi.nih.gov/health/thrombotic-thrombocytopenic-purpura)
+- **Official Guidance:** [NHLBI — Living With Platelet Disorders & Emergency Planning (updated 24 Mar 2022)](https://www.nhlbi.nih.gov/health/platelet-disorders/living-with)
+- **Resonance Transcript:** [Ep 2619 Interactive Player & Verbatim Transcript (7,621 words)](https://yorekms.github.io/deep-dive-podcasts/resonance/?view=listen&driveId=1ECPAn6-7i2Ub35Wdh7Q5Y-62XnEVAScS&hub=forensic-medicine)
+- **Companion Audio:** [Ep 2619 Audio Stream — The Count and the Unfinished Recovery (46:06)](https://drive.google.com/file/d/1ECPAn6-7i2Ub35Wdh7Q5Y-62XnEVAScS/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2619 Audio](https://drive.google.com/file/d/1ECPAn6-7i2Ub35Wdh7Q5Y-62XnEVAScS/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2619_PREV_1003_The_Count_and_the_Unfinished_Recovery.m4a)
+
 # Part VI: Bonus: How Not to Accidentally Off Your Dog or Cat
 *One Medicine survival rules for the innocent four-legged roommates sharing your floor.*
 
@@ -6791,3 +7049,133 @@ Nor should dog-and-cat statistics lull bird owners into false safety. Khan, McLe
 - **Companion Audio:** [Ep 2614 Audio Stream — The Oil on the Wing (41:55)](https://drive.google.com/file/d/14qCg5y_p4Ehupd6WKMeQNq863K4YwwM3/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2614 Audio](https://drive.google.com/file/d/14qCg5y_p4Ehupd6WKMeQNq863K4YwwM3/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2614_PREV_998_The_Oil_on_the_Wing.m4a)
+
+## File № 108 — The Sago Palm, the Mild Liver Enzyme, and the Herniating Brain
+*Why an unremarkable belly X-ray and barely elevated liver enzymes can sit right below a swelling cerebellum—and how a Jack Russell terrier survived MRI brain herniation, a 230 mmHg blood-pressure spike, and a platelet cliff after eating garden cycad seeds.*
+
+- **Part:** Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat
+- **Companion Episode:** Ep 2617 (62:30, 10,785 spoken words)
+- **Looks Like:** Garden upset stomach with clean abdominal X-rays, normal ammonia, and mildly elevated ALT
+- **Actually Is:** Presumptive cycad neurotoxicity driving MRI cerebellar herniation, 230 mmHg pressure, and 30×10⁹/L platelets
+- **Cause / Mechanism / Manner:** Presumptive cycad (sago palm) toxicosis causing acute multifocal encephalopathy, hypertension, and severe thrombocytopenia | Systemic neuro-vascular toxicity following reported cycad-seed ingestion, manifesting as bilateral white-matter brain edema/cerebellar displacement on MRI alongside delayed coagulopathy and ocular hemorrhage | Survivor Case (One Medicine / Canine)
+- **Avoidability:** 100% | **False Reassurance:** “The belly X-ray is clean, her bile acids and ammonia are normal, her liver enzyme ALT is barely over the line—and hey, by Day 3 her neurological signs are finally improving.”
+
+### Landscaping Armor Disguised as Patio Decor
+
+Homeowners baby-proof cabinets, hide antifreeze, and double-check chocolate wrappers—and then pay a garden center to install prehistoric cycads right beside the patio chairs. Sold under breezy labels like sago palm, coontie, or cardboard palm, the whole plant is flagged toxic by the ASPCA, Pet Poison Helpline, and the Merck Veterinary Manual. In a 2020 Frontiers in Veterinary Science case report, Christian Maeso and colleagues followed a previously healthy five-year-old female Jack Russell terrier referred to a Barcelona neurology service with vomiting, progressive generalized tremors, and altered awareness after her owners witnessed her eating seeds from a garden cycad. Keep the word 'presumptive' bolted to the title: seeds later turned up in her Day-4 diarrhea, supporting exposure history, yet nobody ran chemical toxin assays on those seeds and—thankfully, because she survived—nobody examined brain tissue under a microscope.
+
+Before referral, a standard abdominal X-ray looked unremarkable; subsequent chest radiographs and abdominal ultrasound likewise failed to uncover a neat belly culprit while she worsened into weakness, salivation, incoordination, and relentless tremors. Even her blood work tried to play down the emergency. Most pet owners hear 'sago palm' and picture instant liver collapse with neon-yellow jaundice, yet her alanine aminotransferase (ALT) barely nudged above the 10–125 U/L ceiling at 131 U/L and later 153 U/L. Bile acids and serum ammonia sat neatly inside normal limits, while activated partial thromboplastin time (aPTT) ticked mildly long at 123 seconds (ref 72–102 s) and referral systolic blood pressure measured 145 mmHg—already edging past the authors' stated <140 mmHg threshold, so no honest retelling calls her early pressure strictly normal.
+
+### When the MRI Cancels the Spinal Tap—and Day 3 Opens a Second Front
+
+Her neurological exam left zero room for soothing labs: disoriented, splayed in a wide-based stance, stumbling with stiff limbs, reduced postural responses, intention tremors, and intermittently blunted bilateral menace responses—classic multifocal forebrain and cerebellar localization. Brain MRI delivered the shock: widespread, poorly defined, largely symmetrical T2- and FLAIR-bright, non-enhancing lesions across cerebral and cerebellar white matter, thalamus, and hippocampus, with swollen brain volume, flattened surface grooves, and cerebellar herniation pushing toward and partly through the opening at the skull's base. No direct intracranial pressure probe was inserted, and no DWI/ADC sequences were acquired to settle edema subtype—nor did clinicians draw planned cerebrospinal fluid, wisely canceling the tap because herniation makes pulling fluid unsafe. A withheld test stays missing evidence: you cannot invent a 'normal spinal fluid' or declare infection ruled out when the needle rightly stayed in its wrapper. (The authors also drew an intriguing analogy to human posterior reversible encephalopathy syndrome, PRES—an analogy, never a confirmed canine diagnosis.)
+
+Just when her nervous system began rallying on hospital Day 3, the case pivoted to a second organ crisis. Systolic blood pressure surged into a 170–230 mmHg storm, urine turned visibly bloody, small skin hemorrhages dotted her body, and an eye exam uncovered subconjunctival bleeding, iris hemorrhage, abnormal retinal vessels, and a local retinal detachment. Platelets had cratered to 30 × 10⁹/L (ref 148–484 × 10⁹/L) and aPTT stretched to 135 seconds—1.32 times the 102-second upper limit (a ratio to a ceiling, never a percentage of clotting power lost; disseminated intravascular coagulation was considered, not confirmed). With intensive multi-component hospital care (whose individual drug doses and fluid recipes belong strictly to clinicians, never home readers), she walked out on Day 7 neurologically normal with platelets rebounding 4.67-fold (+110 × 10⁹/L) to 140 × 10⁹/L—dramatically better, yet still shy of the 148 lower boundary. An eight-week repeat MRI showed complete structural resolution and a restored cerebellar position, though the authors explicitly noted no comprehensive follow-up liver-function testing was performed (and printed 8 months in the case text vs. 9 months in Discussion for a late phone check, an inconsistency left transparently unresolved).
+
+### The Fifty-Percent Cohort—and the Garden Audit That Beats Any MRI
+
+Never let a miracle follow-up MRI trick your brain into treating cycad poisoning as a recoverable weekend scare. In a 2011 Journal of Veterinary Internal Medicine retrospective cohort (complete original abstract and bibliographic metadata assessed, not full text or individual charts), Ferguson and colleagues examined 34 client-owned Louisiana dogs treated for cycad intoxication between 2003 and 2010: 17 of 34—exactly 50%—died or were euthanized as a direct consequence of poisoning. That 17/34 figure merges spontaneous deaths and euthanasia within a selected hospital group rather than measuring community-wide risk or guaranteeing any individual dog's odds, yet it obliterates any myth that survival is routine.
+
+Because neither report defines a safe nibble, a harmless seed count, or a forgiving waiting window, prevention belongs in your landscaping plan before paws ever meet soil. Audit every plant in pet-accessible yards, balconies, and visiting relatives' patios with qualified identification rather than guessing from ornamental foliage; remember that the entire cycad plant can be hazardous, including trimmed fronds and dropped seeds during garden maintenance; share plant hazards clearly with every household member and sitter; and if a dog even might have chewed a cycad, pick up the phone immediately instead of scouring the flowerbed for missing seeds or attempting home vomiting or charcoal.
+
+### RED FLAGS · ONE NORMAL BELLY X-RAY MEANS NOTHING — Four Traps That Delay Cycad Rescue
+
+- Known or suspected contact with sago palm, cycad, coontie, or cardboard palm warrants an immediate call to a veterinarian or veterinary poison line—do NOT wait for jaundice, vomiting, tremors, stumbling, altered awareness, or collapse.
+- Clean abdominal X-rays, normal bile acids or ammonia, and mildly elevated ALT never exclude severe neurotoxicity or delayed bleeding—report every new symptom even after an earlier clinic visit or initial neurological improvement.
+- Never induce vomiting, force fluids or oral substances, or give activated charcoal or household remedies without direct veterinary instructions—especially in an unsteady or mentally altered dog.
+- Remember that every part of the cycad plant poses risk, including fallen seeds and trimmings—remove pet access entirely rather than relying on fragile memory or partial barriers.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · SUSPECTED SAGO PALM / CYCAD EXPOSURE
+*Do not wait for jaundice, tremors, or a clean belly X-ray—call before toxins peak.*
+
+1. **CALL A VET OR PET POISON LINE NOW:** Contact veterinary emergency care or a poison helpline the moment cycad/sago palm contact is suspected—or immediately for vomiting, tremors, weakness, stumbling, bleeding, or altered awareness.
+2. **ZERO HOME VOMITING OR CHARCOAL:** Never induce vomiting, force-feed liquids, or administer charcoal or home remedies without direct veterinary instructions, especially if the dog is wobbly or mentally altered.
+3. **SHARE CLEAN FACTS, SKIP LONG GARDEN SEARCHES:** Report the plant identity (or a quick safe photo/label if immediately handy), observed contact, symptoms, and anything already given—do not delay leaving to count missing seeds.
+4. **REMOVE CYCADS FROM PET SPACES & PLAN FOLLOW-UP:** Identify and eliminate pet access to sago palms/cycads/coontie/cardboard palms (including trimmings and visited yards), and follow your vet's full post-discharge recheck plan.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case Report** | Maeso et al. (2020), Front Vet Sci 7:468 (DOI 10.3389/fvets.2020.00468 · PMC7456943) · 5-yr female Jack Russell terrier (Barcelona), owner-witnessed garden cycad-seed ingestion (seeds later in Day-4 diarrhea); vomiting, progressive generalized tremors, altered awareness |
+| **Deceptive Early Workup** | Abdominal X-ray, chest X-rays & abdominal ultrasound unrevealing; ALT 131 → 153 U/L (ref 10–125); early aPTT 123 s (ref 72–102); bile acids & serum ammonia NORMAL; initial systolic BP 145 mmHg (above authors' stated normal <140) |
+| **MRI, Day-3 Pivot & Recovery** | Brain MRI: bilateral symmetrical T2/FLAIR white-matter, thalamic & hippocampal hyperintensity (non-enhancing), brain swelling & cerebellar herniation (CSF tap safely withheld; no DWI/ADC, no direct ICP) → Day 3: BP 170–230 mmHg, hematuria, skin/iris/subconjunctival hemorrhage, local retinal detachment, Plt 30×10⁹/L (ref 148–484), aPTT 135 s (1.32× ULN; DIC unconfirmed) → Day 7: neuro normal, Plt 140×10⁹/L (+110, 4.67× rise, still <148) → 8-wk MRI fully resolved |
+| **Historical Cohort** | Ferguson et al. (2011), J Vet Intern Med 25:831–837 (PMID 21777288; abstract scope): 34 client-owned Louisiana dogs (2003–2010) with cycad toxicosis; 17/34 (50%) died or were euthanized as a direct consequence (combined selected-cohort endpoint, not population risk) |
+| **Audit Boundary** | Presumptive diagnosis (no seed toxin assay or brain histology); no comprehensive follow-up liver-function panel performed; late phone follow-up prints 8 mo (case) vs. 9 mo (Discussion) — unreconciled; human PRES analogy unconfirmed; PDF & XML agree on CC BY 4.0 |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Maeso et al. (2020) — Presumptive Cycad Toxicosis in a Dog: Clinical and MRI Findings (Front Vet Sci 7:468 · PMC7456943)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/)
+- **Historical Cohort:** [Ferguson et al. (2011) — Survival and prognostic indicators for cycad intoxication in dogs: 34 cases (J Vet Intern Med 25:831–837 · PMID 21777288)](https://pubmed.ncbi.nlm.nih.gov/21777288/)
+- **Official Guidance:** [ASPCA Animal Poison Control — Sago Palm Toxicity Profile](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/sago-palm)
+- **Official Guidance:** [Pet Poison Helpline — Sago Palm Emergency Guidance](https://www.petpoisonhelpline.com/poison/sago-palm/)
+- **Veterinary Reference:** [Merck Veterinary Manual — Houseplants and Ornamentals Toxic to Animals (Cycad Section, updated Sept 2024)](https://www.merckvetmanual.com/toxicology/poisonous-plants/houseplants-and-ornamentals-toxic-to-animals)
+- **Resonance Transcript:** [Ep 2617 Interactive Player & Verbatim Transcript (10,785 words)](https://yorekms.github.io/deep-dive-podcasts/resonance/?view=listen&driveId=174eMSfMnJWdZT40cVAhT1kevCk2Z50Fr&hub=forensic-medicine)
+- **Companion Audio:** [Ep 2617 Audio Stream — The Plant and the Swollen Brain (62:30)](https://drive.google.com/file/d/174eMSfMnJWdZT40cVAhT1kevCk2Z50Fr/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2617 Audio](https://drive.google.com/file/d/174eMSfMnJWdZT40cVAhT1kevCk2Z50Fr/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2617_PREV_1001_The_Plant_and_the_Swollen_Brain.m4a)
+
+## File № 111 — The Rabbit With 'Mild Gas,' Normal Kidney Blood Tests, and a Twisted Liver Lobe
+*Why 'GI stasis' is a symptom rather than a hall pass—and how a 1.33-kilogram Mini Rex with normal 38.3°C temperature and in-range renal labs turned out to be hiding a twisted, bloodless liver lobe plus a severely cystic left kidney.*
+
+- **Part:** Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat
+- **Companion Episode:** Ep 2620 (52:18, 9,184 spoken words)
+- **Looks Like:** Routine rabbit GI stasis with normal rectal temperature, mild gas, and in-range renal labs
+- **Actually Is:** Caudate liver lobe torsion with 10.7% hematocrit alongside severe unilateral cystic kidney destruction
+- **Cause / Mechanism / Manner:** Concurrent caudate liver lobe torsion and severe unilateral multiple renal cysts in a pet rabbit | Rotation of the caudate liver lobe around its narrow attachment cutting off venous/arterial flow, triggering severe anemia (Hct 10.7%), hepatic necrosis, and secondary gut slowdown (ileus) | Survivor Case (One Medicine / Lagomorph)
+- **Avoidability:** 70% | **False Reassurance:** “Her temperature is normal at 38.3°C, X-rays show just mild gut gas, and her kidney blood values are inside the normal range—maybe it's routine stasis.”
+
+### Why 'GI Stasis' Is a Smoke Alarm, Not the Fire
+
+Prey animals evolved one ruthless survival rule: look sick and something eats you. By the time a rabbit stops nibbling hay and leaves a suspiciously empty litter tray, quiet stoicism may already be papering over a surgical catastrophe. On 27 January 2024, as reported by Chakchalat Yoopatthanawong and colleagues in the Journal of Applied Animal Science (no DOI or PMCID assigned; publisher HTML displays CC BY-NC-ND 4.0 without a matching reuse notice inside the PDF), a two-year-old spayed female Mini Rex rabbit weighing 1.33 kilograms arrived at a Bangkok specialist hospital after a single day of not eating, reduced droppings, and depression. She was an indoor pet on a consistent diet with zero recent environmental upheavals—meaning zero fabricated diet errors, falls, or owner blame belong anywhere near her chart.
+
+A thermometer tried to lower the room's heart rate: rectal temperature read 38.3°C, described as normal, and abdominal X-rays showed only a little gas in the small intestine and cecum—mild ileus. Yet hands-on triage saw straight past the thermometer: pale mucous membranes, poor perfusion, delayed capillary refill, dehydration, and front-abdominal pain. Ileus merely states that the gut slowed down; it never promises the gut started the argument. Blood work exposed a circulatory cliff: hematocrit sat at a perilous 10.7% (ref 36–50%), hemoglobin plunged to 3.9 g/dL (ref 12.7–16.3), platelets fell to 23 × 10³/µL (ref 218–641), white cells dropped low, ALT spiked to 483 U/L (4.43 times the 109 ceiling), and AST surged to 798 U/L (8.14 times the 98 ceiling)—vivid markers of tissue injury without pretending to measure exact percentage of liver lost.
+
+### Silent Doppler, In-Range Kidney Labs, and Staggered Recovery Dates
+
+Abdominal ultrasound delivered a double plot twist that flat X-rays could never draw. First, her caudate liver lobe looked heterogeneous and ringed with fluid, and Doppler examination picked up zero blood-flow signal inside its examined window (an observation of that lobe's window, not a whole-liver circulation audit). Second, her left kidney was riddled with multiple severe cysts alongside an enlarged collecting region and ureter—EVEN THOUGH her blood urea nitrogen (26 mg/dL) and creatinine (1.6 mg/dL, sitting right on the upper boundary) both stayed inside the table's printed reference ranges! One healthy partner kidney can keep global blood waste looking polite while the other kidney quietly falls apart structurally. Blood chemistry and imaging answer completely separate questions.
+
+Emergency surgery confirmed caudate liver lobe torsion and removed both the twisted liver lobe and the severely damaged left kidney and ureter, backed by blood transfusion and monitored postoperative care (abdominal fluid culture grew no bacteria, and simultaneous interventions cannot be carved up into single-step credit). Microscopic pathology proved congested, dilated liver sinusoids packed with red cells plus hepatocyte necrosis, and renal cysts lined by flattened tubular cells amid severe surrounding tissue atrophy—with zero proof of cancer, inherited polycystic kidney disease, or one shared trigger uniting both organs. Read her recovery table with calendar discipline too: on 30 January, hematocrit jumped 26.78 percentage points (3.50-fold) into normal range at 37.48% and platelets climbed to 411 × 10³/µL, YET hemoglobin at 8.9 g/dL still trailed its 12.7–16.3 reference floor—no pretending every CBC value normalized! Six days later, on 5 February, a separate chemistry panel showed ALT down to 85 U/L, AST 52 U/L, BUN 28 mg/dL, and creatinine 0.9 mg/dL as she went home eating and passing normal droppings, with ongoing monitoring recommended for a rabbit living on one kidney and a resected liver.
+
+### What Eighty-Two Rabbits Teach—and Why Home Gut Drugs Backfire
+
+Put this Bangkok save beside multi-hospital scale. In a 2022 JAVMA retrospective study (complete original abstract and metadata assessed, not full paper or individual charts), Ozawa and colleagues reviewed 82 domestic rabbits diagnosed with liver lobe torsion across four institutions from 2010 to 2020. Within that clinical frame, study prevalence was 82 out of 11,402 rabbits—0.719%, rounded to 0.7% (never community-wide pet prevalence)—and 50 of 82 survived the first seven days (60.98%, rounded 61%, while 32 did not). Observational links between anemia, surgery, and short-term survival cannot hand out a personalized prognosis or randomize treatment choices, yet they confirm this is a real, lethal emergency hiding behind a quiet food bowl.
+
+Because nobody knows a household trick that stops a rabbit's caudate liver lobe from twisting, prevention lives entirely in rapid recognition and refusing to medicate blind. The Rabbit Welfare Association and Fund calls stopping eating or passing droppings a flat-out rabbit emergency, echoed by RSPCA and PDSA guidance—and RWAF explicitly warns against giving gut-motility drugs before a rabbit-experienced vet physically examines the animal, because pushing a gut against obstruction or hidden organ catastrophe can turn bad into fatal. Track your rabbit's normal appetite and droppings daily (and brief pet sitters to check actual food eaten, not just refill bowls), know your rabbit-savvy emergency vet and out-of-hours route before Tuesday breaks sideways, and skip internet 'stasis home kits' until skilled hands check what is really happening inside.
+
+### RED FLAGS · A QUIET BUNNY IS AN URGENT BUNNY — Four Myths That Cost Rabbits Hours They Don't Have
+
+- Stopping eating, nibbling noticeably less, passing fewer or smaller droppings, hunching, or sudden dullness is a same-day veterinary emergency (RWAF, RSPCA, PDSA)—never 'wait until morning' to see if appetite returns.
+- Never give leftover gut-motility medicines, syringe-feed blindly, or run DIY home stasis remedies before a veterinarian physically examines the rabbit—hidden torsion or obstruction changes every risk.
+- A normal rectal temperature (38.3°C), mild radiographic gas, or in-range BUN/creatinine never excludes a twisted liver lobe, severe anemia, or unilateral structural organ failure.
+- Brief family members and pet sitters to monitor actual food intake and daily droppings—not merely top off bowls—and save a rabbit-experienced out-of-hours vet contact before an emergency hits.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · RABBIT STOPS EATING OR DROPPINGS DROP
+*Prey animals hide agony until late—act on the first quiet day, not after a home experiment.*
+
+1. **CALL A RABBIT-EXPERIENCED VET IMMEDIATELY:** Treat reduced eating, absent droppings, hunching, or sudden quietness as an urgent same-day emergency—use your pre-arranged out-of-hours exotic/rabbit route if your regular clinic is closed.
+2. **NO UNEXAMINED GUT-MOTILITY DRUGS OR HOME KITS:** Follow RWAF and PDSA guidance: never give leftover motility meds, home remedies, or unguided force-feeding before a veterinarian physically rules out obstruction or surgical disease.
+3. **SHARE CONCRETE DAILY OBSERVATIONS:** Report exact food eaten, dropping count/size changes, hunched posture, discomfort, and honest unobserved time windows—raw timelines beat internet guesses.
+4. **BUILD DAILY CHECKS & POST-SURGERY FOLLOW-UP:** Monitor eating and litter output daily (and instruct pet sitters to check intake, not just refill bowls), and follow individualized vet recheck plans after major organ surgery.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case Report** | Yoopatthanawong et al. (2024), J Appl Anim Sci 17(1):19–28 (official article 268185; no DOI/PMCID) · 2-yr spayed female Mini Rex (1.33 kg), Bangkok (27 Jan 2024); 1 day anorexia, reduced droppings, depression; stable indoor diet/environment |
+| **Admission Exam & Labs** | Pale mucous membranes, poor perfusion, delayed CRT, dehydration, cranial abdominal pain, yet normal temp 38.3°C & mild ileus on X-ray; Hct 10.7% (ref 36–50%), Hb 3.9 g/dL (12.7–16.3), Plt 23×10³/µL (218–641), low WBC; ALT 483 U/L (4.43× ULN 109), AST 798 U/L (8.14× ULN 98); BUN 26 mg/dL & Cr 1.6 mg/dL WITHIN printed ranges despite severe left renal cysts |
+| **Imaging, Surgery & Staggered Recovery** | US: heterogeneous caudate lobe + fluid + absent Doppler flow in window + severe left renal cysts/enlarged ureter → surgery removed twisted caudate lobe + left kidney/ureter + transfusion; fluid culture no growth; histology: hepatic sinusoidal congestion/necrosis & cystic renal atrophy → 30 Jan CBC: Hct 37.48% (+26.78 pts, 3.50×), Plt 411×10³/µL, Hb 8.9 g/dL (STILL <12.7) → 5 Feb chem & discharge: ALT 85, AST 52, BUN 28, Cr 0.9 |
+| **Multi-Center Cohort** | Ozawa et al. (2022), JAVMA 260:1334–1342 (PMID 35943924; abstract scope): 82 rabbit liver lobe torsion cases (4 institutions, 2010–2020); study-frame prevalence 82/11,402 = 0.719% (0.7%); 7-day survival 50/82 = 60.98% (61%; 32 did not survive) |
+| **Audit Boundary** | No genetic PKD, cancer, or single shared cause proved; CBC (30 Jan) and chemistry (5 Feb) dates kept distinct; long-term renal follow-up recommended but not documented completed; publisher HTML states CC BY-NC-ND 4.0 (no PDF reuse notice or XML supplied) |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Yoopatthanawong et al. (2024) — Successful Surgical and Medical Management of Liver Lobe Torsion and Severe Multiple Renal Cysts Concurrently in a Rabbit (J Appl Anim Sci 17(1):19–28)](https://he02.tci-thaijo.org/index.php/jaas_muvs/article/view/268185)
+- **Multi-Center Cohort:** [Ozawa et al. (2022) — Clinicopathological findings and prognostic factors for domestic rabbits with liver lobe torsion: 82 cases (JAVMA 260:1334–1342 · PMID 35943924)](https://pubmed.ncbi.nlm.nih.gov/35943924/)
+- **Official Guidance:** [Rabbit Welfare Association & Fund (RWAF) — Gut Slowdown Emergency & Motility-Drug Caution](https://rabbitwelfare.co.uk/welfare-need/gut-slowdown/)
+- **Official Guidance:** [RSPCA — Rabbit Health & Daily Appetite/Droppings Monitoring](https://www.rspca.org.uk/adviceandwelfare/pets/rabbits/health)
+- **Official Guidance:** [PDSA — Reduced Appetite in a Rabbit (published April 2021)](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/symptoms/my-rabbit-isn-t-eating-properly)
+- **Resonance Transcript:** [Ep 2620 Interactive Player & Verbatim Transcript (9,184 words)](https://yorekms.github.io/deep-dive-podcasts/resonance/?view=listen&driveId=1s9q3Cob3fA1CJH8PBJ7zP2JPqMszk6Ws&hub=forensic-medicine)
+- **Companion Audio:** [Ep 2620 Audio Stream — The Quiet Gut and the Silent Blood Flow (52:18)](https://drive.google.com/file/d/1s9q3Cob3fA1CJH8PBJ7zP2JPqMszk6Ws/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2620 Audio](https://drive.google.com/file/d/1s9q3Cob3fA1CJH8PBJ7zP2JPqMszk6Ws/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2620_PREV_1004_The_Quiet_Gut_and_the_Silent_Blood_Flow.m4a)

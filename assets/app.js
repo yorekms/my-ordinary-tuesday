@@ -102,7 +102,14 @@
       statusEl.textContent = reason || 'Google Drive Backup Stream';
     }
 
+    function enablePlaybackAudioSession() {
+      try {
+        if (navigator.audioSession) navigator.audioSession.type = 'playback';
+      } catch (e) {}
+    }
+
     function loadNative(c, preferProxy) {
+      enablePlaybackAudioSession();
       usingFallback = false;
       iframeEl.src = 'about:blank';
       iframeWrap.style.display = 'none';
@@ -152,6 +159,7 @@
     });
 
     playBtn.addEventListener('click', function () {
+      enablePlaybackAudioSession();
       if (audioEl.paused) audioEl.play(); else audioEl.pause();
     });
     rewBtn.addEventListener('click', function () {

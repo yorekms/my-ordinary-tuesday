@@ -28,12 +28,13 @@
   var SH={"garage":"Garage & Yard","kitchen":"Kitchen","medicine":"Med Cabinet","outdoors":"Outdoors","hospital":"ER Fakeouts","pets":"Pets"};
   var $=function(i){return document.getElementById(i);},E=function(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");};
   var dk=$("otg-dk"),au=$("otg-a"),tt=$("otg-tt"),st=$("otg-st"),pp=$("otg-pp"),bk=$("otg-bk"),ifw=$("otg-iw"),ifr=$("otg-if"),nw=$("otg-nw"),cur=null,fb=false,tp=false,rt=1;
+  function setAS(){try{if(navigator.audioSession)navigator.audioSession.type="playback";}catch(e){}}
   function setR(r){rt=r;au.playbackRate=r;dk.querySelectorAll("[data-sp]").forEach(function(b){b.classList.toggle("on",Math.abs(parseFloat(b.getAttribute("data-sp"))-r)<.01);});}
   function goFB(){if(!cur||!cur.audioDriveId)return;fb=true;try{au.pause();}catch(e){}nw.style.display="none";ifw.style.display="block";ifr.src="https://drive.google.com/file/d/"+cur.audioDriveId+"/preview";bk.textContent="Speed";st.textContent="Drive Backup";}
-  function goNat(px){fb=false;ifr.src="about:blank";ifw.style.display="none";nw.style.display="block";bk.textContent="Backup";var u=(!px&&cur.audioDirectUrl)?cur.audioDirectUrl:(cur.audioDriveId?P+encodeURIComponent(cur.audioDriveId):cur.audioDirectUrl);if(!u){goFB();return;}st.textContent="Streaming "+cur.ep+"...";au.src=u;au.load();setR(rt);var pr=au.play();if(pr&&pr.catch)pr.catch(function(){st.textContent="Tap ▶ to play";});}
+  function goNat(px){setAS();fb=false;ifr.src="about:blank";ifw.style.display="none";nw.style.display="block";bk.textContent="Backup";var u=(!px&&cur.audioDirectUrl)?cur.audioDirectUrl:(cur.audioDriveId?P+encodeURIComponent(cur.audioDriveId):cur.audioDirectUrl);if(!u){goFB();return;}st.textContent="Streaming "+cur.ep+"...";au.src=u;au.load();setR(rt);var pr=au.play();if(pr&&pr.catch)pr.catch(function(){st.textContent="Tap ▶ to play";});}
   au.onplaying=function(){pp.textContent="❚❚";st.textContent=cur.ep+" · "+rt+"×";};au.onpause=function(){pp.textContent="▶";};
   au.onerror=function(){if(fb||!cur)return;if(!tp&&cur.audioDriveId&&cur.audioDirectUrl){tp=true;goNat(true);}else goFB();};
-  pp.onclick=function(){if(au.paused)au.play();else au.pause();};
+  pp.onclick=function(){setAS();if(au.paused)au.play();else au.pause();};
   $("otg-rw").onclick=function(){au.currentTime=Math.max(0,(au.currentTime||0)-15);};
   $("otg-fw").onclick=function(){if(isFinite(au.duration))au.currentTime=Math.min(au.duration,(au.currentTime||0)+30);};
   bk.onclick=function(){if(!cur)return;if(fb){tp=false;goNat(false);}else goFB();};

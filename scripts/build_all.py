@@ -7,10 +7,11 @@ Generates:
   1. data/bundle.js                  (offline file:// + instant GitHub Pages boot)
   2. carrd/carrd_embed.html          (self-contained Carrd Embed, verified < 16,000 CRLF chars)
   3. carrd/carrd_dynamic_embed.html  (auto-updating Carrd Embed that fetches catalog.json live)
-  4. carrd/preview_carrd.html        (local browser preview of carrd_embed.html)
-  5. book/MASTER_LINEUP.md           (master 40-chapter lineup + 3 pilot stories for Google Docs / review)
-  6. book/pilots/*.md                (individual pilot story markdown chapters)
-  7. book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html (compiled book draft)
+  4. carrd/embed.js                  (rock-solid 2-line hosted Carrd loader)
+  5. carrd/preview_carrd.html        (local browser preview of carrd_embed.html)
+  6. book/MASTER_LINEUP.md           (master lineup + 3 pilot stories for Google Docs / review)
+  7. book/pilots/*.md                (individual pilot story markdown chapters)
+  8. book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html (compiled book draft)
 """
 
 import json
@@ -258,12 +259,13 @@ dynamic_embed = f"""<style>{carrd_css}</style>
   var SH={{"garage":"Garage & Yard","kitchen":"Kitchen","medicine":"Med Cabinet","outdoors":"Outdoors","hospital":"ER Fakeouts","pets":"Pets"}};
   var $=function(i){{return document.getElementById(i);}},E=function(s){{return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}};
   var dk=$("otg-dk"),au=$("otg-a"),tt=$("otg-tt"),st=$("otg-st"),pp=$("otg-pp"),bk=$("otg-bk"),ifw=$("otg-iw"),ifr=$("otg-if"),nw=$("otg-nw"),cur=null,fb=false,tp=false,rt=1;
+  function setAS(){{try{{if(navigator.audioSession)navigator.audioSession.type="playback";}}catch(e){{}}}}
   function setR(r){{rt=r;au.playbackRate=r;dk.querySelectorAll("[data-sp]").forEach(function(b){{b.classList.toggle("on",Math.abs(parseFloat(b.getAttribute("data-sp"))-r)<.01);}});}}
   function goFB(){{if(!cur||!cur.audioDriveId)return;fb=true;try{{au.pause();}}catch(e){{}}nw.style.display="none";ifw.style.display="block";ifr.src="https://drive.google.com/file/d/"+cur.audioDriveId+"/preview";bk.textContent="Speed";st.textContent="Drive Backup";}}
-  function goNat(px){{fb=false;ifr.src="about:blank";ifw.style.display="none";nw.style.display="block";bk.textContent="Backup";var u=(!px&&cur.audioDirectUrl)?cur.audioDirectUrl:(cur.audioDriveId?P+encodeURIComponent(cur.audioDriveId):cur.audioDirectUrl);if(!u){{goFB();return;}}st.textContent="Streaming "+cur.ep+"...";au.src=u;au.load();setR(rt);var pr=au.play();if(pr&&pr.catch)pr.catch(function(){{st.textContent="Tap ▶ to play";}});}}
+  function goNat(px){{setAS();fb=false;ifr.src="about:blank";ifw.style.display="none";nw.style.display="block";bk.textContent="Backup";var u=(!px&&cur.audioDirectUrl)?cur.audioDirectUrl:(cur.audioDriveId?P+encodeURIComponent(cur.audioDriveId):cur.audioDirectUrl);if(!u){{goFB();return;}}st.textContent="Streaming "+cur.ep+"...";au.src=u;au.load();setR(rt);var pr=au.play();if(pr&&pr.catch)pr.catch(function(){{st.textContent="Tap ▶ to play";}});}}
   au.onplaying=function(){{pp.textContent="❚❚";st.textContent=cur.ep+" · "+rt+"×";}};au.onpause=function(){{pp.textContent="▶";}};
   au.onerror=function(){{if(fb||!cur)return;if(!tp&&cur.audioDriveId&&cur.audioDirectUrl){{tp=true;goNat(true);}}else goFB();}};
-  pp.onclick=function(){{if(au.paused)au.play();else au.pause();}};
+  pp.onclick=function(){{setAS();if(au.paused)au.play();else au.pause();}};
   $("otg-rw").onclick=function(){{au.currentTime=Math.max(0,(au.currentTime||0)-15);}};
   $("otg-fw").onclick=function(){{if(isFinite(au.duration))au.currentTime=Math.min(au.duration,(au.currentTime||0)+30);}};
   bk.onclick=function(){{if(!cur)return;if(fb){{tp=false;goNat(false);}}else goFB();}};
@@ -321,16 +323,22 @@ embed_js_code = (
     '  "use strict";\n'
     '  if (window.__OTG_MOUNTED__) return;\n'
     '  window.__OTG_MOUNTED__ = true;\n'
+    '  var curScript = document.currentScript;\n'
     f'  var R={json.dumps(reader_base)},P={json.dumps(proxy_base)},ST={json.dumps(studio_url)};\n'
     '  var SH={"garage":"Garage & Yard","kitchen":"Kitchen","medicine":"Med Cabinet","outdoors":"Outdoors","hospital":"ER Fakeouts","pets":"Pets"};\n'
     '  var CSS=' + json.dumps(embed_css_extra) + ';\n'
     '  var E=function(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");};\n'
+    '  function setAudioSession(){try{if(navigator.audioSession)navigator.audioSession.type="playback";}catch(e){}}\n'
     '  function boot(){\n'
+    '    setAudioSession();\n'
     '    if(!document.getElementById("otg-style")){\n'
     '      var stEl=document.createElement("style");stEl.id="otg-style";stEl.textContent=CSS;document.head.appendChild(stEl);\n'
     '    }\n'
-    '    var mount=document.getElementById("otg-mount")||document.getElementById("embed01")||document.querySelector(".site-main > .inner")||document.body;\n'
+    '    var explicitMount=document.getElementById("otg-mount");\n'
+    '    var scriptParent=(curScript&&curScript.parentNode&&curScript.parentNode!==document.head&&curScript.parentNode!==document.documentElement&&curScript.parentNode!==document.body)?curScript.parentNode:null;\n'
+    '    var mount=explicitMount||scriptParent||document.getElementById("embed01")||document.querySelector(".site-main > .inner")||document.body;\n'
     '    if(!mount) return;\n'
+    '    var oldOtg=document.getElementById("otg");if(oldOtg)oldOtg.remove();\n'
     '    var wrap=document.createElement("div");\n'
     '    wrap.id="otg";\n'
     '    wrap.innerHTML='
@@ -347,8 +355,9 @@ embed_js_code = (
     '\'<div class="more-wrap" id="otg-mw"></div>\'+'
     '\'<div class="cta"><div><h2>Open the Full Static Reader &amp; Printable Survival Archive</h2><p>Read every full chapter with primary DOIs, clinical proof ledgers, and companion variable-speed audio.</p></div><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Open Full Reader ↗</a></div>\'+'
     '\'</div>\';\n'
-    '    mount.innerHTML="";\n'
-    '    mount.appendChild(wrap);\n'
+    '    if(explicitMount){explicitMount.innerHTML="";explicitMount.appendChild(wrap);}\n'
+    '    else if(scriptParent&&curScript.parentNode===mount){mount.insertBefore(wrap,curScript);}\n'
+    '    else{mount.appendChild(wrap);}\n'
     '    var oldDk=document.getElementById("otg-dk");if(oldDk)oldDk.remove();\n'
     '    var dk=document.createElement("div");dk.id="otg-dk";\n'
     '    dk.innerHTML='
@@ -360,10 +369,10 @@ embed_js_code = (
     '    var au=$("otg-a"),tt=$("otg-tt"),st=$("otg-st"),pp=$("otg-pp"),bk=$("otg-bk"),ifw=$("otg-iw"),ifr=$("otg-if"),nw=$("otg-nw"),cur=null,fb=false,tp=false,rt=1;\n'
     '    function setR(r){rt=r;au.playbackRate=r;dk.querySelectorAll("[data-sp]").forEach(function(b){b.classList.toggle("on",Math.abs(parseFloat(b.getAttribute("data-sp"))-r)<.01);});}\n'
     '    function goFB(){if(!cur||!cur.audioDriveId)return;fb=true;try{au.pause();}catch(e){}nw.style.display="none";ifw.style.display="block";ifr.src="https://drive.google.com/file/d/"+cur.audioDriveId+"/preview";bk.textContent="Speed";st.textContent="Drive Backup";}\n'
-    '    function goNat(px){fb=false;ifr.src="about:blank";ifw.style.display="none";nw.style.display="block";bk.textContent="Backup";var u=(!px&&cur.audioDirectUrl)?cur.audioDirectUrl:(cur.audioDriveId?P+encodeURIComponent(cur.audioDriveId):cur.audioDirectUrl);if(!u){goFB();return;}st.textContent="Streaming "+cur.ep+"...";au.src=u;au.load();setR(rt);var pr=au.play();if(pr&&pr.catch)pr.catch(function(){st.textContent="Tap ▶ to play";});}\n'
+    '    function goNat(px){setAudioSession();fb=false;ifr.src="about:blank";ifw.style.display="none";nw.style.display="block";bk.textContent="Backup";var u=(!px&&cur.audioDirectUrl)?cur.audioDirectUrl:(cur.audioDriveId?P+encodeURIComponent(cur.audioDriveId):cur.audioDirectUrl);if(!u){goFB();return;}st.textContent="Streaming "+cur.ep+"...";au.src=u;au.load();setR(rt);var pr=au.play();if(pr&&pr.catch)pr.catch(function(){st.textContent="Tap ▶ to play";});}\n'
     '    au.onplaying=function(){pp.textContent="❚❚";st.textContent=cur.ep+" · "+rt+"×";};au.onpause=function(){pp.textContent="▶";};\n'
     '    au.onerror=function(){if(fb||!cur)return;if(!tp&&cur.audioDriveId&&cur.audioDirectUrl){tp=true;goNat(true);}else goFB();};\n'
-    '    pp.onclick=function(){if(au.paused)au.play();else au.pause();};\n'
+    '    pp.onclick=function(){setAudioSession();if(au.paused)au.play();else au.pause();};\n'
     '    $("otg-rw").onclick=function(){au.currentTime=Math.max(0,(au.currentTime||0)-15);};\n'
     '    $("otg-fw").onclick=function(){if(isFinite(au.duration))au.currentTime=Math.min(au.duration,(au.currentTime||0)+30);};\n'
     '    bk.onclick=function(){if(!cur)return;if(fb){tp=false;goNat(false);}else goFB();};\n'
@@ -517,7 +526,7 @@ ml = [
     "",
     f"- **Edition:** {catalog['meta']['edition']}",
     f"- **Last Updated:** {catalog['meta']['updated']}",
-    f"- **Status:** **{live_count} Full Stories Live** · **{total_cases} Curated Chapters Across {len(catalog['parts'])} Rooms** · **Rolling Pipeline Ready for Ep 999–1001+**",
+    f"- **Status:** **{live_count} Full Stories Live** · **{total_cases} Curated Chapters Across {len(catalog['parts'])} Rooms** · **Rolling Pipeline Ready for Ep 1005+**",
     f"- **Editorial Tone Charter:** Wicked, razor-sharp wit aimed exclusively at bad physics, smug consumer contraptions, and deceptive normal test results—never at victims or families. Every chapter obeys the 5-Pillar Forensic-Survival Schema and strictly separates Cause, Mechanism, and Manner.",
     f"- **Live Web Reader:** [{reader_base}]({reader_base})",
     f"- **Key Drive Vaults:** [Forensic Medicine Show Bible]({catalog['meta']['showBibleUrl']}) · [How Not to Die Notebook Folder]({catalog['meta']['notebookFolderUrl']}) · [Master Transcript Sheet]({catalog['meta']['masterSheetUrl']})",
@@ -543,7 +552,7 @@ for part in catalog['parts']:
     ml.append("")
 
 ml.extend([
-    "## Fresh From the Studio — Rolling Expansion Watchlist (Ep 999–1001+)",
+    "## Fresh From the Studio — Rolling Expansion Watchlist (Ep 1005+)",
     "",
     "| Batch | Suggested Room | Working Title | Hook & Primary Source |",
     "| --- | --- | --- | --- |",
