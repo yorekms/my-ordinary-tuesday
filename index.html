@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How Not to Die on an Ordinary Tuesday — The Morgue Gazette &amp; Survival Reader</title>
+  <meta name="description" content="A darkly funny, dead-serious forensic field gazette turning peer-reviewed autopsy & clinical case reports into 5-minute survival stories and First-60-Seconds cards." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,700;0,6..72,800;1,6..72,400;1,6..72,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="index">
+
+  <div class="ot-ledger-bar">
+    <div class="ot-ledger-inner">
+      <div><span class="ot-live-dot"></span>THE MORGUE GAZETTE · BLACK-BOX FLIGHT RECORDER FOR HUMAN BIOLOGY</div>
+      <div>
+        <a href="#featured">Featured</a> ·
+        <a href="#catalog">All 40 Stories</a> ·
+        <a href="#watchlist">Studio Pipeline (Ep 987+)</a> ·
+        <a id="top-bible-link" href="https://docs.google.com/document/d/1paOx0iSE3D_sUN3y3qcSTKIxdTBbWFi35ODoj09BMcc/edit" target="_blank" rel="noopener">Show Bible ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="ot-wrap">
+    <header class="ot-masthead">
+      <div class="ot-masthead-meta">
+        <span>VOL. I · DIGITAL EDITION</span>
+        <span>EST. AT THE AUTOPSY TABLE</span>
+        <span id="meta-updated">UPDATED 2026-11-20</span>
+      </div>
+      <h1>How Not to Die<br /><em>on an Ordinary Tuesday</em></h1>
+      <p class="ot-masthead-sub">
+        True stories from peer-reviewed forensic journals and emergency rooms. We roast bad physics, smug household appliances, and deceptive normal test results—never the people caught in them—so you know what to do in the first 60 seconds.
+      </p>
+      <div class="ot-masthead-stats" id="masthead-stats">
+        <span class="ot-stat-chip crimson">40 Stories Live</span>
+        <span class="ot-stat-chip">6 Everyday Danger Zones</span>
+        <span class="ot-stat-chip">Audio + Primary DOIs Linked</span>
+      </div>
+    </header>
+
+    <!-- Front-Page Featured Dispatches -->
+    <section id="featured">
+      <div class="ot-section-head">
+        <h2>Featured Dispatches</h2>
+        <span class="ot-section-kicker">Full Text · Audio Companion · Verified DOIs</span>
+      </div>
+      <div class="ot-spread" id="featured-spread"></div>
+    </section>
+
+    <!-- Full 40-Chapter Book & Site Catalog -->
+    <section id="catalog">
+      <div class="ot-section-head">
+        <h2>All 40 Stories — Browse by Danger Zone</h2>
+        <span class="ot-section-kicker" id="catalog-count-label">Showing 40 of 40 Case Files</span>
+      </div>
+
+      <div class="ot-toolbar">
+        <div class="ot-pills" id="filter-pills"></div>
+        <input type="search" id="search-input" class="ot-search" placeholder="Search case, trap, drug, or Ep #..." aria-label="Search cases" />
+      </div>
+
+      <div id="catalog-container"></div>
+    </section>
+
+    <!-- Fresh From the Studio Watchlist -->
+    <section id="watchlist">
+      <div class="ot-section-head">
+        <h2>Fresh From the Studio — Rolling Pipeline</h2>
+        <span class="ot-section-kicker">Auto-Extensible as Episodes 987–992+ Drop</span>
+      </div>
+      <div class="ot-watchlist" id="watchlist-container"></div>
+    </section>
+
+    <footer class="ot-footer">
+      <div><strong>HOW NOT TO DIE ON AN ORDINARY TUESDAY</strong> · Educational forensic &amp; prevention journalism. Not personal medical advice—when in doubt, call 911 or local emergency services.</div>
+      <div>
+        <a href="https://docs.google.com/spreadsheets/d/1BeAwVdAlCSZ7dxurF03hOJmdDzfxFPWcPcO1tnA4FR0/edit" target="_blank" rel="noopener">Master Transcript Index ↗</a> ·
+        <a href="https://drive.google.com/drive/folders/1ftNpMmbgLw2Rw7Be6--C7yML3SsjNv9U" target="_blank" rel="noopener">Drive Vault ↗</a>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Shared Variable-Speed Audio Dock -->
+  <div class="ot-player" id="ot-player" role="region" aria-label="Companion Podcast Audio Player">
+    <div class="ot-player-head">
+      <div style="min-width:0;flex:1;">
+        <div class="ot-player-title" id="otp-title">Select an episode</div>
+        <div class="ot-player-status" id="otp-status">256 kbps Deep Dive Stream</div>
+      </div>
+      <div class="ot-player-actions">
+        <button type="button" class="ot-pbtn" id="otp-mode">Backup Player</button>
+        <a class="ot-pbtn" id="otp-transcript" href="#" target="_blank" rel="noopener">Transcript ↗</a>
+        <a class="ot-pbtn accent" id="otp-studio" href="https://ais-dev-v3n3vsl4pvdlmev4vcfv5b-514995804668.us-west1.run.app" target="_blank" rel="noopener">Studio ↗</a>
+        <button type="button" class="ot-pbtn" id="otp-close" aria-label="Close player">&times;</button>
+      </div>
+    </div>
+    <div id="otp-native">
+      <audio id="otp-audio" preload="metadata"></audio>
+      <div class="ot-player-seek-row">
+        <span id="otp-cur">0:00</span>
+        <input type="range" id="otp-seek" class="ot-seek" min="0" max="1000" value="0" />
+        <span id="otp-tot">--:--</span>
+      </div>
+      <div class="ot-player-controls">
+        <div style="display:flex;align-items:center;gap:6px;">
+          <button type="button" class="ot-pbtn" id="otp-rew">↺ 15s</button>
+          <button type="button" class="ot-play-circle" id="otp-play" aria-label="Play or Pause">▶</button>
+          <button type="button" class="ot-pbtn" id="otp-fwd">30s ↻</button>
+        </div>
+        <div style="display:flex;align-items:center;gap:4px;flex-wrap:wrap;">
+          <span style="font-family:var(--font-mono);font-size:10px;color:#9BA5B1;margin-right:3px;">SPEED</span>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1">1×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1.25">1.25×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1.5">1.5×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1.75">1.75×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="2">2×</button>
+        </div>
+      </div>
+    </div>
+    <div class="ot-player-iframe-wrap" id="otp-iframe-wrap">
+      <iframe id="otp-iframe" src="about:blank" allow="autoplay"></iframe>
+    </div>
+  </div>
+
+  <script src="data/bundle.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

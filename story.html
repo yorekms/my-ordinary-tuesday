@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Case Dispatch — How Not to Die on an Ordinary Tuesday</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,700;0,6..72,800;1,6..72,400;1,6..72,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="story">
+
+  <div class="ot-ledger-bar">
+    <div class="ot-ledger-inner">
+      <div><span class="ot-live-dot"></span>THE MORGUE GAZETTE · CASE DISPATCH READER</div>
+      <div>
+        <a href="index.html">← All 40 Case Files</a> ·
+        <a href="#survival-card">Skip to First 60 Seconds</a> ·
+        <a href="#sources">Primary DOIs &amp; Sources</a>
+      </div>
+    </div>
+  </div>
+
+  <main class="ot-wrap-narrow" id="story-root">
+    <p style="font-family:var(--font-mono);padding:40px 0;">Loading case dossier...</p>
+  </main>
+
+  <div class="ot-wrap-narrow ot-no-print">
+    <footer class="ot-footer">
+      <div><strong>HOW NOT TO DIE ON AN ORDINARY TUESDAY</strong> · Peer-reviewed forensic &amp; clinical education. In a real emergency, call 911 or your local emergency number immediately.</div>
+      <div><a href="index.html">← Return to Front Page</a></div>
+    </footer>
+  </div>
+
+  <!-- Shared Variable-Speed Audio Dock -->
+  <div class="ot-player" id="ot-player" role="region" aria-label="Companion Podcast Audio Player">
+    <div class="ot-player-head">
+      <div style="min-width:0;flex:1;">
+        <div class="ot-player-title" id="otp-title">Select an episode</div>
+        <div class="ot-player-status" id="otp-status">256 kbps Deep Dive Stream</div>
+      </div>
+      <div class="ot-player-actions">
+        <button type="button" class="ot-pbtn" id="otp-mode">Backup Player</button>
+        <a class="ot-pbtn" id="otp-transcript" href="#" target="_blank" rel="noopener">Transcript ↗</a>
+        <a class="ot-pbtn accent" id="otp-studio" href="https://ais-dev-v3n3vsl4pvdlmev4vcfv5b-514995804668.us-west1.run.app" target="_blank" rel="noopener">Studio ↗</a>
+        <button type="button" class="ot-pbtn" id="otp-close" aria-label="Close player">&times;</button>
+      </div>
+    </div>
+    <div id="otp-native">
+      <audio id="otp-audio" preload="metadata"></audio>
+      <div class="ot-player-seek-row">
+        <span id="otp-cur">0:00</span>
+        <input type="range" id="otp-seek" class="ot-seek" min="0" max="1000" value="0" />
+        <span id="otp-tot">--:--</span>
+      </div>
+      <div class="ot-player-controls">
+        <div style="display:flex;align-items:center;gap:6px;">
+          <button type="button" class="ot-pbtn" id="otp-rew">↺ 15s</button>
+          <button type="button" class="ot-play-circle" id="otp-play" aria-label="Play or Pause">▶</button>
+          <button type="button" class="ot-pbtn" id="otp-fwd">30s ↻</button>
+        </div>
+        <div style="display:flex;align-items:center;gap:4px;flex-wrap:wrap;">
+          <span style="font-family:var(--font-mono);font-size:10px;color:#9BA5B1;margin-right:3px;">SPEED</span>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1">1×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1.25">1.25×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1.5">1.5×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="1.75">1.75×</button>
+          <button type="button" class="ot-pbtn otp-spd" data-spd="2">2×</button>
+        </div>
+      </div>
+    </div>
+    <div class="ot-player-iframe-wrap" id="otp-iframe-wrap">
+      <iframe id="otp-iframe" src="about:blank" allow="autoplay"></iframe>
+    </div>
+  </div>
+
+  <script src="data/bundle.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
