@@ -1,0 +1,961 @@
+{
+  "meta": {
+    "updated": "2026-11-21",
+    "commercialSafePmcStoriesCount": 83,
+    "prototypeVisualStoriesCount": 14,
+    "externalFigureLinkoutStoriesCount": 28
+  },
+  "stories": {
+    "fractal-wood-burning": {
+      "diagramId": "fractal-wood-burning",
+      "quiz": {
+        "prompt": "Your friend is fractal wood-burning with a salvaged microwave transformer, suddenly freezes, and cannot let go of the probe. First move?",
+        "options": [
+          {
+            "label": "Grab them by the dry cotton hoodie and yank them backward",
+            "correct": false,
+            "feedback": "At 2,000–15,000 V, dry clothing and wooden dowels break down fast—you just volunteered to become Resistor #2 in the same circuit."
+          },
+          {
+            "label": "Kick the workbench away with your sneaker",
+            "correct": false,
+            "feedback": "High voltage arcs across damp garage floors and thin rubber soles. Stepping closer before killing power is how double fatalities happen."
+          },
+          {
+            "label": "Cut the main breaker or wall power first—then call 911, start CPR, and get an AED",
+            "correct": true,
+            "feedback": "Survived Tuesday! Never touch the victim or bench until power is confirmed dead at the source."
+          }
+        ]
+      }
+    },
+    "driveway-ied-truck-tire": {
+      "diagramId": "driveway-ied-truck-tire",
+      "quiz": {
+        "prompt": "A heavy-duty commercial truck tire ran flat for a mile and needs air back up to 105 PSI. Where should you stand?",
+        "options": [
+          {
+            "label": "Crouched directly facing the sidewall so you can watch the bulge",
+            "correct": false,
+            "feedback": "You just parked your sternum 50 cm from a potential 265 PSI zipper-failure blast cone."
+          },
+          {
+            "label": "Inside a steel restraining cage? No—put the TIRE in a steel cage, use a clip-on chuck, and stand ≥2.5 m away along the tread line",
+            "correct": true,
+            "feedback": "Survived Tuesday! And if a commercial tire was driven flat, scrap/inspect it internally before ever re-inflating."
+          },
+          {
+            "label": "Lean over the top of the tire holding a short manual gauge",
+            "correct": false,
+            "feedback": "If steel sidewall cords unzip under pressure, the air wave throws nearby bodies across the bay."
+          }
+        ]
+      }
+    },
+    "dry-ice-riding-shotgun": {
+      "diagramId": "dry-ice-riding-shotgun",
+      "quiz": {
+        "prompt": "You pick up 20 lbs of dry ice in a cooler for a road trip in an SUV (no separated trunk). What keeps everyone conscious?",
+        "options": [
+          {
+            "label": "Tape the cooler lid shut airtight so the CO₂ stays inside",
+            "correct": false,
+            "feedback": "Congratulations—you just built a pressure bomb in your back seat. Dry ice sublimates ~250 L of gas per pound and WILL blow a sealed lid."
+          },
+          {
+            "label": "Crack windows wide open, run fresh-air intake (NOT recirculate), and never sleep in the car with dry ice",
+            "correct": true,
+            "feedback": "Survived Tuesday! Heavy CO₂ pools silently from the floor upward with zero odor."
+          },
+          {
+            "label": "Turn on cabin A/C recirculation so it stays cool and sublimates slower",
+            "correct": false,
+            "feedback": "Recirculation traps sublimating CO₂ right inside the breathing zone—the exact failure mode in fatal vehicle cases."
+          }
+        ]
+      }
+    },
+    "pressure-washer-pinhole": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · HAND X-RAY",
+          "src": "assets/exhibits/PMC10332702_jetem-7-3-v6f1.jpg",
+          "caption": "Three-view left hand radiograph after a high-pressure injection injury showing dark pockets of subcutaneous emphysema dissecting deep along the index finger and palm despite an unimpressive surface pinhole.",
+          "spoilerNote": "Radiograph (X-ray) of pressurized gas/fluid blown inside the hand. Clean skeletal view—no blood.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Fortuna et al. (2022), Journal of Education & Teaching in Emergency Medicine · PMC10332702",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10332702/"
+        },
+        {
+          "exhibitCode": "EXHIBIT B · FOREARM X-RAY",
+          "src": "assets/exhibits/PMC10332702_jetem-7-3-v6f2.jpg",
+          "caption": "Forearm radiograph from the same patient proving how far a fingertip high-pressure blast travels—subcutaneous emphysema tracking straight past the wrist into the forearm fascia.",
+          "spoilerNote": "Radiograph (X-ray) showing air/fluid tracking up the forearm.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Fortuna et al. (2022), Journal of Education & Teaching in Emergency Medicine · PMC10332702",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10332702/"
+        }
+      ],
+      "quiz": {
+        "prompt": "You accidentally graze your thumb with a 3,000-PSI paint sprayer. It leaves a tiny 2-mm dot that barely bleeds and barely hurts. Next move?",
+        "options": [
+          {
+            "label": "Wash it with soap, slap a Band-Aid on it, and check it in the morning",
+            "correct": false,
+            "feedback": "The classic amputation trap. High-pressure injection blows solvent deep down tendon sheaths while numb nerves hide the compartment pressure."
+          },
+          {
+            "label": "Squeeze the puncture hard to milk the paint back out",
+            "correct": false,
+            "feedback": "Squeezing drives injected fluid deeper along fascial planes and worsens tissue necrosis."
+          },
+          {
+            "label": "Go straight to an ER with hand-surgery capability NOW and bring the exact material/SDS label",
+            "correct": true,
+            "feedback": "Survived Tuesday! Early surgical decompression & washout is the difference between keeping a hand and losing it."
+          }
+        ]
+      }
+    },
+    "nail-gun-normal-xray": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · 3D CHEST CT",
+          "src": "assets/exhibits/PMC13163607_cureus-0018-00000106885-i02.jpg",
+          "caption": "Axial, sagittal, and 3D-reconstructed thoracic CT revealing a pneumatic nail-gun projectile piercing the anterior sternum directly adjacent to the pericardium and heart (red arrows).",
+          "spoilerNote": "CT scan & 3D ribcage reconstruction—no open surgical gore.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Tombul et al. (2026), Cureus · PMC13163607",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13163607/"
+        }
+      ]
+    },
+    "wire-behind-the-pain": {
+      "diagramId": "wire-behind-the-pain",
+      "quiz": {
+        "prompt": "Three days after a backyard cookout, you develop sharp, localized abdominal pain—but zero fever, normal bowel movements, and a clear plain abdominal X-ray. What crucial sentence must you tell the ER doctor?",
+        "options": [
+          {
+            "label": "“It’s probably just mild food poisoning, I’ll take Pepto and go home.”",
+            "correct": false,
+            "feedback": "Grill-brush wire perforations are frequently walled off by omentum—normal stool and zero free air do not rule out an abscess."
+          },
+          {
+            "label": "“We ate off a grill cleaned with a wire bristle brush—could we check thin-slice CT for a stray bristle?”",
+            "correct": true,
+            "feedback": "Survived Tuesday! Plain X-rays routinely miss thin stainless grill bristles; thin-slice CT catches them."
+          },
+          {
+            "label": "“I would have tasted metal if I swallowed a wire.”",
+            "correct": false,
+            "feedback": "Almost no documented wire-bristle ingestion victims ever felt or tasted the wire going down."
+          }
+        ]
+      }
+    },
+    "chocolate-brown-blood": {
+      "diagramId": "chocolate-brown-blood",
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · ARTERIAL BLOOD SAMPLE",
+          "src": "assets/exhibits/PMC4383305_CRIEM2015-670979.002.jpg",
+          "caption": "Actual arterial blood sample drawn in the emergency department displaying classic chocolate-brown methemoglobinemia coloration after over-the-counter 20% benzocaine toothache gel use.",
+          "spoilerNote": "Contains real emergency-department photograph of chocolate-brown blood in a syringe and on gauze. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 2 from Nappe et al. (2015), Case Reports in Emergency Medicine · PMC4383305",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4383305/"
+        },
+        {
+          "exhibitCode": "EXHIBIT B · THE CULPRIT TUBE",
+          "src": "assets/exhibits/PMC4383305_CRIEM2015-670979.001.jpg",
+          "caption": "The over-the-counter 20% benzocaine oral gel tube brought in by the patient—an ordinary drugstore staple capable of oxidizing Fe²⁺ hemoglobin into non-oxygen-carrying Fe³⁺ methemoglobin.",
+          "spoilerNote": "Product photograph of OTC benzocaine gel tube.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Nappe et al. (2015), Case Reports in Emergency Medicine · PMC4383305",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4383305/"
+        }
+      ],
+      "quiz": {
+        "prompt": "After heavy use of OTC benzocaine toothache gel, a patient turns dusky gray and reads SpO₂ 86% despite high-flow oxygen. What test actually proves what is happening?",
+        "options": [
+          {
+            "label": "Switch to a brand-new finger pulse oximeter on the other hand",
+            "correct": false,
+            "feedback": "Every standard 2-wavelength finger probe hits the exact same ~85% optical plateau in methemoglobinemia."
+          },
+          {
+            "label": "Multi-wavelength co-oximetry (which measures MetHb% directly) followed by IV methylene blue",
+            "correct": true,
+            "feedback": "Survived Tuesday! Co-oximetry breaks the 85% lie and IV methylene blue reverses it in ~15 minutes."
+          },
+          {
+            "label": "Wait 30 minutes on 100% oxygen to let the lung saturation climb",
+            "correct": false,
+            "feedback": "Dissolved oxygen is already sky-high, but oxidized Fe³⁺ hemoglobin cannot release oxygen to tissues until chemically reduced."
+          }
+        ]
+      }
+    },
+    "reusable-contacts-tap-water": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CORNEAL SLIT-LAMP & CONFOCAL",
+          "src": "assets/exhibits/PMC13005768_cureus-0018-00000103935-i01.jpg",
+          "caption": "Slit-lamp photographs (A–C) and confocal microscopy showing bright double-walled Acanthamoeba cysts invading the cornea (D), alongside cleared cornea after aggressive PHMB 0.08% therapy (E–F).",
+          "spoilerNote": "Close-up ophthalmology slit-lamp eye photography + confocal microscope view.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Pabon et al. (2026), Cureus · PMC13005768",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005768/"
+        }
+      ]
+    },
+    "negative-test-ectopic-bleed": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · PELVIC ULTRASOUND",
+          "src": "assets/exhibits/PMC5030406_CRIEM2016-7154713.001.jpg",
+          "caption": "Transverse and longitudinal pelvic ultrasound demonstrating significant free intra-abdominal hemorrhage with an empty uterus—in a patient whose urine pregnancy test had just come back negative.",
+          "spoilerNote": "Grayscale clinical ultrasound image.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Sheele et al. (2016), Case Reports in Emergency Medicine · PMC5030406",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5030406/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 2 Original Clinical Figures at PubMed Central (Kleinschmidt 2021, PMC8087939 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8087939/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC8087939"
+        }
+      ]
+    },
+    "bracelet-became-a-blood-test": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CDC EVIDENCE PHOTO",
+          "src": "assets/exhibits/PMC5657790_mm6634a6-F.jpg",
+          "caption": "The actual “homeopathic magnetic hematite healing bracelet” worn by a 9-month-old infant in Connecticut—its small metallic spacer beads tested at 17,000 ppm lead (170× the federal children’s limit).",
+          "spoilerNote": "Photograph of beaded jewelry bracelet from CDC MMWR investigation.",
+          "blurredByDefault": false,
+          "citation": "Figure from Garcia & Haile (2017), CDC Morbidity & Mortality Weekly Report · PMC5657790",
+          "license": "CC BY 3.0 / Public Domain",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5657790/"
+        }
+      ]
+    },
+    "toy-that-kept-growing-water-beads": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RETRIEVED SWOLLEN BEADS",
+          "src": "assets/exhibits/PMC13471977_cureus-0018-00000112657-i04.jpg",
+          "caption": "Superabsorbent polymer water beads retrieved surgically after expanding inside a toddler’s small intestine—completely invisible on standard X-ray because they are 99% water.",
+          "spoilerNote": "Surgical tray photograph of retrieved marble-sized colorful water beads (no tissue).",
+          "blurredByDefault": false,
+          "citation": "Figure 4 from Shahid et al. (2026), Cureus · PMC13471977",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13471977/"
+        },
+        {
+          "exhibitCode": "EXHIBIT B · ABDOMINAL ULTRASOUND",
+          "src": "assets/exhibits/PMC13471977_cureus-0018-00000112657-i02.jpg",
+          "caption": "Abdominal ultrasound catching what the plain X-ray missed: two crisp, fluid-filled spherical water beads (black arrow) jamming the intestinal lumen shut.",
+          "spoilerNote": "Grayscale abdominal ultrasound scan.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Shahid et al. (2026), Cureus · PMC13471977",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13471977/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 6 Original Clinical Figures at PubMed Central (Qi 2026, PMC13654168 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13654168/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC13654168"
+        }
+      ]
+    },
+    "hook-and-the-changed-pupil": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · BUNGEE-CORD EYE TRAUMA",
+          "src": "assets/exhibits/PMC7949672_cureus-0013-00000013280-i01.jpg",
+          "caption": "Left eye following rusted bungee-cord recoil showing iridodialysis (blue arrow: iris torn from its root), irregular dilated pupil, and pooling anterior-chamber blood / hyphema (asterisk)—all while intraocular pressure printed a deceptively normal 15–17 mmHg.",
+          "spoilerNote": "Close-up emergency-department photograph of traumatic eye injury with visible blood (hyphema). Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Lee et al. (2021), Cureus · PMC7949672",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949672/"
+        }
+      ],
+      "quiz": {
+        "prompt": "A bungee hook snaps back into your eye. The urgent-care pressure check reads normal (16 mmHg) and there is no corneal scratch. Are you cleared?",
+        "options": [
+          {
+            "label": "Yes—normal eye pressure means no deep structural injury",
+            "correct": false,
+            "feedback": "Pressure, pupil shape, acuity, and internal anatomy answer completely different questions. This patient had 20/800 vision, a torn iris root, and blood inside the eye at 15–17 mmHg."
+          },
+          {
+            "label": "No—any blurred vision, irregular pupil, or internal blood demands immediate ophthalmology evaluation regardless of normal pressure",
+            "correct": true,
+            "feedback": "Survived Tuesday! Never rub or press the eye; shield it loosely and get urgent specialist slit-lamp evaluation."
+          },
+          {
+            "label": "Put an ice pack firmly over the eyelid and sleep it off",
+            "correct": false,
+            "feedback": "Pressing directly on a traumatized globe can worsen internal bleeding or rupture an occult injury."
+          }
+        ]
+      }
+    },
+    "plant-and-the-swollen-brain-sago-palm": {
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CANINE BRAIN MRI (DAY 1)",
+          "src": "assets/exhibits/PMC7456943_fvets-07-00468-g0001.jpg",
+          "caption": "Brain MRI of a dog with presumptive cycad/sago palm neurotoxicity showing widespread white-matter swelling and cerebellar herniation through the skull base (white arrow)—despite only mildly elevated ALT liver enzymes.",
+          "spoilerNote": "Veterinary brain MRI scan (grayscale neuroimaging).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Maeso et al. (2020), Frontiers in Veterinary Science · PMC7456943",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/"
+        },
+        {
+          "exhibitCode": "EXHIBIT B · RECOVERY MRI (RESOLVED)",
+          "src": "assets/exhibits/PMC7456943_fvets-07-00468-g0002.jpg",
+          "caption": "Follow-up brain MRI after 7 days of aggressive veterinary ICU care: the dramatic white-matter edema and cerebellar displacement completely resolved.",
+          "spoilerNote": "Follow-up grayscale canine brain MRI showing full recovery.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Maeso et al. (2020), Frontiers in Veterinary Science · PMC7456943",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/"
+        }
+      ]
+    },
+    "hot-baths-fentanyl-patches-deadly": {
+      "diagramId": "hot-baths-fentanyl-patches-deadly",
+      "quiz": {
+        "prompt": "A relative wearing a prescribed fentanyl pain patch becomes unresponsive in a 106°F hot bath. Paramedics peel the patch off and revive them with Narcan. Why is refusing ER transport still lethal?",
+        "options": [
+          {
+            "label": "The bathwater soaked through the skin and diluted their sodium",
+            "correct": false,
+            "feedback": "The culprit isn’t water—it’s the huge reservoir of fentanyl that heat already drove deep into the dermis."
+          },
+          {
+            "label": "Narcan wears off in 30–90 minutes while the saturated skin depot keeps pumping fentanyl into the bloodstream for up to 17 hours",
+            "correct": true,
+            "feedback": "Survived Tuesday! Peeling the patch stops NEW transfer, not the drug already parked inside the skin."
+          },
+          {
+            "label": "Because fentanyl patches explode when removed wet",
+            "correct": false,
+            "feedback": "No explosion—just silent re-narcotization once short-acting naloxone fades."
+          }
+        ]
+      }
+    },
+    "small-stick-persistent-pain": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 3 Original Clinical Figures at PubMed Central (Park 2023, PMC10450364 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10450364/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC10450364"
+        }
+      ]
+    },
+    "awn-beside-the-heart": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 8 Original Clinical Figures at PubMed Central (Genovese 2024, PMC10899722 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10899722/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC10899722"
+        }
+      ]
+    },
+    "steroid-cream-adrenal-crisis": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 3 Original Clinical Figures at PubMed Central (Beuschlein 2024, PMC11180513 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11180513/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC11180513"
+        }
+      ]
+    },
+    "heart-medicine-and-ketones": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 1 Original Clinical Figure at PubMed Central (Umpierrez 2024, PMC11272983 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272983/",
+          "license": "Publisher License",
+          "pmcid": "PMC11272983"
+        },
+        {
+          "label": "Inspect 1 Original Clinical Figure at PubMed Central (Miyazaki 2024, PMC11318733 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11318733/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC11318733"
+        }
+      ]
+    },
+    "calcified-heart-toothpaste-micro-tumors": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 6 Original Clinical Figures at PubMed Central (Jorgenson 2025, PMC11801426 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11801426/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC11801426"
+        }
+      ]
+    },
+    "blockage-in-the-less-likely-cat": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 60 Original Clinical Figures at PubMed Central (Taylor 2025, PMC11816079 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11816079/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC11816079"
+        },
+        {
+          "label": "Inspect 3 Original Clinical Figures at PubMed Central (Woerde 2025, PMC12375161 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12375161/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC12375161"
+        }
+      ]
+    },
+    "current-left-no-mark-wet-voltage": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 7 Original Clinical Figures at PubMed Central (Askar 2025, PMC12406169 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12406169/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC12406169"
+        }
+      ]
+    },
+    "level-that-rose-after-last-pill": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 4 Original Clinical Figures at PubMed Central (Houwen 2025, PMC12648360 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12648360/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC12648360"
+        }
+      ]
+    },
+    "migrating-heart-valves-air-sprays": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 4 Original Clinical Figures at PubMed Central (Meduna 2026, PMC13148499 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13148499/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC13148499"
+        }
+      ]
+    },
+    "gum-and-second-emergency": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 12 Original Clinical Figures at PubMed Central (Mandell 2026, PMC13505871 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13505871/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC13505871"
+        }
+      ]
+    },
+    "meth-gut-infarction-rubbing-alcohol": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 4 Original Clinical Figures at PubMed Central (Nitta 2026, PMC13672395 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13672395/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC13672395"
+        }
+      ]
+    },
+    "sleep-aids-caffeine-nitrous": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 1 Original Clinical Figure at PubMed Central (Kohara 2026, PMC13672471 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13672471/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC13672471"
+        }
+      ]
+    },
+    "sleepiness-began-in-the-bowel": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 1 Original Clinical Figure at PubMed Central (de Vries 2013, PMC3731624 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3731624/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC3731624"
+        }
+      ]
+    },
+    "antidepressant-opioid-screen-missed": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 4 Original Clinical Figures at PubMed Central (Gassaway 2014, PMC4119213 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4119213/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC4119213"
+        }
+      ]
+    },
+    "piece-the-camera-couldnt-see-eoe": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 2 Original Clinical Figures at PubMed Central (Dellon 2014, PMC4344855 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4344855/",
+          "license": "Publisher License",
+          "pmcid": "PMC4344855"
+        }
+      ]
+    },
+    "umbrella-methylmercury-forensic-mimics": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 5 Original Clinical Figures at PubMed Central (Miller 2015, PMC4927310 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4927310/",
+          "license": "Publisher License",
+          "pmcid": "PMC4927310"
+        }
+      ]
+    },
+    "durian-rum-and-auto-brewery": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 1 Original Clinical Figure at PubMed Central (Malik 2019, PMC6688673 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6688673/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC6688673"
+        }
+      ]
+    },
+    "puppy-with-the-twisted-stomach-gdv": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 56 Original Clinical Figures at PubMed Central (Mazzaferro 2012, PMC7186847 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7186847/",
+          "license": "Publisher License",
+          "pmcid": "PMC7186847"
+        }
+      ]
+    },
+    "test-with-a-smaller-target-legionella": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 2 Original Clinical Figures at PubMed Central (Asami‐Noyama 2021, PMC8319662 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8319662/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC8319662"
+        }
+      ]
+    },
+    "headache-needed-second-question": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 4 Original Clinical Figures at PubMed Central (Tu 2021, PMC8320313 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8320313/",
+          "license": "Publisher License",
+          "pmcid": "PMC8320313"
+        }
+      ]
+    },
+    "silent-push-pin-choking-maternal": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 2 Original Clinical Figures at PubMed Central (Pina 2021, PMC8484293 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8484293/",
+          "license": "Publisher License",
+          "pmcid": "PMC8484293"
+        }
+      ]
+    },
+    "jumping-spanish-mackerel": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 5 Original Clinical Figures at PubMed Central (Tiemensma 2021, PMC8608006 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8608006/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC8608006"
+        },
+        {
+          "label": "Inspect 5 Original Clinical Figures at PubMed Central (Tiemensma 2021, PMC8608006 · CC BY-NC-ND — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8608006/",
+          "license": "CC BY-NC-ND",
+          "pmcid": "PMC8608006"
+        }
+      ]
+    },
+    "nitazenes-fake-ct-bullets-otzi": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 5 Original Clinical Figures at PubMed Central (Tokarczyk 2022, PMC9194349 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9194349/",
+          "license": "Publisher License",
+          "pmcid": "PMC9194349"
+        }
+      ]
+    },
+    "test-beyond-the-scan-porphyria": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 2 Original Clinical Figures at PubMed Central (Ortega 2022, PMC9243374 · CC BY-NC — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9243374/",
+          "license": "CC BY-NC",
+          "pmcid": "PMC9243374"
+        }
+      ]
+    },
+    "live-burial-traps-skin-warnings": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 3 Original Clinical Figures at PubMed Central (Alunni 2022, PMC9607767 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9607767/",
+          "license": "Publisher License",
+          "pmcid": "PMC9607767"
+        }
+      ]
+    },
+    "tests-that-would-not-agree": {
+      "externalFigureLinks": [
+        {
+          "label": "Inspect 4 Original Clinical Figures at PubMed Central (Hulme 2023, PMC9912213 · Publisher License — Link-Out Only)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9912213/",
+          "license": "Publisher License",
+          "pmcid": "PMC9912213"
+        }
+      ]
+    }
+  },
+  "exam": [
+    {
+      "q": "Your buddy touches a homemade fractal wood-burning table and locks up around the probe. Your VERY FIRST move?",
+      "caseSlug": "fractal-wood-burning",
+      "caseRef": "Case 001",
+      "options": [
+        {
+          "label": "Pull them backward by their dry hoodie",
+          "ok": false,
+          "why": "High voltage punches straight through dry cloth—now paramedics have two cardiac arrests."
+        },
+        {
+          "label": "Cut the main breaker or wall power before touching them or the bench",
+          "ok": true,
+          "why": "Correct. Dead circuit first, then 911, CPR, and AED."
+        },
+        {
+          "label": "Knock the probe loose with a wooden broom handle",
+          "ok": false,
+          "why": "At 2,000–15,000 V, ordinary wood stops being a reliable insulator."
+        }
+      ]
+    },
+    {
+      "q": "You graze your fingertip with a 3,000-PSI paint sprayer. It leaves a 2-mm pinprick that barely bleeds. What do you do?",
+      "caseSlug": "pressure-washer-pinhole",
+      "caseRef": "Case 005",
+      "options": [
+        {
+          "label": "Wash it, bandage it, and see if it swells tomorrow",
+          "ok": false,
+          "why": "Waiting overnight is how tiny pinholes become finger amputations."
+        },
+        {
+          "label": "Squeeze hard to push the paint back out",
+          "ok": false,
+          "why": "Squeezing forces solvent deeper along tendon sheaths."
+        },
+        {
+          "label": "Go immediately to an ER with hand surgery and bring the paint/solvent label",
+          "ok": true,
+          "why": "Correct. High-pressure injection is an immediate surgical emergency even with minimal pain."
+        }
+      ]
+    },
+    {
+      "q": "A healthy adult uses OTC benzocaine toothache gel, turns gray, and stays stuck at SpO₂ 86% on 100% oxygen. What is lying?",
+      "caseSlug": "chocolate-brown-blood",
+      "caseRef": "Case 015",
+      "options": [
+        {
+          "label": "The standard 2-wavelength finger pulse oximeter—demand co-oximetry and IV methylene blue",
+          "ok": true,
+          "why": "Correct. Methemoglobinemia freezes pulse oximeters near ~85% regardless of real hypoxia."
+        },
+        {
+          "label": "The oxygen tank is probably empty",
+          "ok": false,
+          "why": "Arterial dissolved oxygen (PaO₂) is actually sky-high; the iron in hemoglobin is chemically rusted to Fe³⁺."
+        },
+        {
+          "label": "The patient is just hyperventilating from anxiety",
+          "ok": false,
+          "why": "Chocolate-brown arterial blood is biochemistry, not anxiety."
+        }
+      ]
+    },
+    {
+      "q": "A patient with a ruptured varicose vein in the ankle is spraying bright blood across the bathroom floor. Fastest life-saving move?",
+      "caseSlug": "one-finger-varicose-vein",
+      "caseRef": "Case 029",
+      "options": [
+        {
+          "label": "Wrap a bulky loose towel around the whole calf and sit upright in a chair",
+          "ok": false,
+          "why": "Gravity keeps venous pressure high and bulky towels spread pressure away from the pinpoint leak."
+        },
+        {
+          "label": "Lie flat, elevate the leg high above the heart, and press ONE firm finger directly on the pinpoint bleeding hole",
+          "ok": true,
+          "why": "Correct. Elevation drops venous pressure instantly; pinpoint direct pressure seals the leak."
+        },
+        {
+          "label": "Soak the foot in cold water to constrict the vein",
+          "ok": false,
+          "why": "Warm or cold soaking hides blood volume loss while exsanguination continues."
+        }
+      ]
+    },
+    {
+      "q": "You drop a single drop of minoxidil hair-growth foam on your pillowcase. Who in the house is in mortal danger?",
+      "caseSlug": "hair-treatment-reached-the-cat",
+      "caseRef": "Case 037",
+      "options": [
+        {
+          "label": "Your indoor cat—even trace pillow/hand transfer can trigger fatal feline heart/lung fluid collapse",
+          "ok": true,
+          "why": "Correct. Cats lack the enzymes to clear minoxidil safely; wash hands thoroughly and ban pets from treated pillows."
+        },
+        {
+          "label": "Nobody—minoxidil is only risky if someone drinks the bottle",
+          "ok": false,
+          "why": "Documented feline fatalities have occurred from grooming trace residue off owners’ hands and bedding."
+        },
+        {
+          "label": "Only houseplants near the bed",
+          "ok": false,
+          "why": "The plants are fine; your cat’s myocardium is not."
+        }
+      ]
+    },
+    {
+      "q": "A toddler swallows a lithium coin (button) battery and is still smiling and breathing normally. Which move is right?",
+      "caseSlug": "battery-already-in-the-stomach",
+      "caseRef": "Case 103",
+      "options": [
+        {
+          "label": "Wait 24 hours to see if it passes in the diaper",
+          "ok": false,
+          "why": "Button batteries can burn through an esophagus in 2 hours—and keep eroding into the aorta even days later."
+        },
+        {
+          "label": "Head straight to the ER for immediate X-ray localization (and if >12 mo old & <12 h since swallow, give honey en route per NBIH guidance)",
+          "ok": true,
+          "why": "Correct. Never wait for symptoms and never induce vomiting."
+        },
+        {
+          "label": "Induce vomiting immediately at home",
+          "ok": false,
+          "why": "Vomiting can re-lodge the battery directly against the esophagus or airway."
+        }
+      ]
+    },
+    {
+      "q": "A coworker collapses inside a manure/sludge tank—and the air doesn’t even smell like rotten eggs anymore. Why is that terrifying?",
+      "caseSlug": "tank-after-the-collapse-h2s",
+      "caseRef": "Case 094",
+      "options": [
+        {
+          "label": "The gas dissipated, so it’s safe to climb down and pull them out",
+          "ok": false,
+          "why": "That’s how 1 victim becomes 4. High-concentration H₂S paralyzes your sense of smell instantly."
+        },
+        {
+          "label": "High-concentration hydrogen sulfide (>100 ppm) knocks out olfactory nerves—NEVER enter without SCBA; call hazmat/911",
+          "ok": true,
+          "why": "Correct. “No smell” in a confined tank can mean lethal knockdown concentration."
+        },
+        {
+          "label": "Hold your breath and tie a rope around your waist",
+          "ok": false,
+          "why": "One involuntary gasp at >700 ppm causes instant knockdown collapse."
+        }
+      ]
+    },
+    {
+      "q": "A patient taking prescription nitroglycerin grabs a gas-station “Royal Honey” packet and suddenly feels dizzy with blue-tinted vision. What happened?",
+      "caseSlug": "gas-station-royal-honey-blue-vision",
+      "caseRef": "Case 127",
+      "options": [
+        {
+          "label": "Hidden 60–150 mg sildenafil/tadalafil inside the honey collided with nitroglycerin, triggering distributive blood-pressure shock + retinal PDE6 blue vision",
+          "ok": true,
+          "why": "Correct. Tell paramedics about the supplement immediately so they NEVER give more nitrates."
+        },
+        {
+          "label": "Simple raw-honey allergy",
+          "ok": false,
+          "why": "Honey doesn’t inhibit retinal PDE6 or crash blood pressure with nitrates—unlabeled Viagra does."
+        },
+        {
+          "label": "Too much natural caffeine",
+          "ok": false,
+          "why": "Caffeine raises blood pressure; PDE5 + nitrate synergy bottoms it out."
+        }
+      ]
+    },
+    {
+      "q": "Your Labrador recovers from backyard wild-mushroom poisoning—her liver ALT dropped 87% by Day 8! On Day 24 she stops eating again, but ALT is nearly normal. What does that mean?",
+      "caseSlug": "illness-after-the-mushroom",
+      "caseRef": "Case 092",
+      "options": [
+        {
+          "label": "Her liver is healed, so she’s just being picky",
+          "ok": false,
+          "why": "A falling ALT only means fewer hepatocytes are actively bursting—it never rules out Act Two."
+        },
+        {
+          "label": "Treat returning lethargy/anorexia as a fresh ER emergency (this dog crashed into life-threatening Addison’s adrenal crisis with near-normal ALT)",
+          "ok": true,
+          "why": "Correct. The changing patient ALWAYS outranks a pretty lab graph."
+        },
+        {
+          "label": "Give extra water and wait a week for the next recheck",
+          "ok": false,
+          "why": "Her blood sugar was 43 mg/dL and potassium was climbing toward cardiac arrest."
+        }
+      ]
+    },
+    {
+      "q": "A healthy homeowner gets struck in the eye by a snapped rusted bungee hook. Eye pressure checks out normal at 16 mmHg. Safe to skip ophthalmology?",
+      "caseSlug": "hook-and-the-changed-pupil",
+      "caseRef": "Case 106",
+      "options": [
+        {
+          "label": "Yes—normal pressure means the eyeball is structurally intact",
+          "ok": false,
+          "why": "This exact patient had 20/800 vision, a torn iris root (iridodialysis), and internal bleeding (hyphema) at 15–17 mmHg."
+        },
+        {
+          "label": "No—shield the eye without pressure and get urgent ophthalmology evaluation for any recoil vision drop, irregular pupil, or hyphema",
+          "ok": true,
+          "why": "Correct. Normal pressure never cancels visible internal injury."
+        },
+        {
+          "label": "Flush with tap water for 20 minutes and press a cold compress directly onto the eye",
+          "ok": false,
+          "why": "Never press on a blunt-trauma globe—that is for chemical splashes, not mechanical recoil."
+        }
+      ]
+    }
+  ],
+  "starterPacks": [
+    {
+      "id": "visual-pilot",
+      "label": "🔬 Visual Exhibits & Diagrams (14)",
+      "tagline": "Our newly upgraded showcase featuring verified CC-BY primary X-rays, CTs, MRIs, clinical photos, custom forensic diagrams & interactive gut-checks.",
+      "slugs": [
+        "fractal-wood-burning",
+        "driveway-ied-truck-tire",
+        "dry-ice-riding-shotgun",
+        "pressure-washer-pinhole",
+        "nail-gun-normal-xray",
+        "wire-behind-the-pain",
+        "chocolate-brown-blood",
+        "reusable-contacts-tap-water",
+        "negative-test-ectopic-bleed",
+        "bracelet-became-a-blood-test",
+        "toy-that-kept-growing-water-beads",
+        "hook-and-the-changed-pupil",
+        "plant-and-the-swollen-brain-sago-palm",
+        "hot-baths-fentanyl-patches-deadly"
+      ]
+    },
+    {
+      "id": "bbq",
+      "label": "🔥 Backyard, BBQ & Garage Pack (10)",
+      "tagline": "Weekend projects, grill brushes, commercial tires, dry ice, rust cleaners, and bungee cords that punch far above their price tag.",
+      "slugs": [
+        "fractal-wood-burning",
+        "driveway-ied-truck-tire",
+        "dry-ice-riding-shotgun",
+        "pressure-washer-pinhole",
+        "nail-gun-normal-xray",
+        "wire-behind-the-pain",
+        "room-not-safe-to-finish",
+        "hook-and-the-changed-pupil",
+        "burn-that-stole-calcium-hf-acid",
+        "current-left-no-mark-wet-voltage"
+      ]
+    },
+    {
+      "id": "gas-station",
+      "label": "⛽ Gas-Station & OTC Traps (8)",
+      "tagline": "No prescription required—and zero warning labels for the chemistry hiding behind the checkout counter.",
+      "slugs": [
+        "chocolate-brown-blood",
+        "sleep-aids-caffeine-nitrous",
+        "steroid-cream-adrenal-crisis",
+        "hot-baths-fentanyl-patches-deadly",
+        "sleep-aid-and-dark-urine-doxylamine",
+        "antidepressant-opioid-screen-missed",
+        "poppy-seed-bagel-and-kratom-loophole",
+        "gas-station-royal-honey-blue-vision"
+      ]
+    },
+    {
+      "id": "lying-labs",
+      "label": "🧪 When the First ER Test Lied (12)",
+      "tagline": "Normal X-rays, frozen 85% oximeters, negative pregnancy tests, clear CTs, and lab-tube illusions.",
+      "slugs": [
+        "chocolate-brown-blood",
+        "nail-gun-normal-xray",
+        "negative-test-ectopic-bleed",
+        "testicular-torsion-doppler",
+        "toy-that-kept-growing-water-beads",
+        "lithium-that-came-from-the-tube",
+        "scan-before-the-flap-aorta",
+        "hook-and-the-changed-pupil",
+        "test-with-a-smaller-target-legionella",
+        "lactate-that-was-not-lactate-antifreeze",
+        "potassium-that-rose-in-the-tube",
+        "piece-the-camera-couldnt-see-eoe"
+      ]
+    },
+    {
+      "id": "pets",
+      "label": "🐾 Pet Owner’s Mandatory 18",
+      "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
+      "partFilter": "pets"
+    }
+  ]
+}

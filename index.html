@@ -17,8 +17,10 @@
       <div><span class="ot-live-dot"></span>THE MORGUE GAZETTE · BLACK-BOX FLIGHT RECORDER FOR HUMAN BIOLOGY</div>
       <div>
         <a href="#featured">Featured</a> ·
+        <a href="#house-map">House Map</a> ·
         <a href="#catalog" id="nav-catalog-link">All Stories</a> ·
-        <a href="#watchlist" id="nav-watchlist-link">Studio Pipeline (Ep 1005+)</a> ·
+        <a href="poster.html">Lying Lab Poster</a> ·
+        <a href="#exam" id="nav-exam-link">Survival Exam</a> ·
         <a id="top-bible-link" href="https://docs.google.com/document/d/1paOx0iSE3D_sUN3y3qcSTKIxdTBbWFi35ODoj09BMcc/edit" target="_blank" rel="noopener">Show Bible ↗</a>
       </div>
     </div>
@@ -51,12 +53,19 @@
       <div class="ot-spread" id="featured-spread"></div>
     </section>
 
+    <!-- Interactive House of Traps Blueprint -->
+    <section id="house-map" class="ot-floorplan-wrap">
+      <div id="house-map-root"></div>
+    </section>
+
     <!-- Full Book & Site Catalog -->
     <section id="catalog">
       <div class="ot-section-head">
         <h2 id="catalog-heading">All Stories — Browse by Danger Zone</h2>
         <span class="ot-section-kicker" id="catalog-count-label">Loading Case Files...</span>
       </div>
+
+      <div id="starter-packs-root"></div>
 
       <div class="ot-toolbar">
         <div class="ot-pills" id="filter-pills"></div>
@@ -126,7 +135,13 @@
     </div>
   </div>
 
+  <!-- Standalone 10-Question Tuesday Survival Exam Modal -->
+  <div class="ot-exam-modal" id="ot-exam-modal" role="dialog" aria-modal="true" aria-label="Would You Survive an Ordinary Tuesday Exam">
+    <div class="ot-exam-panel" id="ot-exam-panel"></div>
+  </div>
+
   <script src="data/bundle.js"></script>
+  <script src="assets/diagrams.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Lying Lab Test Poster — How Not to Die on an Ordinary Tuesday</title>
+  <meta name="description" content="A printable 1-page forensic field poster cataloging 12 real medical emergencies where the first test, scan, or monitor printed 'normal'—and what to ask for instead." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,600;0,6..72,700;0,6..72,800;1,6..72,500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/styles.css" />
+  <style>
+    .poster-sheet {
+      max-width: 1020px;
+      margin: 28px auto 48px;
+      background: #FFFFFF;
+      border: 1px solid var(--rule-strong);
+      border-top: 5px solid var(--crimson);
+      border-radius: 14px;
+      padding: 32px 34px;
+      box-shadow: 0 12px 32px rgba(24, 24, 27, 0.06);
+    }
+    .poster-head {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+      border-bottom: 2px solid var(--ink);
+      padding-bottom: 18px;
+      margin-bottom: 22px;
+    }
+    .poster-kicker {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--crimson);
+      margin-bottom: 6px;
+    }
+    .poster-head h1 {
+      font-family: var(--font-serif);
+      font-size: clamp(1.9rem, 3.8vw, 2.7rem);
+      line-height: 1.04;
+      margin: 0 0 6px;
+      letter-spacing: -0.02em;
+    }
+    .poster-head p {
+      margin: 0;
+      color: var(--ink-soft);
+      font-size: 0.95rem;
+      max-width: 620px;
+    }
+    .poster-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 14px;
+    }
+    .poster-tile {
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      padding: 14px 15px;
+      background: var(--paper);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .poster-tile-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: var(--font-mono);
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--ink-muted);
+    }
+    .poster-tile-top a { color: var(--crimson); text-decoration: none; }
+    .poster-tile h2 {
+      font-family: var(--font-serif);
+      font-size: 1.08rem;
+      line-height: 1.2;
+      margin: 0;
+      color: var(--ink);
+    }
+    .poster-lie {
+      font-size: 12px;
+      background: #FFF;
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+      padding: 6px 8px;
+      line-height: 1.4;
+    }
+    .poster-lie strong { color: var(--ink); }
+    .poster-truth {
+      font-size: 12px;
+      background: var(--crimson-soft);
+      border-left: 3px solid var(--crimson);
+      border-radius: 0 6px 6px 0;
+      padding: 6px 8px;
+      line-height: 1.4;
+      color: #292524;
+    }
+    .poster-truth strong { color: var(--crimson); }
+    .poster-foot {
+      margin-top: 22px;
+      padding-top: 14px;
+      border-top: 1px solid var(--rule);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 10px;
+      font-family: var(--font-mono);
+      font-size: 10.5px;
+      color: var(--ink-muted);
+    }
+    @media print {
+      @page { size: letter landscape; margin: 0.35in; }
+      body { padding: 0 !important; background: #FFF !important; }
+      .ot-ledger-bar, .ot-no-print { display: none !important; }
+      .poster-sheet { margin: 0; border: 1px solid #18181B; box-shadow: none; padding: 14px 16px; max-width: 100%; border-radius: 0; }
+      .poster-head { padding-bottom: 8px; margin-bottom: 10px; }
+      .poster-head h1 { font-size: 1.65rem; }
+      .poster-grid { grid-template-columns: repeat(4, 1fr); gap: 8px; }
+      .poster-tile { padding: 8px 9px; gap: 4px; break-inside: avoid; }
+      .poster-tile h2 { font-size: 0.85rem; }
+      .poster-lie, .poster-truth { font-size: 9.5px; padding: 4px 6px; }
+      .poster-foot { margin-top: 10px; padding-top: 8px; font-size: 8.5px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="ot-ledger-bar ot-no-print">
+    <div class="ot-ledger-inner">
+      <div><span class="ot-live-dot"></span>THE MORGUE GAZETTE · PRINTABLE WALL POSTER</div>
+      <div>
+        <a href="index.html">← Back to All 136 Stories</a> ·
+        <a href="index.html?pack=lying-labs">Read All 12 Full Cases</a>
+      </div>
+    </div>
+  </div>
+
+  <main class="ot-wrap">
+    <div class="poster-sheet">
+      <div class="poster-head">
+        <div>
+          <div class="poster-kicker">PRINTABLE FIELD REFERENCE · HOW NOT TO DIE ON AN ORDINARY TUESDAY</div>
+          <h1>The Lying Lab Test</h1>
+          <p>Twelve documented clinical emergencies where the first test, scan, or monitor printed “normal”—and the single counter-question that exposes the trap.</p>
+        </div>
+        <div class="ot-btn-row ot-no-print">
+          <button type="button" class="ot-btn primary" onclick="window.print()">🖨 Print / Save 1-Page PDF</button>
+          <a class="ot-btn" href="index.html">← Full Reader</a>
+        </div>
+      </div>
+
+      <div class="poster-grid">
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 015 · EP 2252</span><a href="story.html?case=chocolate-brown-blood">Read →</a></div>
+          <h2>The Frozen 85% Pulse Oximeter</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Finger SpO₂ sits near 85–88% on 100% O₂ while PaO₂ looks great.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> After benzocaine/nitrites + gray skin, demand <strong>co-oximetry</strong> for methemoglobinemia + IV methylene blue.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 032 · EP 2248</span><a href="story.html?case=negative-test-ectopic-bleed">Read →</a></div>
+          <h2>The Negative Urine Pregnancy Test</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Point-of-care urine hCG printed negative in a crashing patient.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Severe pelvic pain + fainting in any reproductive-age woman needs <strong>quantitative serum β-hCG + pelvic ultrasound</strong>.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 006 · EP 2285</span><a href="story.html?case=nail-gun-normal-xray">Read →</a></div>
+          <h2>The “Clear” Nail-Gun Chest X-Ray</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Tiny skin dot + reassuring early exam hides an embedded projectile.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Never pull a nail out yourself; any chest/neck nail-gun puncture requires <strong>CT imaging</strong> near great vessels &amp; heart.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 008 · EP 2283</span><a href="story.html?case=wire-behind-the-pain">Read →</a></div>
+          <h2>The Invisible Grill-Brush Wire</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Normal stool, zero metallic taste, and plain X-rays miss a 2-cm wire.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Tell the ER explicitly you ate grilled food—request <strong>thin-slice CT</strong> to spot walled-off perforation.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 072 · EP 2288</span><a href="story.html?case=toy-that-kept-growing-water-beads">Read →</a></div>
+          <h2>The Radiolucent Water Bead</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Swallowed superabsorbent polymer beads are 99% water—invisible on X-ray.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> If a toddler vomits after water-bead exposure, ask for <strong>targeted abdominal ultrasound</strong> (shows crisp round spheres).</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 106 · EP 2615</span><a href="story.html?case=hook-and-the-changed-pupil">Read →</a></div>
+          <h2>Normal Eye Pressure After a Bungee Hook</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Eye pressure measured 15–17 mmHg with a negative corneal dye test.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Blurred vision, irregular pupil, or hyphema blood = <strong>urgent ophthalmology</strong> even when pressure reads normal.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 104 · EP 2613</span><a href="story.html?case=scan-before-the-flap-aorta">Read →</a></div>
+          <h2>The Clear CT Six Days Earlier</h2>
+          <div class="poster-lie"><strong>What lied:</strong> A clean chest CTA last week gave false reassurance when new pain struck.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Aortic dissections evolve in hours. New tearing chest/back pain demands <strong>fresh imaging</strong>—not last week’s chart.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 107 · EP 2616</span><a href="story.html?case=test-with-a-smaller-target-legionella">Read →</a></div>
+          <h2>The Narrow <em>Legionella</em> Urine Test</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Standard urinary antigen tests only catch serogroup 1—missing other strains.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Severe pneumonia after soil/compost/water exposure needs <strong>lower-respiratory PCR/culture</strong> and empiric coverage.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 116 · EP 2053</span><a href="story.html?case=lactate-that-was-not-lactate-antifreeze">Read →</a></div>
+          <h2>The 26-mmol/L Fake Lactate</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Bedside blood-gas analyzer misread antifreeze glycolate as “septic shock lactate.”</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Huge gap between POC lactate and core-lab lactate = classic <strong>ethylene glycol</strong> clue—start fomepizole immediately.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 131 · EP 1149</span><a href="story.html?case=potassium-that-rose-in-the-tube">Read →</a></div>
+          <h2>The Pneumatic-Tube Fake Potassium</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Pneumatic tube delivery sheared fragile leukemia WBCs, printing lethal K⁺.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Sky-high K⁺ with a normal ECG in leukocytosis? Check <strong>hand-carried whole-blood gas K⁺</strong> before giving insulin.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 088 · EP 2316</span><a href="story.html?case=lithium-that-came-from-the-tube">Read →</a></div>
+          <h2>The Lithium That Came From the Tube</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Blood drawn into a lithium-heparin green-top tube printed toxic lithium levels.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> Asymptomatic “toxic” lithium level? Verify <strong>tube color</strong> and redraw in a plain serum tube before triggering dialysis.</div>
+        </article>
+
+        <article class="poster-tile">
+          <div class="poster-tile-top"><span>CASE 092 · EP 2320</span><a href="story.html?case=illness-after-the-mushroom">Read →</a></div>
+          <h2>The 87% Better Liver Chart (Pets &amp; Humans)</h2>
+          <div class="poster-lie"><strong>What lied:</strong> Falling ALT after mushroom toxicity looked cured while cortisol flatlined.</div>
+          <div class="poster-truth"><strong>Counter-move:</strong> A quieter smoke alarm isn’t a rebuilt house—<strong>worsening clinical signs ALWAYS outrank improving lab graphs.</strong></div>
+        </article>
+      </div>
+
+      <div class="poster-foot">
+        <span>HOW NOT TO DIE ON AN ORDINARY TUESDAY · EDUCATIONAL FORENSIC JOURNALISM (NOT PERSONAL MEDICAL ADVICE — CALL 911 IN EMERGENCIES)</span>
+        <span>FULL 136-CASE ARCHIVE: yorekms.github.io/ordinary-tuesday · my-ordinary-tuesday.carrd.co</span>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

@@ -1113,4 +1113,473 @@ a:hover { color: var(--crimson-dark); }
     color: #000 !important;
   }
   .ot-step { background: #FFF !important; border: 1px solid #000 !important; }
+  .ot-exhibit-media img.is-blurred { filter: none !important; transform: none !important; }
+  .ot-unseal-overlay, .ot-quiz-box, .ot-exam-modal { display: none !important; }
+}
+
+/* ==========================================================================
+   TRACKS 1–4 UPGRADE: CLINICAL EXHIBITS, DIAGRAMS, HOUSE MAP, QUIZZES & PACKS
+   ========================================================================== */
+
+/* Interactive Architectural House Map */
+.ot-floorplan-wrap {
+  margin: 0 0 36px;
+}
+.ot-floorplan-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 14px;
+  box-shadow: 0 12px 32px rgba(24, 24, 27, 0.14);
+}
+.ot-room-hotspot {
+  cursor: pointer;
+  transition: opacity 0.18s ease;
+}
+.ot-room-hotspot rect {
+  transition: stroke 0.18s ease, fill 0.18s ease;
+}
+.ot-room-hotspot:hover rect,
+.ot-room-hotspot:focus rect {
+  stroke: #FCA5A5;
+  stroke-width: 2.2;
+  fill: #2B2427;
+}
+.ot-room-hotspot:focus { outline: none; }
+
+/* Curated Starter Packs Row */
+.ot-packs-wrap {
+  margin: 0 0 18px;
+  padding: 14px 16px;
+  background: var(--paper-bright);
+  border: 1px solid var(--rule);
+  border-radius: 12px;
+}
+.ot-packs-label {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin-bottom: 9px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+}
+.ot-packs-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+.ot-pack-pill {
+  appearance: none;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--rule-strong);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.ot-pack-pill:hover { border-color: var(--crimson); color: var(--crimson); }
+.ot-pack-pill.active {
+  background: var(--crimson);
+  border-color: var(--crimson);
+  color: #FFF;
+}
+.ot-pack-banner {
+  margin-top: 10px;
+  padding: 10px 13px;
+  background: var(--crimson-soft);
+  border-left: 3px solid var(--crimson);
+  border-radius: 0 8px 8px 0;
+  font-size: 13px;
+  color: var(--ink);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Survived Progress Stamp */
+.ot-survived-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #ECFDF5;
+  color: #065F46;
+  border: 1px solid #A7F3D0;
+}
+.ot-exhibit-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #EFF6FF;
+  color: #1E40AF;
+  border: 1px solid #BFDBFE;
+}
+.ot-survive-toggle {
+  appearance: none;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1.5px dashed var(--rule-strong);
+  background: var(--paper-bright);
+  color: var(--ink-soft);
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+.ot-survive-toggle:hover { border-color: #059669; color: #065F46; }
+.ot-survive-toggle.done {
+  border-style: solid;
+  border-color: #059669;
+  background: #ECFDF5;
+  color: #065F46;
+}
+
+/* Track 1: Primary-Source Clinical Exhibits with Blur Shield */
+.ot-exhibits-stack {
+  margin: 28px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.ot-exhibit-card {
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  border-top: 3px solid var(--crimson);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(24, 24, 27, 0.05);
+}
+.ot-exhibit-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: var(--steel);
+  color: var(--steel-text);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+.ot-lic-pill {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #064E3B;
+  color: #A7F3D0;
+  border: 1px solid #059669;
+  text-decoration: none;
+}
+.ot-lic-pill:hover { color: #FFF; }
+.ot-exhibit-media {
+  position: relative;
+  background: #0F1115;
+  overflow: hidden;
+  min-height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ot-exhibit-media img {
+  display: block;
+  width: 100%;
+  max-height: 520px;
+  object-fit: contain;
+  transition: filter 0.35s ease, transform 0.35s ease;
+}
+.ot-exhibit-media img.is-blurred {
+  filter: blur(22px) brightness(0.75);
+  transform: scale(1.06);
+}
+.ot-unseal-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  text-align: center;
+  background: rgba(15, 17, 21, 0.42);
+  gap: 10px;
+}
+.ot-unseal-stamp {
+  appearance: none;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 11px 20px;
+  border: 2px solid #FCA5A5;
+  border-radius: 8px;
+  background: rgba(180, 28, 28, 0.94);
+  color: #FFF;
+  cursor: pointer;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.45);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+.ot-unseal-stamp:hover { background: #921515; transform: scale(1.03); }
+.ot-unseal-note {
+  max-width: 440px;
+  font-size: 12.5px;
+  color: #F5F4F0;
+  background: rgba(24, 27, 32, 0.85);
+  padding: 7px 12px;
+  border-radius: 8px;
+  line-height: 1.45;
+}
+.ot-reseal-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  appearance: none;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(24, 27, 32, 0.82);
+  color: #F5F4F0;
+  cursor: pointer;
+}
+.ot-exhibit-foot {
+  padding: 14px 16px;
+  border-top: 1px solid var(--rule);
+  background: var(--paper);
+}
+.ot-exhibit-caption {
+  margin: 0 0 8px;
+  font-size: 13.5px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+.ot-exhibit-cite {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+/* External NC-ND Evidence Locker Link Bar */
+.ot-ext-fig-bar {
+  margin: 22px 0;
+  padding: 14px 16px;
+  background: var(--paper-bright);
+  border: 1px dashed var(--rule-strong);
+  border-left: 3px solid var(--steel);
+  border-radius: 10px;
+}
+.ot-ext-fig-kicker {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  margin-bottom: 8px;
+}
+.ot-ext-fig-links {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.ot-ext-fig-links a {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  padding: 7px 10px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 7px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.ot-ext-fig-links a:hover { border-color: var(--crimson); color: var(--crimson); }
+
+/* Track 2: Bespoke Forensic SVG Diagram Card */
+.ot-diagram-card {
+  margin: 28px 0;
+  background: var(--paper-bright);
+  border: 1px solid var(--rule-strong);
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 6px 20px rgba(24, 24, 27, 0.04);
+}
+.ot-diagram-badge {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--crimson);
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+.ot-diagram-card h3 {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  margin: 0 0 12px;
+  color: var(--ink);
+}
+.ot-diagram-svg-wrap svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.ot-diagram-cap {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+/* Track 3: Per-Story Gut-Check Quiz & Standalone Exam Modal */
+.ot-quiz-box {
+  margin: 28px 0 18px;
+  padding: 20px 22px;
+  background: #FFF;
+  border: 1px solid var(--crimson-border);
+  border-left: 4px solid var(--crimson);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(180, 28, 28, 0.06);
+}
+.ot-quiz-kicker {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--crimson);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.ot-quiz-prompt {
+  font-family: var(--font-serif);
+  font-size: 1.18rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 14px;
+  color: var(--ink);
+}
+.ot-quiz-opts {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.ot-quiz-opt {
+  appearance: none;
+  text-align: left;
+  font-family: var(--font-sans);
+  font-size: 13.5px;
+  font-weight: 500;
+  padding: 11px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--rule-strong);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  line-height: 1.45;
+  transition: all 0.15s ease;
+}
+.ot-quiz-opt:hover:not(:disabled) { border-color: var(--ink); background: #FFF; }
+.ot-quiz-opt.correct { background: #ECFDF5; border-color: #059669; color: #064E3B; font-weight: 600; }
+.ot-quiz-opt.wrong { background: #FDF2F2; border-color: var(--crimson); color: #7F1D1D; }
+.ot-quiz-feedback {
+  margin-top: 12px;
+  padding: 11px 14px;
+  border-radius: 8px;
+  font-size: 13.5px;
+  line-height: 1.5;
+  display: none;
+}
+.ot-quiz-feedback.show { display: block; }
+.ot-quiz-feedback.ok { background: #ECFDF5; border: 1px solid #A7F3D0; color: #064E3B; }
+.ot-quiz-feedback.bad { background: #FDF2F2; border: 1px solid #F5C6C6; color: #7F1D1D; }
+
+/* Standalone 10-Question Survival Exam Modal */
+.ot-exam-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100000;
+  background: rgba(15, 17, 21, 0.76);
+  backdrop-filter: blur(4px);
+  padding: 20px;
+  overflow-y: auto;
+  align-items: center;
+  justify-content: center;
+}
+.ot-exam-modal.open { display: flex; }
+.ot-exam-panel {
+  width: 100%;
+  max-width: 680px;
+  background: var(--paper);
+  border: 1px solid var(--rule-strong);
+  border-top: 5px solid var(--crimson);
+  border-radius: 14px;
+  padding: 26px 28px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.45);
+  position: relative;
+}
+.ot-exam-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--crimson);
+}
+.ot-exam-score-card {
+  text-align: center;
+  padding: 18px 10px 8px;
+}
+.ot-exam-score-num {
+  font-family: var(--font-serif);
+  font-size: 3.4rem;
+  font-weight: 800;
+  color: var(--crimson);
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.ot-exam-verdict {
+  font-family: var(--font-serif);
+  font-size: 1.55rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 10px;
 }
