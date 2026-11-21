@@ -685,6 +685,167 @@
         '<text x="386" y="200" font-family="Inter,sans-serif" font-size="11" fill="#D6D3D1">  only decompression + surgery untwists it.</text>' +
         '<text x="386" y="226" font-family="IBM Plex Mono,monospace" font-size="9.5" fill="#94A3B8">X-RAY SIGN: “POPEYE ARM” / DOUBLE BUBBLE</text>' +
         '</svg>'
+    },
+
+    /* ==================== WAVE 5 SIGNATURE INFOGRAPHICS (+6 -> 26 TOTAL!) ==================== */
+    'small-hands-moving-treadmill-belt': {
+      badge: 'FORENSIC INFOGRAPHIC · HOME FRICTION PINCH TRAP',
+      title: 'Why a 3-MPH Treadmill Belt Burns Deeper Than a Kitchen Stove',
+      caption: 'A toddler’s palm trapped at the rear roller gets sand-papered and superheated by continuous belt friction—turning seconds of contact into deep full-thickness palmar burns.',
+      svg:
+        '<svg viewBox="0 0 720 275" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Safety diagram of home treadmill rear roller pinch zone and toddler hand friction burn prevention">' +
+        '<rect width="720" height="275" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="430" height="176" rx="8" fill="#FFF" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">THE REAR ROLLER PINCH-POINT MECHANISM</text>' +
+        '<rect x="52" y="102" width="290" height="26" rx="13" fill="#181B20"/>' +
+        '<circle cx="72" cy="115" r="10" fill="#64748B"/><circle cx="322" cy="115" r="10" fill="#B41C1C"/>' +
+        '<line x1="88" y1="92" x2="290" y2="92" stroke="#B41C1C" stroke-width="2.5" stroke-dasharray="6 4"/>' +
+        '<text x="190" y="84" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">HIGH-GRIT BELT PULLS TOWARD REAR →</text>' +
+        '<circle cx="340" cy="115" r="24" fill="#FDF2F2" stroke="#B41C1C" stroke-width="2" stroke-dasharray="4 3"/>' +
+        '<text x="340" y="156" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">PINCH + HEAT ZONE</text>' +
+        '<text x="36" y="182" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">Combined abrasion + thermal burn causes palmar contractures if untreated.</text>' +
+        '<rect x="468" y="22" width="232" height="176" rx="8" fill="#181B20"/>' +
+        '<text x="484" y="46" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#4ADE80">4 NON-NEGOTIABLE RULES</text>' +
+        '<text x="484" y="74" font-family="Inter,sans-serif" font-size="11" fill="#FFF">1. Pull safety key &amp; unplug</text>' +
+        '<text x="484" y="98" font-family="Inter,sans-serif" font-size="11" fill="#FFF">2. Face the room—never a wall</text>' +
+        '<text x="484" y="122" font-family="Inter,sans-serif" font-size="11" fill="#FFF">3. Closed door / gate for kids</text>' +
+        '<text x="484" y="146" font-family="Inter,sans-serif" font-size="11" fill="#FCA5A5">4. Cool water 20 min + hand ER</text>' +
+        '<text x="484" y="176" font-family="IBM Plex Mono,monospace" font-size="9" fill="#94A3B8">NO ICE · NO BUTTER · NO POPPING</text>' +
+        '<rect x="20" y="212" width="680" height="42" rx="7" fill="#FDF2F2" stroke="#F5C6C6"/>' +
+        '<text x="360" y="238" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10.5" font-weight="700" fill="#B41C1C">PALM BURNS IN TODDLERS NEED BURN/HAND SPECIALIST REVIEW—EVEN WHEN SMALL.</text>' +
+        '</svg>'
+    },
+
+    'thyroid-that-changed-in-the-test-biotin': {
+      badge: 'FORENSIC INFOGRAPHIC · SUPPLEMENT ASSAY HIJACK',
+      title: 'How an OTC Hair-Vitamin Gummy Forges Fake Graves’ Disease in the Lab',
+      caption: 'High-dose biotin (vitamin B7) does not alter your real thyroid hormones—it floods streptavidin-biotin lab analyzers, making TSH look falsely zero and Free T4 look dangerously high.',
+      svg:
+        '<svg viewBox="0 0 720 275" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram comparing sandwich assay false low TSH and competitive assay false high Free T4 caused by excess OTC biotin">' +
+        '<rect width="720" height="275" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="330" height="170" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.6"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">SANDWICH ASSAY (TSH · TROPONIN)</text>' +
+        '<text x="36" y="76" font-family="Newsreader,Georgia,serif" font-size="20" font-weight="700" fill="#18181B">Falsely LOW / Zero</text>' +
+        '<text x="36" y="102" font-family="Inter,sans-serif" font-size="11" fill="#44403C">Free supplement biotin hogs the</text>' +
+        '<text x="36" y="118" font-family="Inter,sans-serif" font-size="11" fill="#44403C">streptavidin beads, washing the</text>' +
+        '<text x="36" y="134" font-family="Inter,sans-serif" font-size="11" fill="#44403C">real hormone signal down the drain.</text>' +
+        '<text x="36" y="166" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">CAN ALSO HIDE A REAL HEART ATTACK!</text>' +
+        '<rect x="370" y="22" width="330" height="170" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.6"/>' +
+        '<text x="386" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">COMPETITIVE ASSAY (FREE T4 / T3)</text>' +
+        '<text x="386" y="76" font-family="Newsreader,Georgia,serif" font-size="20" font-weight="700" fill="#18181B">Falsely SKY-HIGH</text>' +
+        '<text x="386" y="102" font-family="Inter,sans-serif" font-size="11" fill="#44403C">Less captured signal is interpreted</text>' +
+        '<text x="386" y="118" font-family="Inter,sans-serif" font-size="11" fill="#44403C">backwards as massive hormone excess—</text>' +
+        '<text x="386" y="134" font-family="Inter,sans-serif" font-size="11" fill="#44403C">triggering unnecessary thyroid drugs.</text>' +
+        '<text x="386" y="166" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">CALM PATIENT + WILD LABS = CHECK VITAMINS</text>' +
+        '<rect x="20" y="208" width="680" height="46" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="236" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10.5" font-weight="700" fill="#4ADE80">FIRST 60 SECONDS: TELL EVERY LAB &amp; ER ABOUT HAIR/NAIL BIOTIN · HOLD BEFORE BLOOD DRAWS.</text>' +
+        '</svg>'
+    },
+
+    'thread-beneath-the-swelling-hair-tourniquet': {
+      badge: 'FORENSIC INFOGRAPHIC · ESCALATING ISCHEMIA LOOP',
+      title: 'Hair-Thread Tourniquet: How One Wet Strand Disappears Inside a Swollen Digit',
+      caption: 'Wet hair stretches easily, then shrinks as it dries—cutting off venous outflow first so swelling balloons over the strand and hides the cause beneath skin folds.',
+      svg:
+        '<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="4-stage escalation of infant hair-thread tourniquet syndrome from wet hair wrap to hidden deep constriction">' +
+        '<rect width="720" height="270" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="156" height="166" rx="8" fill="#FFF" stroke="#E4E0D8"/><text x="34" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">01 · WET WRAP</text><text x="34" y="74" font-family="Inter,sans-serif" font-size="11.5" font-weight="700" fill="#18181B">Stray Hair in Footie</text><text x="34" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">Loops around a toe,</text><text x="34" y="114" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">finger, or diaper area;</text><text x="34" y="130" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">tightens as it dries.</text>' +
+        '<rect x="194" y="22" width="156" height="166" rx="8" fill="#FFF" stroke="#F5C6C6"/><text x="208" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">02 · VENOUS BLOCK</text><text x="208" y="74" font-family="Inter,sans-serif" font-size="11.5" font-weight="700" fill="#18181B">Swelling Hides Loop</text><text x="208" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">Blood flows in but</text><text x="208" y="114" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">cannot drain out; skin</text><text x="208" y="130" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">rolls bury the thread.</text>' +
+        '<rect x="368" y="22" width="156" height="166" rx="8" fill="#FDF2F2" stroke="#B41C1C"/><text x="382" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">03 · ARTERIAL CUT</text><text x="382" y="74" font-family="Inter,sans-serif" font-size="11.5" font-weight="700" fill="#B41C1C">Tissue Ischemia</text><text x="382" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">Looks like a bug bite</text><text x="382" y="114" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">or mild infection while</text><text x="382" y="130" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">circulation starves.</text>' +
+        '<rect x="542" y="22" width="158" height="166" rx="8" fill="#181B20"/><text x="556" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#4ADE80">04 · 60-SEC CHECK</text><text x="556" y="74" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FFF">Unconsolable Baby?</text><text x="556" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">Strip socks &amp; mittens;</text><text x="556" y="114" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">inspect every crease.</text><text x="556" y="138" font-family="Inter,sans-serif" font-size="10.5" fill="#FCA5A5">Embedded? ER STAT.</text>' +
+        '<rect x="20" y="204" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="231" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">NEVER DIG WITH SHARP BLADES INTO A SWOLLEN BABY DIGIT—ER MAGNIFICATION RELEASES IT SAFELY.</text>' +
+        '</svg>'
+    },
+
+    'burn-looked-like-infection-wet-cement': {
+      badge: 'FORENSIC INFOGRAPHIC · DELAYED ALKALINE LIQUEFACTION',
+      title: 'Why Wet Cement Feels Harmless at 10 AM and Eats Through Skin by Dinner',
+      caption: 'Wet Portland cement hits pH 12–13. Unlike acid burns that sting instantly, caustic alkalis quietly saponify skin fats for hours inside damp boots or jeans—creating painless full-thickness ulcers.',
+      svg:
+        '<svg viewBox="0 0 720 275" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline of wet cement pH 12-13 alkaline skin burn showing painless early hours and delayed deep necrosis">' +
+        '<rect width="720" height="275" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="212" height="172" rx="8" fill="#ECFDF5" stroke="#A7F3D0"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#065F46">HR 0–1 · THE DECOY</text>' +
+        '<text x="36" y="76" font-family="Newsreader,Georgia,serif" font-size="20" font-weight="700" fill="#064E3B">“Just Cold Mud”</text>' +
+        '<text x="36" y="102" font-family="Inter,sans-serif" font-size="11" fill="#064E3B">Wet mortar soaks jeans</text>' +
+        '<text x="36" y="118" font-family="Inter,sans-serif" font-size="11" fill="#064E3B">or spills into boots.</text>' +
+        '<text x="36" y="134" font-family="Inter,sans-serif" font-size="11" fill="#064E3B">Zero immediate sting.</text>' +
+        '<text x="36" y="168" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#065F46">CAUSTIC pH: 12.0 – 13.0</text>' +
+        '<rect x="254" y="22" width="212" height="172" rx="8" fill="#FEF3C7" stroke="#F59E0B"/>' +
+        '<text x="270" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#92400E">HR 2–6 · SILENT MELT</text>' +
+        '<text x="270" y="76" font-family="Newsreader,Georgia,serif" font-size="20" font-weight="700" fill="#78350F">Liquefactive Burn</text>' +
+        '<text x="270" y="102" font-family="Inter,sans-serif" font-size="11" fill="#78350F">Hydroxide ions dissolve</text>' +
+        '<text x="270" y="118" font-family="Inter,sans-serif" font-size="11" fill="#78350F">cell membranes deeply;</text>' +
+        '<text x="270" y="134" font-family="Inter,sans-serif" font-size="11" fill="#78350F">pressure + sweat accelerate</text>' +
+        '<text x="270" y="150" font-family="Inter,sans-serif" font-size="11" fill="#78350F">chemical penetration.</text>' +
+        '<rect x="488" y="22" width="212" height="172" rx="8" fill="#181B20" stroke="#B41C1C" stroke-width="1.8"/>' +
+        '<text x="504" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">HR 8+ · FAKE INFECTION</text>' +
+        '<text x="504" y="76" font-family="Newsreader,Georgia,serif" font-size="17" font-weight="700" fill="#FFF">Deep Ulcer / Blisters</text>' +
+        '<text x="504" y="102" font-family="Inter,sans-serif" font-size="11" fill="#D6D3D1">Often misdiagnosed as</text>' +
+        '<text x="504" y="118" font-family="Inter,sans-serif" font-size="11" fill="#D6D3D1">cellulitis until skin dies</text>' +
+        '<text x="504" y="134" font-family="Inter,sans-serif" font-size="11" fill="#D6D3D1">down to fat &amp; graft depth.</text>' +
+        '<text x="504" y="168" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#4ADE80">STOP WORK → STRIP → FLUSH!</text>' +
+        '<rect x="20" y="210" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="237" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">WET CONCRETE INSIDE BOOTS OR JEANS? STRIP IMMEDIATELY &amp; FLUSH 20+ MIN WITH CLEAN WATER.</text>' +
+        '</svg>'
+    },
+
+    'handlebar-and-hidden-pancreatic-duct': {
+      badge: 'FORENSIC INFOGRAPHIC · ANVIL CRUSH PHYSICS',
+      title: 'The Handlebar Trap: A Faint Belly Ring Above a Crushed Pancreas',
+      caption: 'A bicycle handlebar end concentrates a child’s entire fall momentum into a 1-inch circle—pinning the soft retroperitoneal pancreas directly against the rigid lumbar spine.',
+      svg:
+        '<svg viewBox="0 0 720 275" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cross-section anatomy diagram showing bicycle handlebar pinning pancreas against the lumbar spine">' +
+        '<rect width="720" height="275" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="420" height="176" rx="8" fill="#FFF" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">THE SPINE-AS-ANVIL MECHANISM</text>' +
+        '<rect x="44" y="96" width="88" height="32" rx="6" fill="#181B20"/>' +
+        '<text x="88" y="116" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#FFF">HANDLEBAR</text>' +
+        '<text x="150" y="118" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="16" font-weight="700" fill="#B41C1C">→</text>' +
+        '<rect x="172" y="78" width="112" height="68" rx="10" fill="#FDF2F2" stroke="#B41C1C" stroke-width="2"/>' +
+        '<text x="228" y="106" text-anchor="middle" font-family="Inter,sans-serif" font-size="11.5" font-weight="700" fill="#B41C1C">PANCREAS</text>' +
+        '<text x="228" y="124" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9" fill="#7F1D1D">+ MAIN DUCT</text>' +
+        '<rect x="304" y="68" width="112" height="88" rx="10" fill="#F1F5F9" stroke="#475569" stroke-width="2"/>' +
+        '<text x="360" y="106" text-anchor="middle" font-family="Inter,sans-serif" font-size="11.5" font-weight="700" fill="#1E293B">LUMBAR SPINE</text>' +
+        '<text x="360" y="124" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9" fill="#475569">RIGID BONE ANVIL</text>' +
+        '<text x="36" y="182" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">Early amylase/lipase &amp; initial exam can look deceptively calm for hours.</text>' +
+        '<rect x="458" y="22" width="242" height="176" rx="8" fill="#181B20"/>' +
+        '<text x="474" y="46" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">RED FLAGS AFTER ANY BIKE SPILL</text>' +
+        '<text x="474" y="76" font-family="Inter,sans-serif" font-size="11" fill="#FFF">• Circular handlebar bruise</text>' +
+        '<text x="474" y="98" font-family="Inter,sans-serif" font-size="11" fill="#FFF">• Worsening belly pain / nausea</text>' +
+        '<text x="474" y="120" font-family="Inter,sans-serif" font-size="11" fill="#FFF">• Pain hours AFTER riding home</text>' +
+        '<text x="474" y="150" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#4ADE80">TELL THE ER THE EXACT MECHANISM:</text>' +
+        '<text x="474" y="170" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FDE68A">“The handlebar jammed the belly.”</text>' +
+        '<rect x="20" y="212" width="680" height="42" rx="7" fill="#FDF2F2" stroke="#F5C6C6"/>' +
+        '<text x="360" y="238" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">A HANDLEBAR MARK ON THE ABDOMEN IS NEVER “JUST A BRUISE”—DEMAND TRAUMA EVALUATION.</text>' +
+        '</svg>'
+    },
+
+    'thread-across-the-road-kite-string': {
+      badge: 'FORENSIC INFOGRAPHIC · MICRO-EDGE FORCE PHYSICS',
+      title: 'Why a Single Tensioned Kite Line Acts Like a Razor Wire at 35 MPH',
+      caption: 'Glass- or metal-coated synthetic kite string (manja) concentrates motorcycle momentum across a sub-millimeter edge—making an invisible line across a road a silent neck-level hazard.',
+      svg:
+        '<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Physics diagram showing pressure concentration of abrasive kite string across a roadway and rider protection strategies">' +
+        '<rect width="720" height="270" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="328" height="168" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.6"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">THE PRESSURE MULTIPLIER (P = F / A)</text>' +
+        '<text x="36" y="76" font-family="Newsreader,Georgia,serif" font-size="19" font-weight="700" fill="#18181B">Tiny Area × Road Speed</text>' +
+        '<text x="36" y="102" font-family="Inter,sans-serif" font-size="11" fill="#44403C">• Glass-coated nylon resists snapping.</text>' +
+        '<text x="36" y="122" font-family="Inter,sans-serif" font-size="11" fill="#44403C">• Nearly invisible against sky/asphalt.</text>' +
+        '<text x="36" y="142" font-family="Inter,sans-serif" font-size="11" fill="#44403C">• Sliding contact turns thread into a saw.</text>' +
+        '<text x="36" y="172" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">NECK VESSELS LIE MILLIMETERS UNDER SKIN</text>' +
+        '<rect x="372" y="22" width="328" height="168" rx="8" fill="#181B20"/>' +
+        '<text x="388" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#4ADE80">PREVENTION &amp; FIRST 60 SECONDS</text>' +
+        '<text x="388" y="74" font-family="Inter,sans-serif" font-size="11" fill="#FFF">1. Riders: wear high-collar neck guard</text>' +
+        '<text x="388" y="96" font-family="Inter,sans-serif" font-size="11" fill="#FFF">   &amp; wire deflector during kite festivals.</text>' +
+        '<text x="388" y="122" font-family="Inter,sans-serif" font-size="11" fill="#FCA5A5">2. Feel a catch? Brake smoothly—do NOT</text>' +
+        '<text x="388" y="142" font-family="Inter,sans-serif" font-size="11" fill="#FCA5A5">   yank bare hands across taut line.</text>' +
+        '<text x="388" y="168" font-family="Inter,sans-serif" font-size="11" fill="#4ADE80">3. Neck bleed: direct firm pressure + 911.</text>' +
+        '<rect x="20" y="204" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="231" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">USE PLAIN COTTON STRING AWAY FROM ROADS—ABRASIVE MANJA REMAINS LETHAL EVEN AFTER FALLING.</text>' +
+        '</svg>'
     }
   };
 
@@ -754,6 +915,7 @@
   /* Interactive Clickable "House of Traps" SVG Floorplan for index.html */
   function renderHouseMap(counts) {
     var c = counts || {};
+    var totalWays = Object.keys(c).reduce(function (acc, k) { return acc + (c[k] || 0); }, 0) || 136;
     function cnt(k) { return c[k] ? ' (' + c[k] + ')' : ''; }
     return (
       '<svg viewBox="0 0 960 310" xmlns="http://www.w3.org/2000/svg" class="ot-floorplan-svg" role="img" aria-label="Interactive floorplan of six everyday danger zones">' +
@@ -761,7 +923,7 @@
       '<defs><pattern id="ot-bp" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#252B34" stroke-width="1"/></pattern></defs>' +
       '<rect width="960" height="310" rx="14" fill="url(#ot-bp)"/>' +
       '<text x="24" y="30" font-family="IBM Plex Mono,monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#FCA5A5">ARCHITECTURAL HAZARD MAP · CLICK ANY ROOM TO INSPECT ITS TRAPS</text>' +
-      '<text x="936" y="30" text-anchor="end" font-family="IBM Plex Mono,monospace" font-size="10.5" fill="#94A3B8">SCALE: 1 TUESDAY = 136 WAYS OUT</text>' +
+      '<text x="936" y="30" text-anchor="end" font-family="IBM Plex Mono,monospace" font-size="10.5" fill="#94A3B8">SCALE: 1 TUESDAY = ' + totalWays + ' WAYS OUT</text>' +
 
       '<g class="ot-room-hotspot" data-room="garage" tabindex="0" role="button" aria-label="Filter Garage and Yard">' +
         '<rect x="24" y="48" width="292" height="114" rx="9" fill="#22272F" stroke="#475569" stroke-width="1.5"/>' +

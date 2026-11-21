@@ -41,10 +41,13 @@
     bk.onclick=function(){if(!cur)return;if(fb){tp=false;goNat(false);}else goFB();};
     $("otg-cl").onclick=function(){try{au.pause();}catch(e){}ifr.src="about:blank";dk.classList.remove("on");};
     dk.querySelectorAll("[data-sp]").forEach(function(b){b.onclick=function(){setR(parseFloat(b.getAttribute("data-sp")));};});
-    fetch(R+"data/catalog.json?v="+Date.now()).then(function(r){return r.json();}).then(function(cat){
+    Promise.all([fetch(R+"data/catalog.json?v="+Date.now()).then(function(r){return r.json();}),fetch(R+"data/exhibits.json?v="+Date.now()).then(function(r){return r.json();}).catch(function(){return{};})]).then(function(res){
+      var cat=res[0],exMeta=(res[1]&&res[1].meta)||{};
       var live=cat.cases.filter(function(c){return c.status==="live";});
       var words=cat.cases.reduce(function(s,c){return s+(c.spokenWords||0);},0);
-      $("otg-chs").innerHTML='<span class="ch red">'+live.length+' Stories Live</span><span class="ch">'+Math.round(words/1000)+'k+ Spoken Words</span><a class="b" href="'+R+'?pack=visual-pilot" target="_blank" rel="noopener">🩻 Clinical Exhibits ↗</a><a class="b" href="'+R+'?pack=infographics" target="_blank" rel="noopener">📐 20 Diagrams ↗</a><a class="b" href="'+R+'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="'+R+'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="'+R+'" target="_blank" rel="noopener">Full Reader ↗</a>';
+      var exN=exMeta.ccByClinicalExhibitStories||"";
+      var dgN=exMeta.bespokeInfographics||"";
+      $("otg-chs").innerHTML='<span class="ch red">'+live.length+' Stories Live</span><span class="ch">'+Math.round(words/1000)+'k+ Spoken Words</span><a class="b" href="'+R+'?pack=latest" target="_blank" rel="noopener">🆕 Latest Drops ↗</a><a class="b" href="'+R+'?pack=visual-pilot" target="_blank" rel="noopener">🩻 '+(exN?exN+" ":"")+'Clinical Exhibits ↗</a><a class="b" href="'+R+'?pack=infographics" target="_blank" rel="noopener">📐 '+(dgN?dgN+" ":"")+'Diagrams ↗</a><a class="b" href="'+R+'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="'+R+'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="'+R+'" target="_blank" rel="noopener">Full Reader ↗</a>';
       var rb=$("otg-rand");if(rb&&live.length){rb.onclick=function(){var pk=live[Math.floor(Math.random()*live.length)];window.open(R+"story.html?case="+encodeURIComponent(pk.slug),"_blank","noopener");};}
       var bar=$("otg-b"),grid=$("otg-g"),qEl=$("otg-q"),cntEl=$("otg-cnt"),mwEl=$("otg-mw"),flt="all",showAll=false;
       var btns=[["all","All ("+cat.cases.length+")",""]].concat(cat.parts.map(function(p){var n=cat.cases.filter(function(c){return c.part===p.id;}).length;return[p.id,(SH[p.id]||p.stamp)+" ("+n+")",""];}));

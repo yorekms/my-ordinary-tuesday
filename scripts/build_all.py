@@ -14,10 +14,17 @@ Generates:
   8. book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html (compiled book draft)
 """
 
+import argparse
 import json
 import os
 import html as html_mod
+import shutil
+import subprocess
 from pathlib import Path
+
+ap = argparse.ArgumentParser(description='Build web bundle, Carrd embeds, Markdown manuscript, Print HTML, and optional illustrated PDF book.')
+ap.add_argument('--pdf', action='store_true', help='Also render book/Ordinary_Tuesday_Book_Draft.pdf via headless Chrome')
+BUILD_ARGS = ap.parse_args()
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / 'data'
@@ -380,10 +387,13 @@ embed_js_code = (
     '    bk.onclick=function(){if(!cur)return;if(fb){tp=false;goNat(false);}else goFB();};\n'
     '    $("otg-cl").onclick=function(){try{au.pause();}catch(e){}ifr.src="about:blank";dk.classList.remove("on");};\n'
     '    dk.querySelectorAll("[data-sp]").forEach(function(b){b.onclick=function(){setR(parseFloat(b.getAttribute("data-sp")));};});\n'
-    '    fetch(R+"data/catalog.json?v="+Date.now()).then(function(r){return r.json();}).then(function(cat){\n'
+    '    Promise.all([fetch(R+"data/catalog.json?v="+Date.now()).then(function(r){return r.json();}),fetch(R+"data/exhibits.json?v="+Date.now()).then(function(r){return r.json();}).catch(function(){return{};})]).then(function(res){\n'
+    '      var cat=res[0],exMeta=(res[1]&&res[1].meta)||{};\n'
     '      var live=cat.cases.filter(function(c){return c.status==="live";});\n'
     '      var words=cat.cases.reduce(function(s,c){return s+(c.spokenWords||0);},0);\n'
-    '      $("otg-chs").innerHTML=\'<span class="ch red">\'+live.length+\' Stories Live</span><span class="ch">\'+Math.round(words/1000)+\'k+ Spoken Words</span><a class="b" href="\'+R+\'?pack=visual-pilot" target="_blank" rel="noopener">🩻 Clinical Exhibits ↗</a><a class="b" href="\'+R+\'?pack=infographics" target="_blank" rel="noopener">📐 20 Diagrams ↗</a><a class="b" href="\'+R+\'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="\'+R+\'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Full Reader ↗</a>\';\n'
+    '      var exN=exMeta.ccByClinicalExhibitStories||"";\n'
+    '      var dgN=exMeta.bespokeInfographics||"";\n'
+    '      $("otg-chs").innerHTML=\'<span class="ch red">\'+live.length+\' Stories Live</span><span class="ch">\'+Math.round(words/1000)+\'k+ Spoken Words</span><a class="b" href="\'+R+\'?pack=latest" target="_blank" rel="noopener">🆕 Latest Drops ↗</a><a class="b" href="\'+R+\'?pack=visual-pilot" target="_blank" rel="noopener">🩻 \'+(exN?exN+" ":"")+\'Clinical Exhibits ↗</a><a class="b" href="\'+R+\'?pack=infographics" target="_blank" rel="noopener">📐 \'+(dgN?dgN+" ":"")+\'Diagrams ↗</a><a class="b" href="\'+R+\'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="\'+R+\'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Full Reader ↗</a>\';\n'
     '      var rb=$("otg-rand");if(rb&&live.length){rb.onclick=function(){var pk=live[Math.floor(Math.random()*live.length)];window.open(R+"story.html?case="+encodeURIComponent(pk.slug),"_blank","noopener");};}\n'
     '      var bar=$("otg-b"),grid=$("otg-g"),qEl=$("otg-q"),cntEl=$("otg-cnt"),mwEl=$("otg-mw"),flt="all",showAll=false;\n'
     '      var btns=[["all","All ("+cat.cases.length+")",""]].concat(cat.parts.map(function(p){var n=cat.cases.filter(function(c){return c.part===p.id;}).length;return[p.id,(SH[p.id]||p.stamp)+" ("+n+")",""];}));\n'
@@ -581,14 +591,44 @@ master_md = '\n'.join(ml)
 print(f'[4/5] Wrote book/MASTER_LINEUP.md ({len(master_md):,} chars) + {len(stories)} chapters in book/chapters/')
 
 # ---------------------------------------------------------------------------
-# 5. Compile Print-Ready Book Manuscript (Markdown + Print HTML)
+# 5. Compile Print-Ready Book Manuscript (Markdown + Print HTML + Auto TOC + Sequential Chapters)
 # ---------------------------------------------------------------------------
+def ordered_part_cases(part_id):
+    pcases = [x for x in catalog['cases'] if x['part'] == part_id]
+    return sorted(pcases, key=lambda x: (x.get('bookOrder', 999999), int(x['fileNo'])))
+
+# Pre-assign sequential Chapter 1..N across Parts I–VI so every added story slots seamlessly into its proper Room!
+book_structure = []
+ch_seq = 0
+for part in catalog['parts']:
+    entries = []
+    for c in ordered_part_cases(part['id']):
+        if c['slug'] in stories:
+            ch_seq += 1
+            entries.append((ch_seq, c))
+        else:
+            entries.append((None, c))
+    book_structure.append((part, entries))
+
 book_md_lines = [
     f"# {catalog['meta']['title']}",
     f"### {catalog['meta']['subtitle']}",
     "",
-    f"*{catalog['meta']['author']} · Working Manuscript ({catalog['meta']['updated']})*",
+    f"*{catalog['meta']['author']} · Working Manuscript ({live_count} Chapters · {catalog['meta']['updated']})*",
     "",
+    "---",
+    "",
+    "## Table of Contents",
+    "",
+]
+for part, entries in book_structure:
+    live_in_part = [e for e in entries if e[0] is not None]
+    book_md_lines.append(f"### {part['roman']}: {part['title']} ({len(live_in_part)} Chapters)")
+    for num, c in live_in_part:
+        book_md_lines.append(f"- **Chapter {num}** — {c['title']} *(File № {c['fileNo']} · {c['ep']})*")
+    book_md_lines.append("")
+
+book_md_lines.extend([
     "---",
     "",
     "## Author's Note: Using the Morgue to Keep the Living Alive",
@@ -599,12 +639,21 @@ book_md_lines = [
     "",
     "---",
     ""
-]
+])
 
 ex_meta = exhibits.get('meta') or {}
 ex_ch_count = ex_meta.get('ccByClinicalExhibitStories', 0)
 ex_img_count = ex_meta.get('ccByClinicalExhibitImages', 0)
 ex_subline = f' · Illustrated Edition ({ex_ch_count} Chapters / {ex_img_count} Verified CC-BY Clinical Exhibits)' if ex_img_count else ''
+
+toc_html_items = ['<section class="toc-page"><div class="kicker">TABLE OF CONTENTS · ARRANGED BY DANGER ZONE</div><h2 style="margin-top:6px;">Contents</h2>']
+for part, entries in book_structure:
+    live_in_part = [e for e in entries if e[0] is not None]
+    toc_html_items.append(f'<div class="toc-part"><strong>{html_mod.escape(part["roman"])}: {html_mod.escape(part["title"])}</strong> <span>({len(live_in_part)} chapters)</span></div><ul class="toc-list">')
+    for num, c in live_in_part:
+        toc_html_items.append(f'<li><a href="#ch-{num:03d}"><span class="toc-num">Ch. {num:03d}</span> {html_mod.escape(c["title"])} <span class="toc-meta">File № {html_mod.escape(c["fileNo"])} · {html_mod.escape(c["ep"])}</span></a></li>')
+    toc_html_items.append('</ul>')
+toc_html_items.append('</section>')
 
 book_html_parts = [
     f"""<!DOCTYPE html>
@@ -615,6 +664,14 @@ book_html_parts = [
   .title-page {{ text-align: center; padding: 80px 0 60px; border-bottom: 4px double #141311; page-break-after: always; }}
   .title-page h1 {{ font-size: 2.8rem; line-height: 1.05; margin-bottom: 14px; }}
   .title-page h1 em {{ color: #B41C1C; }}
+  .toc-page {{ page-break-after: always; }}
+  .toc-part {{ margin: 18px 0 6px; padding-bottom: 4px; border-bottom: 1px solid #D1CCC2; font-size: 0.96rem; color: #141311; }}
+  .toc-part span {{ font-family: monospace; font-size: 0.8rem; color: #70685D; }}
+  .toc-list {{ list-style: none; padding: 0; margin: 0 0 10px; columns: 1; }}
+  .toc-list li {{ font-size: 0.84rem; line-height: 1.45; margin: 2px 0; }}
+  .toc-list a {{ color: #141311; text-decoration: none; display: flex; justify-content: space-between; gap: 8px; border-bottom: 1px dotted #E5E0D6; padding: 2px 0; }}
+  .toc-num {{ font-family: monospace; font-weight: bold; color: #B41C1C; min-width: 58px; }}
+  .toc-meta {{ font-family: monospace; font-size: 0.74rem; color: #70685D; margin-left: auto; white-space: nowrap; }}
   .part-page {{ border-top: 4px solid #141311; padding-top: 28px; margin-top: 56px; page-break-before: always; }}
   .part-roman {{ font-family: monospace; text-transform: uppercase; letter-spacing: 0.12em; color: #B41C1C; font-weight: bold; }}
   .chapter {{ margin: 36px 0 48px; padding-bottom: 24px; border-bottom: 1px solid #CCC; page-break-inside: avoid; }}
@@ -631,18 +688,18 @@ book_html_parts = [
   <p style="font-size:1.15rem;color:#433E37">{html_mod.escape(catalog['meta']['subtitle'])}</p>
   <p style="font-family:monospace;font-size:12px;margin-top:32px">{html_mod.escape(catalog['meta']['author'])} · {live_count} Chapters Drafted / {total_cases} Planned{html_mod.escape(ex_subline)} · {catalog['meta']['updated']}</p>
 </div>
-"""
+""" + '\n'.join(toc_html_items)
 ]
 
-for part in catalog['parts']:
+for part, entries in book_structure:
     book_md_lines.append(f"# {part['roman']}: {part['title']}")
     book_md_lines.append(f"*{part['tagline']}*\n")
     book_html_parts.append(f'<div class="part-page"><div class="part-roman">{html_mod.escape(part["roman"])}</div><h2>{html_mod.escape(part["title"])}</h2><p><em>{html_mod.escape(part["tagline"])}</em></p></div>')
-    for c in [x for x in catalog['cases'] if x['part'] == part['id']]:
-        if c['slug'] in stories:
+    for ch_num, c in entries:
+        if ch_num is not None:
             st = stories[c['slug']]
-            book_md_lines.append(story_to_markdown(st, c))
-            ch = [f'<article class="chapter"><div class="kicker">FILE № {html_mod.escape(st["fileNo"])} · {html_mod.escape(c["ep"])}</div><h3>{html_mod.escape(st["title"])}</h3><p><em>{html_mod.escape(st["deck"])}</em></p>']
+            book_md_lines.append(f"## Chapter {ch_num} (File № {st['fileNo']}) — {st['title']}\n\n" + '\n'.join(story_to_markdown(st, c).splitlines()[1:]))
+            ch = [f'<article class="chapter" id="ch-{ch_num:03d}"><div class="kicker">CHAPTER {ch_num} · FILE № {html_mod.escape(st["fileNo"])} · {html_mod.escape(c["ep"])}</div><h3>{html_mod.escape(st["title"])}</h3><p><em>{html_mod.escape(st["deck"])}</em></p>']
             for sec in st['sections']:
                 if sec.get('kicker'):
                     ch.append(f'<div class="kicker" style="margin-top:18px">{html_mod.escape(sec["kicker"])}</div>')
@@ -668,5 +725,18 @@ for part in catalog['parts']:
 
 book_html_parts.append('</body></html>')
 (BOOK_DIR / 'Ordinary_Tuesday_Manuscript.md').write_text('\n'.join(book_md_lines), encoding='utf-8')
-(BOOK_DIR / 'Ordinary_Tuesday_Print.html').write_text('\n'.join(book_html_parts), encoding='utf-8')
-print('[5/5] Wrote book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html')
+print_html_path = BOOK_DIR / 'Ordinary_Tuesday_Print.html'
+print_html_path.write_text('\n'.join(book_html_parts), encoding='utf-8')
+print(f'[5/5] Wrote book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html ({ch_seq} sequential chapters + Table of Contents)')
+
+if BUILD_ARGS.pdf:
+    chrome = shutil.which('google-chrome') or shutil.which('chromium') or shutil.which('chromium-browser')
+    if not chrome:
+        raise RuntimeError('Headless Chrome/Chromium not found for --pdf rendering.')
+    pdf_out = BOOK_DIR / 'Ordinary_Tuesday_Book_Draft.pdf'
+    cmd = [
+        chrome, '--headless=new', '--disable-gpu', '--no-sandbox', '--allow-file-access-from-files',
+        f'--print-to-pdf={pdf_out}', '--no-pdf-header-footer', f'file://{print_html_path}'
+    ]
+    subprocess.run(cmd, check=True)
+    print(f'[6/6] Rendered Illustrated Book PDF -> {pdf_out} ({pdf_out.stat().st_size / 1024 / 1024:.2f} MB)')

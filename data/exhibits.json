@@ -1,14 +1,14 @@
 {
   "meta": {
     "updated": "2026-11-21",
-    "totalStoriesEnriched": 136,
-    "ccByClinicalExhibitStories": 47,
-    "ccByClinicalExhibitImages": 51,
-    "bespokeInfographics": 20,
-    "dynamicBlueprintStories": 116,
-    "perStoryQuizzes": 136,
-    "examPoolSize": 30,
-    "externalFigureLinkoutStories": 28
+    "totalStoriesEnriched": 169,
+    "ccByClinicalExhibitStories": 70,
+    "ccByClinicalExhibitImages": 74,
+    "bespokeInfographics": 26,
+    "dynamicBlueprintStories": 143,
+    "perStoryQuizzes": 169,
+    "examPoolSize": 40,
+    "externalFigureLinkoutStories": 30
   },
   "stories": {
     "fractal-wood-burning": {
@@ -60,22 +60,22 @@
     "dry-ice-riding-shotgun": {
       "diagramId": "dry-ice-riding-shotgun",
       "quiz": {
-        "prompt": "You pick up 20 lbs of dry ice in a cooler for a road trip in an SUV (no separated trunk). What keeps everyone conscious?",
+        "prompt": "You need to transport dry ice, but your SUV has no cargo compartment separate from the passenger cabin. What is the safer choice?",
         "options": [
           {
             "label": "Tape the cooler lid shut airtight so the CO₂ stays inside",
             "correct": false,
-            "feedback": "Congratulations—you just built a pressure bomb in your back seat. Dry ice sublimates ~250 L of gas per pound and WILL blow a sealed lid."
+            "feedback": "Never seal a dry ice container airtight. Gas buildup can rupture the container."
           },
           {
-            "label": "Crack windows wide open, run fresh-air intake (NOT recirculate), and never sleep in the car with dry ice",
+            "label": "Do not carry it in that SUV. Use a vehicle with a separate, ventilated cargo compartment.",
             "correct": true,
-            "feedback": "Survived Tuesday! Heavy CO₂ pools silently from the floor upward with zero odor."
+            "feedback": "Open windows and fresh-air mode do not make a shared cabin safe. Keep dry ice out of passenger airspace and use packaging that allows gas to escape."
           },
           {
             "label": "Turn on cabin A/C recirculation so it stays cool and sublimates slower",
             "correct": false,
-            "feedback": "Recirculation traps sublimating CO₂ right inside the breathing zone—the exact failure mode in fatal vehicle cases."
+            "feedback": "Recirculation does not bring in outside air. Do not transport dry ice in the occupied cabin."
           }
         ]
       },
@@ -330,10 +330,10 @@
           "caption": "The actual “homeopathic magnetic hematite healing bracelet” worn by a 9-month-old infant in Connecticut—its small metallic spacer beads tested at 17,000 ppm lead (170× the federal children’s limit).",
           "spoilerNote": "Photograph of beaded jewelry bracelet from CDC MMWR investigation.",
           "blurredByDefault": false,
-          "citation": "Figure from Garcia & Haile (2017), CDC Morbidity & Mortality Weekly Report · PMC5657790",
-          "license": "CC BY 3.0 / Public Domain",
-          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5657790/"
+          "citation": "Photo: Kimberly Dubanoski, Manchester Health Department, Connecticut. Published in Garcia & Haile (2017), CDC MMWR.",
+          "license": "Public domain per CDC MMWR",
+          "licenseUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/pdfs/mm6634.pdf#page=24",
+          "sourceUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6634a6.htm#F1_down"
         }
       ],
       "quiz": {
@@ -420,8 +420,8 @@
           "spoilerNote": "Close-up emergency-department photograph of traumatic eye injury with visible blood (hyphema). Click to unseal.",
           "blurredByDefault": true,
           "citation": "Figure 1 from Lee et al. (2021), Cureus · PMC7949672",
-          "license": "CC BY 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
           "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949672/"
         }
       ],
@@ -3919,6 +3919,1051 @@
           }
         ]
       }
+    },
+    "wound-hard-to-see-lawnmower-wire": {
+      "quiz": {
+        "prompt": "Midway through mowing your yard, a sudden sharp sting hits your upper belly. You shut the mower off, lift your shirt, and see spotless skin with zero blood, yet the deep pain stays severe. What is your move?",
+        "options": [
+          {
+            "label": "Ice the sore spot on the couch and watch overnight for a bruise, since a real metal puncture would leave an obvious bleeding wound.",
+            "correct": false,
+            "feedback": "Elastic skin and fat can snap shut behind a 200-mph wire like self-healing rubber, hiding peritoneal penetration while bowel contamination brews silently."
+          },
+          {
+            "label": "Seek immediate emergency medical evaluation and tell triage plainly that you felt a sudden strike or sting while mowing the lawn.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Spotless skin and calm early vitals never outrank sudden severe abdominal pain, and naming the mower triggers targeted imaging before complications start."
+          },
+          {
+            "label": "Press a clean magnifying glass and tweezers over the tender patch first to check for a splinter before deciding whether to visit urgent care.",
+            "correct": false,
+            "feedback": "Bathroom tweezers cannot detect a 7-centimeter wire buried beneath muscle and peritoneum, and probing tiny punctures introduces bacteria or dislodges vessel tamponade."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC11848218_cureus-0017-00000077928-i03.jpg",
+          "caption": "(A) Scout film before CT with the arrow pointing to the foreign body. (B) CT image with the arrow pointing to the foreign body.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Davison-Kerwood et al. (2025), Cureus · PMC11848218",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11848218/"
+        }
+      ]
+    },
+    "line-not-the-retina-valsalva": {
+      "quiz": {
+        "prompt": "Right after a hard sneezing fit, a dark ink-like cloud drops across your right eye. There is zero pain, your eye looks completely normal in the mirror, and it is late evening. What should you do?",
+        "options": [
+          {
+            "label": "Wait until morning to see if the cloud clears on its own, because true retinal emergencies always cause sharp pain and visible eye redness.",
+            "correct": false,
+            "feedback": "The retina has zero somatic pain receptors, so severe hemorrhage or retinal detachment can unfold completely painlessly behind a spotless cornea."
+          },
+          {
+            "label": "Gently massage the closed eyelid and try bearing down once to test whether the shadow moves before driving yourself to an optometrist.",
+            "correct": false,
+            "feedback": "Pressing on the globe or repeating a Valsalva strain risks worsening intraocular bleeding, and driving with acute monocular vision loss endangers everyone on the road."
+          },
+          {
+            "label": "Have someone else drive you immediately to an emergency room or urgent eye clinic for dilated specialist assessment, despite the lack of pain.",
+            "correct": true,
+            "feedback": "Survived Tuesday! A painless dark cloud after a sneeze demands urgent specialist evaluation because neither a normal mirror check nor zero pain rules out retinal injury."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/PMC9197736_cpcem-6-125-g001.jpg",
+          "caption": "B-mode ultrasound of the right eye showing hyperechoic band (arrow) in the posterior segment with underlying scattered echoes.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Image 1 from Johnson et al. (2022), Clinical Practice and Cases in Emergency Medicine · PMC9197736",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9197736/"
+        }
+      ]
+    },
+    "eye-that-found-two-diabetics-guinea-pigs": {
+      "quiz": {
+        "prompt": "One of your two lean nine-month-old guinea pigs develops a cloudy eye and ravenous appetite without extra thirst, while her sister looks spotless. What is the safest first step?",
+        "options": [
+          {
+            "label": "Schedule prompt exotic veterinary evaluation for the cloudy eye, keep normal high-fiber hay flowing, and avoid DIY fasting or home dosing.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Diabetes in guinea pigs can strike without excess thirst, a clear-eyed sibling can hide worse glucose, and sudden fasting risks lethal GI stasis."
+          },
+          {
+            "label": "Cut out hay and pellets for 24 hours to reset blood sugar while watching whether her water bottle starts draining faster than usual.",
+            "correct": false,
+            "feedback": "Withholding food from a hindgut-fermenting guinea pig can trigger fatal gastrointestinal stasis and hepatic lipidosis within 48 hours—far faster than high glucose."
+          },
+          {
+            "label": "Relax for a few weeks because young lean guinea pigs rarely get diabetes, and a negative home urine strip rules out dangerous crashes.",
+            "correct": false,
+            "feedback": "Suspected type 1 diabetes strikes young lean guinea pigs without obvious thirst, and negative urine strips cannot detect insulin-driven hypoglycemia or hidden hyperglycemia in a cage-mate."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL DATA CHART",
+          "src": "assets/exhibits/PMC8067123_animals-11-01025-g003.jpg",
+          "caption": "Blood glucose concentrations determined by a glucometer at the beginning of insulin treatment. (A) After the initiation of insulin therapy, the glucose concentrations of the two guinea pigs decreased rapidly (within 1–2 days). Dashed lines indicate upper and lower reference…",
+          "spoilerNote": "Blood glucose curve from the primary peer-reviewed veterinary case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Kreilmeier-Berger et al. (2021), Animals : an Open Access Journal from MDPI · PMC8067123",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8067123/"
+        }
+      ]
+    },
+    "small-hands-moving-treadmill-belt": {
+      "quiz": {
+        "prompt": "A toddler reaches behind a running home treadmill and pulls back with a postage-stamp-sized red friction burn over two knuckles that is barely bleeding at all. What is your next step?",
+        "options": [
+          {
+            "label": "Press an ice cube onto the knuckles, dab on soothing home ointment, and bandage it since the tiny, dry scrape spared deeper blood vessels.",
+            "correct": false,
+            "feedback": "Frictional heat cauterizes tiny capillaries to hide deep full-thickness joint damage, while ice chokes off surviving blood supply and ointments trap heat and bacteria."
+          },
+          {
+            "label": "Skip ice and home creams, keep any stuck fabric untouched, and take the child promptly for professional medical burn assessment of joint depth.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Postage-stamp 0.3% treadmill burns can expose finger tendons and joint capsules with almost no bleeding, making prompt specialist wound depth assessment essential."
+          },
+          {
+            "label": "Wash the blister gently, snip away loose dead skin with clean scissors, and tape a popsicle-stick splint across the knuckles until a checkup next week.",
+            "correct": false,
+            "feedback": "Never perform home debridement or makeshift splinting on a pediatric friction burn—only sterile specialist evaluation can protect joint capsules and prevent cooling scar contractures."
+          }
+        ]
+      },
+      "diagramId": "small-hands-moving-treadmill-belt",
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC7928388_fped-09-633091-g0003.jpg",
+          "caption": "Scar contracture in a rain finger and its corresponding management. (A) The scar contracture occurred in the proximal interphalangeal joint of the ring finger, with 45 degrees. (B) The Z-plasty scar release and FTSG, as well as the Kirschner wire internal fixation.",
+          "spoilerNote": "Contains real clinical injury/wound photography from the primary case report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 3 from Zhang et al. (2021), Frontiers in Pediatrics · PMC7928388",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7928388/"
+        }
+      ]
+    },
+    "thyroid-that-changed-in-the-test-biotin": {
+      "quiz": {
+        "prompt": "You feel completely normal—calm pulse, zero tremors—yet routine blood work prints a flatlined TSH of 0.02 and sky-high free T4 while you take daily hair-and-nails vitamins. What is the right call?",
+        "options": [
+          {
+            "label": "Stop all prescription medications and supplements for exactly one week on your own, then assume any remaining abnormal thyroid test is also a false alarm.",
+            "correct": false,
+            "feedback": "Never alter prescriptions or invent a solo washout calendar without physician oversight, and taking biotin never grants immunity against genuine coexisting thyroid disease."
+          },
+          {
+            "label": "Accept immediate antithyroid drugs or ablation because three calibrated lab values pointing in the exact same biological direction cannot all be wrong together.",
+            "correct": false,
+            "feedback": "Free biotin breaks both sandwich assays (falsely low TSH) and competitive assays (falsely high free T4/T3) simultaneously, forging an internally consistent fake Graves’ profile."
+          },
+          {
+            "label": "Show your doctor exact supplement labels disclosing biotin dose and timing so the care team and lab director can verify whether the assay is vulnerable.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Disclosing vitamin B7 lets clinicians and the lab check streptavidin-biotin interference and retest safely on an unaffected platform before treating a ghost."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC6103391_cureus-0010-00000002845-i01.jpg",
+          "caption": "Roche system.Mechanism of biotin interference in Roche immunoassays. The Roche sandwich immunoassay employs a biotinylated antibody to the analyte (thyroid-stimulating hormone, TSH in this example); therefore, excess free biotin displaces antigen-antibody complexes (Ab-Ag),…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Ardabilygazir et al. (2018), Cureus · PMC6103391",
+          "license": "CC BY 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103391/"
+        }
+      ],
+      "diagramId": "thyroid-that-changed-in-the-test-biotin"
+    },
+    "seizure-between-normal-days-ferret": {
+      "quiz": {
+        "prompt": "Your three-year-old ferret suddenly goes limp in the hind legs, drools heavily, and starts seizing on the living-room floor, even though he played normally yesterday. What do you do right now?",
+        "options": [
+          {
+            "label": "Keep all fingers and liquids out of his mouth, move him off high surfaces clear of hard objects, and transport him immediately to emergency veterinary care.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Protecting his airway from aspiration while getting immediate emergency IV stabilization avoids turning a metabolic crash into fatal pneumonia."
+          },
+          {
+            "label": "Squirt a syringe of honey water into the side of his mouth immediately to raise blood sugar, then stay home if he perks up playfully by morning.",
+            "correct": false,
+            "feedback": "Seizing ferrets lose protective swallow reflexes so forced liquid pours into the lungs—and bouncing back on Tuesday never means the underlying insulinoma vanished."
+          },
+          {
+            "label": "Record a clear two-minute video of the seizure first, then fast him for several hours before his clinic visit so the veterinarian can witness a real crash.",
+            "correct": false,
+            "feedback": "Delaying transport for footage or purposefully provoking a hypoglycemic crash risks irreversible brain injury or death when your spoken history already guides testing."
+          }
+        ]
+      }
+    },
+    "step-that-kept-moving-escalator": {
+      "quiz": {
+        "prompt": "At a crowded train station, a commuter tumbles down a moving escalator, bangs their head on steel steps, catches a jacket hem near the comb plate, and then insists they feel fine while sitting up dazed. What do you do?",
+        "options": [
+          {
+            "label": "Yank the trapped jacket straight out of the comb plate yourself and let them catch their train once they prove they can talk and stand.",
+            "correct": false,
+            "feedback": "Reaching into moving comb plates invites severe hand amputation, and an awake rider after a metal-step head strike can still harbor a lethal, slow-pooling cerebral bleed."
+          },
+          {
+            "label": "Keep hands out of the machinery, summon station staff and emergency care for head-strike assessment, and report only the exact sequence you actually witnessed.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Avoiding DIY machinery extraction, getting professional evaluation for blunt head trauma, and giving pure eyewitness facts protect both life and investigation."
+          },
+          {
+            "label": "Tell paramedics the escalator definitely jerked violently—even though you only looked up after hearing a shout—so engineers shut down the station immediately.",
+            "correct": false,
+            "feedback": "Inventing a mechanical failure you never witnessed misdirects engineers and can blind trauma clinicians to an internal pre-fall cardiac event that actually triggered the collapse."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Schminke et al. (2013), Western Journal of Emergency Medicine — 4 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3628462/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
+    },
+    "one-entrance-injured-branch-scad": {
+      "quiz": {
+        "prompt": "You are a fit 43-year-old non-smoker with zero family heart history. While resting quietly, sudden heavy central chest pain starts radiating down your left arm, though you are not sweating or breathless. What happens next?",
+        "options": [
+          {
+            "label": "Call emergency medical services immediately instead of driving yourself, knowing that SCAD can strike healthy adults without sweating or ECG changes.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Calling EMS brings cardiac monitoring straight to your door and keeps you from losing consciousness behind the wheel during an occult NSTEMI."
+          },
+          {
+            "label": "Wait an hour on the couch and take a brisk walk test, since real heart attacks require cold sweats, nausea, shortness of breath, or high cholesterol.",
+            "correct": false,
+            "feedback": "Spontaneous coronary artery dissection routinely hits patients with zero conventional risk factors and zero secondary symptoms—waiting or straining risks lethal progression."
+          },
+          {
+            "label": "Drive yourself to an urgent-care clinic for a quick ECG and head straight home relieved if the first electrical tracing prints normal sinus rhythm.",
+            "correct": false,
+            "feedback": "Driving with acute ischemia risks fatal arrhythmia in traffic, and a spotless 12-lead ECG cannot rule out an NSTEMI that only serial troponin and imaging expose."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC11567654_cureus-0016-00000071647-i02.jpg",
+          "caption": "Computed tomography coronary angiography shows a single coronary artery originating from the right aortic sinus.LAD: left anterior descending artery; RCA: right coronary artery; LCC: left coronary cusp; RCC: right coronary cusp",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Al-Shammari et al. (2024), Cureus · PMC11567654",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11567654/"
+        }
+      ]
+    },
+    "egg-that-would-not-leave-gecko": {
+      "quiz": {
+        "prompt": "Your solitary female leopard gecko has stopped eating for a week, developed a swollen belly, and stalled mid-shed. Her enclosure mate list is zero. What is your safest next move?",
+        "options": [
+          {
+            "label": "Mist the tank heavily, boost basking heat, and wait two more weeks because solitary geckos cannot form eggs.",
+            "correct": false,
+            "feedback": "Female leopard geckos readily ovulate and shell infertile eggs without ever meeting a male, and a stuck shed during anorexia signals systemic dehydration rather than merely dry air."
+          },
+          {
+            "label": "Leave her abdomen completely untouched and schedule prompt exotic-veterinary imaging and blood work with her baseline log.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Avoiding home squeezing prevents catastrophic oviduct rupture, while imaging and blood work separate egg retention from follicular stasis, sand impaction, or organ disease."
+          },
+          {
+            "label": "Gently press along her lower belly to feel for eggs and administer oral liquid calcium to force smooth-muscle contractions.",
+            "correct": false,
+            "feedback": "Manual abdominal pressure risks tearing an inflamed oviduct into fatal coelomitis, and blind calcium dosing without diagnosing pre- versus post-ovulatory disease can worsen an acute crisis."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC10000207_animals-13-00924-g002.jpg",
+          "caption": "Case 1: Dorso-ventral X-ray. A large egg was visible in the caudal coelom (white arrows).",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Vetere et al. (2023), Animals : an Open Access Journal from MDPI · PMC10000207",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10000207/"
+        }
+      ]
+    },
+    "thread-beneath-the-swelling-hair-tourniquet": {
+      "quiz": {
+        "prompt": "Your three-month-old is crying inconsolably with no fever. You pull off a footie sleeper and find the middle toe bright red and puffy past the base crease, with no hair visible anywhere. What should you do?",
+        "options": [
+          {
+            "label": "Spread over-the-counter hair-removal cream into the skin crease for five minutes to dissolve any invisible keratin strand.",
+            "correct": false,
+            "feedback": "Home depilatory creams are caustic on swollen, compromised infant skin and never guarantee complete release when deep inflammation or non-hair fabric fibers are involved."
+          },
+          {
+            "label": "Watch the toe at home for 24 hours and only go to the emergency room if the skin turns cold, pale, or purple.",
+            "correct": false,
+            "feedback": "Aftercare watchlists apply strictly after professional medical treatment—waiting on an untreated strangulated digit risks progressive ischemia and tissue loss."
+          },
+          {
+            "label": "Assume a buried tourniquet exists despite seeing no hair, drop all household tools, and seek prompt ER care.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Swollen skin folds over fine threads like rising dough, so magnified clinical exploration—and soft-tissue release if needed—protects the digit safely."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC6957058_cureus-0011-00000006377-i01.jpg",
+          "caption": "Strangulation over the proximal phalanx of the left ring finger causing oedema and congestion (1A). Fine hair strands removed using loupes in the emergency department (1B).",
+          "spoilerNote": "Contains real clinical injury/wound photography from the primary case report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Kesu Belani et al. (2019), Cureus · PMC6957058",
+          "license": "CC BY 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6957058/"
+        }
+      ],
+      "diagramId": "thread-beneath-the-swelling-hair-tourniquet"
+    },
+    "vitamin-brain-could-not-spare-wernicke": {
+      "quiz": {
+        "prompt": "Two months after a gastric sleeve, your 22-year-old sister—who takes her oral vitamins daily and is not vomiting—develops worsening leg weakness, jerky eye movements, and mild confusion. What is the critical action?",
+        "options": [
+          {
+            "label": "Go immediately to emergency care, lead with her gastric sleeve date and family-observed confusion, and let doctors evaluate for urgent IV thiamine.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Compliant oral supplements and normal outward weight never guarantee thiamine absorption, and BOMSS guidelines call for prompt IV thiamine without waiting for lab or MRI confirmation."
+          },
+          {
+            "label": "Double her over-the-counter oral multivitamins at home and wait for her scheduled annual bariatric nutrition appointment to test blood levels.",
+            "correct": false,
+            "feedback": "When gut absorption or utilization is already failing behind a gastric sleeve, waiting on extra oral pills allows preventable central nervous system energy starvation to leave lasting memory deficits."
+          },
+          {
+            "label": "Assume a urinary tract infection or multiple sclerosis explains the confusion if her initial brain MRI looks atypical for classic vitamin deficiency.",
+            "correct": false,
+            "feedback": "A UTI cannot explain torsional or upbeat nystagmus, and classic acute Wernicke’s MRI sensitivity is only about 53%—meaning an atypical scan never rules out brain thiamine starvation."
+          }
+        ]
+      }
+    },
+    "lump-not-lymph-node-hedgehog": {
+      "quiz": {
+        "prompt": "Your three-year-old African pygmy hedgehog develops fast, labored breathing alongside a firm swelling under her neck and a visible lump near her upper jaw. What is the smartest immediate action?",
+        "options": [
+          {
+            "label": "Gently pry her mouth open with a cotton swab to check for stuck kibble, then wait a day since over half of oral lumps are just inflammation.",
+            "correct": false,
+            "feedback": "Forcing open a stressed prey mammal’s tiny jaw risks severe trauma and fractures, and waiting on rapid labored breathing is dangerous regardless of whether a mass is cancerous or inflammatory."
+          },
+          {
+            "label": "Assume the mouth mass is incurable cancer spreading to a neck lymph node and begin syringe force-feeding at home to stop weight loss.",
+            "correct": false,
+            "feedback": "Neither eyes nor fingers can tell cancer from suppurative inflammation or spot two separate primary tumors, and unguided syringe force-feeding risks fatal aspiration."
+          },
+          {
+            "label": "Call an exotic emergency veterinarian right away for transport guidance, leaving oral exams and lump diagnostics to the clinic.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Rapid breathing in a tiny airway demands urgent specialist assessment, and professional microscopy separates treatable inflammation from independent malignancies without DIY jaw trauma."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC9179541_animals-12-01361-g003.jpg",
+          "caption": "African pygmy hedgehog, oral cavity. Case 2, Squamous cell carcinoma. (a) Gross appearance of the oral mass in the right maxilla (arrow); (b) The mass consists of neoplastic squamous epithelial cells organized in nests. The neoplastic lesion infiltrates the underlying layers,…",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 3 from Silva et al. (2022), Animals : an Open Access Journal from MDPI · PMC9179541",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9179541/"
+        }
+      ]
+    },
+    "injury-that-outlasted-crash-bowel": {
+      "quiz": {
+        "prompt": "Eight months after a serious car crash where your Day-1 abdominal CT showed intact solid organs, you develop steadily worsening belly swelling, vomiting, and two days without passing gas or stool. What is your safest move?",
+        "options": [
+          {
+            "label": "Drink large volumes of electrolyte solution and an over-the-counter laxative to flush out a stubborn stool backup since your crash CT was clear.",
+            "correct": false,
+            "feedback": "Forcing fluid and laxatives against an unrecognized fibrotic bowel stricture raises intraluminal back-pressure and heightens the risk of catastrophic intestinal perforation."
+          },
+          {
+            "label": "Seek urgent emergency department assessment—calling an ambulance if pain is severe—and report both your symptoms and the prior car crash.",
+            "correct": true,
+            "feedback": "Survived Tuesday! A Day-1 CT captures only one moment in time and cannot rule out delayed ischemic scarring from mesenteric trauma, while inability to pass gas or stool with swelling is a classic obstruction emergency."
+          },
+          {
+            "label": "Wait another couple of months before seeing a surgeon because delayed seatbelt bowel obstructions typically take a full two years to become dangerous.",
+            "correct": false,
+            "feedback": "A single case report’s two-year timeline is historical documentation, never a safe waiting window—complete obstruction with vomiting requires immediate medical reassessment."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC7414988_12876_2020_1384_fig1_html.jpg",
+          "caption": "a-b. Single anteroposterior abdominal radiograph showing markedly dilated colon in the initial stage",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Ma et al. (2020), BMC Gastroenterology · PMC7414988",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7414988/"
+        }
+      ]
+    },
+    "bruises-needed-different-question-hemophilia": {
+      "quiz": {
+        "prompt": "An elderly relative taking warfarin for atrial fibrillation suddenly develops huge dark bruises across her torso and arms without falling, along with profound fatigue. What is the safest immediate plan?",
+        "options": [
+          {
+            "label": "Seek urgent emergency care right away with her full medication list, without stopping or changing her prescribed doses yourself.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Extensive unexplained bruising can signal severe anemia or an occult autoimmune inhibitor hiding behind blood thinners, and holding or reversing anticoagulants safely requires inpatient monitoring and specialized assays."
+          },
+          {
+            "label": "Stop her warfarin for three days at home to run a washout test and see whether new bruises quit appearing before bothering the clinic.",
+            "correct": false,
+            "feedback": "Stopping prescribed blood thinners solo creates dangerous stroke risk while leaving potentially catastrophic hidden anemia or an acquired Factor VIII inhibitor completely untreated."
+          },
+          {
+            "label": "Wait for her next routine INR fingerstick next week because a therapeutic warfarin INR proves no separate clotting catastrophe can exist.",
+            "correct": false,
+            "feedback": "The patient in Chen’s case had a completely therapeutic INR of 2.7 while her PTT timed out past 180 seconds from a Factor VIII inhibitor—a normal INR never clears intrinsic-pathway hemorrhage."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC9063298_13256_2022_3402_fig1_html.jpg",
+          "caption": "Extensive ecchymoses due to acquired hemophilia A. A Ecchymosis of left arm. B Ecchymosis of left flank. C Ecchymosis of lower abdomen, below panniculus",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Fig. 1. from Chen et al. (2022), Journal of Medical Case Reports · PMC9063298",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9063298/"
+        }
+      ]
+    },
+    "clot-before-thick-wall-kitten-ate": {
+      "quiz": {
+        "prompt": "Your young indoor cat suddenly starts crying in pain, dragging both back legs, and breathing fast with cold, bluish back paws. What is your safest move in the first 60 seconds?",
+        "options": [
+          {
+            "label": "Wrap his cold hind legs snugly in a warm heating pad and gently massage his thighs to encourage blood circulation back down to his toes.",
+            "correct": false,
+            "feedback": "Heating an ischemic limb boosts tissue oxygen demand while the aorta stays blocked—accelerating cellular death—and massaging starved nerves causes excruciating pain without dissolving a clot."
+          },
+          {
+            "label": "Check for a groin pulse yourself and wait an hour to see whether he bruised his spine jumping off furniture, since young kittens rarely get heart clots.",
+            "correct": false,
+            "feedback": "Aortic saddle clots can strike even a seven-month-old kitten with normal heart wall thickness, and wrestling a terrified cat for pulses triggers lethal catecholamine surges while burning critical time."
+          },
+          {
+            "label": "Keep handling minimal and calm, leave the legs unheated and unrubbed, and call an emergency veterinary hospital immediately for transport guidance.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sudden painful paralysis with cold paws and rapid breathing is a top-tier vascular emergency where calm, rapid transport without heat or massage protects both heart and tissue."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC13296079_animals-16-01816-g003.jpg",
+          "caption": "Gross pathological findings associated with cardiomyopathy and systemic thrombosis. (a) Abdominal cavity demonstrating a large, firm, dark-red thrombus lodged at the aortic bifurcation and extending into the iliac arteries (dashed outline and yellow arrows), consistent with…",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 3 from Murariu et al. (2026), Animals : an Open Access Journal from MDPI · PMC13296079",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13296079/"
+        }
+      ]
+    },
+    "burn-looked-like-infection-wet-cement": {
+      "quiz": {
+        "prompt": "While pouring a backyard patio, wet concrete sloshes over the top of your rubber boot and soaks your sock. Your leg barely stings yet. What is the single safest move right now?",
+        "options": [
+          {
+            "label": "Stop immediately, pull off the boot and soaked sock, flush the skin thoroughly with copious cool running water, and get hospital burn evaluation.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Wet cement spikes to pH 10–14 and silently saponifies tissue with delayed pain, so immediate removal, heavy water irrigation, and hospital evaluation stop deep liquefactive necrosis."
+          },
+          {
+            "label": "Splash household vinegar or diluted muriatic acid inside the boot first to neutralize the alkaline pH, then rinse briefly after finishing the pour.",
+            "correct": false,
+            "feedback": "Pouring acid onto alkaline calcium hydroxide triggers a violently exothermic neutralization reaction, inflicting a severe thermal burn straight on top of chemical tissue destruction."
+          },
+          {
+            "label": "Finish smoothing the patio since you have no sharp pain or fever, then rub thick barrier cream over the red patch once you shower at home.",
+            "correct": false,
+            "feedback": "Alkaline cement burns destroy deep tissue quietly with normal vitals, and smearing barrier cream onto exposed skin seals residual alkali right into the wound bed."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC10917359_cureus-0016-00000053636-i01.jpg",
+          "caption": "Blisters observed in the upper thigh",
+          "spoilerNote": "Contains real clinical injury/wound photography from the primary case report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Zahoor et al. (2024), Cureus · PMC10917359",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10917359/"
+        }
+      ],
+      "diagramId": "burn-looked-like-infection-wet-cement"
+    },
+    "pulse-that-did-not-race-pheochromocytoma": {
+      "quiz": {
+        "prompt": "A relative with a forgotten adrenal scan from two years ago suddenly develops drenching sweats, chest pressure, and violent pounding palpitations, while a home pulse cuff reads 76 bpm. What is the right call?",
+        "options": [
+          {
+            "label": "Call emergency services immediately, have them rest without driving, and report the old adrenal mass plus all medications",
+            "correct": true,
+            "feedback": "Survived Tuesday! Palpitations with chest pain, sweats, or faintness demand emergency ambulance care even when heart rate sits in the 70s, and the prior adrenal mass gives ER teams a critical lead."
+          },
+          {
+            "label": "Reassure them that a resting pulse of 76 rules out an adrenaline crisis and drive them to an urgent clinic tomorrow",
+            "correct": false,
+            "feedback": "Objective tachycardia is not required for a pheochromocytoma crisis—forceful contractility and 220/135 mmHg vasoconstriction can strike at 75 bpm, and driving during a surge risks collapse."
+          },
+          {
+            "label": "Give a spare beta blocker tablet at home to blunt the pounding sensation before calling a primary-care office",
+            "correct": false,
+            "feedback": "Never give a beta blocker before specialist alpha blockade in suspected pheochromocytoma—blocking beta receptors first leaves vascular alpha clamps unopposed and can trigger catastrophic pressure failure."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC11070207_cureus-0016-00000057643-i01.jpg",
+          "caption": "Computed tomography of the abdomen depicting the right-sided adrenal tumor",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Stojanovic et al. (2024), Cureus · PMC11070207",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11070207/"
+        }
+      ]
+    },
+    "tilt-needed-more-than-one-test-rabbit": {
+      "quiz": {
+        "prompt": "Your pet rabbit suddenly develops a left head tilt, stops eating, and begins rolling sideways across the rug. What should you do first?",
+        "options": [
+          {
+            "label": "Gently hold the head straight back into alignment and shine a penlight deep into the left ear canal to check for wax",
+            "correct": false,
+            "feedback": "Forcing a tilted neck straight risks severe spinal trauma, and probing the ear canal at home can rupture the eardrum and worsen vestibular damage."
+          },
+          {
+            "label": "Call an emergency vet immediately, avoid forcing the neck straight, and pad a small carrier with rolled towels as advised",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sudden head tilt with rolling and lost appetite demands immediate veterinary care, and towel-padding prevents self-injury during transport."
+          },
+          {
+            "label": "Order an over-the-counter dewormer online and wait 24 hours to see if the rabbit starts passing droppings again first",
+            "correct": false,
+            "feedback": "Waiting through anorexia risks lethal hindgut stasis, and unprescribed antiparasitics can harm a rabbit with liver stress—clinicians even withheld fenbendazole in the documented case."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC11676482_pathogens-13-01122-g002.jpg",
+          "caption": "Macroscopical aspect of kidneys examined, 1 cm scale: (A) left and right kidneys showing subcapsular petechiae (black arrows); (B) the right kidney, presence of subcapsular petechiae (black arrow).",
+          "spoilerNote": "Contains real surgical or gross pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 2 from Doboși et al. (2024), Pathogens · PMC11676482",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11676482/"
+        }
+      ]
+    },
+    "handlebar-and-hidden-pancreatic-duct": {
+      "quiz": {
+        "prompt": "A teenager falls onto a bicycle handlebar while wearing a helmet, has mild initial belly soreness, and an early ER ultrasound is called ‘unremarkable’ without checking pancreatic enzymes. Two days later belly pain worsens with vomiting. What is the safest move?",
+        "options": [
+          {
+            "label": "Wait another two days with rest and fluids at home since the initial emergency ultrasound already cleared the abdomen",
+            "correct": false,
+            "feedback": "Bowel gas can obscure the pancreas on early ultrasound, and untested amylase/lipase are blank spaces—not normal clearance. Waiting days risks peritonitis and septic shock."
+          },
+          {
+            "label": "Give over-the-counter pain relievers and monitor quietly unless a dark bruise spreads across the upper stomach wall",
+            "correct": false,
+            "feedback": "Handlebar impacts act like blunt spears that can transect the deep pancreas against the spine with minimal external bruising; masking worsening pain delays surgical rescue."
+          },
+          {
+            "label": "Return promptly for urgent evaluation and explicitly report ‘bicycle handlebar struck the abdomen’ plus worsening vomiting",
+            "correct": true,
+            "feedback": "Survived Tuesday! Naming the handlebar mechanism prompts targeted pancreatic enzyme checks and cross-sectional CT/MRI before leaking enzymes trigger septic shock."
+          }
+        ]
+      },
+      "diagramId": "handlebar-and-hidden-pancreatic-duct",
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MRI SCAN",
+          "src": "assets/exhibits/PMC5868062_13256_2018_1594_fig1_html.jpg",
+          "caption": "T2-weighted magnetic resonance imaging (a) of patient 1 and computed tomography (b) of patient 2 depicting complete rupture of the pancreas (white and black arrows). Fluid collection between the ruptured pancreas (star)",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Luu et al. (2018), Journal of Medical Case Reports · PMC5868062",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5868062/"
+        }
+      ]
+    },
+    "antibody-and-falling-glucose-ias": {
+      "quiz": {
+        "prompt": "A non-diabetic coworker who recently started an over-the-counter supplement suddenly collapses at their desk, sweating profusely and unresponsive with suspected severe low blood sugar. What should you do first?",
+        "options": [
+          {
+            "label": "Carefully spoon orange juice or dissolved sugar water into their mouth while waiting to see if they wake up",
+            "correct": false,
+            "feedback": "Never give oral food or drink to an unconscious or seizing person—swallowing reflexes are impaired, turning sugar water into a severe choking and aspiration hazard."
+          },
+          {
+            "label": "Call emergency services immediately, give nothing by mouth while unresponsive, and hand responders any known supplement details",
+            "correct": true,
+            "feedback": "Survived Tuesday! Calling EMS protects the airway and gets controlled IV dextrose fast, while noting recent OTC supplements like alpha-lipoic acid helps clinicians look beyond routine diabetes."
+          },
+          {
+            "label": "Let them lie quietly for an hour before calling for help so emergency labs can capture their natural fasting glucose level",
+            "correct": false,
+            "feedback": "Only supervised hospital teams with IV dextrose in hand draw diagnostic blood during active hypoglycemia—delaying emergency rescue at work risks seizures, brain injury, or death."
+          }
+        ]
+      }
+    },
+    "cream-reached-blood-zinc-oxide-dog": {
+      "quiz": {
+        "prompt": "You realize your small dog has been licking human zinc oxide diaper cream off her hind legs for several days and just passed dark-red urine while looking pale and weak. What is the safest move?",
+        "options": [
+          {
+            "label": "Give hydrogen peroxide to force vomiting at home so remaining zinc cream clears before your regular vet opens tomorrow",
+            "correct": false,
+            "feedback": "Never induce vomiting in a weak or symptomatic dog—impaired gag reflexes risk fatal aspiration pneumonia, and red urine signals active intravascular hemolysis needing ER care now."
+          },
+          {
+            "label": "Tell the poison hotline she likely licked only half a teaspoon so they can confirm whether quiet home observation is safe",
+            "correct": false,
+            "feedback": "Optimistic dose guesses corrupt toxicology calculations; prolonged licking over days is an unknown cumulative exposure, and collapse/red urine already demand immediate ER triage."
+          },
+          {
+            "label": "Go to an emergency vet immediately, grab a label photo only if it causes zero delay, and say the licked amount is unknown",
+            "correct": true,
+            "feedback": "Survived Tuesday! Immediate emergency care enables blood-smear review and transfusion if needed, while honest unknown-dose reporting keeps triage safely calibrated."
+          }
+        ]
+      }
+    },
+    "missing-denture-faint-line-esophagus": {
+      "quiz": {
+        "prompt": "An older relative who wears partial dentures suddenly stops speaking mid-meal, clutches their throat with a silent ineffective cough, and you notice their lower plate is gone. What is the right immediate action?",
+        "options": [
+          {
+            "label": "Call emergency services immediately on speaker, follow choking first aid, avoid blind finger sweeps, and tell responders the lower denture is missing",
+            "correct": true,
+            "feedback": "Survived Tuesday! Immediate emergency activation and standard choking aid save seconds, avoiding blind sweeps prevents deeper impaction, and flagging the missing denture guides hospital detection."
+          },
+          {
+            "label": "Reach two fingers deep into the back of their throat right away to hook and pull out the smooth plastic plate before it slips farther",
+            "correct": false,
+            "feedback": "Blind finger sweeps inside the narrowing muscular laryngopharynx can push a partial obstruction deeper and wedge an irregular denture solidly shut."
+          },
+          {
+            "label": "Spend two minutes checking the floor and napkins for the denture first so you do not give paramedics false information about what they swallowed",
+            "correct": false,
+            "feedback": "Never delay calling emergency services or starting choking aid during a silent airway obstruction—every oxygen-starved minute counts, and 'unaccounted for' is all responders need."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC12631150_cureus-0017-00000095028-i01.jpg",
+          "caption": "Postmortem CT findings(A) Axial image at the level of the second cervical vertebra (C2) showing a punctate hyperdense area with imaging artifact (green arrow). (B) Axial image at the level of the fourth cervical vertebra (C4) demonstrating a hyperdense area (green arrow) that…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Takeuchi et al. (2025), Cureus · PMC12631150",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631150/"
+        }
+      ]
+    },
+    "flush-behind-falling-count-hit": {
+      "quiz": {
+        "prompt": "A family member with a recently placed chemotherapy port flushed regularly at an outpatient clinic suddenly develops stabbing chest pain when inhaling, shortness of breath, and a newly swollen left calf. What is the right immediate step?",
+        "options": [
+          {
+            "label": "Elevate the swollen calf overnight with rest and wait for Monday’s routine oncology visit unless a high fever develops",
+            "correct": false,
+            "feedback": "Sudden pleuritic chest pain, breathlessness, and unilateral leg swelling are classic red flags for DVT and pulmonary embolism—waiting risks sudden fatal cardiopulmonary collapse."
+          },
+          {
+            "label": "Call an emergency ambulance right away, do not drive yourself, and report the port plus recent clinic flushes at triage",
+            "correct": true,
+            "feedback": "Survived Tuesday! Ambulance transport protects against sudden collapse, and flagging the port and routine maintenance flushes alerts clinicians to check for hidden heparin exposure and HIT."
+          },
+          {
+            "label": "Drive them to urgent care yourself and ask the nurse to flush the port with saline first to make sure it is not clogged",
+            "correct": false,
+            "feedback": "Never drive someone with suspected pulmonary embolism, and never ask for or attempt improvised port manipulation before emergency clinicians evaluate clots and flush records."
+          }
+        ]
+      }
+    },
+    "discharge-not-ending-iron-edta-dog": {
+      "quiz": {
+        "prompt": "Your dog raids a box of ‘pet-friendly’ iron EDTA snail bait in the yard, vomits once ten minutes later, and then starts wagging her tail and asking for water. What is the safest action?",
+        "options": [
+          {
+            "label": "Call a vet or animal poison helpline immediately, bring the bait package or label photo, and avoid home vomiting or antacids",
+            "correct": true,
+            "feedback": "Survived Tuesday! ‘Pet-friendly’ is not a safety guarantee, and tail-wagging after early vomiting can mask iron’s deceptive Stage-2 apparent recovery while systemic absorption climbs."
+          },
+          {
+            "label": "Give an over-the-counter antacid tablet to coat the stomach and watch her at home for six hours since she already threw up the pellets",
+            "correct": false,
+            "feedback": "Home antacids can alter gastric pH unpredictably, early vomiting does not confirm clearance, and iron toxicity stages are never a safe six-hour home countdown."
+          },
+          {
+            "label": "Skip the vet if the pellets were blue and labeled pet-friendly, and schedule a routine liver check next week only if she stops eating",
+            "correct": false,
+            "feedback": "Pellet dyes change across manufacturers, ‘pet-friendly’ marketing fails against scavenging dogs, and normal early appearance can hide severe rising iron levels."
+          }
+        ]
+      }
+    },
+    "burn-that-reached-the-heart-hf-acid": {
+      "quiz": {
+        "prompt": "A coworker in an industrial plant suspects a splash of hydrofluoric acid on their leg, notices the patch looks gray and feels oddly painless, and asks if you should drive them to urgent care with the leaking bottle. Next move?",
+        "options": [
+          {
+            "label": "Bag the leaking HF bottle and soaked pants so ER doctors can verify the exact concentration on arrival.",
+            "correct": false,
+            "feedback": "Hauling leaking containers or contaminated clothing into a vehicle or ER turns an enclosed ambulance or waiting room into an active off-gassing hazard."
+          },
+          {
+            "label": "Activate emergency response now without waiting for pain, stay clear without HF-rated PPE, and hand responders the SDS.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Hydrofluoric acid numbs surface nerves while fluoride ions silently chelate blood calcium toward cardiac arrest—so immediate activation with the SDS, never the leaking bottle, saves lives."
+          },
+          {
+            "label": "Wait an hour to see if redness or severe pain develops first, since painless skin means the acid only touched the surface.",
+            "correct": false,
+            "feedback": "Waiting for pain is hydrofluoric acid’s signature trap: hydrogen ions destroy nerve endings early while systemic hypocalcemia quietly builds toward ventricular fibrillation."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL TIMELINE",
+          "src": "assets/exhibits/PMC13271673_ftox-08-1859979-g001.jpg",
+          "caption": "Clinical timeline of the multidisciplinary rescue and surgical interventions for the severe hydrofluoric acid burn patient. The timeline details the progression of clinical events (below the axis) and corresponding therapeutic interventions (above the axis) from the time of…",
+          "spoilerNote": "Resuscitation timeline diagram from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "FIGURE 1 from Tian et al. (2026), Frontiers in Toxicology · PMC13271673",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13271673/"
+        }
+      ]
+    },
+    "bleeding-behind-kidney-retroperitoneal": {
+      "quiz": {
+        "prompt": "A family member wakes at midnight with agonizing left flank pain, a racing pulse of 133, and clear urine; an urgent-care bedside ultrasound says 'no intra-abdominal free fluid.' What do you tell ER triage upon transfer?",
+        "options": [
+          {
+            "label": "State clearly that the peritoneal cavity ultrasound showed no free fluid, give exact report times, and note ongoing flank agony.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Precision keeps hidden anatomy on the radar—a clean peritoneal ultrasound clears the front abdominal room while retroperitoneal kidney bleeding pools invisibly behind Gerota’s fascia."
+          },
+          {
+            "label": "Reassure triage that the abdomen is completely clear of bleeding because both the ultrasound and urine color looked normal.",
+            "correct": false,
+            "feedback": "Calling a partial scan 'all clear' erases the retroperitoneum from the workup, and looking at urine in a toilet bowl never substitutes for a lab urinalysis."
+          },
+          {
+            "label": "Drive them home to watch for visible blood in the toilet or a drop in home blood pressure before returning to the ER.",
+            "correct": false,
+            "feedback": "Never self-drive or wait for low blood pressure—adrenaline vasoconstriction can hold pressure dangerously high while a retroperitoneal bleed silently empties the tank."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC13033944_cureus-0018-00000106094-i01.jpg",
+          "caption": "Renal angiomyolipomaSagittal view of contrast-enhanced computed tomography of the abdomen and pelvis in the soft tissue window showing a large mass in the left kidney/suprarenal region containing soft tissue component, fat, and hemorrhage (yellow arrow). There is also…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Andino-Colón et al. (2026), Cureus · PMC13033944",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033944/"
+        }
+      ]
+    },
+    "swelling-not-just-bone-disease-synovial": {
+      "quiz": {
+        "prompt": "Your bearded dragon with a past metabolic bone disease diagnosis develops a soft, enlarging left thigh swelling that did not shrink after antibiotics, yet still pulls its foot back when you touch its toes. Next move?",
+        "options": [
+          {
+            "label": "Double the calcium powder and adjust the basking lamp upward since preserved toe sensation rules out structural joint destruction.",
+            "correct": false,
+            "feedback": "Slow masses displace nerves without cutting them, so intact toe reflexes never clear the joint—and blind calcium megadosing risks oversupply without addressing a focal mass."
+          },
+          {
+            "label": "Sanitize a fine needle to test whether clear fluid drains out, proving whether it is a simple soft blister before booking a vet visit.",
+            "correct": false,
+            "feedback": "Never puncture or drain a soft swelling at home—synovial myxomas feel squishy and fluid-filled while actively obliterating bone and invading deep muscle."
+          },
+          {
+            "label": "Schedule a fresh reptile-vet workup bringing supplement tubs, UV bulb boxes, exact timelines, and the report of failed antibiotics.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Breaking diagnostic momentum with concrete husbandry labels and failed-treatment data pushes the workup beyond an old chronic label toward focal imaging."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC11523163_10.1177_10406387241277230-fig1.jpg",
+          "caption": "Myxoma in the left femoral head of a central bearded dragon (Pogona vitticeps). A. The main radiographic findings were severe soft-tissue swelling centered on the left femur (arrow) and the absent left femoral head (arrowhead). B. Grossly, the left femoral head was replaced…",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 1. from Rasper-Hössinger et al. (2024), Journal of Veterinary Diagnostic Investigation : Official Publication of the American Association of Veterinary Laboratory Diagnosticians, Inc · PMC11523163",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523163/"
+        }
+      ]
+    },
+    "cloth-the-machine-caught-entanglement": {
+      "quiz": {
+        "prompt": "A shop coworker’s hoodie string catches a spinning shaft and pulls tight around their neck before the breaker trips. They sit up with unbroken skin, a red stripe, and a newly hoarse voice, saying they just want ice and water. First move?",
+        "options": [
+          {
+            "label": "Keep them still, withhold water, call 911 reporting external machine neck compression, and insist on urgent trauma assessment.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Unbroken skin can hide tracheal/esophageal tears and a hoarse voice warns of recurrent laryngeal nerve injury—water risks chest leakage and delayed swelling can close the airway."
+          },
+          {
+            "label": "Hand them a cup of cool water to test whether they can swallow cleanly and ask them to turn their head side to side to clear spine injury.",
+            "correct": false,
+            "feedback": "Testing swallowing can drive water through an occult esophageal tear into the chest cavity, and moving an injured neck can sever an unstable cervical spine."
+          },
+          {
+            "label": "Tell dispatch they had a brief choking incident and let them rest on site for an hour since the skin stayed intact.",
+            "correct": false,
+            "feedback": "Calling external ligature compression 'choking' triggers the wrong internal-blockage protocol, and waiting an hour lets adrenaline fade while deep throat edema closes the airway."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Singh et al. (2017), Chinese Journal of Traumatology — 3 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5392724/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "twist-could-not-wait-for-scan-volvulus": {
+      "quiz": {
+        "prompt": "After three days of stomach cramps, repeated non-green vomiting, and no bowel movements, an eight-year-old suddenly becomes limp and hard to wake. What is your next move?",
+        "options": [
+          {
+            "label": "Give an over-the-counter gentle laxative and check every two hours since non-green vomit rules out a surgical bowel twist.",
+            "correct": false,
+            "feedback": "Non-green vomit never excludes a strangulated obstruction, and giving laxatives or waiting hours behind a blocked bowel can be catastrophic."
+          },
+          {
+            "label": "Press deeply across each belly quadrant to pinpoint tenderness and encourage sips of water to test whether the stomach settles.",
+            "correct": false,
+            "feedback": "Repeated deep abdominal pressing and forcing fluids into a vomiting, lethargic child are unsafe home experiments—reduced responsiveness requires immediate EMS."
+          },
+          {
+            "label": "Call 911 immediately without home tests or waiting clocks, and hand responders exact symptom, stool, and vomiting timelines.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Abandoning a routine stomach-bug label at collapse or lethargy—even without green bile—gets a crashing child into resuscitation and surgical judgment fast."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC11611422_cris2024-9951709.001.jpg",
+          "caption": "(A) Initial anatomic situation at the beginning of laparotomy, hernia sac overlapping caecum, part of transversal colon, and small intestine. Some of the intestine located in the omental bursa. (B) Anatomical situation of the right hemicolon, ceacal volvulus rotated already…",
+          "spoilerNote": "Contains real surgical or gross pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Soini et al. (2024), Case Reports in Surgery · PMC11611422",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11611422/"
+        }
+      ]
+    },
+    "pill-and-narrowed-passage-esophagitis": {
+      "quiz": {
+        "prompt": "Two weeks after starting oral doxycycline for a serious illness, your cat’s diarrhea stops, yet she starts drooling heavily and passively bringing up undigested food without belly heaving. What is your next move?",
+        "options": [
+          {
+            "label": "Crush the next antibiotic tablet into water and syringe it down slowly to confirm whether her esophagus is still open.",
+            "correct": false,
+            "feedback": "Never force liquids or alter tablet formulations without vet approval—forcing fluid against a stricture risks aspiration pneumonia or esophageal rupture."
+          },
+          {
+            "label": "Withhold food-or-water swallow tests, call the vet promptly with exact drug bottles and timelines, and rush to ER if breathing changes.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Passive regurgitation and drooling point to a brand-new upper-tract stricture rather than lingering stomach virus—and protecting the airway comes before everything."
+          },
+          {
+            "label": "Keep monitoring at home until her next routine checkup since stopping diarrhea proves her digestive tract is steadily recovering.",
+            "correct": false,
+            "feedback": "Lower-tract improvement masks upper-tract scarring—waiting lets a fibrotic esophageal stricture tighten down to millimeters."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC9395306_11259_2022_9891_fig1_html.jpg",
+          "caption": "The stricture (with a diameter less than 2 mm) in the proximal segment of the oesophagus found during the first oesophagoscopy. The biopsy forceps have a cup diameter of 7 mm",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Fig. 1 from Kaczmar et al. (2022), Veterinary Research Communications · PMC9395306",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9395306/"
+        }
+      ]
+    },
+    "thread-across-the-road-kite-string": {
+      "quiz": {
+        "prompt": "A scooter passenger hits an invisible kite string crossing a neighborhood street, tumbles onto the asphalt with a brief blackout, and has a deep neck cut with glass-coated filament still stuck inside. What happens in your first 60 seconds?",
+        "options": [
+          {
+            "label": "Pull the stuck kite string out immediately and wrap a tight scarf snugly around the entire neck before waiting to see if bleeding slows.",
+            "correct": false,
+            "feedback": "Yanking embedded material can rip open a tamponaded clot, and tight circumferential neck wraps can slip and compress the airway."
+          },
+          {
+            "label": "Photograph the street and bag the drifting string first so police have proof, then test whether the rider can swallow water cleanly.",
+            "correct": false,
+            "feedback": "Evidence gathering never outranks emergency medical care, and forcing water down an injured throat can turn a partial tear into a full breach."
+          },
+          {
+            "label": "Call 911 immediately, leave embedded string untouched without tight neck wraps, and report both the cut and the head-impact fall.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Protecting the wound without amateur probing while reporting the fall ensures trauma teams catch both hidden neck muscle tears and intracranial bleeds."
+          }
+        ]
+      },
+      "diagramId": "thread-across-the-road-kite-string"
+    },
+    "sample-taken-after-crisis-water-intox": {
+      "quiz": {
+        "prompt": "A relative taking nightly desmopressin for prostate nocturia has drunk over five liters of water during morning colonoscopy prep and suddenly becomes confused and drowsy before leaving for the clinic. Next move?",
+        "options": [
+          {
+            "label": "Call 911 immediately without letting them drive, skip home water or salt fixes, and bring their exact pill bottles and fluid totals.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Confusion during prep on an antidiuretic warns of acute hyponatremia—emergency transport and hospital-controlled sodium correction prevent seizures and osmotic demyelination."
+          },
+          {
+            "label": "Give them two large glasses of electrolyte sports drink and let them nap for an hour since bowel prep commonly causes exhaustion.",
+            "correct": false,
+            "feedback": "Dismissing sudden confusion as prep fatigue or improvising home fluids delays emergency care while brain swelling escalates toward a seizure."
+          },
+          {
+            "label": "Skip the ambulance and drive straight to the clinic because their blood sodium tested completely normal three weeks ago.",
+            "correct": false,
+            "feedback": "A three-week-old sodium result says nothing about acute water intoxication unfolding this morning—a sudden seizure requires trained EMS airway protection, not a clinic waiting room."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC9753356_12882_2022_3035_fig1_html.jpg",
+          "caption": "Post-seizure brain CT: Brain CT did not reveal remarkable bleeding or space occupying lesions",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Chiang et al. (2022), BMC Nephrology · PMC9753356",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9753356/"
+        }
+      ]
+    },
+    "bird-and-falling-blood-count-avian": {
+      "quiz": {
+        "prompt": "Your pet parrot stops eating for two days, begins forcefully vomiting with dark tarry droppings, and drops to the cage floor unable to perch. What is your next move?",
+        "options": [
+          {
+            "label": "Wrap the bird firmly in a towel and syringe electrolyte water into its beak overnight so it stays hydrated until a morning checkup.",
+            "correct": false,
+            "feedback": "Home fluid syringes and stressful towel handling can trigger fatal cardiovascular collapse or aspiration in a dehydrated, hypoxic, or severely anemic bird."
+          },
+          {
+            "label": "Minimize handling, contact an avian veterinarian immediately with exact symptom timelines, and follow clinic transport instructions.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Birds mask illness until reserves hit empty—dropping off the perch, forceful vomiting, and dark droppings demand immediate professional avian triage without home experiments."
+          },
+          {
+            "label": "Spray the cage with anti-mite pesticide and wait 24 hours to see if the bird perks up before requesting a viral PCR label.",
+            "correct": false,
+            "feedback": "The mite-transmission claim came from a formally retracted 2007 paper—and waiting 24 hours on a floor-bound bird risks death before any lab test returns."
+          }
+        ]
+      }
     }
   },
   "exam": [
@@ -4165,24 +5210,24 @@
       ]
     },
     {
-      "q": "You pick up 20 lbs of dry ice in a cooler for a road trip in an SUV (no separated trunk). What keeps everyone conscious?",
+      "q": "You need to transport dry ice, but your SUV has no cargo compartment separate from the passenger cabin. What is the safer choice?",
       "caseSlug": "dry-ice-riding-shotgun",
       "caseRef": "Case 004",
       "options": [
         {
           "label": "Tape the cooler lid shut airtight so the CO₂ stays inside",
           "ok": false,
-          "why": "Congratulations—you just built a pressure bomb in your back seat. Dry ice sublimates ~250 L of gas per pound and WILL blow a sealed lid."
+          "why": "Never seal a dry ice container airtight. Gas buildup can rupture the container."
         },
         {
-          "label": "Crack windows wide open, run fresh-air intake (NOT recirculate), and never sleep in the car with dry ice",
+          "label": "Do not carry it in that SUV. Use a vehicle with a separate, ventilated cargo compartment.",
           "ok": true,
-          "why": "Survived Tuesday! Heavy CO₂ pools silently from the floor upward with zero odor."
+          "why": "Open windows and fresh-air mode do not make a shared cabin safe. Keep dry ice out of passenger airspace and use packaging that allows gas to escape."
         },
         {
           "label": "Turn on cabin A/C recirculation so it stays cool and sublimates slower",
           "ok": false,
-          "why": "Recirculation traps sublimating CO₂ right inside the breathing zone—the exact failure mode in fatal vehicle cases."
+          "why": "Recirculation does not bring in outside air. Do not transport dry ice in the occupied cabin."
         }
       ]
     },
@@ -4581,13 +5626,273 @@
           "why": "Never squeeze, massage, tube, needle, or give peroxide to a distended dog—clockwise rotation seals off the outflow and turns home fixes lethal."
         }
       ]
+    },
+    {
+      "q": "Midway through mowing your yard, a sudden sharp sting hits your upper belly. You shut the mower off, lift your shirt, and see spotless skin with zero blood, yet the deep pain stays severe. What is your move?",
+      "caseSlug": "wound-hard-to-see-lawnmower-wire",
+      "caseRef": "Case 137",
+      "options": [
+        {
+          "label": "Ice the sore spot on the couch and watch overnight for a bruise, since a real metal puncture would leave an obvious bleeding wound.",
+          "ok": false,
+          "why": "Elastic skin and fat can snap shut behind a 200-mph wire like self-healing rubber, hiding peritoneal penetration while bowel contamination brews silently."
+        },
+        {
+          "label": "Seek immediate emergency medical evaluation and tell triage plainly that you felt a sudden strike or sting while mowing the lawn.",
+          "ok": true,
+          "why": "Survived Tuesday! Spotless skin and calm early vitals never outrank sudden severe abdominal pain, and naming the mower triggers targeted imaging before complications start."
+        },
+        {
+          "label": "Press a clean magnifying glass and tweezers over the tender patch first to check for a splinter before deciding whether to visit urgent care.",
+          "ok": false,
+          "why": "Bathroom tweezers cannot detect a 7-centimeter wire buried beneath muscle and peritoneum, and probing tiny punctures introduces bacteria or dislodges vessel tamponade."
+        }
+      ]
+    },
+    {
+      "q": "Right after a hard sneezing fit, a dark ink-like cloud drops across your right eye. There is zero pain, your eye looks completely normal in the mirror, and it is late evening. What should you do?",
+      "caseSlug": "line-not-the-retina-valsalva",
+      "caseRef": "Case 138",
+      "options": [
+        {
+          "label": "Wait until morning to see if the cloud clears on its own, because true retinal emergencies always cause sharp pain and visible eye redness.",
+          "ok": false,
+          "why": "The retina has zero somatic pain receptors, so severe hemorrhage or retinal detachment can unfold completely painlessly behind a spotless cornea."
+        },
+        {
+          "label": "Gently massage the closed eyelid and try bearing down once to test whether the shadow moves before driving yourself to an optometrist.",
+          "ok": false,
+          "why": "Pressing on the globe or repeating a Valsalva strain risks worsening intraocular bleeding, and driving with acute monocular vision loss endangers everyone on the road."
+        },
+        {
+          "label": "Have someone else drive you immediately to an emergency room or urgent eye clinic for dilated specialist assessment, despite the lack of pain.",
+          "ok": true,
+          "why": "Survived Tuesday! A painless dark cloud after a sneeze demands urgent specialist evaluation because neither a normal mirror check nor zero pain rules out retinal injury."
+        }
+      ]
+    },
+    {
+      "q": "One of your two lean nine-month-old guinea pigs develops a cloudy eye and ravenous appetite without extra thirst, while her sister looks spotless. What is the safest first step?",
+      "caseSlug": "eye-that-found-two-diabetics-guinea-pigs",
+      "caseRef": "Case 139",
+      "options": [
+        {
+          "label": "Schedule prompt exotic veterinary evaluation for the cloudy eye, keep normal high-fiber hay flowing, and avoid DIY fasting or home dosing.",
+          "ok": true,
+          "why": "Survived Tuesday! Diabetes in guinea pigs can strike without excess thirst, a clear-eyed sibling can hide worse glucose, and sudden fasting risks lethal GI stasis."
+        },
+        {
+          "label": "Cut out hay and pellets for 24 hours to reset blood sugar while watching whether her water bottle starts draining faster than usual.",
+          "ok": false,
+          "why": "Withholding food from a hindgut-fermenting guinea pig can trigger fatal gastrointestinal stasis and hepatic lipidosis within 48 hours—far faster than high glucose."
+        },
+        {
+          "label": "Relax for a few weeks because young lean guinea pigs rarely get diabetes, and a negative home urine strip rules out dangerous crashes.",
+          "ok": false,
+          "why": "Suspected type 1 diabetes strikes young lean guinea pigs without obvious thirst, and negative urine strips cannot detect insulin-driven hypoglycemia or hidden hyperglycemia in a cage-mate."
+        }
+      ]
+    },
+    {
+      "q": "You feel completely normal—calm pulse, zero tremors—yet routine blood work prints a flatlined TSH of 0.02 and sky-high free T4 while you take daily hair-and-nails vitamins. What is the right call?",
+      "caseSlug": "thyroid-that-changed-in-the-test-biotin",
+      "caseRef": "Case 141",
+      "options": [
+        {
+          "label": "Stop all prescription medications and supplements for exactly one week on your own, then assume any remaining abnormal thyroid test is also a false alarm.",
+          "ok": false,
+          "why": "Never alter prescriptions or invent a solo washout calendar without physician oversight, and taking biotin never grants immunity against genuine coexisting thyroid disease."
+        },
+        {
+          "label": "Accept immediate antithyroid drugs or ablation because three calibrated lab values pointing in the exact same biological direction cannot all be wrong together.",
+          "ok": false,
+          "why": "Free biotin breaks both sandwich assays (falsely low TSH) and competitive assays (falsely high free T4/T3) simultaneously, forging an internally consistent fake Graves’ profile."
+        },
+        {
+          "label": "Show your doctor exact supplement labels disclosing biotin dose and timing so the care team and lab director can verify whether the assay is vulnerable.",
+          "ok": true,
+          "why": "Survived Tuesday! Disclosing vitamin B7 lets clinicians and the lab check streptavidin-biotin interference and retest safely on an unaffected platform before treating a ghost."
+        }
+      ]
+    },
+    {
+      "q": "At a crowded train station, a commuter tumbles down a moving escalator, bangs their head on steel steps, catches a jacket hem near the comb plate, and then insists they feel fine while sitting up dazed. What do you do?",
+      "caseSlug": "step-that-kept-moving-escalator",
+      "caseRef": "Case 143",
+      "options": [
+        {
+          "label": "Yank the trapped jacket straight out of the comb plate yourself and let them catch their train once they prove they can talk and stand.",
+          "ok": false,
+          "why": "Reaching into moving comb plates invites severe hand amputation, and an awake rider after a metal-step head strike can still harbor a lethal, slow-pooling cerebral bleed."
+        },
+        {
+          "label": "Keep hands out of the machinery, summon station staff and emergency care for head-strike assessment, and report only the exact sequence you actually witnessed.",
+          "ok": true,
+          "why": "Survived Tuesday! Avoiding DIY machinery extraction, getting professional evaluation for blunt head trauma, and giving pure eyewitness facts protect both life and investigation."
+        },
+        {
+          "label": "Tell paramedics the escalator definitely jerked violently—even though you only looked up after hearing a shout—so engineers shut down the station immediately.",
+          "ok": false,
+          "why": "Inventing a mechanical failure you never witnessed misdirects engineers and can blind trauma clinicians to an internal pre-fall cardiac event that actually triggered the collapse."
+        }
+      ]
+    },
+    {
+      "q": "A toddler reaches behind a running home treadmill and pulls back with a postage-stamp-sized red friction burn over two knuckles that is barely bleeding at all. What is your next step?",
+      "caseSlug": "small-hands-moving-treadmill-belt",
+      "caseRef": "Case 140",
+      "options": [
+        {
+          "label": "Press an ice cube onto the knuckles, dab on soothing home ointment, and bandage it since the tiny, dry scrape spared deeper blood vessels.",
+          "ok": false,
+          "why": "Frictional heat cauterizes tiny capillaries to hide deep full-thickness joint damage, while ice chokes off surviving blood supply and ointments trap heat and bacteria."
+        },
+        {
+          "label": "Skip ice and home creams, keep any stuck fabric untouched, and take the child promptly for professional medical burn assessment of joint depth.",
+          "ok": true,
+          "why": "Survived Tuesday! Postage-stamp 0.3% treadmill burns can expose finger tendons and joint capsules with almost no bleeding, making prompt specialist wound depth assessment essential."
+        },
+        {
+          "label": "Wash the blister gently, snip away loose dead skin with clean scissors, and tape a popsicle-stick splint across the knuckles until a checkup next week.",
+          "ok": false,
+          "why": "Never perform home debridement or makeshift splinting on a pediatric friction burn—only sterile specialist evaluation can protect joint capsules and prevent cooling scar contractures."
+        }
+      ]
+    },
+    {
+      "q": "You are a fit 43-year-old non-smoker with zero family heart history. While resting quietly, sudden heavy central chest pain starts radiating down your left arm, though you are not sweating or breathless. What happens next?",
+      "caseSlug": "one-entrance-injured-branch-scad",
+      "caseRef": "Case 144",
+      "options": [
+        {
+          "label": "Call emergency medical services immediately instead of driving yourself, knowing that SCAD can strike healthy adults without sweating or ECG changes.",
+          "ok": true,
+          "why": "Survived Tuesday! Calling EMS brings cardiac monitoring straight to your door and keeps you from losing consciousness behind the wheel during an occult NSTEMI."
+        },
+        {
+          "label": "Wait an hour on the couch and take a brisk walk test, since real heart attacks require cold sweats, nausea, shortness of breath, or high cholesterol.",
+          "ok": false,
+          "why": "Spontaneous coronary artery dissection routinely hits patients with zero conventional risk factors and zero secondary symptoms—waiting or straining risks lethal progression."
+        },
+        {
+          "label": "Drive yourself to an urgent-care clinic for a quick ECG and head straight home relieved if the first electrical tracing prints normal sinus rhythm.",
+          "ok": false,
+          "why": "Driving with acute ischemia risks fatal arrhythmia in traffic, and a spotless 12-lead ECG cannot rule out an NSTEMI that only serial troponin and imaging expose."
+        }
+      ]
+    },
+    {
+      "q": "Your three-year-old ferret suddenly goes limp in the hind legs, drools heavily, and starts seizing on the living-room floor, even though he played normally yesterday. What do you do right now?",
+      "caseSlug": "seizure-between-normal-days-ferret",
+      "caseRef": "Case 142",
+      "options": [
+        {
+          "label": "Keep all fingers and liquids out of his mouth, move him off high surfaces clear of hard objects, and transport him immediately to emergency veterinary care.",
+          "ok": true,
+          "why": "Survived Tuesday! Protecting his airway from aspiration while getting immediate emergency IV stabilization avoids turning a metabolic crash into fatal pneumonia."
+        },
+        {
+          "label": "Squirt a syringe of honey water into the side of his mouth immediately to raise blood sugar, then stay home if he perks up playfully by morning.",
+          "ok": false,
+          "why": "Seizing ferrets lose protective swallow reflexes so forced liquid pours into the lungs—and bouncing back on Tuesday never means the underlying insulinoma vanished."
+        },
+        {
+          "label": "Record a clear two-minute video of the seizure first, then fast him for several hours before his clinic visit so the veterinarian can witness a real crash.",
+          "ok": false,
+          "why": "Delaying transport for footage or purposefully provoking a hypoglycemic crash risks irreversible brain injury or death when your spoken history already guides testing."
+        }
+      ]
+    },
+    {
+      "q": "Two months after a gastric sleeve, your 22-year-old sister—who takes her oral vitamins daily and is not vomiting—develops worsening leg weakness, jerky eye movements, and mild confusion. What is the critical action?",
+      "caseSlug": "vitamin-brain-could-not-spare-wernicke",
+      "caseRef": "Case 147",
+      "options": [
+        {
+          "label": "Go immediately to emergency care, lead with her gastric sleeve date and family-observed confusion, and let doctors evaluate for urgent IV thiamine.",
+          "ok": true,
+          "why": "Survived Tuesday! Compliant oral supplements and normal outward weight never guarantee thiamine absorption, and BOMSS guidelines call for prompt IV thiamine without waiting for lab or MRI confirmation."
+        },
+        {
+          "label": "Double her over-the-counter oral multivitamins at home and wait for her scheduled annual bariatric nutrition appointment to test blood levels.",
+          "ok": false,
+          "why": "When gut absorption or utilization is already failing behind a gastric sleeve, waiting on extra oral pills allows preventable central nervous system energy starvation to leave lasting memory deficits."
+        },
+        {
+          "label": "Assume a urinary tract infection or multiple sclerosis explains the confusion if her initial brain MRI looks atypical for classic vitamin deficiency.",
+          "ok": false,
+          "why": "A UTI cannot explain torsional or upbeat nystagmus, and classic acute Wernicke’s MRI sensitivity is only about 53%—meaning an atypical scan never rules out brain thiamine starvation."
+        }
+      ]
+    },
+    {
+      "q": "A teenager falls onto a bicycle handlebar while wearing a helmet, has mild initial belly soreness, and an early ER ultrasound is called ‘unremarkable’ without checking pancreatic enzymes. Two days later belly pain worsens with vomiting. What is the safest move?",
+      "caseSlug": "handlebar-and-hidden-pancreatic-duct",
+      "caseRef": "Case 155",
+      "options": [
+        {
+          "label": "Wait another two days with rest and fluids at home since the initial emergency ultrasound already cleared the abdomen",
+          "ok": false,
+          "why": "Bowel gas can obscure the pancreas on early ultrasound, and untested amylase/lipase are blank spaces—not normal clearance. Waiting days risks peritonitis and septic shock."
+        },
+        {
+          "label": "Give over-the-counter pain relievers and monitor quietly unless a dark bruise spreads across the upper stomach wall",
+          "ok": false,
+          "why": "Handlebar impacts act like blunt spears that can transect the deep pancreas against the spine with minimal external bruising; masking worsening pain delays surgical rescue."
+        },
+        {
+          "label": "Return promptly for urgent evaluation and explicitly report ‘bicycle handlebar struck the abdomen’ plus worsening vomiting",
+          "ok": true,
+          "why": "Survived Tuesday! Naming the handlebar mechanism prompts targeted pancreatic enzyme checks and cross-sectional CT/MRI before leaking enzymes trigger septic shock."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
+      "id": "latest",
+      "label": "🆕 Wave 5 Drops (Ep 2621–2653) (33)",
+      "tagline": "Freshly added on 2026-11-21 — 33 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "slugs": [
+        "wound-hard-to-see-lawnmower-wire",
+        "line-not-the-retina-valsalva",
+        "eye-that-found-two-diabetics-guinea-pigs",
+        "small-hands-moving-treadmill-belt",
+        "thyroid-that-changed-in-the-test-biotin",
+        "seizure-between-normal-days-ferret",
+        "step-that-kept-moving-escalator",
+        "one-entrance-injured-branch-scad",
+        "egg-that-would-not-leave-gecko",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "vitamin-brain-could-not-spare-wernicke",
+        "lump-not-lymph-node-hedgehog",
+        "injury-that-outlasted-crash-bowel",
+        "bruises-needed-different-question-hemophilia",
+        "clot-before-thick-wall-kitten-ate",
+        "burn-looked-like-infection-wet-cement",
+        "pulse-that-did-not-race-pheochromocytoma",
+        "tilt-needed-more-than-one-test-rabbit",
+        "handlebar-and-hidden-pancreatic-duct",
+        "antibody-and-falling-glucose-ias",
+        "cream-reached-blood-zinc-oxide-dog",
+        "missing-denture-faint-line-esophagus",
+        "flush-behind-falling-count-hit",
+        "discharge-not-ending-iron-edta-dog",
+        "burn-that-reached-the-heart-hf-acid",
+        "bleeding-behind-kidney-retroperitoneal",
+        "swelling-not-just-bone-disease-synovial",
+        "cloth-the-machine-caught-entanglement",
+        "twist-could-not-wait-for-scan-volvulus",
+        "pill-and-narrowed-passage-esophagitis",
+        "thread-across-the-road-kite-string",
+        "sample-taken-after-crisis-water-intox",
+        "bird-and-falling-blood-count-avian"
+      ]
+    },
+    {
       "id": "visual-pilot",
-      "label": "🩻 Real Clinical Exhibits (47)",
-      "tagline": "All 47 chapters featuring verified commercial-safe CC-BY X-rays, CTs, MRIs, ECGs, ultrasounds, and opt-in unsealable clinical photographs.",
+      "label": "🩻 Real Clinical Exhibits (70)",
+      "tagline": "All 70 chapters featuring verified commercial-safe CC-BY X-rays, CTs, MRIs, ECGs, ultrasounds, and opt-in unsealable clinical photographs.",
       "slugs": [
         "dry-ice-riding-shotgun",
         "pressure-washer-pinhole",
@@ -4635,34 +5940,63 @@
         "scan-before-the-flap-aorta",
         "hook-and-the-changed-pupil",
         "plant-and-the-swollen-brain-sago-palm",
-        "pressure-behind-the-reading-topiramate"
+        "pressure-behind-the-reading-topiramate",
+        "wound-hard-to-see-lawnmower-wire",
+        "line-not-the-retina-valsalva",
+        "eye-that-found-two-diabetics-guinea-pigs",
+        "small-hands-moving-treadmill-belt",
+        "thyroid-that-changed-in-the-test-biotin",
+        "one-entrance-injured-branch-scad",
+        "egg-that-would-not-leave-gecko",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "lump-not-lymph-node-hedgehog",
+        "injury-that-outlasted-crash-bowel",
+        "bruises-needed-different-question-hemophilia",
+        "clot-before-thick-wall-kitten-ate",
+        "burn-looked-like-infection-wet-cement",
+        "pulse-that-did-not-race-pheochromocytoma",
+        "tilt-needed-more-than-one-test-rabbit",
+        "handlebar-and-hidden-pancreatic-duct",
+        "missing-denture-faint-line-esophagus",
+        "burn-that-reached-the-heart-hf-acid",
+        "bleeding-behind-kidney-retroperitoneal",
+        "swelling-not-just-bone-disease-synovial",
+        "twist-could-not-wait-for-scan-volvulus",
+        "pill-and-narrowed-passage-esophagitis",
+        "sample-taken-after-crisis-water-intox"
       ]
     },
     {
       "id": "infographics",
-      "label": "📐 Signature Forensic Diagrams (20)",
-      "tagline": "All 20 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
+      "label": "📐 Signature Forensic Diagrams (26)",
+      "tagline": "All 26 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "fractal-wood-burning",
-        "driveway-ied-truck-tire",
-        "dry-ice-riding-shotgun",
+        "boots-in-the-snow-and-heatstroke",
         "charger-between-phone-and-wall",
-        "tank-after-the-collapse-h2s",
-        "wire-behind-the-pain",
-        "room-not-safe-to-finish",
         "reheated-rice-and-botulism",
+        "handlebar-and-hidden-pancreatic-duct",
+        "burn-looked-like-infection-wet-cement",
+        "hair-treatment-reached-the-cat",
+        "driveway-ied-truck-tire",
         "chocolate-brown-blood",
+        "puppy-with-the-twisted-stomach-gdv",
+        "tank-after-the-collapse-h2s",
+        "anesthetic-that-triggered-the-furnace",
+        "spin-class-rhabdo",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "room-not-safe-to-finish",
+        "super-rat-bait-and-vitamin-k-trap",
+        "dry-ice-riding-shotgun",
+        "small-hands-moving-treadmill-belt",
+        "one-finger-varicose-vein",
         "hot-baths-fentanyl-patches-deadly",
         "battery-already-in-the-stomach",
-        "spin-class-rhabdo",
-        "van-that-was-not-empty",
-        "boots-in-the-snow-and-heatstroke",
-        "one-finger-varicose-vein",
         "potassium-that-rose-in-the-tube",
-        "anesthetic-that-triggered-the-furnace",
-        "hair-treatment-reached-the-cat",
-        "super-rat-bait-and-vitamin-k-trap",
-        "puppy-with-the-twisted-stomach-gdv"
+        "van-that-was-not-empty",
+        "thread-across-the-road-kite-string",
+        "fractal-wood-burning",
+        "wire-behind-the-pain",
+        "thyroid-that-changed-in-the-test-biotin"
       ]
     },
     {
@@ -4718,7 +6052,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 18",
+      "label": "🐾 Pet Owner’s Mandatory 29",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }

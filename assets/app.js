@@ -532,7 +532,7 @@
       statsEl.innerHTML =
         '<span class="ot-stat-chip crimson">' + liveCases.length + ' Stories Live</span>' +
         (exStories ? '<span class="ot-stat-chip">🩻 ' + exStories + ' Clinical Exhibits</span>' : '') +
-        '<span class="ot-stat-chip">📐 136 Illustrated</span>' +
+        '<span class="ot-stat-chip">📐 ' + liveCases.length + ' Illustrated</span>' +
         '<span class="ot-stat-chip" id="survived-counter-chip">✓ ' + survivedSet.size + ' / ' + liveCases.length + ' Survived</span>' +
         '<button type="button" class="ot-btn primary small" id="open-exam-btn" style="border-radius:999px;">🧪 Take Survival Exam</button>' +
         '<button type="button" class="ot-btn small" id="random-case-btn" style="border-radius:999px;">🎲 Random Case</button>' +
@@ -654,7 +654,7 @@
         '<div class="ot-packs-wrap">' +
           '<div class="ot-packs-label">' +
             '<span>CURATED STARTER PACKS &amp; DEEP-LINKABLE BUNDLES</span>' +
-            (activePack ? '<button type="button" class="ot-btn small" id="clear-pack-btn">Show All 136 ×</button>' : '<span>Click any pack to filter &amp; copy a direct link</span>') +
+            (activePack ? '<button type="button" class="ot-btn small" id="clear-pack-btn">Show All ' + catalog.cases.length + ' ×</button>' : '<span>Click any pack to filter &amp; copy a direct link</span>') +
           '</div>' +
           '<div class="ot-packs-row">' +
             exhibits.starterPacks.map(function (pk) {
@@ -907,7 +907,10 @@
             '<figure class="ot-exhibit-card" data-exhibit-idx="' + fi + '">' +
               '<div class="ot-exhibit-head">' +
                 '<span>' + esc(fig.exhibitCode || ('EXHIBIT ' + (fi + 1))) + ' · PRIMARY PEER-REVIEWED EVIDENCE</span>' +
-                '<a class="ot-lic-pill" href="' + esc(fig.licenseUrl || '#') + '" target="_blank" rel="noopener">✓ ' + esc(fig.license || 'CC BY') + '</a>' +
+                '<span class="ot-exhibit-head-right">' +
+                  '<button type="button" class="ot-zoom-btn ot-no-print" data-zoom-btn="' + fi + '" title="Inspect full-resolution exhibit">🔍 Zoom</button>' +
+                  '<a class="ot-lic-pill" href="' + esc(fig.licenseUrl || '#') + '" target="_blank" rel="noopener">✓ ' + esc(fig.license || 'CC BY') + '</a>' +
+                '</span>' +
               '</div>' +
               '<div class="ot-exhibit-media">' +
                 '<img src="' + esc(fig.src) + '" alt="' + esc(fig.caption) + '" loading="lazy" class="' + (blur ? 'is-blurred' : '') + '" />' +
@@ -1114,12 +1117,44 @@
         '</section>'
       ) : '');
 
-    // Wire Unseal / Re-Seal Clinical Exhibit Blur Shields
+    // Wire Unseal / Re-Seal Clinical Exhibit Blur Shields + Darkroom Full-Res Lightbox
+    function openExhibitLightbox(fig) {
+      let lb = document.getElementById('ot-lightbox');
+      if (!lb) {
+        lb = document.createElement('div');
+        lb.id = 'ot-lightbox';
+        lb.className = 'ot-lightbox ot-no-print';
+        lb.setAttribute('role', 'dialog');
+        lb.setAttribute('aria-modal', 'true');
+        lb.innerHTML =
+          '<div class="ot-lightbox-inner">' +
+            '<div class="ot-lightbox-top"><span id="ot-lb-code"></span><button type="button" class="ot-zoom-btn" id="ot-lb-close">Close × (Esc)</button></div>' +
+            '<div class="ot-lightbox-body"><img id="ot-lb-img" src="" alt="" /></div>' +
+            '<div class="ot-lightbox-foot"><div id="ot-lb-cap"></div><div class="ot-lightbox-cite"><span id="ot-lb-cite"></span><a id="ot-lb-src" href="#" target="_blank" rel="noopener">Open Primary Article on PMC ↗</a></div></div>' +
+          '</div>';
+        document.body.appendChild(lb);
+        lb.addEventListener('click', function (ev) { if (ev.target === lb) lb.classList.remove('open'); });
+        document.getElementById('ot-lb-close').addEventListener('click', function () { lb.classList.remove('open'); });
+        document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') lb.classList.remove('open'); });
+      }
+      document.getElementById('ot-lb-code').textContent = (fig.exhibitCode || 'CLINICAL EXHIBIT') + ' · ' + (fig.license || 'CC BY');
+      const lbImg = document.getElementById('ot-lb-img');
+      lbImg.src = fig.src;
+      lbImg.alt = fig.caption || '';
+      document.getElementById('ot-lb-cap').textContent = fig.caption || '';
+      document.getElementById('ot-lb-cite').textContent = fig.citation || '';
+      document.getElementById('ot-lb-src').href = fig.sourceUrl || '#';
+      lb.classList.add('open');
+    }
+
     root.querySelectorAll('.ot-exhibit-card').forEach(function (card) {
+      const idx = parseInt(card.getAttribute('data-exhibit-idx'), 10);
+      const figObj = (ex.clinicalFigures || [])[idx];
       const img = card.querySelector('img');
       const overlay = card.querySelector('.ot-unseal-overlay');
       const unsealBtn = card.querySelector('[data-unseal-btn]');
       const resealBtn = card.querySelector('[data-reseal-btn]');
+      const zoomBtn = card.querySelector('[data-zoom-btn]');
       if (unsealBtn && img && overlay) {
         unsealBtn.addEventListener('click', function () {
           img.classList.remove('is-blurred');
@@ -1132,6 +1167,21 @@
           img.classList.add('is-blurred');
           overlay.style.display = 'flex';
           resealBtn.style.display = 'none';
+        });
+      }
+      if (img && figObj) {
+        img.addEventListener('click', function () {
+          if (!img.classList.contains('is-blurred')) openExhibitLightbox(figObj);
+        });
+      }
+      if (zoomBtn && figObj) {
+        zoomBtn.addEventListener('click', function () {
+          if (img && img.classList.contains('is-blurred')) {
+            img.classList.remove('is-blurred');
+            if (overlay) overlay.style.display = 'none';
+            if (resealBtn) resealBtn.style.display = 'inline-block';
+          }
+          openExhibitLightbox(figObj);
         });
       }
     });
