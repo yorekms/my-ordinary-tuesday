@@ -5,7 +5,7 @@
 Built directly from peer-reviewed autopsy & emergency-medicine case reports and the *How Not to Die* podcast archive. We roast bad physics, smug household appliances, and deceptive normal test results—never the people caught in them—so you know what to do in the first 60 seconds.
 
 - **Live Magazine Reader:** `https://yorekms.github.io/ordinary-tuesday/`
-- **Current Corpus:** **111 Full Live Stories** across 6 Everyday Danger Zones (all transcribed *How Not to Die* & Prevention episodes through `Ep 2620` / `Ep 1004`), with `Ep 1005+` queued on the Rolling Studio Watchlist.
+- **Current Corpus:** **136 Full Live Stories** across 6 Everyday Danger Zones (all transcribed *How Not to Die* & Prevention episodes through `Ep 2620` / `Ep 1004`, plus 23 curated Forensic & Toxicology survival classics), with `Ep 1005–1007+` queued on the Rolling Studio Watchlist.
 - **Single Source of Truth:** `data/catalog.json` + `data/stories.json`
 - **One-Command Build Pipeline:** `python3 scripts/build_all.py`
   - Updates the static reader (`data/bundle.js`)
