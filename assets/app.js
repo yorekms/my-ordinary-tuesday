@@ -206,6 +206,11 @@
     const updatedEl = document.getElementById('meta-updated');
     if (updatedEl) updatedEl.textContent = 'UPDATED ' + catalog.meta.updated;
 
+    const navCatLink = document.getElementById('nav-catalog-link');
+    if (navCatLink) navCatLink.textContent = 'All ' + catalog.cases.length + ' Stories';
+    const catHeading = document.getElementById('catalog-heading');
+    if (catHeading) catHeading.textContent = 'All ' + catalog.cases.length + ' Stories — Browse by Danger Zone';
+
     const statsEl = document.getElementById('masthead-stats');
     if (statsEl) {
       statsEl.innerHTML =
@@ -441,9 +446,12 @@
       );
     }).join('');
 
+    const topAllLink = document.getElementById('story-top-all-link');
+    if (topAllLink) topAllLink.textContent = '← All ' + data.catalog.cases.length + ' Case Files';
+
     root.innerHTML =
       '<div class="ot-back-bar">' +
-        '<a href="index.html">← Back to The Morgue Gazette (40 Case Files)</a>' +
+        '<a href="index.html">← Back to The Morgue Gazette (' + data.catalog.cases.length + ' Case Files)</a>' +
         '<span>FILE № ' + esc(story.fileNo) + ' · ' + esc(story.readTime) + '</span>' +
       '</div>' +
 

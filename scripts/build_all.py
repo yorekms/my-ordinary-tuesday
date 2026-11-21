@@ -404,18 +404,19 @@ for slug, fname in pilot_filenames.items():
 
 # Master Lineup + 3 Pilot Stories combined doc (ready for Google Docs import!)
 ml = [
-    f"# {catalog['meta']['title']} — Master Book & Site Lineup + 3 Pilot Stories",
+    f"# {catalog['meta']['title']} — Master Book & Site Lineup ({total_cases} Stories)",
     f"*{catalog['meta']['subtitle']}*",
     "",
     f"- **Edition:** {catalog['meta']['edition']}",
     f"- **Last Updated:** {catalog['meta']['updated']}",
-    f"- **Status:** **{live_count} Full Pilot Stories Drafted** · **{total_cases} Curated Chapters Across 6 Rooms** · **Rolling Pipeline Ready for Ep 987–992+**",
+    f"- **Status:** **{live_count} Full Stories Live** · **{total_cases} Curated Chapters Across {len(catalog['parts'])} Rooms** · **Rolling Pipeline Ready for Ep 999–1001+**",
     f"- **Editorial Tone Charter:** Wicked, razor-sharp wit aimed exclusively at bad physics, smug consumer contraptions, and deceptive normal test results—never at victims or families. Every chapter obeys the 5-Pillar Forensic-Survival Schema and strictly separates Cause, Mechanism, and Manner.",
+    f"- **Live Web Reader:** [{reader_base}]({reader_base})",
     f"- **Key Drive Vaults:** [Forensic Medicine Show Bible]({catalog['meta']['showBibleUrl']}) · [How Not to Die Notebook Folder]({catalog['meta']['notebookFolderUrl']}) · [Master Transcript Sheet]({catalog['meta']['masterSheetUrl']})",
     "",
     "---",
     "",
-    "# PART A: CURATED 40-CHAPTER MASTER LINEUP (FOR REVIEW)",
+    f"# PART A: CURATED {total_cases}-CHAPTER MASTER LINEUP (ALL LIVE)",
     "",
 ]
 
@@ -427,14 +428,14 @@ for part in catalog['parts']:
     ml.append("| File № | Chapter Title | Status | Source Ep | Looks Like → Actually Is | 60-Second Rule |")
     ml.append("| --- | --- | --- | --- | --- | --- |")
     for c in pcases:
-        stat = "**LIVE PILOT**" if c['status'] == 'live' else "Queued"
+        stat = f"[**Read Live ↗**]({reader_base}story.html?case={c['slug']})" if c['status'] == 'live' else "Queued"
         ep_link = f"[{c['ep']}]({c['transcriptUrl']})" if c.get('transcriptUrl') else c['ep']
         looks_act = f"{c['looksLike']} → **{c['actuallyIs']}**"
         ml.append(f"| `{c['fileNo']}` | **{c['title']}** | {stat} | {ep_link} ({c['duration']}) | {looks_act} | {c['goldenRule']} |")
     ml.append("")
 
 ml.extend([
-    "## Fresh From the Studio — Rolling Expansion Watchlist (Ep 987–992+)",
+    "## Fresh From the Studio — Rolling Expansion Watchlist (Ep 999–1001+)",
     "",
     "| Batch | Suggested Room | Working Title | Hook & Primary Source |",
     "| --- | --- | --- | --- |",
@@ -446,7 +447,7 @@ ml.extend([
     "",
     "---",
     "",
-    "# PART B: THREE FULL PILOT STORIES (VOICE & FORMAT PROOF-OF-CONCEPT)",
+    "# PART B: THREE FEATURED PILOT STORIES (VOICE & FORMAT SAMPLE)",
     ""
 ])
 for slug in ['fractal-wood-burning', 'wire-behind-the-pain', 'chocolate-brown-blood']:
@@ -458,7 +459,7 @@ for slug in ['fractal-wood-burning', 'wire-behind-the-pain', 'chocolate-brown-bl
 
 master_md = '\n'.join(ml)
 (BOOK_DIR / 'MASTER_LINEUP.md').write_text(master_md, encoding='utf-8')
-print(f'[4/5] Wrote book/MASTER_LINEUP.md ({len(master_md):,} chars) + 3 pilot files in book/pilots/')
+print(f'[4/5] Wrote book/MASTER_LINEUP.md ({len(master_md):,} chars) + {len(stories)} chapters in book/chapters/')
 
 # ---------------------------------------------------------------------------
 # 5. Compile Print-Ready Book Manuscript (Markdown + Print HTML)
