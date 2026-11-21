@@ -276,9 +276,20 @@
     const panel = document.getElementById('ot-exam-panel');
     if (!modal || !panel || !examItems || !examItems.length) return { open: function () {} };
 
+    let deck = [];
     let idx = 0;
     let score = 0;
     let answered = false;
+
+    function drawDeck() {
+      const pool = examItems.slice();
+      for (let i = pool.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        const tmp = pool[i]; pool[i] = pool[j]; pool[j] = tmp;
+      }
+      deck = pool.slice(0, Math.min(10, pool.length));
+      idx = 0; score = 0; answered = false;
+    }
 
     function getVerdict(sc, tot) {
       const pct = sc / tot;
@@ -289,24 +300,24 @@
     }
 
     function renderStep() {
-      if (idx >= examItems.length) {
-        const v = getVerdict(score, examItems.length);
+      if (idx >= deck.length) {
+        const v = getVerdict(score, deck.length);
         panel.innerHTML =
           '<div class="ot-exam-top"><span>TUESDAY SURVIVAL EXAM · OFFICIAL VERDICT</span><button type="button" class="ot-btn small" id="ot-exam-close">Close ×</button></div>' +
           '<div class="ot-exam-score-card">' +
-            '<div class="ot-exam-score-num">' + score + ' / ' + examItems.length + '</div>' +
+            '<div class="ot-exam-score-num">' + score + ' / ' + deck.length + '</div>' +
             '<h3 class="ot-exam-verdict">' + esc(v.title) + '</h3>' +
             '<p style="color:var(--ink-soft);margin:0 0 20px;font-size:14.5px;line-height:1.55;">' + esc(v.sub) + '</p>' +
             '<div class="ot-btn-row" style="justify-content:center;">' +
               '<button type="button" class="ot-btn primary" id="ot-exam-share">Copy Score to Share</button>' +
-              '<button type="button" class="ot-btn" id="ot-exam-retry">Retake Exam</button>' +
+              '<button type="button" class="ot-btn" id="ot-exam-retry">🎲 Draw 10 New Scenarios</button>' +
               '<a class="ot-btn" href="poster.html">Open Lying Lab Poster ↗</a>' +
             '</div>' +
           '</div>';
         document.getElementById('ot-exam-close').onclick = close;
-        document.getElementById('ot-exam-retry').onclick = function () { idx = 0; score = 0; answered = false; renderStep(); };
+        document.getElementById('ot-exam-retry').onclick = function () { drawDeck(); renderStep(); };
         document.getElementById('ot-exam-share').onclick = function () {
-          const txt = 'I scored ' + score + '/' + examItems.length + ' on the "How Not to Die on an Ordinary Tuesday" Survival Exam — Verdict: ' + v.title + '. Try it: https://yorekms.github.io/ordinary-tuesday/?exam=1';
+          const txt = 'I scored ' + score + '/' + deck.length + ' on the "How Not to Die on an Ordinary Tuesday" Survival Exam — Verdict: ' + v.title + '. Try it: https://yorekms.github.io/ordinary-tuesday/?exam=1';
           navigator.clipboard.writeText(txt).then(function () {
             const b = document.getElementById('ot-exam-share');
             if (b) b.textContent = '✓ Score Copied!';
@@ -316,10 +327,10 @@
       }
 
       answered = false;
-      const item = examItems[idx];
+      const item = deck[idx];
       panel.innerHTML =
         '<div class="ot-exam-top">' +
-          '<span>QUESTION ' + (idx + 1) + ' OF ' + examItems.length + ' · SCORE: ' + score + '</span>' +
+          '<span>QUESTION ' + (idx + 1) + ' OF ' + deck.length + ' (POOL: ' + examItems.length + ') · SCORE: ' + score + '</span>' +
           '<button type="button" class="ot-btn small" id="ot-exam-close">Close ×</button>' +
         '</div>' +
         '<div class="ot-quiz-prompt">' + esc(item.q) + '</div>' +
@@ -331,7 +342,7 @@
         '<div class="ot-quiz-feedback" id="ot-exam-fb"></div>' +
         '<div class="ot-btn-row" id="ot-exam-next-row" style="display:none;margin-top:14px;justify-content:space-between;align-items:center;">' +
           '<a class="ot-btn small" href="story.html?case=' + encodeURIComponent(item.caseSlug) + '" target="_blank" rel="noopener">Read ' + esc(item.caseRef) + ' ↗</a>' +
-          '<button type="button" class="ot-btn primary" id="ot-exam-next">' + (idx + 1 < examItems.length ? 'Next Scenario →' : 'See Final Verdict →') + '</button>' +
+          '<button type="button" class="ot-btn primary" id="ot-exam-next">' + (idx + 1 < deck.length ? 'Next Scenario →' : 'See Final Verdict →') + '</button>' +
         '</div>';
 
       document.getElementById('ot-exam-close').onclick = close;
@@ -357,7 +368,7 @@
     }
 
     function open() {
-      idx = 0; score = 0; answered = false;
+      drawDeck();
       modal.classList.add('open');
       renderStep();
     }
@@ -517,9 +528,11 @@
 
     const statsEl = document.getElementById('masthead-stats');
     if (statsEl) {
+      const exStories = (exhibits.meta && exhibits.meta.ccByClinicalExhibitStories) || 0;
       statsEl.innerHTML =
         '<span class="ot-stat-chip crimson">' + liveCases.length + ' Stories Live</span>' +
-        '<span class="ot-stat-chip">' + Math.round(totalWords / 1000) + 'k+ Spoken Words</span>' +
+        (exStories ? '<span class="ot-stat-chip">🩻 ' + exStories + ' Clinical Exhibits</span>' : '') +
+        '<span class="ot-stat-chip">📐 136 Illustrated</span>' +
         '<span class="ot-stat-chip" id="survived-counter-chip">✓ ' + survivedSet.size + ' / ' + liveCases.length + ' Survived</span>' +
         '<button type="button" class="ot-btn primary small" id="open-exam-btn" style="border-radius:999px;">🧪 Take Survival Exam</button>' +
         '<button type="button" class="ot-btn small" id="random-case-btn" style="border-radius:999px;">🎲 Random Case</button>' +
@@ -869,8 +882,13 @@
     const topAllLink = document.getElementById('story-top-all-link');
     if (topAllLink) topAllLink.textContent = '← All ' + data.catalog.cases.length + ' Case Files';
 
-    // Track 2: Bespoke Forensic SVG Diagram HTML
-    const diagObj = (ex.diagramId && window.OT_DIAGRAMS) ? window.OT_DIAGRAMS[ex.diagramId] : null;
+    // Track 2: Bespoke Forensic SVG Diagram (20 hand-crafted signature infographics + dynamic blueprint for all remaining stories!)
+    let diagObj = null;
+    if (window.OT_DIAGRAMS && (window.OT_DIAGRAMS[ex.diagramId] || window.OT_DIAGRAMS[story.slug])) {
+      diagObj = window.OT_DIAGRAMS[ex.diagramId] || window.OT_DIAGRAMS[story.slug];
+    } else if (typeof window.OT_RENDER_CASE_BLUEPRINT === 'function') {
+      diagObj = window.OT_RENDER_CASE_BLUEPRINT(story, catCase);
+    }
     const diagramHtml = diagObj ? (
       '<figure class="ot-diagram-card">' +
         '<div class="ot-diagram-badge">' + esc(diagObj.badge) + '</div>' +

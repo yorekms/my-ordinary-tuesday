@@ -1,7 +1,7 @@
 # How Not to Die on an Ordinary Tuesday
 ### True Stories From the Autopsy Table, Deceptive Normal Tests, and the 60-Second Moves That Keep You Alive
 
-*Matthew Yorek / Deep Dive Forensic Network · Working Manuscript (2026-11-20)*
+*Matthew Yorek / Deep Dive Forensic Network · Working Manuscript (2026-11-21)*
 
 ---
 

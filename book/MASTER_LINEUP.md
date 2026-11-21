@@ -2,7 +2,7 @@
 *True Stories From the Autopsy Table, Deceptive Normal Tests, and the 60-Second Moves That Keep You Alive*
 
 - **Edition:** Vol. I · The Morgue Gazette & Book Incubator
-- **Last Updated:** 2026-11-20
+- **Last Updated:** 2026-11-21
 - **Status:** **136 Full Stories Live** · **136 Curated Chapters Across 6 Rooms** · **Rolling Pipeline Ready for Ep 1005+**
 - **Editorial Tone Charter:** Wicked, razor-sharp wit aimed exclusively at bad physics, smug consumer contraptions, and deceptive normal test results—never at victims or families. Every chapter obeys the 5-Pillar Forensic-Survival Schema and strictly separates Cause, Mechanism, and Manner.
 - **Live Web Reader:** [https://yorekms.github.io/ordinary-tuesday/](https://yorekms.github.io/ordinary-tuesday/)
