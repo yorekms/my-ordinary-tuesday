@@ -223,12 +223,12 @@
 
         '<rect x="24" y="94" width="672" height="68" rx="7" fill="#FEF3C7" stroke="#F59E0B"/>' +
         '<text x="40" y="118" font-family="IBM Plex Mono,monospace" font-size="11" font-weight="700" fill="#92400E">100 – 150 PPM · THE SILENT LIE (OLFACTORY PARALYSIS)</text>' +
-        '<text x="40" y="138" font-family="Inter,sans-serif" font-size="12" fill="#78350F">Smell vanishes within breaths. Rescuers think the tank ventilated—and climb straight into a lethal gas pocket.</text>' +
+        '<text x="40" y="138" font-family="Inter,sans-serif" font-size="11.5" fill="#78350F">Smell vanishes within breaths—tricking rescuers into thinking the gas cleared.</text>' +
 
         '<rect x="24" y="174" width="672" height="96" rx="7" fill="#181B20" stroke="#B41C1C" stroke-width="2"/>' +
-        '<text x="40" y="200" font-family="IBM Plex Mono,monospace" font-size="11.5" font-weight="700" fill="#FCA5A5">500 – 1,000+ PPM · ONE-BREATH KNOCKDOWN (CYTOCHROME C LOCK)</text>' +
-        '<text x="40" y="222" font-family="Inter,sans-serif" font-size="12" fill="#FFF">Instant collapse inside a sludge tank, sewer, or manure pit. Over 60% of confined-space fatalities are would-be rescuers.</text>' +
-        '<text x="40" y="250" font-family="IBM Plex Mono,monospace" font-size="10.5" font-weight="700" fill="#4ADE80">FIRST 60 SECONDS: NEVER ENTER WITHOUT SCBA AIR PACK · CALL HAZMAT / 911 IMMEDIATELY.</text>' +
+        '<text x="40" y="200" font-family="IBM Plex Mono,monospace" font-size="11" font-weight="700" fill="#FCA5A5">500 – 1,000+ PPM · ONE-BREATH KNOCKDOWN (CYTOCHROME C LOCK)</text>' +
+        '<text x="40" y="222" font-family="Inter,sans-serif" font-size="11.5" fill="#FFF">Instant collapse in tanks, sewers, or pits. Over 60% of victims are would-be rescuers.</text>' +
+        '<text x="40" y="250" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#4ADE80">FIRST 60 SECONDS: NEVER ENTER WITHOUT SCBA AIR PACK · CALL HAZMAT / 911 IMMEDIATELY.</text>' +
         '</svg>'
     },
 
@@ -309,7 +309,7 @@
 
         '<rect x="20" y="218" width="680" height="52" rx="8" fill="#181B20"/>' +
         '<text x="36" y="240" font-family="IBM Plex Mono,monospace" font-size="10.5" font-weight="700" fill="#FCA5A5">FIRST 60 SECONDS IF YOUR EYES OR THROAT STING:</text>' +
-        '<text x="36" y="258" font-family="Inter,sans-serif" font-size="11.5" fill="#FFF">DROP THE SPONGE—NEVER “FINISH THE TUB.” Walk straight outside to fresh air; call Poison Control / 911 for wheezing or chest tightness.</text>' +
+        '<text x="36" y="258" font-family="Inter,sans-serif" font-size="11" fill="#FFF">DROP THE SPONGE—NEVER “FINISH THE TUB.” Exit to fresh air immediately; call 911 for wheezing or chest tightness.</text>' +
         '</svg>'
     },
 
@@ -595,13 +595,13 @@
         '<rect width="720" height="275" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
         '<rect x="20" y="22" width="680" height="104" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.6"/>' +
         '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10.5" font-weight="700" fill="#B41C1C">✕ PNEUMATIC TUBE + HEPARIN PLASMA (HIGH-G SHEAR TRAP)</text>' +
-        '<text x="36" y="72" font-family="Inter,sans-serif" font-size="12" fill="#18181B"><tspan font-weight="700">Fragile Leukemia WBCs</tspan>  →  Vacuum tube impacts rupture cells  →  K⁺ floods plasma  →  <tspan font-weight="700" fill="#B41C1C">Lab prints K⁺ 8.0+ mmol/L!</tspan></text>' +
-        '<text x="36" y="98" font-family="Inter,sans-serif" font-size="11" fill="#7F1D1D">Danger: Treating fake hyperkalemia with IV insulin + diuretics crashes the patient’s REAL potassium into fatal arrhythmia.</text>' +
+        '<text x="36" y="72" font-family="Inter,sans-serif" font-size="11" fill="#18181B"><tspan font-weight="700">Fragile Leukemia WBCs</tspan> → Tube impacts shear cells → K⁺ leaks out → <tspan font-weight="700" fill="#B41C1C">Lab prints K⁺ 8.0+ mmol/L!</tspan></text>' +
+        '<text x="36" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">Danger: Treating fake hyperkalemia with IV insulin + diuretics crashes REAL potassium into lethal arrhythmia.</text>' +
 
         '<rect x="20" y="142" width="680" height="110" rx="8" fill="#181B20"/>' +
         '<text x="36" y="166" font-family="IBM Plex Mono,monospace" font-size="10.5" font-weight="700" fill="#4ADE80">✓ THE 2-STEP REALITY CHECK (REVERSE PSEUDOHYPERKALEMIA)</text>' +
-        '<text x="36" y="194" font-family="Inter,sans-serif" font-size="12" fill="#FFF">1. <tspan font-weight="700" fill="#FCA5A5">Check the ECG first:</tspan> Completely normal ECG with K⁺ 7.5–9.0 in a patient with sky-high WBCs is a giant red flag.</text>' +
-        '<text x="36" y="222" font-family="Inter,sans-serif" font-size="12" fill="#FFF">2. <tspan font-weight="700" fill="#4ADE80">Hand-walk a whole-blood gas syringe</tspan> gently to the analyzer (skip the pneumatic chute) before giving potassium-lowering drugs.</text>' +
+        '<text x="36" y="194" font-family="Inter,sans-serif" font-size="11" fill="#FFF">1. <tspan font-weight="700" fill="#FCA5A5">Check the ECG first:</tspan> A normal ECG with K⁺ 7.5–9.0 + sky-high WBCs is a giant artifact red flag.</text>' +
+        '<text x="36" y="222" font-family="Inter,sans-serif" font-size="11" fill="#FFF">2. <tspan font-weight="700" fill="#4ADE80">Hand-walk a whole-blood gas syringe</tspan> gently to the analyzer (skip the tube) before lowering K⁺.</text>' +
         '</svg>'
     },
 
