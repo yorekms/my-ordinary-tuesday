@@ -60,22 +60,22 @@
     "dry-ice-riding-shotgun": {
       "diagramId": "dry-ice-riding-shotgun",
       "quiz": {
-        "prompt": "You pick up 20 lbs of dry ice in a cooler for a road trip in an SUV (no separated trunk). What keeps everyone conscious?",
+        "prompt": "You need to transport dry ice, but your SUV has no cargo compartment separate from the passenger cabin. What is the safer choice?",
         "options": [
           {
             "label": "Tape the cooler lid shut airtight so the CO₂ stays inside",
             "correct": false,
-            "feedback": "Congratulations—you just built a pressure bomb in your back seat. Dry ice sublimates ~250 L of gas per pound and WILL blow a sealed lid."
+            "feedback": "Never seal a dry ice container airtight. Gas buildup can rupture the container."
           },
           {
-            "label": "Crack windows wide open, run fresh-air intake (NOT recirculate), and never sleep in the car with dry ice",
+            "label": "Do not carry it in that SUV. Use a vehicle with a separate, ventilated cargo compartment.",
             "correct": true,
-            "feedback": "Survived Tuesday! Heavy CO₂ pools silently from the floor upward with zero odor."
+            "feedback": "Open windows and fresh-air mode do not make a shared cabin safe. Keep dry ice out of passenger airspace and use packaging that allows gas to escape."
           },
           {
             "label": "Turn on cabin A/C recirculation so it stays cool and sublimates slower",
             "correct": false,
-            "feedback": "Recirculation traps sublimating CO₂ right inside the breathing zone—the exact failure mode in fatal vehicle cases."
+            "feedback": "Recirculation does not bring in outside air. Do not transport dry ice in the occupied cabin."
           }
         ]
       },
@@ -330,10 +330,10 @@
           "caption": "The actual “homeopathic magnetic hematite healing bracelet” worn by a 9-month-old infant in Connecticut—its small metallic spacer beads tested at 17,000 ppm lead (170× the federal children’s limit).",
           "spoilerNote": "Photograph of beaded jewelry bracelet from CDC MMWR investigation.",
           "blurredByDefault": false,
-          "citation": "Figure from Garcia & Haile (2017), CDC Morbidity & Mortality Weekly Report · PMC5657790",
-          "license": "CC BY 3.0 / Public Domain",
-          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5657790/"
+          "citation": "Photo: Kimberly Dubanoski, Manchester Health Department, Connecticut. Published in Garcia & Haile (2017), CDC MMWR.",
+          "license": "Public domain per CDC MMWR",
+          "licenseUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/pdfs/mm6634.pdf#page=24",
+          "sourceUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6634a6.htm#F1_down"
         }
       ],
       "quiz": {
@@ -420,8 +420,8 @@
           "spoilerNote": "Close-up emergency-department photograph of traumatic eye injury with visible blood (hyphema). Click to unseal.",
           "blurredByDefault": true,
           "citation": "Figure 1 from Lee et al. (2021), Cureus · PMC7949672",
-          "license": "CC BY 3.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
           "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949672/"
         }
       ],
@@ -4165,24 +4165,24 @@
       ]
     },
     {
-      "q": "You pick up 20 lbs of dry ice in a cooler for a road trip in an SUV (no separated trunk). What keeps everyone conscious?",
+      "q": "You need to transport dry ice, but your SUV has no cargo compartment separate from the passenger cabin. What is the safer choice?",
       "caseSlug": "dry-ice-riding-shotgun",
       "caseRef": "Case 004",
       "options": [
         {
           "label": "Tape the cooler lid shut airtight so the CO₂ stays inside",
           "ok": false,
-          "why": "Congratulations—you just built a pressure bomb in your back seat. Dry ice sublimates ~250 L of gas per pound and WILL blow a sealed lid."
+          "why": "Never seal a dry ice container airtight. Gas buildup can rupture the container."
         },
         {
-          "label": "Crack windows wide open, run fresh-air intake (NOT recirculate), and never sleep in the car with dry ice",
+          "label": "Do not carry it in that SUV. Use a vehicle with a separate, ventilated cargo compartment.",
           "ok": true,
-          "why": "Survived Tuesday! Heavy CO₂ pools silently from the floor upward with zero odor."
+          "why": "Open windows and fresh-air mode do not make a shared cabin safe. Keep dry ice out of passenger airspace and use packaging that allows gas to escape."
         },
         {
           "label": "Turn on cabin A/C recirculation so it stays cool and sublimates slower",
           "ok": false,
-          "why": "Recirculation traps sublimating CO₂ right inside the breathing zone—the exact failure mode in fatal vehicle cases."
+          "why": "Recirculation does not bring in outside air. Do not transport dry ice in the occupied cabin."
         }
       ]
     },
