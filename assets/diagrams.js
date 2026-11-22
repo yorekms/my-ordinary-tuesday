@@ -162,16 +162,16 @@
         '<circle cx="430" cy="222" r="28" fill="#181B20"/><circle cx="430" cy="222" r="12" fill="#E4E0D8"/>' +
         '<rect x="536" y="24" width="166" height="260" rx="8" fill="#181B20"/>' +
         '<text x="550" y="48" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">TRANSPORT RULES</text>' +
-        '<text x="550" y="76" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FFF">✓ Separate Trunk</text>' +
-        '<text x="550" y="93" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">Never share sealed</text>' +
-        '<text x="550" y="107" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">cabin air with dry ice.</text>' +
-        '<text x="550" y="138" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FFF">✓ Windows Cracked</text>' +
-        '<text x="550" y="155" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">Fresh-air intake ON,</text>' +
-        '<text x="550" y="169" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">recirculate OFF.</text>' +
+        '<text x="550" y="76" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#4ADE80">✓ Separate Cargo Area</text>' +
+        '<text x="550" y="93" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">Use a separate, vented</text>' +
+        '<text x="550" y="107" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">cargo bay—never cabin.</text>' +
+        '<text x="550" y="138" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FCA5A5">✕ Windows ≠ Safety</text>' +
+        '<text x="550" y="155" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">Open windows &amp; fresh-air</text>' +
+        '<text x="550" y="169" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">mode do NOT make SUVs safe.</text>' +
         '<text x="550" y="200" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FCA5A5">✕ Never Lean Into</text>' +
-        '<text x="550" y="216" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FCA5A5">a Sealed Cooler Car</text>' +
-        '<text x="550" y="234" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">Open ALL doors first</text>' +
-        '<text x="550" y="248" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">before rescuing anyone.</text>' +
+        '<text x="550" y="216" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FCA5A5">a CO₂-Filled Vehicle</text>' +
+        '<text x="550" y="234" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">Call 911 &amp; name dry ice;</text>' +
+        '<text x="550" y="248" font-family="Inter,sans-serif" font-size="10" fill="#D6D3D1">only SCBA crews enter.</text>' +
         '<text x="56" y="286" font-family="IBM Plex Mono,monospace" font-size="10" fill="#78716C">ZERO SMELL · ZERO SMOKE · 1 LB DRY ICE ≈ 250 LITERS OF CO₂ GAS</text>' +
         '</svg>'
     },
