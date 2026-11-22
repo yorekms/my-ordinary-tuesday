@@ -235,8 +235,13 @@ def sync_google_drive(cat, ex, pdf_path, zip_path, chapters_zip, images_zip, com
     # Sync browsable Images_Stock_and_Exhibits folder inside Vault (incremental upload, zero duplicates!)
     img_folder_id = vault_by_name.get("Images_Stock_and_Exhibits")
     if not img_folder_id:
-        mk = subprocess.check_output(["gdrive", "mutate", "mkdir", "Images_Stock_and_Exhibits", "--parent", DRIVE_VAULT_FOLDER, "--json"], text=True)
-        img_folder_id = json.loads(mk).get("id")
+        mk = subprocess.check_output(["gdrive", "mutate", "mkdir", "Images_Stock_and_Exhibits", "--parent", DRIVE_VAULT_FOLDER], text=True)
+        m_id = re.search(r"ID:\s*([a-zA-Z0-9_\-]+)", mk)
+        if m_id:
+            img_folder_id = m_id.group(1)
+        else:
+            vault_ls2 = json.loads(subprocess.check_output(["gdrive", "readonly", "ls", DRIVE_VAULT_FOLDER, "--max", "0", "--json"], text=True))
+            img_folder_id = next((x["id"] for x in vault_ls2 if x["name"] == "Images_Stock_and_Exhibits"), None)
         print(f"  Created Drive folder Images_Stock_and_Exhibits ({img_folder_id})")
     if img_folder_id:
         img_ls = json.loads(subprocess.check_output(["gdrive", "readonly", "ls", img_folder_id, "--max", "0", "--json"], text=True))
