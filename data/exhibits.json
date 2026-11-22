@@ -1,14 +1,14 @@
 {
   "meta": {
-    "updated": "2026-11-21",
-    "totalStoriesEnriched": 169,
-    "ccByClinicalExhibitStories": 70,
-    "ccByClinicalExhibitImages": 74,
-    "bespokeInfographics": 26,
-    "dynamicBlueprintStories": 143,
-    "perStoryQuizzes": 169,
-    "examPoolSize": 40,
-    "externalFigureLinkoutStories": 30
+    "updated": "2026-11-22",
+    "totalStoriesEnriched": 202,
+    "ccByClinicalExhibitStories": 90,
+    "ccByClinicalExhibitImages": 94,
+    "bespokeInfographics": 30,
+    "dynamicBlueprintStories": 172,
+    "perStoryQuizzes": 202,
+    "examPoolSize": 50,
+    "externalFigureLinkoutStories": 38
   },
   "stories": {
     "fractal-wood-burning": {
@@ -4964,6 +4964,1052 @@
           }
         ]
       }
+    },
+    "air-beyond-the-eye-orbital-emphysema": {
+      "quiz": {
+        "prompt": "A shop air nozzle slips and blasts near a coworker’s left eye. Within minutes the eyelids and cheek puff up dramatically, the eye cannot look upward, and vision turns blurry—yet they insist it doesn’t hurt at all. What happens next?",
+        "options": [
+          {
+            "label": "Press gently on the cheek to check for crackling air pockets, then measure the compressor PSI so the ER knows the exact force.",
+            "correct": false,
+            "feedback": "Palpating swollen facial tissue at home can push trapped gas deeper toward the orbit or cranial cavity, and delaying care to test compressor pressure wastes critical time."
+          },
+          {
+            "label": "Keep hands off the eye, stop them from driving, and get immediate emergency specialist care reporting compressed-air exposure and vision changes.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Zero pain never clears a compressed-air blast—vision blur and restricted eye movement demand urgent specialist imaging to hunt for orbital gas or skull-vault pneumocephalus."
+          },
+          {
+            "label": "Have them rest at home with a cool compress and leftover eye drops unless pain starts or an urgent-care X-ray reveals a broken bone.",
+            "correct": false,
+            "feedback": "Compressed air can dissect soft tissue into the skull without cracking a single bone or triggering pain, and home drops or wait-and-see plans miss hidden globe or intracranial trauma."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC11874850_12887_2025_5468_fig2_html.jpg",
+          "caption": "(A) Non-contrast axial CT of the brain and orbits demonstrating subcutaneous emphysema, bilateral orbital emphysema, with gas foci noted along the left superior orbital fissure. (B) Pneumocephalus observed in the left temporal lobe (arrow). (C) Cranial cuts showing gas foci…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Bassiouny et al. (2025), BMC Pediatrics · PMC11874850",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874850/"
+        }
+      ]
+    },
+    "antibody-test-stayed-negative-parasite": {
+      "quiz": {
+        "prompt": "A family member who finished rituximab for lymphoma a month ago and recently started oral steroids develops worsening shortness of breath at rest, cannot finish sentences, and has a new itchy rash—even though a parasite blood antibody test last month was negative. What is your move?",
+        "options": [
+          {
+            "label": "Call an ambulance immediately, report the lymphoma, recent rituximab and steroids, and hand ER staff the exact wording and date of the negative antibody test.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Gasping at rest and broken sentences require EMS immediately, and naming B-cell-depleting therapy plus exact prior lab wording helps clinicians reopen a silent antibody screen."
+          },
+          {
+            "label": "Stop the prescribed oral steroids immediately at home, order an antiparasitic online, and drive them to their routine oncology visit next week.",
+            "correct": false,
+            "feedback": "Abruptly stopping steroids or self-dosing unprescribed antiparasitics is dangerous, and driving a hypoxic patient who cannot finish sentences delays emergency oxygen and critical care."
+          },
+          {
+            "label": "Wait at home until their clinic repeats a white blood cell differential, since a parasitic flare would show elevated eosinophils and a snake-like rash.",
+            "correct": false,
+            "feedback": "CDC guidance warns that eosinophilia frequently vanishes in severe Strongyloides hyperinfection on steroids, and disseminated rashes can appear as purple spots rather than classic trails."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT ANGIOGRAPHY",
+          "src": "assets/exhibits/PMC11619519_ajtmh.24-0460f1.jpg",
+          "caption": "Computed tomography pulmonary angiography at the patient’s initial presentation revealed patchy ground-glass opacities in the upper lobes (red arrows, A). Chest X-ray 2 days before death revealed bibasilar airspace opacities, especially prominent within the left lung base and…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1. from Hall et al. (2024), The American Journal of Tropical Medicine and Hygiene · PMC11619519",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11619519/"
+        }
+      ]
+    },
+    "paw-bore-weight-chinchilla-fracture": {
+      "quiz": {
+        "prompt": "Ten days after surgical pinning of your chinchilla’s broken forearm, you notice him eating pellets eagerly and putting weight on the paw—though he still cannot curl his toes around hay. What should you do?",
+        "options": [
+          {
+            "label": "Put the climbing shelves back into his cage since weight-bearing and a strong appetite mean the bone callus has restored full strength.",
+            "correct": false,
+            "feedback": "Weight-bearing returns weeks before radiographic bone union, and premature jumping can break a soft callus or rotate an internal pin inside a 0.7-mm bone canal."
+          },
+          {
+            "label": "Gently press along his forearm and press a small stick against his toes to check whether the nerve reflex and hardware are aligned properly.",
+            "correct": false,
+            "feedback": "Never palpate or provoke a healing limb at home; amateur flexing can worsen soft-tissue injury and cannot detect microscopic implant rotation visible only on X-ray."
+          },
+          {
+            "label": "Keep the prescribed recovery confinement intact, avoid home limb tests, and report the exact spontaneous difference between standing and grasping to the vet.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Gross weight-bearing, fine-motor grasping, and radiographic union run on separate clocks, so preserving confinement and reporting spontaneous function lets the vet safely guide follow-up imaging."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC10033294_44149_2023_72_fig1_html.jpg",
+          "caption": "X-ray results of the affected forlimb. A Dorsoventral view; B Right lateral view. A and B showed oblique fractures of the radius and distal ulna with a distinct callus",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Long et al. (2023), Animal Diseases · PMC10033294",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10033294/"
+        }
+      ]
+    },
+    "nodules-before-sneezing-epoxy": {
+      "quiz": {
+        "prompt": "Months after cutting his hand on an unhardened epoxy tool and recovering from forearm lumps, a flooring technician returns to mixing resin and develops violent sneezing every shift that clears on weekends—yet a standard DGEBA patch test comes back negative. What makes sense?",
+        "options": [
+          {
+            "label": "Assume the sneezing is an unrelated seasonal cold and re-enter the mixing room with standard hardware-store gloves to test whether fumes trigger it again.",
+            "correct": false,
+            "feedback": "Deliberate self-rechallenge risks worsening sensitization, standard gloves can degrade against specific amine hardeners, and negative DGEBA patch kits never exclude other resin-system chemicals."
+          },
+          {
+            "label": "Bring exact site product and SDS inventories plus raw work-versus-weekend timelines to an occupational specialist, while reviewing ventilation and exposure controls.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Nearly one in five confirmed epoxy-allergic workers react to non-DGEBA hardeners or additives, so full chemical inventories and upstream controls matter far more than one negative patch kit."
+          },
+          {
+            "label": "Request a repeat CRP blood test and clear him for epoxy work as long as CRP stays under 5 mg/L and no new skin nodules appear on his arm.",
+            "correct": false,
+            "feedback": "CRP below 5 mg/L stayed silent even while his hand was visibly inflamed, and absent skin bumps never rule out active occupational rhinitis from workplace resin systems."
+          }
+        ]
+      }
+    },
+    "liver-failure-falling-hemoglobin-wilson": {
+      "quiz": {
+        "prompt": "A previously healthy teenager with no family history of liver disease has yellowed eyes, dark cola-colored urine, five days of vomiting, and suddenly becomes confused and hard to wake—even though an urgent-care portal two days ago showed ALT below 5. What should you do?",
+        "options": [
+          {
+            "label": "Call 911 for an ambulance immediately, report the jaundice, dark urine, and sudden confusion, and bring the printed lab sheet with exact units.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sudden confusion with jaundice is a medical emergency for acute liver failure and hepatic encephalopathy, and a paradoxically low ALT never clears severe synthetic liver collapse."
+          },
+          {
+            "label": "Plug the ALT and bilirubin numbers into an online Wilson calculator at home and drive her to the clinic tomorrow if the ratio looks abnormal.",
+            "correct": false,
+            "feedback": "Online ratio calculators are unit-dependent ICU triage tools rather than home clearance tests, and driving a confused patient risks airway collapse or seizures en route."
+          },
+          {
+            "label": "Encourage oral fluids and sleep off the exhaustion since the low ALT rules out acute liver inflammation and no one in the family has liver disease.",
+            "correct": false,
+            "feedback": "Autosomal-recessive disorders hide silently in carrier families, fulminant Wilson disease paradoxically depresses ALT, and sleeping off hepatic encephalopathy can be fatal."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL TIMELINE",
+          "src": "assets/exhibits/PMC11194017_cureus-0016-00000062966-i01.jpg",
+          "caption": "Timeline of hospitalization.ED = emergency department; Hb = hemoglobin; Total Bili = total bilirubin; INR = international normalized ratio; pRBC = packed red blood cell",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Ghias et al. (2024), Cureus · PMC11194017",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11194017/"
+        }
+      ]
+    },
+    "swelling-beneath-scales-pet-fish": {
+      "quiz": {
+        "prompt": "Over three weeks, one koi in your backyard pond develops a steadily swelling belly and stops taking surface pellets while the other fish appear normal. What is the safest course of action?",
+        "options": [
+          {
+            "label": "Dose the entire pond immediately with broad-spectrum antibiotics and extra salt to cover bacterial dropsy before scheduling a checkup.",
+            "correct": false,
+            "feedback": "Blind antibiotics cannot treat an internal mass or organ enlargement and can wipe out nitrifying biofilter bacteria, causing an ammonia spike that endangers every healthy fish."
+          },
+          {
+            "label": "Net the koi carefully, check whether the belly feels soft or firm, and use a sterile syringe from an online guide to see if fluid drains.",
+            "correct": false,
+            "feedback": "Handling stress alone can kill a compromised fish, and unguided home needle punctures without anesthesia or ultrasound risk lethal internal hemorrhage or infection."
+          },
+          {
+            "label": "Leave the fish unhandled, skip blind pond chemicals, document objective timelines and recent pond changes, and contact an aquatic veterinarian promptly.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Coelomic swelling is only a non-specific check-engine light, so avoiding DIY trauma or biofilter-killing drugs while giving an aquatic vet raw observations protects both fish and pond."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MICROSCOPY",
+          "src": "assets/exhibits/PMC11315794_11259_2024_10391_fig1_html.jpg",
+          "caption": "Figure demonstrates atypical or neoplastic cells sampled from the testis. The cytological appearance of the lesion (Diff Quick, A: 20X, B: 60X): atypical cells admixed with occasional small mature lymphocytes embedded in a moderate amount of bluish fluid. Most cells were…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Pigoli et al. (2024), Veterinary Research Communications · PMC11315794",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315794/"
+        }
+      ]
+    },
+    "ring-and-unbroken-bone-avulsion": {
+      "quiz": {
+        "prompt": "A worker catches his metal ring on a moving machine bracket. The ring finger looks pale and numb with an awkwardly angled knuckle, though the skin is still attached. What should happen in the next 60 seconds?",
+        "options": [
+          {
+            "label": "Leave the ring untouched, skip ice packs and home pulse-ox checks, keep him from driving, and summon emergency care reporting the snag mechanism and numbness.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Numbness and an odd knuckle angle signal potential neurovascular transection and joint dislocation—leaving the ring for specialist cutters and avoiding vasoconstricting ice protects remaining tissue."
+          },
+          {
+            "label": "Pack the finger tightly in ice to slow swelling, carefully work the ring off with soap, and drive him to urgent care if an X-ray shows a fracture.",
+            "correct": false,
+            "feedback": "Ice causes severe vasoconstriction that accelerates ischemic tissue death, pulling the ring can sever surviving vessels, and ring avulsions routinely destroy blood flow with zero bone fracture."
+          },
+          {
+            "label": "Clip a home pulse oximeter onto the fingertip to verify circulation and wait two hours to see whether warmth returns before calling emergency transport.",
+            "correct": false,
+            "feedback": "Consumer oximeters cannot rule out transected digital arteries in severe soft-tissue trauma, and waiting on an imagined ischemic clock wastes irreplaceable minutes."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC7872613_cpcem-05-75-g001.jpg",
+          "caption": "Volar view of a severe degloving ring avulsion injury.",
+          "spoilerNote": "Contains real clinical hand-trauma photography (severe ring avulsion degloving) from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Image 1 from Horn et al. (2021), Clinical Practice and Cases in Emergency Medicine · PMC7872613",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872613/"
+        }
+      ],
+      "diagramId": "ring-and-unbroken-bone-avulsion"
+    },
+    "blood-concentrated-lungs-filled-capillary-leak": {
+      "quiz": {
+        "prompt": "Six days after urgent care diagnosed a rural ranch hand’s fever, vomiting, and belly pain as a stomach bug, he suddenly starts gasping so hard he cannot finish sentences and turns pale. What happens next?",
+        "options": [
+          {
+            "label": "Have him restrict water intake and take a leftover water pill at home so fluid stops accumulating in his lungs while waiting for clinic labs.",
+            "correct": false,
+            "feedback": "In capillary leak syndrome, lungs flood while intravascular blood concentrates into dry sludge; home fluid restriction or diuretics can trigger fatal shock."
+          },
+          {
+            "label": "Call 911 immediately, keep him out of the driver’s seat, and report both the sudden breathlessness and his rural ranch and travel history to emergency teams.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Gasping with broken sentences demands EMS immediately before any reference lab can return, and sharing rural or rodent-area history breaks the early stomach-bug anchor."
+          },
+          {
+            "label": "Drive him back to urgent care tomorrow only if a walk-in clinic confirms rodent exposure or a reference lab returns positive hantavirus antibodies.",
+            "correct": false,
+            "feedback": "Reference-lab hantavirus ELISA can take days—returning at Day 10 in the 2026 case—and waiting for lab labels or self-driving during respiratory failure can be lethal."
+          }
+        ]
+      }
+    },
+    "door-closed-to-rabbit-rhdv2": {
+      "quiz": {
+        "prompt": "Your strictly indoor pet rabbit suddenly turns apathetic and starts breathing rapidly, though her temperature is normal and you see zero bleeding. What is your next move?",
+        "options": [
+          {
+            "label": "Keep her warm overnight and recheck in the morning since indoor rabbits with normal temperatures rarely have hemorrhagic disease.",
+            "correct": false,
+            "feedback": "Closed apartment doors do not stop environmentally stable RHDV2 fomites, and Lisbon’s Case 4 had a textbook 39.0°C temperature with zero visible blood while her liver necrosed."
+          },
+          {
+            "label": "Phone an exotic veterinarian immediately before arriving, request isolation entry instructions, and grab her exact vaccine records.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Calling ahead prevents waiting-room fomite exposure while rapid triage and exact GI.2 vaccine documentation bypass the fatal trap of waiting for visible blood."
+          },
+          {
+            "label": "Place her in a carrier and walk straight into the nearest busy emergency waiting room so staff can inspect her nose for bleeding.",
+            "correct": false,
+            "feedback": "Walking a potentially shedding rabbit into a crowded lobby risks exposing every vulnerable pet inside, and external bleeding frequently never appears before internal collapse."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC10073570_fvets-10-1144227-g0001.jpg",
+          "caption": "Necropsy findings in rabbit #4 (Oryctolagus cuniculus cuniculus) case. Liver with an enlarged, pale, and distinct lobular pattern with light gray discoloration in the edges of the lobes (likely a postmortem change) (A). Lungs (B) and uterus (C) had multifocal to coalescing…",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Pinto et al. (2023), Frontiers in Veterinary Science · PMC10073570",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10073570/"
+        }
+      ]
+    },
+    "two-matching-labels-wrong-patient": {
+      "quiz": {
+        "prompt": "Midway through a hospital blood transfusion, you start shivering hard with a nagging new ache in your lower back. What should you do right now?",
+        "options": [
+          {
+            "label": "Hit the call button immediately to report the exact physical change and leave the IV pump completely untouched for staff.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Immediate reporting lets clinicians stop the infusion and evaluate hemolysis or allergy fast, whereas tampering with the pump or rationalizing symptoms wastes critical minutes."
+          },
+          {
+            "label": "Press pause on the IV pump to slow the refrigerated blood down for ten minutes and see whether the chill fades on its own.",
+            "correct": false,
+            "feedback": "Official NHS and JPAC guidance strictly warns patients never to touch IV pump controls or self-adjust infusion rates—waiting delays urgent clinical assessment of a possible hemolytic reaction."
+          },
+          {
+            "label": "Relax because the nurse confirmed your blood bag matched the request form and you are type O positive, the universal blood type.",
+            "correct": false,
+            "feedback": "Matching two pieces of paperwork proves zero patient identity without the wristband, and type O recipients are actually the most restricted of all because their plasma attacks A and B cells."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · LAB TREND CHART",
+          "src": "assets/exhibits/PMC12398272_cureus-0017-00000089128-i01.jpg",
+          "caption": "Hemoglogbin levels follow-up",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Jastanyah et al. (2025), Cureus · PMC12398272",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12398272/"
+        }
+      ]
+    },
+    "vein-beneath-first-rib-paget-schroetter": {
+      "quiz": {
+        "prompt": "Four days after starting apixaban for a right-arm DVT following heavy swimming, your arm is visibly more swollen and painful, though your home pulse oximeter reads 96% and your wrist pulse feels strong. What is your safest move?",
+        "options": [
+          {
+            "label": "Use a deep-tissue massage gun along the hardened vein to improve drainage and wait for your scheduled follow-up next week.",
+            "correct": false,
+            "feedback": "Aggressively massaging or percussing a thrombosed vein risks snapping off clot fragments straight into the pulmonary arteries, and worsening swelling demands early reassessment."
+          },
+          {
+            "label": "Double your apixaban dose overnight since a 96% oxygen reading and strong radial pulse prove neither your lungs nor circulation are compromised.",
+            "correct": false,
+            "feedback": "Never self-adjust anticoagulants—and a strong arterial wrist pulse plus 96% room-air SpO₂ can persist right alongside both total venous outflow obstruction and a segmental lung clot."
+          },
+          {
+            "label": "Seek prompt clinical reassessment with an honest timeline of progression and missed doses, and call 911 if chest pain or breathlessness starts.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Persistent or worsening swelling on blood thinners is the exact trigger for imaging the underlying mechanical anatomy, while chest or breathing signs require immediate emergency care."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/PMC9293272_cureus-0014-00000026060-i01.jpg",
+          "caption": "Ultrasound of right brachiocephalic vein with thrombus (arrow).",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Suwal et al. (2022), Cureus · PMC9293272",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9293272/"
+        }
+      ]
+    },
+    "paralysis-beneath-the-hair-tick": {
+      "quiz": {
+        "prompt": "A four-year-old suddenly begins stumbling and losing leg strength, then develops drooping eyelids and rapid, shallow breathing—with no remembered woods trip or tick bite. What is your immediate priority?",
+        "options": [
+          {
+            "label": "Call 911 immediately for emergency airway evaluation and report the exact onset and upward progression of weakness to clinicians.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Rapid shallow breathing and drooping eyelids signal threatened airway and diaphragm failure—emergency stabilization always comes first, even with zero recalled outdoor exposure."
+          },
+          {
+            "label": "Put her in a hot shower right away and spend an hour combing through her hair at home to dislodge any hidden tick before calling a doctor.",
+            "correct": false,
+            "feedback": "Never delay emergency care to conduct a home tick search, and a hot shower will not reliably detach an engorged tick cemented into skin by barbed mouthparts."
+          },
+          {
+            "label": "Give a leftover oral antibiotic to neutralize tick neurotoxin and monitor overnight unless she starts complaining of skin numbness.",
+            "correct": false,
+            "feedback": "Antibiotics never neutralize tick salivary neurotoxin, and sensory pathways can stay completely intact even while motor paralysis shuts down breathing muscles."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC10513347_cureus-0015-00000043932-i01.jpg",
+          "caption": "(A) Female American dog tick, Dermacentor variabilis. (B) Female Rocky Mountain Wood tick, Dermacentor andersoni. The images were acquired from the CDC Public Health Image Library (PHIL) are in the public domain and thus are free of any copyright restrictions.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Salman et al. (2023), Cureus · PMC10513347",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10513347/"
+        }
+      ]
+    },
+    "water-had-another-route-naegleria": {
+      "quiz": {
+        "prompt": "A traveling companion who daily rinses their sinuses with hotel tap water and table salt suddenly develops a 39.5°C fever, vomiting, and confusion—even though they never swam in a lake. What should you do first?",
+        "options": [
+          {
+            "label": "Let them sleep off travel exhaustion overnight since municipal tap water with added table salt is safe to drink and cannot infect the brain.",
+            "correct": false,
+            "feedback": "Drinking suitability does not certify water for nasal irrigation: stomach acid kills Naegleria fowleri, whereas flushing warm tap water plus table salt up the nose bypasses the gut straight toward the olfactory bulb."
+          },
+          {
+            "label": "Get emergency medical care immediately and explicitly tell triage clinicians about the daily tap-water nasal irrigation alongside travel dates.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sudden fever, vomiting, and confusion after nasal rinsing require immediate emergency evaluation, and explicitly naming tap-water sinus irrigation alerts doctors to look beyond routine bacteria."
+          },
+          {
+            "label": "Reassure clinicians to skip rare parasites if the first brain CT shows no stroke or bleed and standard bacterial cultures stay negative.",
+            "correct": false,
+            "feedback": "Early cerebral CT angiography can miss microscopic amoebic inflammation before fatal edema sets in, and routine bacterial cultures fail to grow Naegleria fowleri."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MICROSCOPY",
+          "src": "assets/exhibits/PMC5330229_jmmcr-03-5042-f001.jpg",
+          "caption": "Haematoxylin and eosin (H/E) staining of post-mortem brain tissues showing. (a) acute meningoencephalitis (×5 magnification), and (b) inflammatory infiltrates dominated by polymorphonuclear granulocytes (×60 magnification).",
+          "spoilerNote": "Contains post-mortem brain histology (H&E stain) from the primary journal report. Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Fig. 1. from Stubhaug et al. (2016), JMM Case Reports · PMC5330229",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5330229/"
+        }
+      ]
+    },
+    "toxin-reheating-could-not-undo-cereulide": {
+      "quiz": {
+        "prompt": "You cooked rice three days ago, stored it in a slightly warm 8–9°C fridge, and now plan to fry it piping hot for dinner—after a tiny test spoonful made you briefly nauseated this morning. What is the right call?",
+        "options": [
+          {
+            "label": "Stir-fry the rice extra hot until steaming throughout so the high pan temperature destroys both Bacillus cereus and any toxin inside.",
+            "correct": false,
+            "feedback": "Pan-frying or microwaving kills live Bacillus cereus bacteria, but standard cooking heat cannot break the molecular ring of preformed cereulide toxin."
+          },
+          {
+            "label": "Take one more small taste and sniff closely—if the rice smells completely fresh and normal, it is safe to serve to guests.",
+            "correct": false,
+            "feedback": "Cereulide is completely odorless and tasteless, and taking a ‘check bite’ simply adds another dose of a heat-stable mitochondrial poison."
+          },
+          {
+            "label": "Discard the rice immediately, never serve it, and seek medical care if severe vomiting, dehydration, lethargy, or confusion develops.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Three days at 8–9°C lets surviving spores manufacture heat-proof cereulide—and brief early vomiting after a taste is a warning to dump the batch, not fry it hotter."
+          }
+        ]
+      }
+    },
+    "fish-had-two-identities-ciguatera": {
+      "quiz": {
+        "prompt": "Days after your family began eating frozen, thoroughly cooked pieces of tropical snapper, cold tap water starts burning like fire and one diner grows dizzy with a slow pulse. What is your best next step?",
+        "options": [
+          {
+            "label": "Seek immediate medical evaluation now, keep purchase receipts for public health traceback, and follow official instructions on any leftovers.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Ciguatera’s vagal bradycardia and hypotension demand rapid clinical stabilization ahead of food forensics, while saved receipts help regulators pull contaminated batches."
+          },
+          {
+            "label": "Rule out ciguatera because the fish was frozen solid and cooked thoroughly, and take one small test bite to check for a spoiled taste.",
+            "correct": false,
+            "feedback": "Neither deep-freezing nor cooking touches heat-proof ciguatoxin, and retasting odorless, tasteless leftovers only adds another dose of a potent sodium-channel neurotoxin."
+          },
+          {
+            "label": "Hold off on the ER while you freeze and mail leftover fish pieces to a DNA barcoding lab so doctors know the exact snapper species first.",
+            "correct": false,
+            "feedback": "Clinical stabilization never waits weeks for DNA barcoding or LC-MS—doctors treat crashing blood pressure and heart rate immediately while health authorities direct any specimen collection."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · OUTBREAK CURVE",
+          "src": "assets/exhibits/PMC6549462_1800405-f1.jpg",
+          "caption": "Cases in histamine food poisoning outbreak by onset of symptoms, France, 2017 (n = 31 cases)",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Velut et al. (2019), Eurosurveillance · PMC6549462",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6549462/"
+        }
+      ]
+    },
+    "scaffold-body-could-not-build-scurvy": {
+      "quiz": {
+        "prompt": "A nonverbal seven-year-old who accepts only dry crackers and cereal develops a worsening limp, refuses to stand, and wakes crying at night—yet has no bleeding gums. What is the right clinical move?",
+        "options": [
+          {
+            "label": "Withhold her preferred crackers for several days until hunger pushes her to eat citrus fruit, and schedule a routine checkup next month.",
+            "correct": false,
+            "feedback": "Withholding safe foods from a child with severe sensory food aversion accelerates malnutrition and dehydration—and refusal to bear weight with night pain demands urgent medical care."
+          },
+          {
+            "label": "Seek immediate medical evaluation for sudden non-weight-bearing and give clinicians an honest, exact list of every food and drink she actually consumes.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Refusing to bear weight and waking in pain require urgent assessment to distinguish malignancy, infection, and scurvy—and an unvarnished diet inventory supplies the fastest diagnostic clue."
+          },
+          {
+            "label": "Rule out vitamin C deficiency at home since scurvy causes bleeding gums first and modern children eating daily calories rarely lack micronutrients.",
+            "correct": false,
+            "feedback": "Calories supply energy, not the ascorbic acid cofactor needed to cross-link collagen—and modern pediatric scurvy frequently presents with bone pain and limping without textbook bleeding gums."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC11236488_cureus-0016-00000062101-i01.jpg",
+          "caption": "Plain radiograph (anteriorposterior views) of right and left femur. Bones are under mineralized subjectively and recovery lines (blue arrow) are present at distal femur bilaterally. There is a 5mm focal lucency (yellow arrows) in the left proximal femoral diaphysis with…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Rittenhouse et al. (2024), Cureus · PMC11236488",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11236488/"
+        }
+      ]
+    },
+    "aquarium-more-than-one-patient-palytoxin": {
+      "quiz": {
+        "prompt": "Ninety minutes after scrubbing decorative marine coral under hot tap water at a basement sink, you start coughing with fever and wheezing while your partner upstairs feels sick too. What is your next move?",
+        "options": [
+          {
+            "label": "Move to fresh air, call emergency services or Poison Control immediately, report the marine tank maintenance and everyone affected, and leave the coral untouched.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Naming the marine aquarium exposure and every affected household member lets triage catch inhalational lung injury early without exposing paramedics to bagged coral or tank water."
+          },
+          {
+            "label": "Scoop a piece of the coral and some sink water into a sealed jar so ER doctors can run an instant bedside palytoxin assay to confirm the exposure.",
+            "correct": false,
+            "feedback": "Emergency rooms do not have a routine rapid palytoxin assay, and transporting suspected marine coral in your car risks further aerosol exposure for you and responders."
+          },
+          {
+            "label": "Check whether the basement smells toxic, and if a home finger oximeter reads 96% on room air, finish rinsing the rock while wearing an N95 mask.",
+            "correct": false,
+            "feedback": "Marine biological aerosols carry no reliable warning odor, a 96% SpO₂ reading can mask severe respiratory compensation, and casual PPE is not clearance to keep scrubbing."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC4637455_criem2015-621815.002.jpg",
+          "caption": "Chest X-ray from hospital day 3 showing worsening bibasilar opacities.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Hall et al. (2015), Case Reports in Emergency Medicine · PMC4637455",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4637455/"
+        }
+      ],
+      "diagramId": "aquarium-more-than-one-patient-palytoxin"
+    },
+    "foam-was-not-neck-safeguard-trampoline": {
+      "quiz": {
+        "prompt": "A friend jumps head-first into an indoor trampoline foam pit and lies still saying they can bend their elbows and tilt their wrists, but cannot feel or move their legs. What happens in your next 60 seconds?",
+        "options": [
+          {
+            "label": "Since their arms and wrists still work, gently pull them out by the shoulders onto the flat mat so they can try sitting up and stretching their legs.",
+            "correct": false,
+            "feedback": "Nerves controlling shoulder, elbow flexion, and wrist extension exit above C6, so working arms never exclude a complete C6–C7 spinal cord injury—pulling can shear an unlocked spine."
+          },
+          {
+            "label": "Clear the pit of other jumpers, keep your friend completely still, call emergency services immediately, and report the head-first foam-pit mechanism and leg paralysis.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Freezing movement and reporting the exact head-first mechanism protects an unstable cervical dislocation until trained responders can immobilize and extract safely."
+          },
+          {
+            "label": "Carefully straighten their head out of the polyurethane cubes, check whether they can wiggle their toes, and call staff to file a facility incident form first.",
+            "correct": false,
+            "feedback": "Amateur neck manipulation on a dislocated spine risks turning cord compression into permanent transection, and emergency services must be called before any venue paperwork."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MRI SCAN",
+          "src": "assets/exhibits/PMC6890358_medi-98-e18137-g001.jpg",
+          "caption": "(A). Initial C-spine CT showing bilateral interfacetal dislocation on C6-7. (B) Initial C-spine MRI shows anterior translational injury at C6-7 with severe cord encroachment and complete discoligamentous complex disruption.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Lee et al. (2019), Medicine · PMC6890358",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6890358/"
+        }
+      ]
+    },
+    "fruit-kidneys-could-not-clear-starfruit": {
+      "quiz": {
+        "prompt": "A relative on three-times-weekly hemodialysis develops stubborn, nonstop hiccups and slurred speech five days after drinking a tropical punch containing star fruit, with their next dialysis session two days away. What is your next move?",
+        "options": [
+          {
+            "label": "Have them drink several tall glasses of water to flush the fruit out quickly and monitor them at home until their scheduled dialysis appointment.",
+            "correct": false,
+            "feedback": "Waiting for scheduled dialysis lets caramboxin neurotoxicity escalate toward seizures and coma, and forcing water into failing kidneys risks acute fluid overload and heart failure."
+          },
+          {
+            "label": "Give an extra dose of any household sedative or blood-pressure medication, check whether the hiccups pause overnight, and avoid alarming the ER unless they faint.",
+            "correct": false,
+            "feedback": "Persistent hiccups in a kidney patient after star-fruit exposure signal brainstem excitation—self-adjusting pills and sleeping it off waste critical triage time."
+          },
+          {
+            "label": "Seek urgent emergency care and report five essentials at triage: kidney failure, dialysis, all meds, suspected star fruit, and symptom timing.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Early emergency care paired with an explicit star-fruit and dialysis history stops teams from chasing a stroke mimic and connects nephrology with neurology fast."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MRI SCAN",
+          "src": "assets/exhibits/PMC9981371_medi-102-e32969-g001.jpg",
+          "caption": "Magnetic resonance images during the first hospitalization. (A) DWI on January 19. No obvious hyperintensities were seen. (B) DWI on January 20. The bilateral cerebellar and occipital lobe have patchy slight hyperintensities. (C) DWI on January 28. The bilateral parietal…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1. from Li et al. (2023), Medicine · PMC9981371",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9981371/"
+        }
+      ]
+    },
+    "fume-left-different-record-welding": {
+      "quiz": {
+        "prompt": "After years of welding, a worker with subtle memory slips gets a follow-up whole-blood manganese test showing an 81% drop back into the normal range, alongside a clear chest X-ray. What does this actually tell you?",
+        "options": [
+          {
+            "label": "Circulating exposure dropped, but neither normal blood nor clear lungs clears the deep brain—keep specialist follow-up and fix source-capture exhaust.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Blood clears faster than deep brain tissue, and in Alici et al.’s cohort nearly three-quarters (74.2%) of clean-lung welders still showed T1 basal-ganglia changes."
+          },
+          {
+            "label": "An 81% drop in whole-blood manganese means 81% of any neurological deposit has already cleared, so wearing leather gloves, glasses, and opening bay doors solves the shop hazard.",
+            "correct": false,
+            "feedback": "Blood is a short-term transport compartment—not a brain biopsy—and spark gear plus general room airflow fail to intercept hot welding plumes rising straight through the breathing zone."
+          },
+          {
+            "label": "A normal lung scan proves inhalation exposure stayed below the olfactory pathway threshold, so only workers with confirmed pneumoconiosis and resting tremors need neurological evaluation.",
+            "correct": false,
+            "feedback": "Early manganese neurotoxicity can present without resting tremors and with completely clean lung parenchyma; waiting for late Parkinson-like rigidity misses the window to halt exposure."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "ASILDAĞ et al. (2024), Industrial Health — 1 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11462407/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "ration-and-racing-heart-monensin-horse": {
+      "quiz": {
+        "prompt": "Two horses on a mixed cattle-and-horse property suddenly begin sweating profusely, stumbling, and refusing feed after an unmarked grain bin is used. What happens in your next 60 seconds?",
+        "options": [
+          {
+            "label": "Dump the suspicious grain into the outer paddock, mix up oral electrolytes right away to replace sweat losses, and watch overnight to see if the horses stand normally.",
+            "correct": false,
+            "feedback": "Dumping feed onto pasture leaves animals exposed, waiting wastes precious hours, and giving improvised electrolytes during suspected ionophore collapse can provoke fatal ventricular arrhythmias."
+          },
+          {
+            "label": "Immediately remove and lock away the suspect feed, call an equine veterinarian reporting multi-animal exposure, preserve all bags and lot records, and give zero DIY remedies.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Stopping further ingestion, calling emergency veterinary care, preserving evidence, and avoiding blind electrolyte tinkering gives affected horses the safest shot at survival."
+          },
+          {
+            "label": "Check whether the cattle feed bag is past its printed expiration date, and if the pellets look fresh and mold-free, walk the horses lightly under saddle to keep circulation moving.",
+            "correct": false,
+            "feedback": "Fresh cattle ionophore feed is just as lethal to horses as expired feed—the species boundary is chemical, not calendar-based—and exercising a potentially poisoned horse risks sudden cardiac collapse."
+          }
+        ]
+      }
+    },
+    "vitamin-that-left-crystals-oxalate": {
+      "quiz": {
+        "prompt": "After a month of scooping multi-gram doses of loose vitamin C powder daily, someone with celiac disease feels profoundly weak with poor appetite and ammonia-scented breath, though urination feels normal and painless. What is your next move?",
+        "options": [
+          {
+            "label": "Drink a gallon of water and herbal diuretic tea over the afternoon to flush the excess water-soluble vitamin out, waiting to see a doctor only if flank pain starts.",
+            "correct": false,
+            "feedback": "Kidney parenchyma has zero pain receptors, so waiting for pain delays diagnosis—and flooding failing, crystal-blocked kidneys with water risks fatal hyponatremia and pulmonary edema."
+          },
+          {
+            "label": "Simply stop the vitamin C powder for a few weeks and take over-the-counter antacids, assuming water-soluble excess will resolve completely once the routine stops.",
+            "correct": false,
+            "feedback": "Ammonia breath and prolonged weakness signal possible severe uremia, and oxalate crystal inflammation can rapidly lay down irreversible scar tissue requiring urgent medical evaluation."
+          },
+          {
+            "label": "Seek urgent medical assessment for kidney blood tests right away, skip any home flushing or induced vomiting, and hand clinicians the physical supplement container and timeline.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Getting prompt labs without waiting for urinary pain—and handing doctors the exact scoop-dense bottle—lets teams catch acute kidney injury safely."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Gurm et al. (2012), Journal of Community Hospital Internal Medicine Perspectives — 2 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714063/",
+          "licenseNote": "CC BY-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "scan-and-the-sound-mri-physics": {
+      "quiz": {
+        "prompt": "Five minutes into a brain MRI, one of your facility-issued earplugs works loose and the banging turns intensely loud. What is your next move?",
+        "options": [
+          {
+            "label": "Reach up inside the bore to pack a corner of your hospital gown into the ear, or tough out the remaining 20 minutes so you do not delay the clinic schedule.",
+            "correct": false,
+            "feedback": "Polite endurance and improvised cloth leave cochlear hair cells exposed to intense Lorentz-force acoustic blasts—and moving mid-sequence degrades the images anyway."
+          },
+          {
+            "label": "Use the call button or intercom immediately to pause the scan so staff can properly refit MR-safe hearing protection, and report any post-scan ringing promptly.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Pausing via the call button protects your inner ear while preserving the diagnostic value of a medically necessary MRI."
+          },
+          {
+            "label": "Ask to pause so a family member can bring your personal active-noise-canceling headphones from the locker, since they block airplane engines better than foam plugs.",
+            "correct": false,
+            "feedback": "Consumer headphones contain ferromagnetic batteries, drivers, and wiring that can become projectiles inside the magnet, cause RF thermal burns, and ruin the scan."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · AUDIOGRAM",
+          "src": "assets/exhibits/PMC3703385_crim.radiology2013-510258.001.jpg",
+          "caption": "Patient's pure-tone audiogram recorded before and after magnetic resonance imaging (BC: bone conduction; AC: air conduction).",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Mollasadeghi et al. (2013), Case Reports in Radiology · PMC3703385",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3703385/"
+        }
+      ]
+    },
+    "teeth-beneath-the-face-dental-abscess": {
+      "quiz": {
+        "prompt": "Your pet rabbit starts skipping long-strand hay, develops a wet chin and slightly bulging eye, and leaves far fewer droppings—while one visible front tooth looks slightly overgrown. What is your next move?",
+        "options": [
+          {
+            "label": "Contact a rabbit-experienced veterinarian urgently with exact eating and dropping timelines, bring any prior dental records, and avoid touching the teeth at home.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Reduced eating and droppings risk rapid GI stasis, while a wet chin and bulging eye can signal deep root elongation or a pressurized retrobulbar abscess needing professional imaging."
+          },
+          {
+            "label": "Carefully trim just the overgrown visible tip using sanitized dog nail clippers so the rabbit can chew hay comfortably, then schedule a routine exam next week.",
+            "correct": false,
+            "feedback": "Crushing clippers can fracture dense rabbit teeth vertically straight into the vascular root, triggering osteomyelitis or sepsis—while completely missing hidden root abscesses behind the eye."
+          },
+          {
+            "label": "Switch entirely to soft pellets for a few days and check whether the visible crowns look aligned with a flashlight, seeking urgent care only if the rabbit stops eating completely.",
+            "correct": false,
+            "feedback": "Normal-looking crowns and continued eating can still hide severe skull remodeling (as seen in Riggs et al.’s Rabbits 9 and 10), and waiting on declining droppings risks fatal gut stasis."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC11047664_animals-14-01160-g001.jpg",
+          "caption": "Transverse plane (A) and sagittal plane (B) reconstructed CT images showing the head of a rabbit with no signs of dental disease. Note the following: the mandible has a smooth ventral border; tooth roots are of optimal length; interdigitation of the occlusal surfaces of the…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Borawski et al. (2024), Animals : an Open Access Journal from MDPI · PMC11047664",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11047664/"
+        }
+      ]
+    },
+    "mist-was-part-of-history-humidifier": {
+      "quiz": {
+        "prompt": "After weeks of winter breathlessness and low-grade fever that ease when you leave the house, you spot cloudy buildup inside your bedroom ultrasonic humidifier. What is your safest next move?",
+        "options": [
+          {
+            "label": "Scrub the tank with a mixed bleach-and-vinegar bath, run it ten minutes in a closed bedroom to confirm whether mist triggers coughing, and ask for antibiotics.",
+            "correct": false,
+            "feedback": "Mixing bleach with acid releases toxic fumes, DIY re-exposure risks a severe kindling collapse in hours, and antibiotics cannot shut down non-infectious hypersensitivity pneumonitis."
+          },
+          {
+            "label": "Turn off and unplug the humidifier immediately, seek medical evaluation with your appliance and room-versus-away timeline, and call 911 for severe distress.",
+            "correct": true,
+            "feedback": "Survived Tuesday! On sick days, housekeeping ends and medical care begins—stopping the suspected aerosol source and giving clinicians the room-versus-away pattern unlocks the diagnosis."
+          },
+          {
+            "label": "Switch to tap water with a few drops of eucalyptus essential oil so the ultrasonic plate sanitizes the cool mist while you wait to see if symptoms fade.",
+            "correct": false,
+            "feedback": "Ultrasonic transducers physically catapult essential oils straight into the alveoli, risking lipoid pneumonia on top of leaving an active respiratory illness unassessed."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC4589115_12890_2015_107_fig1_html.jpg",
+          "caption": "A thoracic CT before admission revealed diffuse fine centrilobular nodules with patchy ground-glass opacities of the upper lung predominance (upper). After the admission, the pulmonary parenchymal involvements were spontaneously improved (middle). 15 h after the end of the…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Utsugi et al. (2015), BMC Pulmonary Medicine · PMC4589115",
+          "license": "CC BY 4.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4589115/"
+        }
+      ]
+    },
+    "pressure-after-the-shift-decompression": {
+      "quiz": {
+        "prompt": "Hours after a pressurized chamber shift at an inland plant, a coworker gets kaleidoscope vision, transient leg weakness that soon fades, and a red mottled chest rash. Earlier in the week, going back into the chamber eased his rash. What now?",
+        "options": [
+          {
+            "label": "Call 911 immediately, tell ER clinicians about the pressurized-chamber shift and resolved leg weakness, and keep him out of the factory tank.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Vanishing weakness never clears a brain hit from nitrogen bubbles, naming compressed air redirects landlocked ERs to hyperbaric care, and workplace tanks are lethal makeshift chambers."
+          },
+          {
+            "label": "Have him step back inside the factory pressure chamber for twenty minutes to shrink the bubbles while someone pulls the shift decompression logbook.",
+            "correct": false,
+            "feedback": "Industrial chambers lack medical oxygen and monitoring; seizing or passing out inside a factory tank is catastrophic, and paperwork never overrides emergency transport."
+          },
+          {
+            "label": "Drive him home to rest until morning since his leg strength returned to normal and landlocked packaging workers cannot get scuba decompression sickness.",
+            "correct": false,
+            "feedback": "Dissolved nitrogen obeys physics regardless of distance from the ocean, and transient neurological deficits signal an arterial gas hazard that can worsen or strike again."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Diederich et al. (2024), Journal of the American College of Emergency Physicians Open — 2 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10948946/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "water-around-and-within-axolotl": {
+      "quiz": {
+        "prompt": "Your pet axolotl has sat in crystal-clear 24°C water for weeks, stops eating, begins listing sideways, and develops a noticeably swollen belly. What is the safest action?",
+        "options": [
+          {
+            "label": "Pick the axolotl up in both hands to gently press on its swollen belly, then add an over-the-counter aquarium fish dropsy remedy to the tank.",
+            "correct": false,
+            "feedback": "Warm 37°C human hands thermally shock cool-water amphibians and strip their mucus coat, pressing risks internal injury, and fish medications can poison scaleless permeable skin."
+          },
+          {
+            "label": "Wait a couple of weeks before calling anyone, because axolotls can regenerate limbs and usually recover on their own once the water looks clean.",
+            "correct": false,
+            "feedback": "Clear water hides warm, hypoxic, or logarithmically acidic chemistry, and limb regeneration cannot reverse hydrostatic coelomic fluid crushing the gut and bladder."
+          },
+          {
+            "label": "Minimize handling, call a species-experienced veterinarian for triage and transport guidance, and gather your tank temperature, pH, and symptom timeline.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Individual deviations like swelling, anorexia, and poor buoyancy need exotic-vet assessment paired with habitat chemistry trends rather than home remedies."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "TAKAMI et al. (2017), The Journal of Veterinary Medical Science — 5 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5487785/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "pool-had-another-hazard-drain-suction": {
+      "quiz": {
+        "prompt": "While supervising children at a resort pool abroad, you notice a bottom drain cover is completely missing—or a child’s foot briefly gets pulled into the pipe before freeing itself. What is the right call?",
+        "options": [
+          {
+            "label": "Dive down to verify whether the suction feels strong; if the freed child looks calm with mild soreness, translate “bruised foot” at a local pharmacy for ice and cream.",
+            "correct": false,
+            "feedback": "Never dive down to test an uncovered suction outlet, and never downgrade a vacuum-entrapment injury to a simple bruise when limb compartment syndrome can build out of sight."
+          },
+          {
+            "label": "Keep everyone out immediately, report the missing cover verbally, and if entrapment occurred, get prompt ER care explicitly naming pool suction machinery.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Visual refusal from the deck protects everyone before contact, and explicitly reporting suction machinery tells clinicians to screen for deep vascular, compartment, or internal trauma."
+          },
+          {
+            "label": "Keep swimming at the shallow end as long as an adult maintains unbroken eye contact, since vigilant supervision prevents suction injuries and UK tour firms verify resort drains.",
+            "correct": false,
+            "feedback": "Human eyes cannot physically stop an industrial pump—one 2026 entrapment happened under active maternal supervision—and a 2003 survey showed 70.8% of pool-holiday operators did not inspect drains."
+          }
+        ]
+      },
+      "diagramId": "pool-had-another-hazard-drain-suction"
+    },
+    "family-behind-the-enzyme-g6pd": {
+      "quiz": {
+        "prompt": "A five-year-old girl crashes into hemolytic crisis after fava beans and DNA testing finds two G6PD variants (Mediterranean and Chatham) in compound heterozygosity. Her mother’s G6PD enzyme score is normal (6.0), and her asymptomatic six-year-old sister carries the same two variants (0.0). What should clinicians and the family conclude?",
+        "options": [
+          {
+            "label": "Both girls carry compound-heterozygous deficiency, the mother’s 6.0 masks her Chatham gene via Lyonization, and charts need exact variant records plus CPIC guidance.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Normal average enzyme scores do not clear female carriers, being asymptomatic never guarantees immunity to future oxidative triggers, and exact enzyme plus DNA records keep future care safe."
+          },
+          {
+            "label": "The mother cannot be a genetic carrier because her 6.0 enzyme activity falls inside the 4.1–7.9 reference range, so the older sister can safely try a small fava-bean home challenge.",
+            "correct": false,
+            "feedback": "X-chromosome mosaicism lets healthy red cells disguise a heterozygous Chatham carrier as 6.0, and giving an asymptomatic deficient child a home fava-bean test risks life-threatening hemolysis."
+          },
+          {
+            "label": "Because healthy blood-donor screening in Baghdad found almost no recalled favism, the five-year-old only needs daily iron pills and an immediate repeat G6PD test after transfusion.",
+            "correct": false,
+            "feedback": "Blood-donor cohorts filter out severely symptomatic people, iron cannot stop oxidative hemolysis, and drawing a G6PD assay right after a crisis or transfusion can print a falsely normal result."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Al-Musawi et al. (2012), BMC Blood Disorders — 1 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3323424/",
+          "licenseNote": "CC BY-ND (view directly on PMC)"
+        }
+      ],
+      "diagramId": "family-behind-the-enzyme-g6pd"
+    },
+    "eggs-carried-yards-history-lead": {
+      "quiz": {
+        "prompt": "A necropsy on one backyard hen uncovers high liver lead, though the remaining hens look completely healthy and you spot old peeling paint on the coop shed. What is your safest next step?",
+        "options": [
+          {
+            "label": "Sand and scrape the peeling paint off the shed right away, give the healthy hens a week for their blood lead to fall, and resume eating their eggs.",
+            "correct": false,
+            "feedback": "Dry-sanding aerosolizes toxic lead dust into household air, and Trampel’s 2003 data showed egg-yolk lead surging 183% even while a healthy-looking hen’s blood lead dropped 68%."
+          },
+          {
+            "label": "Mix an over-the-counter chelating powder into the flock’s drinking water to flush heavy metals faster, and test your children only if they look visibly sick.",
+            "correct": false,
+            "feedback": "Unsupervised chelation can mobilize bone lead back into blood and eggs, and chronic childhood lead exposure causes silent harm without obvious early symptoms."
+          },
+          {
+            "label": "Pause eating or sharing eggs, call veterinary and environmental pros before touching peeling paint, and discuss childhood blood lead testing.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Pausing eggs stops ongoing food exposure, qualified remediation prevents airborne lead dust, and positive poultry act as a shared-yard sentinel warranting clinical screening for kids."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Roegner et al. (2013), Veterinary Medicine : Research and Reports — 3 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7337163/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
+    },
+    "sun-completed-the-exposure-phytophoto": {
+      "quiz": {
+        "prompt": "Two days after trimming brush in short sleeves and work gloves on a sunny afternoon, painful blisters erupt across both bare forearms, stopping sharply at your shirt cuffs and wrists and ignoring antibiotics. What should you do?",
+        "options": [
+          {
+            "label": "Pop the large blisters to relieve pressure, dab a fresh leaf onto an unburned patch of your leg in the sun to confirm the plant, and ask to double the antibiotics.",
+            "correct": false,
+            "feedback": "Opening blisters invites secondary bacterial infection, a sun self-challenge inflicts a second chemical burn, and antibiotics do not treat non-infectious phototoxic skin injury."
+          },
+          {
+            "label": "Block sunlight, leave blisters intact, and seek prompt medical reassessment detailing plant contact, daylight exposure, sleeve borders, and antibiotic failure.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sharp clothing borders plus antibiotic failure are classic phytophotodermatitis clues—blocking further UVA exposure and handing doctors the environmental sequence pivots care accurately."
+          },
+          {
+            "label": "Borrow an over-the-counter poison-ivy cream and send a coworker out with a string trimmer to clear the brush before anyone else brushes against it.",
+            "correct": false,
+            "feedback": "Severe blistering needs professional wound and medical assessment rather than poison-ivy assumptions, and weed-trimming suspect phototoxic plants splatters aerosolized sap everywhere."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MICROSCOPY",
+          "src": "assets/exhibits/PMC12858321_10-1055-a-2699-8042-i25mar0049-4cr.jpg",
+          "caption": "Histologic findings of the biopsy specimen. Intraepithelial blisters are identified ( A, B : red asterisk), along with areas showing subepithelial blisters ( C, D : red arrows). Within the subepithelial blister lesions, eosinophils and lymphocytes are observed ( E ), as well…",
+          "spoilerNote": "Contains real clinical injury/wound photography from the primary case report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Fig. 4 from Kim et al. (2026), Archives of Plastic Surgery · PMC12858321",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12858321/"
+        }
+      ]
+    },
+    "infection-culture-could-not-grow": {
+      "quiz": {
+        "prompt": "A patient with both a mechanical aortic valve and a biological pulmonary homograft has had daily fevers, weight loss, and fatigue for months despite a normal chest echocardiogram three months ago and negative routine blood cultures. What matters most now?",
+        "options": [
+          {
+            "label": "Rule out heart-valve infection completely, because sterile hospital blood cultures plus a recent normal chest ultrasound exclude serious bacterial endocarditis.",
+            "correct": false,
+            "feedback": "Obligate intracellular pathogens like Coxiella burnetii cannot replicate in routine hospital broth, and chest-wall TTEs can miss smaller or obscured vegetations that require TOE."
+          },
+          {
+            "label": "Ask for a short repeating course of broad-spectrum oral antibiotics and skip zoonotic questions because the patient lives in a city with no farm contact.",
+            "correct": false,
+            "feedback": "Brief antibiotics only mask symptoms while suppressing cultures further, and windborne spore-like Coxiella dust can infect people miles from sheep or goats with zero remembered animal contact."
+          },
+          {
+            "label": "Seek urgent specialist reassessment with the exact mechanical-versus-homograft valve map and antibiotic history—and call 911 immediately for any stroke sign.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Specific valve anatomy, antibiotic history, and persistent symptoms steer teams toward TOE, phase-specific serology, and PCR—while sudden neurological deficits are immediate stroke emergencies."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Héloïse et al. (2022), IDCases — 1 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9399264/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "stone-not-the-whole-illness-tortoise": {
+      "quiz": {
+        "prompt": "Five months after successful surgical removal of an ammonium acid urate bladder stone, your African spurred tortoise stops eating cleanly and develops swollen knees and a puffy jaw. What is the right move?",
+        "options": [
+          {
+            "label": "Book prompt reptile-vet reassessment bringing the stone-chemistry and surgical records, never pry the jaw or dose human gout pills, and prioritize welfare.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Stone extraction removes a mechanical plug without turning off systemic hyperuricemia—joint and jaw swelling signal possible articular gout needing prompt specialized care and comfort focus."
+          },
+          {
+            "label": "Gently pry the swollen jaw open to syringe-feed greens, give a tiny fraction of human allopurinol, and wait several months because the stone was already completely removed.",
+            "correct": false,
+            "feedback": "Prying a locked jaw causes severe injury, human gout drugs have unpredictable or toxic reptile pharmacokinetics, and waiting ignores active multi-organ urate crystal deposition."
+          },
+          {
+            "label": "Assume it is harmless postoperative stiffness and run weekly home glycerin enemas, since surviving surgery guarantees long-term metabolic cure once a tortoise gains weight.",
+            "correct": false,
+            "feedback": "Early weight gain can be a false finish line while hyperuricemia builds gouty tophi and recurrent bladder stones, and monitored glycerin enemas are strictly veterinary procedures."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "OZAWA et al. (2025), The Journal of Veterinary Medical Science — 4 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12951059/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
     }
   },
   "exam": [
@@ -5846,53 +6892,273 @@
           "why": "Survived Tuesday! Naming the handlebar mechanism prompts targeted pancreatic enzyme checks and cross-sectional CT/MRI before leaking enzymes trigger septic shock."
         }
       ]
+    },
+    {
+      "q": "A shop air nozzle slips and blasts near a coworker’s left eye. Within minutes the eyelids and cheek puff up dramatically, the eye cannot look upward, and vision turns blurry—yet they insist it doesn’t hurt at all. What happens next?",
+      "caseSlug": "air-beyond-the-eye-orbital-emphysema",
+      "caseRef": "Case 170",
+      "options": [
+        {
+          "label": "Press gently on the cheek to check for crackling air pockets, then measure the compressor PSI so the ER knows the exact force.",
+          "ok": false,
+          "why": "Palpating swollen facial tissue at home can push trapped gas deeper toward the orbit or cranial cavity, and delaying care to test compressor pressure wastes critical time."
+        },
+        {
+          "label": "Keep hands off the eye, stop them from driving, and get immediate emergency specialist care reporting compressed-air exposure and vision changes.",
+          "ok": true,
+          "why": "Survived Tuesday! Zero pain never clears a compressed-air blast—vision blur and restricted eye movement demand urgent specialist imaging to hunt for orbital gas or skull-vault pneumocephalus."
+        },
+        {
+          "label": "Have them rest at home with a cool compress and leftover eye drops unless pain starts or an urgent-care X-ray reveals a broken bone.",
+          "ok": false,
+          "why": "Compressed air can dissect soft tissue into the skull without cracking a single bone or triggering pain, and home drops or wait-and-see plans miss hidden globe or intracranial trauma."
+        }
+      ]
+    },
+    {
+      "q": "Ten days after surgical pinning of your chinchilla’s broken forearm, you notice him eating pellets eagerly and putting weight on the paw—though he still cannot curl his toes around hay. What should you do?",
+      "caseSlug": "paw-bore-weight-chinchilla-fracture",
+      "caseRef": "Case 172",
+      "options": [
+        {
+          "label": "Put the climbing shelves back into his cage since weight-bearing and a strong appetite mean the bone callus has restored full strength.",
+          "ok": false,
+          "why": "Weight-bearing returns weeks before radiographic bone union, and premature jumping can break a soft callus or rotate an internal pin inside a 0.7-mm bone canal."
+        },
+        {
+          "label": "Gently press along his forearm and press a small stick against his toes to check whether the nerve reflex and hardware are aligned properly.",
+          "ok": false,
+          "why": "Never palpate or provoke a healing limb at home; amateur flexing can worsen soft-tissue injury and cannot detect microscopic implant rotation visible only on X-ray."
+        },
+        {
+          "label": "Keep the prescribed recovery confinement intact, avoid home limb tests, and report the exact spontaneous difference between standing and grasping to the vet.",
+          "ok": true,
+          "why": "Survived Tuesday! Gross weight-bearing, fine-motor grasping, and radiographic union run on separate clocks, so preserving confinement and reporting spontaneous function lets the vet safely guide follow-up imaging."
+        }
+      ]
+    },
+    {
+      "q": "Months after cutting his hand on an unhardened epoxy tool and recovering from forearm lumps, a flooring technician returns to mixing resin and develops violent sneezing every shift that clears on weekends—yet a standard DGEBA patch test comes back negative. What makes sense?",
+      "caseSlug": "nodules-before-sneezing-epoxy",
+      "caseRef": "Case 173",
+      "options": [
+        {
+          "label": "Assume the sneezing is an unrelated seasonal cold and re-enter the mixing room with standard hardware-store gloves to test whether fumes trigger it again.",
+          "ok": false,
+          "why": "Deliberate self-rechallenge risks worsening sensitization, standard gloves can degrade against specific amine hardeners, and negative DGEBA patch kits never exclude other resin-system chemicals."
+        },
+        {
+          "label": "Bring exact site product and SDS inventories plus raw work-versus-weekend timelines to an occupational specialist, while reviewing ventilation and exposure controls.",
+          "ok": true,
+          "why": "Survived Tuesday! Nearly one in five confirmed epoxy-allergic workers react to non-DGEBA hardeners or additives, so full chemical inventories and upstream controls matter far more than one negative patch kit."
+        },
+        {
+          "label": "Request a repeat CRP blood test and clear him for epoxy work as long as CRP stays under 5 mg/L and no new skin nodules appear on his arm.",
+          "ok": false,
+          "why": "CRP below 5 mg/L stayed silent even while his hand was visibly inflamed, and absent skin bumps never rule out active occupational rhinitis from workplace resin systems."
+        }
+      ]
+    },
+    {
+      "q": "Four days after starting apixaban for a right-arm DVT following heavy swimming, your arm is visibly more swollen and painful, though your home pulse oximeter reads 96% and your wrist pulse feels strong. What is your safest move?",
+      "caseSlug": "vein-beneath-first-rib-paget-schroetter",
+      "caseRef": "Case 180",
+      "options": [
+        {
+          "label": "Use a deep-tissue massage gun along the hardened vein to improve drainage and wait for your scheduled follow-up next week.",
+          "ok": false,
+          "why": "Aggressively massaging or percussing a thrombosed vein risks snapping off clot fragments straight into the pulmonary arteries, and worsening swelling demands early reassessment."
+        },
+        {
+          "label": "Double your apixaban dose overnight since a 96% oxygen reading and strong radial pulse prove neither your lungs nor circulation are compromised.",
+          "ok": false,
+          "why": "Never self-adjust anticoagulants—and a strong arterial wrist pulse plus 96% room-air SpO₂ can persist right alongside both total venous outflow obstruction and a segmental lung clot."
+        },
+        {
+          "label": "Seek prompt clinical reassessment with an honest timeline of progression and missed doses, and call 911 if chest pain or breathlessness starts.",
+          "ok": true,
+          "why": "Survived Tuesday! Persistent or worsening swelling on blood thinners is the exact trigger for imaging the underlying mechanical anatomy, while chest or breathing signs require immediate emergency care."
+        }
+      ]
+    },
+    {
+      "q": "You cooked rice three days ago, stored it in a slightly warm 8–9°C fridge, and now plan to fry it piping hot for dinner—after a tiny test spoonful made you briefly nauseated this morning. What is the right call?",
+      "caseSlug": "toxin-reheating-could-not-undo-cereulide",
+      "caseRef": "Case 183",
+      "options": [
+        {
+          "label": "Stir-fry the rice extra hot until steaming throughout so the high pan temperature destroys both Bacillus cereus and any toxin inside.",
+          "ok": false,
+          "why": "Pan-frying or microwaving kills live Bacillus cereus bacteria, but standard cooking heat cannot break the molecular ring of preformed cereulide toxin."
+        },
+        {
+          "label": "Take one more small taste and sniff closely—if the rice smells completely fresh and normal, it is safe to serve to guests.",
+          "ok": false,
+          "why": "Cereulide is completely odorless and tasteless, and taking a ‘check bite’ simply adds another dose of a heat-stable mitochondrial poison."
+        },
+        {
+          "label": "Discard the rice immediately, never serve it, and seek medical care if severe vomiting, dehydration, lethargy, or confusion develops.",
+          "ok": true,
+          "why": "Survived Tuesday! Three days at 8–9°C lets surviving spores manufacture heat-proof cereulide—and brief early vomiting after a taste is a warning to dump the batch, not fry it hotter."
+        }
+      ]
+    },
+    {
+      "q": "A nonverbal seven-year-old who accepts only dry crackers and cereal develops a worsening limp, refuses to stand, and wakes crying at night—yet has no bleeding gums. What is the right clinical move?",
+      "caseSlug": "scaffold-body-could-not-build-scurvy",
+      "caseRef": "Case 185",
+      "options": [
+        {
+          "label": "Withhold her preferred crackers for several days until hunger pushes her to eat citrus fruit, and schedule a routine checkup next month.",
+          "ok": false,
+          "why": "Withholding safe foods from a child with severe sensory food aversion accelerates malnutrition and dehydration—and refusal to bear weight with night pain demands urgent medical care."
+        },
+        {
+          "label": "Seek immediate medical evaluation for sudden non-weight-bearing and give clinicians an honest, exact list of every food and drink she actually consumes.",
+          "ok": true,
+          "why": "Survived Tuesday! Refusing to bear weight and waking in pain require urgent assessment to distinguish malignancy, infection, and scurvy—and an unvarnished diet inventory supplies the fastest diagnostic clue."
+        },
+        {
+          "label": "Rule out vitamin C deficiency at home since scurvy causes bleeding gums first and modern children eating daily calories rarely lack micronutrients.",
+          "ok": false,
+          "why": "Calories supply energy, not the ascorbic acid cofactor needed to cross-link collagen—and modern pediatric scurvy frequently presents with bone pain and limping without textbook bleeding gums."
+        }
+      ]
+    },
+    {
+      "q": "A family member who finished rituximab for lymphoma a month ago and recently started oral steroids develops worsening shortness of breath at rest, cannot finish sentences, and has a new itchy rash—even though a parasite blood antibody test last month was negative. What is your move?",
+      "caseSlug": "antibody-test-stayed-negative-parasite",
+      "caseRef": "Case 171",
+      "options": [
+        {
+          "label": "Call an ambulance immediately, report the lymphoma, recent rituximab and steroids, and hand ER staff the exact wording and date of the negative antibody test.",
+          "ok": true,
+          "why": "Survived Tuesday! Gasping at rest and broken sentences require EMS immediately, and naming B-cell-depleting therapy plus exact prior lab wording helps clinicians reopen a silent antibody screen."
+        },
+        {
+          "label": "Stop the prescribed oral steroids immediately at home, order an antiparasitic online, and drive them to their routine oncology visit next week.",
+          "ok": false,
+          "why": "Abruptly stopping steroids or self-dosing unprescribed antiparasitics is dangerous, and driving a hypoxic patient who cannot finish sentences delays emergency oxygen and critical care."
+        },
+        {
+          "label": "Wait at home until their clinic repeats a white blood cell differential, since a parasitic flare would show elevated eosinophils and a snake-like rash.",
+          "ok": false,
+          "why": "CDC guidance warns that eosinophilia frequently vanishes in severe Strongyloides hyperinfection on steroids, and disseminated rashes can appear as purple spots rather than classic trails."
+        }
+      ]
+    },
+    {
+      "q": "Over three weeks, one koi in your backyard pond develops a steadily swelling belly and stops taking surface pellets while the other fish appear normal. What is the safest course of action?",
+      "caseSlug": "swelling-beneath-scales-pet-fish",
+      "caseRef": "Case 175",
+      "options": [
+        {
+          "label": "Dose the entire pond immediately with broad-spectrum antibiotics and extra salt to cover bacterial dropsy before scheduling a checkup.",
+          "ok": false,
+          "why": "Blind antibiotics cannot treat an internal mass or organ enlargement and can wipe out nitrifying biofilter bacteria, causing an ammonia spike that endangers every healthy fish."
+        },
+        {
+          "label": "Net the koi carefully, check whether the belly feels soft or firm, and use a sterile syringe from an online guide to see if fluid drains.",
+          "ok": false,
+          "why": "Handling stress alone can kill a compromised fish, and unguided home needle punctures without anesthesia or ultrasound risk lethal internal hemorrhage or infection."
+        },
+        {
+          "label": "Leave the fish unhandled, skip blind pond chemicals, document objective timelines and recent pond changes, and contact an aquatic veterinarian promptly.",
+          "ok": true,
+          "why": "Survived Tuesday! Coelomic swelling is only a non-specific check-engine light, so avoiding DIY trauma or biofilter-killing drugs while giving an aquatic vet raw observations protects both fish and pond."
+        }
+      ]
+    },
+    {
+      "q": "A worker catches his metal ring on a moving machine bracket. The ring finger looks pale and numb with an awkwardly angled knuckle, though the skin is still attached. What should happen in the next 60 seconds?",
+      "caseSlug": "ring-and-unbroken-bone-avulsion",
+      "caseRef": "Case 176",
+      "options": [
+        {
+          "label": "Leave the ring untouched, skip ice packs and home pulse-ox checks, keep him from driving, and summon emergency care reporting the snag mechanism and numbness.",
+          "ok": true,
+          "why": "Survived Tuesday! Numbness and an odd knuckle angle signal potential neurovascular transection and joint dislocation—leaving the ring for specialist cutters and avoiding vasoconstricting ice protects remaining tissue."
+        },
+        {
+          "label": "Pack the finger tightly in ice to slow swelling, carefully work the ring off with soap, and drive him to urgent care if an X-ray shows a fracture.",
+          "ok": false,
+          "why": "Ice causes severe vasoconstriction that accelerates ischemic tissue death, pulling the ring can sever surviving vessels, and ring avulsions routinely destroy blood flow with zero bone fracture."
+        },
+        {
+          "label": "Clip a home pulse oximeter onto the fingertip to verify circulation and wait two hours to see whether warmth returns before calling emergency transport.",
+          "ok": false,
+          "why": "Consumer oximeters cannot rule out transected digital arteries in severe soft-tissue trauma, and waiting on an imagined ischemic clock wastes irreplaceable minutes."
+        }
+      ]
+    },
+    {
+      "q": "A four-year-old suddenly begins stumbling and losing leg strength, then develops drooping eyelids and rapid, shallow breathing—with no remembered woods trip or tick bite. What is your immediate priority?",
+      "caseSlug": "paralysis-beneath-the-hair-tick",
+      "caseRef": "Case 181",
+      "options": [
+        {
+          "label": "Call 911 immediately for emergency airway evaluation and report the exact onset and upward progression of weakness to clinicians.",
+          "ok": true,
+          "why": "Survived Tuesday! Rapid shallow breathing and drooping eyelids signal threatened airway and diaphragm failure—emergency stabilization always comes first, even with zero recalled outdoor exposure."
+        },
+        {
+          "label": "Put her in a hot shower right away and spend an hour combing through her hair at home to dislodge any hidden tick before calling a doctor.",
+          "ok": false,
+          "why": "Never delay emergency care to conduct a home tick search, and a hot shower will not reliably detach an engorged tick cemented into skin by barbed mouthparts."
+        },
+        {
+          "label": "Give a leftover oral antibiotic to neutralize tick neurotoxin and monitor overnight unless she starts complaining of skin numbness.",
+          "ok": false,
+          "why": "Antibiotics never neutralize tick salivary neurotoxin, and sensory pathways can stay completely intact even while motor paralysis shuts down breathing muscles."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 5 Drops (Ep 2621–2653) (33)",
-      "tagline": "Freshly added on 2026-11-21 — 33 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 6 Drops (Ep 2654–2754) (33)",
+      "tagline": "Freshly added on 2026-11-22 — 33 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "wound-hard-to-see-lawnmower-wire",
-        "line-not-the-retina-valsalva",
-        "eye-that-found-two-diabetics-guinea-pigs",
-        "small-hands-moving-treadmill-belt",
-        "thyroid-that-changed-in-the-test-biotin",
-        "seizure-between-normal-days-ferret",
-        "step-that-kept-moving-escalator",
-        "one-entrance-injured-branch-scad",
-        "egg-that-would-not-leave-gecko",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "vitamin-brain-could-not-spare-wernicke",
-        "lump-not-lymph-node-hedgehog",
-        "injury-that-outlasted-crash-bowel",
-        "bruises-needed-different-question-hemophilia",
-        "clot-before-thick-wall-kitten-ate",
-        "burn-looked-like-infection-wet-cement",
-        "pulse-that-did-not-race-pheochromocytoma",
-        "tilt-needed-more-than-one-test-rabbit",
-        "handlebar-and-hidden-pancreatic-duct",
-        "antibody-and-falling-glucose-ias",
-        "cream-reached-blood-zinc-oxide-dog",
-        "missing-denture-faint-line-esophagus",
-        "flush-behind-falling-count-hit",
-        "discharge-not-ending-iron-edta-dog",
-        "burn-that-reached-the-heart-hf-acid",
-        "bleeding-behind-kidney-retroperitoneal",
-        "swelling-not-just-bone-disease-synovial",
-        "cloth-the-machine-caught-entanglement",
-        "twist-could-not-wait-for-scan-volvulus",
-        "pill-and-narrowed-passage-esophagitis",
-        "thread-across-the-road-kite-string",
-        "sample-taken-after-crisis-water-intox",
-        "bird-and-falling-blood-count-avian"
+        "air-beyond-the-eye-orbital-emphysema",
+        "antibody-test-stayed-negative-parasite",
+        "paw-bore-weight-chinchilla-fracture",
+        "nodules-before-sneezing-epoxy",
+        "liver-failure-falling-hemoglobin-wilson",
+        "swelling-beneath-scales-pet-fish",
+        "ring-and-unbroken-bone-avulsion",
+        "blood-concentrated-lungs-filled-capillary-leak",
+        "door-closed-to-rabbit-rhdv2",
+        "two-matching-labels-wrong-patient",
+        "vein-beneath-first-rib-paget-schroetter",
+        "paralysis-beneath-the-hair-tick",
+        "water-had-another-route-naegleria",
+        "toxin-reheating-could-not-undo-cereulide",
+        "fish-had-two-identities-ciguatera",
+        "scaffold-body-could-not-build-scurvy",
+        "aquarium-more-than-one-patient-palytoxin",
+        "foam-was-not-neck-safeguard-trampoline",
+        "fruit-kidneys-could-not-clear-starfruit",
+        "fume-left-different-record-welding",
+        "ration-and-racing-heart-monensin-horse",
+        "vitamin-that-left-crystals-oxalate",
+        "scan-and-the-sound-mri-physics",
+        "teeth-beneath-the-face-dental-abscess",
+        "mist-was-part-of-history-humidifier",
+        "pressure-after-the-shift-decompression",
+        "water-around-and-within-axolotl",
+        "pool-had-another-hazard-drain-suction",
+        "family-behind-the-enzyme-g6pd",
+        "eggs-carried-yards-history-lead",
+        "sun-completed-the-exposure-phytophoto",
+        "infection-culture-could-not-grow",
+        "stone-not-the-whole-illness-tortoise"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 Real Clinical Exhibits (70)",
-      "tagline": "All 70 chapters featuring verified commercial-safe CC-BY X-rays, CTs, MRIs, ECGs, ultrasounds, and opt-in unsealable clinical photographs.",
+      "label": "🩻 Real Clinical Exhibits (90)",
+      "tagline": "All 90 chapters featuring verified commercial-safe CC-BY X-rays, CTs, MRIs, ECGs, ultrasounds, and opt-in unsealable clinical photographs.",
       "slugs": [
         "dry-ice-riding-shotgun",
         "pressure-washer-pinhole",
@@ -5963,40 +7229,64 @@
         "swelling-not-just-bone-disease-synovial",
         "twist-could-not-wait-for-scan-volvulus",
         "pill-and-narrowed-passage-esophagitis",
-        "sample-taken-after-crisis-water-intox"
+        "sample-taken-after-crisis-water-intox",
+        "air-beyond-the-eye-orbital-emphysema",
+        "antibody-test-stayed-negative-parasite",
+        "paw-bore-weight-chinchilla-fracture",
+        "liver-failure-falling-hemoglobin-wilson",
+        "swelling-beneath-scales-pet-fish",
+        "ring-and-unbroken-bone-avulsion",
+        "door-closed-to-rabbit-rhdv2",
+        "two-matching-labels-wrong-patient",
+        "vein-beneath-first-rib-paget-schroetter",
+        "paralysis-beneath-the-hair-tick",
+        "water-had-another-route-naegleria",
+        "fish-had-two-identities-ciguatera",
+        "scaffold-body-could-not-build-scurvy",
+        "aquarium-more-than-one-patient-palytoxin",
+        "foam-was-not-neck-safeguard-trampoline",
+        "fruit-kidneys-could-not-clear-starfruit",
+        "scan-and-the-sound-mri-physics",
+        "teeth-beneath-the-face-dental-abscess",
+        "mist-was-part-of-history-humidifier",
+        "sun-completed-the-exposure-phytophoto"
       ]
     },
     {
       "id": "infographics",
-      "label": "📐 Signature Forensic Diagrams (26)",
-      "tagline": "All 26 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
+      "label": "📐 Signature Forensic Diagrams (30)",
+      "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "boots-in-the-snow-and-heatstroke",
-        "charger-between-phone-and-wall",
-        "reheated-rice-and-botulism",
-        "handlebar-and-hidden-pancreatic-duct",
-        "burn-looked-like-infection-wet-cement",
-        "hair-treatment-reached-the-cat",
-        "driveway-ied-truck-tire",
-        "chocolate-brown-blood",
-        "puppy-with-the-twisted-stomach-gdv",
-        "tank-after-the-collapse-h2s",
         "anesthetic-that-triggered-the-furnace",
-        "spin-class-rhabdo",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "room-not-safe-to-finish",
-        "super-rat-bait-and-vitamin-k-trap",
-        "dry-ice-riding-shotgun",
+        "handlebar-and-hidden-pancreatic-duct",
         "small-hands-moving-treadmill-belt",
+        "ring-and-unbroken-bone-avulsion",
         "one-finger-varicose-vein",
-        "hot-baths-fentanyl-patches-deadly",
-        "battery-already-in-the-stomach",
-        "potassium-that-rose-in-the-tube",
+        "dry-ice-riding-shotgun",
         "van-that-was-not-empty",
-        "thread-across-the-road-kite-string",
+        "potassium-that-rose-in-the-tube",
+        "pool-had-another-hazard-drain-suction",
+        "room-not-safe-to-finish",
+        "tank-after-the-collapse-h2s",
+        "family-behind-the-enzyme-g6pd",
+        "battery-already-in-the-stomach",
+        "puppy-with-the-twisted-stomach-gdv",
+        "chocolate-brown-blood",
+        "thyroid-that-changed-in-the-test-biotin",
+        "aquarium-more-than-one-patient-palytoxin",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "super-rat-bait-and-vitamin-k-trap",
+        "hair-treatment-reached-the-cat",
+        "reheated-rice-and-botulism",
         "fractal-wood-burning",
+        "charger-between-phone-and-wall",
         "wire-behind-the-pain",
-        "thyroid-that-changed-in-the-test-biotin"
+        "driveway-ied-truck-tire",
+        "spin-class-rhabdo",
+        "thread-across-the-road-kite-string",
+        "boots-in-the-snow-and-heatstroke",
+        "hot-baths-fentanyl-patches-deadly",
+        "burn-looked-like-infection-wet-cement"
       ]
     },
     {
@@ -6052,7 +7342,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 29",
+      "label": "🐾 Pet Owner’s Mandatory 36",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }

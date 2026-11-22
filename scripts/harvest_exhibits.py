@@ -58,10 +58,10 @@ REJECT_CAPTION_RE = re.compile(
 
 # Opt-in blur shield keywords
 BLUR_CAPTION_RE = re.compile(
-    r"\b(gross|macroscop|autopsy|postmortem|necropsy|intraoperative|operative|excised|resected|laparotom|"
-    r"burn|blister|ulcer|necrosis|necrotic|gangrene|laceration|wound|puncture|hematoma|bruis|ecchymos|"
+    r"\b(gross|macroscop|autopsy|post[\-\s]?mortem|necropsy|intraoperative|operative|excised|resected|laparotom|"
+    r"deglov|avuls|burn|blister|ulcer|necrosis|necrotic|gangrene|laceration|wound|puncture|hematoma|bruis|ecchymos|"
     r"bleed|hemorrhage|eye|fundus|retina|cornea|slit[\-\s]lamp|skin|erythema|rash|swelling|strangul|"
-    r"toe|finger|hand|foot|thigh|limb|specimen|biopsy|histolog|microscop|endoscop|laryngoscop|"
+    r"toe|finger|hand|foot|thigh|limb|specimen|biopsy|histolog|microscop|h[/&]e|haematoxylin|hematoxylin|endoscop|laryngoscop|"
     r"bronchoscop|cloacoscop|fistula|abscess|clot|thrombus|dissection|rupture|perforat|hernia\s+sac)\b",
     re.I,
 )

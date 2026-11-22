@@ -846,6 +846,124 @@
         '<rect x="20" y="204" width="680" height="44" rx="7" fill="#181B20"/>' +
         '<text x="360" y="231" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">USE PLAIN COTTON STRING AWAY FROM ROADS—ABRASIVE MANJA REMAINS LETHAL EVEN AFTER FALLING.</text>' +
         '</svg>'
+    },
+
+    /* ==================== WAVE 6 SIGNATURE INFOGRAPHICS (+4 -> 30 TOTAL!) ==================== */
+    'ring-and-unbroken-bone-avulsion': {
+      badge: 'FORENSIC INFOGRAPHIC · RING AVULSION PHYSICS',
+      title: 'Why a Metal Wedding Band Strips Skin & Vessels While the Bone Stays Intact',
+      caption: 'Rigid gold, titanium, or tungsten rings never snap when snagged on a ladder, truck bed, or basketball rim—transferring your entire body weight into a circumferential shear tear.',
+      svg:
+        '<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram comparing rigid metal ring avulsion force versus breakaway silicone ring and emergency finger preservation steps">' +
+        '<rect width="720" height="270" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="328" height="168" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.6"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">THE RIGID RING TRAP</text>' +
+        '<text x="36" y="76" font-family="Newsreader,Georgia,serif" font-size="19" font-weight="700" fill="#18181B">Normal X-Ray, Dead Vessels</text>' +
+        '<text x="36" y="102" font-family="Inter,sans-serif" font-size="11" fill="#44403C">• Ring hooks a bolt, gate, or truck latch.</text>' +
+        '<text x="36" y="122" font-family="Inter,sans-serif" font-size="11" fill="#44403C">• Bone survives; microscopic digital arteries</text>' +
+        '<text x="36" y="138" font-family="Inter,sans-serif" font-size="11" fill="#44403C">  &amp; nerves stretch like snapping rubber bands.</text>' +
+        '<text x="36" y="170" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">EVEN “SMALL” CUTS CAN HIDE ARTERY TEARS</text>' +
+        '<rect x="372" y="22" width="328" height="168" rx="8" fill="#181B20"/>' +
+        '<text x="388" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#4ADE80">PREVENTION &amp; FIRST 60 SECONDS</text>' +
+        '<text x="388" y="74" font-family="Inter,sans-serif" font-size="11" fill="#FFF">1. Bare hands or breakaway silicone rings</text>' +
+        '<text x="388" y="92" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   around ladders, tools, trucks, and gyms.</text>' +
+        '<text x="388" y="118" font-family="Inter,sans-serif" font-size="11" fill="#FCA5A5">2. Pale/cold finger or amputated part?</text>' +
+        '<text x="388" y="136" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   Wrap part in damp gauze → sealed bag →</text>' +
+        '<text x="388" y="152" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   ON ice water (NEVER directly on ice!).</text>' +
+        '<rect x="20" y="204" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="231" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">TUNGSTEN &amp; TITANIUM RINGS NEED SPECIALTY CUTTERS—TAKE METAL RINGS OFF BEFORE WORK.</text>' +
+        '</svg>'
+    },
+
+    'aquarium-more-than-one-patient-palytoxin': {
+      badge: 'FORENSIC INFOGRAPHIC · AEROSOLIZED MARINE TOXIN',
+      title: 'Why Boiling a Home Reef Rock Turns Your Kitchen Into a Palytoxin Cloud',
+      caption: 'Certain zoanthid and Palythoa corals harbor palytoxin—one of nature’s deadliest non-protein poisons. Hot water, bleach, or wire brushing launches breathable toxin mist through the whole house.',
+      svg:
+        '<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram showing how hot water scrubbing of aquarium zoanthid coral aerosolizes palytoxin affecting multiple household members and pets">' +
+        '<rect width="720" height="270" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="212" height="168" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.5"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">01 · THE TRIGGER</text>' +
+        '<text x="36" y="74" font-family="Inter,sans-serif" font-size="12" font-weight="700" fill="#18181B">Boiling / Scrubbing Rock</text>' +
+        '<text x="36" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">Hot tap water, vinegar,</text>' +
+        '<text x="36" y="114" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">or stiff brushing stresses</text>' +
+        '<text x="36" y="130" font-family="Inter,sans-serif" font-size="10.5" fill="#44403C">zoanthid polyps into</text>' +
+        '<text x="36" y="146" font-family="Inter,sans-serif" font-size="10.5" font-weight="700" fill="#B41C1C">aerosolizing palytoxin.</text>' +
+        '<rect x="254" y="22" width="212" height="168" rx="8" fill="#FDF2F2" stroke="#B41C1C" stroke-width="1.6"/>' +
+        '<text x="270" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#B41C1C">02 · WHOLE-HOUSE HIT</text>' +
+        '<text x="270" y="74" font-family="Inter,sans-serif" font-size="12" font-weight="700" fill="#B41C1C">Na⁺/K⁺-ATPase Lock</text>' +
+        '<text x="270" y="98" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">Fever, cough, metallic</text>' +
+        '<text x="270" y="114" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">taste, eye burns, and</text>' +
+        '<text x="270" y="130" font-family="Inter,sans-serif" font-size="10.5" fill="#7F1D1D">respiratory failure hit</text>' +
+        '<text x="270" y="146" font-family="Inter,sans-serif" font-size="10.5" font-weight="700" fill="#7F1D1D">family &amp; pets indoors.</text>' +
+        '<rect x="488" y="22" width="212" height="168" rx="8" fill="#181B20"/>' +
+        '<text x="504" y="45" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#4ADE80">03 · SAFE CORAL RULE</text>' +
+        '<text x="504" y="74" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FFF">• NEVER boil or steam</text>' +
+        '<text x="504" y="96" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FFF">• Submerged + thick</text>' +
+        '<text x="504" y="112" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">  gloves + eye goggles</text>' +
+        '<text x="504" y="138" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FCA5A5">• Sick after tank work?</text>' +
+        '<text x="504" y="154" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">  Exit house &amp; name coral!</text>' +
+        '<rect x="20" y="204" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="231" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">IF MULTIPLE FAMILY MEMBERS DEVELOP FLU + EYE PAIN AFTER TANK CLEANING, TELL ER “PALYTOXIN.”</text>' +
+        '</svg>'
+    },
+
+    'pool-had-another-hazard-drain-suction': {
+      badge: 'FORENSIC INFOGRAPHIC · HYDROSTATIC SUCTION TRAP',
+      title: 'Why Two Strong Adults Cannot Pull a Child Off an Uncovered Pool Drain',
+      caption: 'When a body seals an open main drain, pump vacuum multiplies across surface area (Force = Pressure × Area) to generate 300+ pounds of holding force—making the pump shutoff switch Step 1.',
+      svg:
+        '<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Physics diagram of swimming pool main drain suction entrapment and emergency pump shutoff rescue protocol">' +
+        '<rect width="720" height="270" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="22" width="328" height="168" rx="8" fill="#FFF" stroke="#F5C6C6" stroke-width="1.6"/>' +
+        '<text x="36" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#B41C1C">THE VACUUM MATH (F = P × A)</text>' +
+        '<text x="36" y="76" font-family="Newsreader,Georgia,serif" font-size="19" font-weight="700" fill="#18181B">300–500+ lbs of Suction</text>' +
+        '<text x="36" y="102" font-family="Inter,sans-serif" font-size="11" fill="#44403C">• Broken/missing drain cover lets limbs,</text>' +
+        '<text x="36" y="118" font-family="Inter,sans-serif" font-size="11" fill="#44403C">  hair, or torso seal the intake pipe.</text>' +
+        '<text x="36" y="138" font-family="Inter,sans-serif" font-size="11" fill="#B41C1C" font-weight="700">• Pulling straight up fights full pump</text>' +
+        '<text x="36" y="154" font-family="Inter,sans-serif" font-size="11" fill="#B41C1C" font-weight="700">  vacuum and wastes critical seconds.</text>' +
+        '<rect x="372" y="22" width="328" height="168" rx="8" fill="#181B20"/>' +
+        '<text x="388" y="45" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#4ADE80">FIRST 60 SECONDS · BREAK THE SEAL</text>' +
+        '<text x="388" y="74" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FCA5A5">1. HIT THE PUMP SHUTOFF SWITCH</text>' +
+        '<text x="388" y="92" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   Locate it BEFORE anyone swims.</text>' +
+        '<text x="388" y="118" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#FFF">2. Pry sideways to break vacuum</text>' +
+        '<text x="388" y="136" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   Insert fingers/object at seal edge.</text>' +
+        '<text x="388" y="162" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#4ADE80">3. Never swim with broken/missing grates.</text>' +
+        '<rect x="20" y="204" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="231" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">CHECK FOR VGB-COMPLIANT ANTI-ENTRAPMENT COVERS &amp; PUMP SHUTOFF BEFORE EVERY SWIM.</text>' +
+        '</svg>'
+    },
+
+    'family-behind-the-enzyme-g6pd': {
+      badge: 'FORENSIC INFOGRAPHIC · X-LINKED COMPOUND HETEROZYGOSITY',
+      title: 'G6PD Deficiency Is Not Just a Boys’ Diagnosis: Two Variants, Two Sisters',
+      caption: 'In van den Broek et al. (2016), both sisters inherited G6PD Mediterranean from their father and G6PD Chatham from their mother—meaning females can crash just as severely after oxidative triggers.',
+      svg:
+        '<svg viewBox="0 0 720 275" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Genetics diagram showing father with G6PD Mediterranean and mother carrying G6PD Chatham passing both variants to two compound heterozygous daughters">' +
+        '<rect width="720" height="275" rx="10" fill="#FAF9F6" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<rect x="20" y="20" width="328" height="172" rx="8" fill="#FFF" stroke="#E4E0D8" stroke-width="1.5"/>' +
+        '<text x="36" y="42" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#57534E">INHERITANCE (PMC5134135)</text>' +
+        '<rect x="36" y="54" width="136" height="44" rx="6" fill="#F3F1EC" stroke="#D1CCC2"/>' +
+        '<text x="104" y="72" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#18181B">FATHER (Hemizygous)</text>' +
+        '<text x="104" y="88" text-anchor="middle" font-family="Inter,sans-serif" font-size="9.5" fill="#B41C1C">Mediterranean c.563C&gt;T</text>' +
+        '<rect x="194" y="54" width="138" height="44" rx="6" fill="#F3F1EC" stroke="#D1CCC2"/>' +
+        '<text x="263" y="72" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#18181B">MOTHER (Carrier)</text>' +
+        '<text x="263" y="88" text-anchor="middle" font-family="Inter,sans-serif" font-size="9.5" fill="#B41C1C">Chatham c.1003G&gt;A</text>' +
+        '<text x="184" y="116" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="13" font-weight="700" fill="#B41C1C">↓   BOTH VARIANTS   ↓</text>' +
+        '<rect x="36" y="124" width="296" height="54" rx="6" fill="#FDF2F2" stroke="#B41C1C"/>' +
+        '<text x="184" y="144" text-anchor="middle" font-family="Inter,sans-serif" font-size="11" font-weight="700" fill="#B41C1C">BOTH SISTERS: COMPOUND HETEROZYGOUS</text>' +
+        '<text x="184" y="162" text-anchor="middle" font-family="Inter,sans-serif" font-size="10" fill="#7F1D1D">5-yr-old: fava beans → crisis · 6-yr-old: asymptomatic</text>' +
+        '<rect x="372" y="20" width="328" height="172" rx="8" fill="#181B20"/>' +
+        '<text x="388" y="42" font-family="IBM Plex Mono,monospace" font-size="9.5" font-weight="700" fill="#4ADE80">FAMILY SAFETY &amp; TESTING RULES</text>' +
+        '<text x="388" y="70" font-family="Inter,sans-serif" font-size="11" fill="#FFF">1. Screen siblings &amp; parents—zero prior</text>' +
+        '<text x="388" y="86" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   symptoms does NOT exclude deficiency.</text>' +
+        '<text x="388" y="112" font-family="Inter,sans-serif" font-size="11" fill="#FCA5A5">2. Watch triggers: fava beans, henna,</text>' +
+        '<text x="388" y="128" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   mothballs, rasburicase, methylene blue.</text>' +
+        '<text x="388" y="154" font-family="Inter,sans-serif" font-size="11" fill="#4ADE80">3. Acute crisis can mask enzyme level—</text>' +
+        '<text x="388" y="170" font-family="Inter,sans-serif" font-size="10.5" fill="#D6D3D1">   re-test after reticulocytes recover.</text>' +
+        '<rect x="20" y="208" width="680" height="44" rx="7" fill="#181B20"/>' +
+        '<text x="360" y="235" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" font-weight="700" fill="#FCA5A5">YELLOW EYES + DARK TEA URINE AFTER FAVA BEANS OR NEW DRUGS = EMERGENCY HEMOLYSIS WORKUP.</text>' +
+        '</svg>'
     }
   };
 
