@@ -317,7 +317,7 @@
         document.getElementById('ot-exam-close').onclick = close;
         document.getElementById('ot-exam-retry').onclick = function () { drawDeck(); renderStep(); };
         document.getElementById('ot-exam-share').onclick = function () {
-          const txt = 'I scored ' + score + '/' + deck.length + ' on the "How Not to Die on an Ordinary Tuesday" Survival Exam — Verdict: ' + v.title + '. Try it: https://yorekms.github.io/ordinary-tuesday/?exam=1';
+          const txt = 'I scored ' + score + '/' + deck.length + ' on the "How Not to Die on an Ordinary Tuesday" Survival Exam — Verdict: ' + v.title + '. Try it: https://yorekms.github.io/my-ordinary-tuesday/?exam=1';
           navigator.clipboard.writeText(txt).then(function () {
             const b = document.getElementById('ot-exam-share');
             if (b) b.textContent = '✓ Score Copied!';

@@ -2,7 +2,7 @@
 ### *How Not to Die on an Ordinary Tuesday*
 
 Your Static Magazine Reader is live on GitHub Pages at:
-**`https://yorekms.github.io/ordinary-tuesday/`**
+**`https://yorekms.github.io/my-ordinary-tuesday/`**
 
 Everything runs from **one single source of truth**:
 - `data/catalog.json` — All **111 live book chapters** (through `Ep 2620` / `PREV_1004`), toe-tag verdicts, and verified audio/transcript links
@@ -18,7 +18,7 @@ Everything runs from **one single source of truth**:
 
 ```html
 <div id="otg-mount"></div>
-<script src="https://yorekms.github.io/ordinary-tuesday/carrd/embed.js"></script>
+<script src="https://yorekms.github.io/my-ordinary-tuesday/carrd/embed.js"></script>
 ```
 
 4. Save & Publish!
