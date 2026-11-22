@@ -326,6 +326,14 @@ embed_css_extra = carrd_css + (
     '#otg .more-wrap *{text-align:center}'
     '#otg .b.big{padding:10px 20px;font-size:13px;border-radius:99px}'
     '#otg .cnt{font:500 11px/1.3 var(--m);color:#78716C;margin:0 0 12px}'
+    '#otg .net{margin-top:14px;padding:14px 16px;background:#F3F1EC;border:1px solid #E4E0D8;border-radius:11px}'
+    '#otg .net-hd{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:6px;margin-bottom:9px;font:700 10px/1.2 var(--m);letter-spacing:.07em;text-transform:uppercase;color:#57534E}'
+    '#otg .net-hd a{color:#B41C1C;text-decoration:none}'
+    '#otg .net-hd a:hover{text-decoration:underline}'
+    '#otg .net-pills{display:flex;flex-wrap:wrap;gap:6px}'
+    '#otg .np{display:inline-flex;align-items:center;font-size:11px;font-weight:600;padding:4px 10px;border-radius:99px;border:1px solid #D6D1C7;background:#FFF;color:#292524;text-decoration:none}'
+    '#otg .np.pri{border-color:#F5C6C6;background:#FDF2F2;color:#B41C1C}'
+    '#otg .np:hover{border-color:#18181B;color:#18181B;background:#FFF}'
 )
 embed_js_code = (
     '(function(){\n'
@@ -363,6 +371,7 @@ embed_js_code = (
     '\'<div class="gr" id="otg-g"></div>\'+'
     '\'<div class="more-wrap" id="otg-mw"></div>\'+'
     '\'<div class="cta"><div><h2>Open the Full Static Reader &amp; Printable Survival Archive</h2><p>Read every full chapter with primary DOIs, clinical proof ledgers, and companion variable-speed audio.</p></div><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Open Full Reader ↗</a></div>\'+'
+    '\'<div class="net" id="otg-net" style="display:none"></div>\'+'
     '\'</div>\';\n'
     '    if(explicitMount){explicitMount.innerHTML="";explicitMount.appendChild(wrap);}\n'
     '    else if(scriptParent&&curScript.parentNode===mount){mount.insertBefore(wrap,curScript);}\n'
@@ -393,7 +402,9 @@ embed_js_code = (
     '      var words=cat.cases.reduce(function(s,c){return s+(c.spokenWords||0);},0);\n'
     '      var exN=exMeta.ccByClinicalExhibitStories||"";\n'
     '      var dgN=exMeta.bespokeInfographics||"";\n'
-    '      $("otg-chs").innerHTML=\'<span class="ch red">\'+live.length+\' Stories Live</span><span class="ch">\'+Math.round(words/1000)+\'k+ Spoken Words</span><a class="b" href="\'+R+\'?pack=latest" target="_blank" rel="noopener">🆕 Latest Drops ↗</a><a class="b" href="\'+R+\'?pack=visual-pilot" target="_blank" rel="noopener">🩻 \'+(exN?exN+" ":"")+\'Clinical Exhibits ↗</a><a class="b" href="\'+R+\'?pack=infographics" target="_blank" rel="noopener">📐 \'+(dgN?dgN+" ":"")+\'Diagrams ↗</a><a class="b" href="\'+R+\'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="\'+R+\'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Full Reader ↗</a>\';\n'
+    '      $("otg-chs").innerHTML=\'<span class="ch red">\'+live.length+\' Stories Live</span><span class="ch">\'+Math.round(words/1000)+\'k+ Spoken Words</span><a class="b" href="\'+R+\'?pack=latest" target="_blank" rel="noopener">🆕 Latest Drops ↗</a><a class="b" href="\'+R+\'?pack=visual-pilot" target="_blank" rel="noopener">🩻 \'+(exN?exN+" ":"")+\'Clinical Exhibits ↗</a><a class="b" href="\'+R+\'?pack=infographics" target="_blank" rel="noopener">📐 \'+(dgN?dgN+" ":"")+\'Diagrams ↗</a><a class="b" href="\'+R+\'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="\'+R+\'cards.html" target="_blank" rel="noopener">🪪 Fridge 6-Pack ↗</a><a class="b" href="\'+R+\'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Full Reader ↗</a>\';\n'
+    '      var hubs=(cat.meta&&cat.meta.networkHubs)||[],portal=(cat.meta&&cat.meta.networkPortalUrl)||"";\n'
+    '      if(hubs.length&&$("otg-net")){$("otg-net").style.display="block";$("otg-net").innerHTML=\'<div class="net-hd"><span>DEEP DIVE AUDIO NETWORK · COMPANION CARRD HUBS</span>\'+(portal?\'<a href="\'+E(portal)+\'" target="_blank" rel="noopener">All 16 Hubs &amp; RSS Feeds ↗</a>\':"")+\'</div><div class="net-pills">\'+hubs.map(function(h){return\'<a class="np\'+(h.tier==="primary"?" pri":"")+\'" href="\'+E(h.url)+\'" target="_blank" rel="noopener">\'+E(h.label)+\' ↗</a>\';}).join("")+\'</div>\';}\n'
     '      var rb=$("otg-rand");if(rb&&live.length){rb.onclick=function(){var pk=live[Math.floor(Math.random()*live.length)];window.open(R+"story.html?case="+encodeURIComponent(pk.slug),"_blank","noopener");};}\n'
     '      var bar=$("otg-b"),grid=$("otg-g"),qEl=$("otg-q"),cntEl=$("otg-cnt"),mwEl=$("otg-mw"),flt="all",showAll=false;\n'
     '      var btns=[["all","All ("+cat.cases.length+")",""]].concat(cat.parts.map(function(p){var n=cat.cases.filter(function(c){return c.part===p.id;}).length;return[p.id,(SH[p.id]||p.stamp)+" ("+n+")",""];}));\n'
@@ -641,10 +652,29 @@ book_md_lines.extend([
     ""
 ])
 
+# Load all bespoke vector SVG infographics live from assets/diagrams.js so the Print Book PDF embeds them at infinite DPI!
+bespoke_diagrams = {}
+diagrams_js_path = ROOT / 'assets' / 'diagrams.js'
+if diagrams_js_path.exists() and shutil.which('node'):
+    try:
+        diag_json = subprocess.check_output(
+            ['node', '-e', f'global.window={{}}; require({json.dumps(str(diagrams_js_path))}); console.log(JSON.stringify(window.OT_DIAGRAMS || {{}}));'],
+            text=True,
+        )
+        bespoke_diagrams = json.loads(diag_json)
+    except Exception as _diag_err:
+        print(f'  [warn] Could not load bespoke diagrams from assets/diagrams.js: {_diag_err}')
+
 ex_meta = exhibits.get('meta') or {}
 ex_ch_count = ex_meta.get('ccByClinicalExhibitStories', 0)
 ex_img_count = ex_meta.get('ccByClinicalExhibitImages', 0)
-ex_subline = f' · Illustrated Edition ({ex_ch_count} Chapters / {ex_img_count} Verified CC-BY Clinical Exhibits)' if ex_img_count else ''
+diag_count = len(bespoke_diagrams)
+ex_bits = []
+if ex_img_count:
+    ex_bits.append(f'{ex_ch_count} Chapters / {ex_img_count} Verified CC-BY Clinical Exhibits')
+if diag_count:
+    ex_bits.append(f'{diag_count} Original Forensic Vector Infographics')
+ex_subline = f' · Illustrated Edition ({" + ".join(ex_bits)})' if ex_bits else ''
 
 toc_html_items = ['<section class="toc-page"><div class="kicker">TABLE OF CONTENTS · ARRANGED BY DANGER ZONE</div><h2 style="margin-top:6px;">Contents</h2>']
 for part, entries in book_structure:
@@ -676,8 +706,12 @@ book_html_parts = [
   .part-roman {{ font-family: monospace; text-transform: uppercase; letter-spacing: 0.12em; color: #B41C1C; font-weight: bold; }}
   .chapter {{ margin: 36px 0 48px; padding-bottom: 24px; border-bottom: 1px solid #CCC; page-break-inside: avoid; }}
   .kicker {{ font-family: monospace; font-size: 11px; letter-spacing: 0.1em; color: #B41C1C; text-transform: uppercase; font-weight: bold; }}
-  .card {{ border: 2px dashed #141311; padding: 16px 20px; background: #FAF7F2; margin: 20px 0; }}
+  .card {{ border: 2px dashed #141311; padding: 16px 20px; background: #FAF7F2; margin: 20px 0; page-break-inside: avoid; }}
   .stub {{ background: #F7F4EE; border-left: 4px solid #70685D; padding: 12px 16px; margin: 14px 0; font-size: 0.95rem; }}
+  .diagram-box {{ margin: 18px 0; padding: 14px 16px; border: 1px solid #D1CCC2; border-top: 3px solid #181B20; background: #FAF9F6; page-break-inside: avoid; }}
+  .diagram-box h5 {{ font-size: 1.05rem; margin: 4px 0 10px; color: #141311; }}
+  .diagram-box svg {{ width: 100%; height: auto; display: block; margin: 0 auto 8px; }}
+  .diagram-box figcaption {{ font-size: 0.83rem; color: #433E37; line-height: 1.45; }}
   .exhibit {{ margin: 18px 0; padding: 12px; border: 1px solid #D1CCC2; border-top: 3px solid #B41C1C; background: #FAF9F6; page-break-inside: avoid; }}
   .exhibit img {{ max-width: 100%; max-height: 360px; display: block; margin: 0 auto 8px; }}
   .exhibit figcaption {{ font-size: 0.85rem; color: #433E37; line-height: 1.45; }}
@@ -691,6 +725,7 @@ book_html_parts = [
 """ + '\n'.join(toc_html_items)
 ]
 
+embedded_svg_count = 0
 for part, entries in book_structure:
     book_md_lines.append(f"# {part['roman']}: {part['title']}")
     book_md_lines.append(f"*{part['tagline']}*\n")
@@ -698,9 +733,32 @@ for part, entries in book_structure:
     for ch_num, c in entries:
         if ch_num is not None:
             st = stories[c['slug']]
+            ex_entry = (exhibits.get('stories') or {}).get(c['slug']) or {}
+            diag_id = ex_entry.get('diagramId') or c['slug']
+            diag_obj = bespoke_diagrams.get(diag_id)
+            diag_html = ''
+            if diag_obj and diag_obj.get('svg'):
+                embedded_svg_count += 1
+                diag_html = (
+                    f'<figure class="diagram-box">'
+                    f'<div class="kicker">{html_mod.escape(diag_obj.get("badge", "FORENSIC INFOGRAPHIC"))}</div>'
+                    f'<h5>{html_mod.escape(diag_obj.get("title", ""))}</h5>'
+                    f'{diag_obj["svg"]}'
+                    f'<figcaption>{html_mod.escape(diag_obj.get("caption", ""))}</figcaption></figure>'
+                )
+            fig_blocks = []
+            for fig in ex_entry.get('clinicalFigures') or []:
+                fig_blocks.append(
+                    f'<figure class="exhibit"><div class="kicker">{html_mod.escape(fig.get("exhibitCode","EXHIBIT"))} · {html_mod.escape(fig.get("license","CC BY"))}</div>'
+                    f'<img src="../{html_mod.escape(fig["src"])}" alt="{html_mod.escape(fig["caption"])}" />'
+                    f'<figcaption>{html_mod.escape(fig["caption"])}<br /><span style="font-family:monospace;font-size:10px;color:#70685D">{html_mod.escape(fig["citation"])} ({html_mod.escape(fig["license"])})</span></figcaption></figure>'
+                )
+            figs_html = '\n'.join(fig_blocks)
+
             book_md_lines.append(f"## Chapter {ch_num} (File № {st['fileNo']}) — {st['title']}\n\n" + '\n'.join(story_to_markdown(st, c).splitlines()[1:]))
             ch = [f'<article class="chapter" id="ch-{ch_num:03d}"><div class="kicker">CHAPTER {ch_num} · FILE № {html_mod.escape(st["fileNo"])} · {html_mod.escape(c["ep"])}</div><h3>{html_mod.escape(st["title"])}</h3><p><em>{html_mod.escape(st["deck"])}</em></p>']
-            for sec in st['sections']:
+            placed_figs = False
+            for s_idx, sec in enumerate(st['sections']):
                 if sec.get('kicker'):
                     ch.append(f'<div class="kicker" style="margin-top:18px">{html_mod.escape(sec["kicker"])}</div>')
                 ch.append(f'<h4 style="margin-top:18px">{html_mod.escape(sec["heading"])}</h4>')
@@ -708,13 +766,13 @@ for part, entries in book_structure:
                     ch.append(f'<p>{html_mod.escape(p)}</p>')
                 if sec.get('bullets'):
                     ch.append('<ul>' + ''.join(f'<li>{html_mod.escape(b)}</li>' for b in sec['bullets']) + '</ul>')
-            ex_entry = (exhibits.get('stories') or {}).get(c['slug']) or {}
-            for fig in ex_entry.get('clinicalFigures') or []:
-                ch.append(
-                    f'<figure class="exhibit"><div class="kicker">{html_mod.escape(fig.get("exhibitCode","EXHIBIT"))} · {html_mod.escape(fig.get("license","CC BY"))}</div>'
-                    f'<img src="../{html_mod.escape(fig["src"])}" alt="{html_mod.escape(fig["caption"])}" />'
-                    f'<figcaption>{html_mod.escape(fig["caption"])}<br /><span style="font-family:monospace;font-size:10px;color:#70685D">{html_mod.escape(fig["citation"])} ({html_mod.escape(fig["license"])})</span></figcaption></figure>'
-                )
+                if s_idx == 0 and diag_html:
+                    ch.append(diag_html)
+                if s_idx == 1 and figs_html:
+                    ch.append(figs_html)
+                    placed_figs = True
+            if figs_html and not placed_figs:
+                ch.append(figs_html)
             ch.append(f'<div class="card"><div class="kicker">✂ {html_mod.escape(st["survivalCard"]["headline"])}</div><ol>' +
                       ''.join(f'<li><strong>{html_mod.escape(s["action"])}:</strong> {html_mod.escape(s["detail"])}</li>' for s in st['survivalCard']['steps']) +
                       '</ol></div></article>')
@@ -727,7 +785,7 @@ book_html_parts.append('</body></html>')
 (BOOK_DIR / 'Ordinary_Tuesday_Manuscript.md').write_text('\n'.join(book_md_lines), encoding='utf-8')
 print_html_path = BOOK_DIR / 'Ordinary_Tuesday_Print.html'
 print_html_path.write_text('\n'.join(book_html_parts), encoding='utf-8')
-print(f'[5/5] Wrote book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html ({ch_seq} sequential chapters + Table of Contents)')
+print(f'[5/5] Wrote book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html ({ch_seq} sequential chapters, Table of Contents, {embedded_svg_count} vector SVG infographics)')
 
 if BUILD_ARGS.pdf:
     chrome = shutil.which('google-chrome') or shutil.which('chromium') or shutil.which('chromium-browser')

@@ -158,11 +158,13 @@ def sync_google_drive(cat, ex, pdf_path, zip_path, commit_sha):
         REPO_ROOT / "index.html",
         REPO_ROOT / "story.html",
         REPO_ROOT / "poster.html",
+        REPO_ROOT / "cards.html",
         REPO_ROOT / "scripts/build_all.py",
         REPO_ROOT / "scripts/fetch_new_episodes.py",
         REPO_ROOT / "scripts/harvest_exhibits.py",
         REPO_ROOT / "scripts/merge_wave.py",
         REPO_ROOT / "scripts/publish_release.py",
+        REPO_ROOT / "scripts/sync_master_doc.py",
     ]
     for fp in sync_files:
         if not fp.exists():
@@ -190,6 +192,7 @@ def main():
     ap.add_argument("--message", "-m", default="Update site, illustrated book, and clinical exhibits", help="Git commit message")
     ap.add_argument("--skip-push", action="store_true", help="Skip git commit & push")
     ap.add_argument("--skip-drive", action="store_true", help="Skip Google Drive Vault sync")
+    ap.add_argument("--sync-doc", action="store_true", help="Also sync book/MASTER_LINEUP.md into the native Google Doc")
     args = ap.parse_args()
 
     print("[0/5] Running scripts/build_all.py --pdf ...")
@@ -218,6 +221,10 @@ def main():
 
     if not args.skip_drive:
         sync_google_drive(cat, ex, pdf_path, zip_path, commit_sha)
+
+    if args.sync_doc:
+        print("\n[6/6] Syncing native Google Doc Master Lineup...")
+        run([sys.executable, str(REPO_ROOT / "scripts/sync_master_doc.py")])
 
     zip_path.unlink(missing_ok=True)
     print(f"\nALL DONE! Live release @ commit {commit_sha} ({len(cat['cases'])} chapters).")

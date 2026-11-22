@@ -536,6 +536,7 @@
         '<span class="ot-stat-chip" id="survived-counter-chip">✓ ' + survivedSet.size + ' / ' + liveCases.length + ' Survived</span>' +
         '<button type="button" class="ot-btn primary small" id="open-exam-btn" style="border-radius:999px;">🧪 Take Survival Exam</button>' +
         '<button type="button" class="ot-btn small" id="random-case-btn" style="border-radius:999px;">🎲 Random Case</button>' +
+        '<a class="ot-btn small" href="cards.html" style="border-radius:999px;">🪪 Fridge 6-Pack</a>' +
         '<a class="ot-btn small" href="poster.html" style="border-radius:999px;">🖨 Lying Lab Poster</a>';
 
       const randBtn = document.getElementById('random-case-btn');
@@ -1263,6 +1264,28 @@
   }
 
   /* ========================================================================
+     CROSS-SITE DEEP DIVE AUDIO NETWORK STRIP (index.html + story.html)
+     ======================================================================== */
+  function renderNetworkStrip(catalog) {
+    const el = document.getElementById('network-strip');
+    const hubs = (catalog && catalog.meta && catalog.meta.networkHubs) || [];
+    const portal = (catalog && catalog.meta && catalog.meta.networkPortalUrl) || '';
+    if (!el || !hubs.length) return;
+    el.innerHTML =
+      '<div class="ot-network-strip">' +
+        '<div class="ot-network-head">' +
+          '<span class="ot-network-kicker">EXPLORE THE DEEP DIVE AUDIO NETWORK · 16 COMPANION CARRD HUBS</span>' +
+          (portal ? '<a class="ot-network-portal" href="' + esc(portal) + '" target="_blank" rel="noopener">All Hubs &amp; RSS Feeds ↗</a>' : '') +
+        '</div>' +
+        '<div class="ot-network-pills">' +
+          hubs.map(function (h) {
+            return '<a class="ot-network-pill' + (h.tier === 'primary' ? ' primary' : '') + '" href="' + esc(h.url) + '" target="_blank" rel="noopener">' + esc(h.label) + ' ↗</a>';
+          }).join('') +
+        '</div>' +
+      '</div>';
+  }
+
+  /* ========================================================================
      BOOTSTRAP
      ======================================================================== */
   loadData().then(function (data) {
@@ -1272,6 +1295,7 @@
     } else {
       renderIndex(data, player);
     }
+    renderNetworkStrip(data.catalog);
   }).catch(function (err) {
     console.error('Failed to load Ordinary Tuesday bundle:', err);
   });

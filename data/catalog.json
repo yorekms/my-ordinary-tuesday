@@ -10,7 +10,26 @@
     "audioStreamProxyBase": "https://culturesource-primary-archive-of-cultural-politic.ai.studio/api/audio-stream/",
     "showBibleUrl": "https://docs.google.com/document/d/1paOx0iSE3D_sUN3y3qcSTKIxdTBbWFi35ODoj09BMcc/edit",
     "masterSheetUrl": "https://docs.google.com/spreadsheets/d/1BeAwVdAlCSZ7dxurF03hOJmdDzfxFPWcPcO1tnA4FR0/edit",
-    "notebookFolderUrl": "https://drive.google.com/drive/folders/1ftNpMmbgLw2Rw7Be6--C7yML3SsjNv9U"
+    "notebookFolderUrl": "https://drive.google.com/drive/folders/1ftNpMmbgLw2Rw7Be6--C7yML3SsjNv9U",
+    "networkPortalUrl": "https://yorekms.github.io/deep-dive-podcasts/",
+    "networkHubs": [
+      { "label": "Forensic Medicine", "url": "https://my-forensic-medicine.carrd.co", "tier": "primary" },
+      { "label": "Medical Testing", "url": "https://my-medical-testing.carrd.co", "tier": "primary" },
+      { "label": "Pharmacology", "url": "https://my-pharmacology.carrd.co", "tier": "primary" },
+      { "label": "Cell Death & Physiology", "url": "https://my-cell-death.carrd.co", "tier": "primary" },
+      { "label": "Biophysics & Ion Channels", "url": "https://my-biophysics.carrd.co", "tier": "primary" },
+      { "label": "Oncology", "url": "https://my-oncology.carrd.co", "tier": "primary" },
+      { "label": "Consciousness & Mind", "url": "https://my-consciousness.carrd.co", "tier": "companion" },
+      { "label": "Nutrition & Metabolism", "url": "https://my-nutrition-metabolism.carrd.co", "tier": "companion" },
+      { "label": "Ancient Medicine", "url": "https://my-ancient-medicine.carrd.co", "tier": "companion" },
+      { "label": "Notable Characters", "url": "https://my-notable-characters.carrd.co", "tier": "companion" },
+      { "label": "Human Origins", "url": "https://my-human-origins.carrd.co", "tier": "companion" },
+      { "label": "Philosophy of Science", "url": "https://my-philosophy-science.carrd.co", "tier": "companion" },
+      { "label": "Religion & Cooperation", "url": "https://my-religion-cooperation.carrd.co", "tier": "companion" },
+      { "label": "Study Apps", "url": "https://my-study-apps.carrd.co", "tier": "companion" },
+      { "label": "Scientific Software", "url": "https://my-scientific-software.carrd.co", "tier": "companion" },
+      { "label": "ClampFlow", "url": "https://my-clampflow.carrd.co", "tier": "companion" }
+    ]
   },
   "parts": [
     {

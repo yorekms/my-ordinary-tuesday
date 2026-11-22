@@ -38,11 +38,11 @@ This automatically:
 - Refreshes the **`🆕 Latest Studio Drops`** Starter Pack (`?pack=latest`) and expands the randomized Survival Exam pool
 - Clears newly ingested episodes from the Studio Watchlist
 
-## Step 4 — Build Book (Auto TOC + Sequential Chapters + Illustrated PDF), Deploy & Backup (`scripts/publish_release.py`)
-Runs `scripts/build_all.py --pdf`, verifies JS syntax & exhibit integrity, commits and pushes to GitHub Pages (auto-updating `https://my-ordinary-tuesday.carrd.co/`), and updates your Google Drive Backup Vault **in-place** (preserving every Drive file ID and link):
+## Step 4 — Build Book (Auto TOC + Sequential Chapters + Embedded SVG Diagrams + Illustrated PDF), Deploy, Backup & Sync Google Doc (`scripts/publish_release.py`)
+Runs `scripts/build_all.py --pdf` (embedding all verified `CC BY` clinical exhibits **and** all bespoke vector SVG infographics directly into the printable book), verifies JS syntax & exhibit integrity, commits and pushes to GitHub Pages (auto-updating `https://my-ordinary-tuesday.carrd.co/`), refreshes every Google Drive Vault file in-place (`--max 0`, zero duplicates), and optionally syncs your native Google Doc Master Lineup (`--sync-doc`):
 
 ```bash
-python3 scripts/publish_release.py --message "Wave 6: Add next chapters + clinical exhibits"
+python3 scripts/publish_release.py --sync-doc --message "Wave 6: Add next chapters + clinical exhibits"
 ```
 
 ### How Book Positioning Works
