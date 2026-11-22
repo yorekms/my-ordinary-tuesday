@@ -535,14 +535,17 @@
     }
 
     const statsEl = document.getElementById('masthead-stats');
+    const bookPdfUrl = (catalog.meta && catalog.meta.bookPdfUrl) || 'https://github.com/yorekms/my-ordinary-tuesday/releases/download/latest-book/Ordinary_Tuesday_Book_Draft_Latest.pdf';
+    const imageStockZipUrl = (catalog.meta && catalog.meta.imageStockZipUrl) || 'https://github.com/yorekms/my-ordinary-tuesday/releases/download/latest-book/Ordinary_Tuesday_Images_Stock_All_Exhibits.zip';
     if (statsEl) {
       const exStories = (exhibits.meta && exhibits.meta.ccByClinicalExhibitStories) || 0;
       statsEl.innerHTML =
         '<span class="ot-stat-chip crimson">' + liveCases.length + ' Stories Live</span>' +
-        (exStories ? '<span class="ot-stat-chip">🩻 ' + exStories + ' Clinical Exhibits</span>' : '') +
+        (exStories ? '<span class="ot-stat-chip">🩻 ' + exStories + ' Verified Exhibits</span>' : '') +
         '<span class="ot-stat-chip">📐 ' + liveCases.length + ' Illustrated</span>' +
         '<span class="ot-stat-chip" id="survived-counter-chip">✓ ' + survivedSet.size + ' / ' + liveCases.length + ' Survived</span>' +
         '<button type="button" class="ot-btn primary small" id="open-exam-btn" style="border-radius:999px;">🧪 Take Survival Exam</button>' +
+        '<a class="ot-btn steel small" href="' + esc(bookPdfUrl) + '" target="_blank" rel="noopener" style="border-radius:999px;">📖 Book PDF (' + liveCases.length + ' Ch) ↗</a>' +
         '<button type="button" class="ot-btn small" id="random-case-btn" style="border-radius:999px;">🎲 Random Case</button>' +
         '<a class="ot-btn small" href="cards.html" style="border-radius:999px;">🪪 Fridge 6-Pack</a>' +
         '<a class="ot-btn small" href="poster.html" style="border-radius:999px;">🖨 Lying Lab Poster</a>';
@@ -556,6 +559,44 @@
       }
       const examBtn = document.getElementById('open-exam-btn');
       if (examBtn) examBtn.addEventListener('click', function () { exam.open(); });
+    }
+
+    // Complete Illustrated Book & Commercial Image Stock Availability Shelf
+    const bookShelfEl = document.getElementById('book-editions');
+    if (bookShelfEl) {
+      const em = exhibits.meta || {};
+      const priN = em.primaryClinicalExhibitStories || 0;
+      const refN = em.referenceClinicalExhibitStories || 0;
+      const hazN = em.hazardFieldPhotoStories || 0;
+      const totImgs = em.ccByClinicalExhibitImages || 0;
+      const diagN = em.bespokeInfographics || 0;
+      const totExStories = em.ccByClinicalExhibitStories || 0;
+      const stockDetail = (refN || hazN)
+        ? (priN + ' Primary Case · ' + refN + ' Peer-Reviewed Reference · ' + hazN + ' Verified Hazard Photos')
+        : (totExStories + ' Primary Peer-Reviewed CC BY Case Exhibits');
+      bookShelfEl.innerHTML =
+        '<div class="ot-book-shelf">' +
+          '<div class="ot-book-shelf-head">' +
+            '<div>' +
+              '<div class="ot-book-shelf-kicker">COMPLETE ILLUSTRATED BOOK &amp; COMMERCIAL-SAFE IMAGE STOCK</div>' +
+              '<h2>Read, Print, or Download the Full ' + liveCases.length + '-Chapter Book</h2>' +
+              '<p class="ot-book-shelf-sub">Every chapter is sequentially typeset across Parts I–VI with a clickable Table of Contents, embedded vector forensic diagrams, tear-out First 60 Seconds cards, and verified commercial-book-safe photography (CC BY 3.0/4.0, CC0, &amp; Public Domain only—zero NC/ND/SA encumbrances).</p>' +
+            '</div>' +
+          '</div>' +
+          '<div class="ot-book-metrics">' +
+            '<div class="ot-book-metric"><strong>' + liveCases.length + ' Chapters</strong><span>Parts I–VI · Auto-Synced TOC</span></div>' +
+            '<div class="ot-book-metric"><strong>' + totImgs + ' Verified Images</strong><span>' + esc(stockDetail) + '</span></div>' +
+            '<div class="ot-book-metric"><strong>' + diagN + ' Vector SVGs</strong><span>Infinite-DPI Forensic Diagrams</span></div>' +
+            '<div class="ot-book-metric"><strong>100% Cleared</strong><span>CC BY / CC0 / Public Domain Ledger</span></div>' +
+          '</div>' +
+          '<div class="ot-btn-row">' +
+            '<a class="ot-btn primary" href="' + esc(bookPdfUrl) + '" target="_blank" rel="noopener">⬇ Download Illustrated Book PDF (' + liveCases.length + ' Ch) ↗</a>' +
+            '<a class="ot-btn steel" href="book/Ordinary_Tuesday_Print.html" target="_blank" rel="noopener">📖 Open Browser Print Edition ↗</a>' +
+            '<a class="ot-btn" href="' + esc(imageStockZipUrl) + '" target="_blank" rel="noopener">📦 Download Full Image Stock (.zip) ↗</a>' +
+            '<a class="ot-btn" href="assets/exhibits/IMAGE_STOCK_MANIFEST.csv" target="_blank" rel="noopener">📋 License Ledger (.csv) ↗</a>' +
+            '<a class="ot-btn" href="book/Ordinary_Tuesday_Manuscript.md" target="_blank" rel="noopener">📝 Markdown Manuscript ↗</a>' +
+          '</div>' +
+        '</div>';
     }
 
     // Featured Front-Page Spread
@@ -742,9 +783,14 @@
                 const isSurv = survivedSet.has(c.slug);
                 const ex = (exhibits.stories || {})[c.slug];
                 const hasFig = ex && ex.clinicalFigures && ex.clinicalFigures.length;
+                const figTier = hasFig ? (ex.clinicalFigures[0].tier || 'primary') : '';
                 const hasDiag = ex && ex.diagramId;
+                const figLabel = figTier === 'reference'
+                  ? '🔬 Reference Exhibit'
+                  : (figTier === 'hazard' ? '📸 Hazard Photo' : '🩻 Clinical Exhibit');
+                const pillCls = figTier === 'reference' ? ' ref' : (figTier === 'hazard' ? ' haz' : '');
                 const visTag = (hasFig || hasDiag)
-                  ? '<span class="ot-exhibit-pill">' + (hasFig && hasDiag ? '🔬 Photo + Diagram' : (hasFig ? '🩻 Clinical Exhibit' : '📐 Forensic Diagram')) + '</span>'
+                  ? '<span class="ot-exhibit-pill' + pillCls + '">' + (hasFig && hasDiag ? (figTier === 'primary' ? '🔬 Photo + Diagram' : figLabel + ' + Diagram') : (hasFig ? figLabel : '📐 Forensic Diagram')) + '</span>'
                   : '';
                 return (
                   '<article class="ot-card' + (isLive ? ' is-live' : '') + '">' +
@@ -907,15 +953,29 @@
       '</figure>'
     ) : '';
 
-    // Track 1: Verified CC-BY Clinical Exhibits HTML (with opt-in blur shield!)
+    // Track 1: Verified Commercial-Safe Exhibits HTML (Tier 1 Primary / Tier 2 Peer-Reviewed Reference / Tier 3 Hazard Field Photo)
     const exhibitsHtml = (ex.clinicalFigures && ex.clinicalFigures.length) ? (
       '<div class="ot-exhibits-stack">' +
         ex.clinicalFigures.map(function (fig, fi) {
           const blur = !!fig.blurredByDefault;
+          const tier = fig.tier || 'primary';
+          const headSuffix = tier === 'reference'
+            ? 'PEER-REVIEWED REFERENCE CASE'
+            : (tier === 'hazard' ? 'VERIFIED HAZARD PHOTO' : 'PRIMARY PEER-REVIEWED EVIDENCE');
+          const disclosureHtml = tier === 'reference'
+            ? '<div class="ot-exhibit-disclosure"><strong>ILLUSTRATIVE REFERENCE EXHIBIT:</strong> Verified CC BY diagnostic imaging from a separate peer-reviewed publication showing the same clinical mechanism (not the index patient).</div>'
+            : (tier === 'hazard'
+              ? '<div class="ot-exhibit-disclosure"><strong>VERIFIED HAZARD REFERENCE PHOTO:</strong> Commercial-cleared Public Domain / CC BY photograph of the organism or physical hazard discussed (illustrative; not the index scene).</div>'
+              : '');
+          const srcLabel = tier === 'hazard'
+            ? 'Verify Photo &amp; License Source ↗'
+            : (tier === 'reference'
+              ? 'Open Reference Article on PMC ↗'
+              : ((fig.sourceUrl || '').indexOf('pmc.ncbi') !== -1 ? 'Open Primary Article on PMC ↗' : 'Open Primary Source ↗'));
           return (
-            '<figure class="ot-exhibit-card" data-exhibit-idx="' + fi + '">' +
+            '<figure class="ot-exhibit-card tier-' + esc(tier) + '" data-exhibit-idx="' + fi + '">' +
               '<div class="ot-exhibit-head">' +
-                '<span>' + esc(fig.exhibitCode || ('EXHIBIT ' + (fi + 1))) + ' · PRIMARY PEER-REVIEWED EVIDENCE</span>' +
+                '<span>' + esc(fig.exhibitCode || ('EXHIBIT ' + (fi + 1))) + ' · ' + headSuffix + '</span>' +
                 '<span class="ot-exhibit-head-right">' +
                   '<button type="button" class="ot-zoom-btn ot-no-print" data-zoom-btn="' + fi + '" title="Inspect full-resolution exhibit">🔍 Zoom</button>' +
                   '<a class="ot-lic-pill" href="' + esc(fig.licenseUrl || '#') + '" target="_blank" rel="noopener">✓ ' + esc(fig.license || 'CC BY') + '</a>' +
@@ -926,16 +986,17 @@
                 (blur ? (
                   '<div class="ot-unseal-overlay">' +
                     '<button type="button" class="ot-unseal-stamp" data-unseal-btn>[ UNSEAL CLINICAL EXHIBIT ]</button>' +
-                    '<div class="ot-unseal-note">' + esc(fig.spoilerNote || 'Contains real medical photography from the primary journal report.') + '</div>' +
+                    '<div class="ot-unseal-note">' + esc(fig.spoilerNote || 'Contains real medical photography from a peer-reviewed journal report.') + '</div>' +
                   '</div>' +
                   '<button type="button" class="ot-reseal-btn" data-reseal-btn style="display:none;">Re-Seal</button>'
                 ) : '') +
               '</div>' +
               '<figcaption class="ot-exhibit-foot">' +
+                disclosureHtml +
                 '<p class="ot-exhibit-caption">' + esc(fig.caption) + '</p>' +
                 '<div class="ot-exhibit-cite">' +
                   '<span>' + esc(fig.citation) + '</span>' +
-                  '<a href="' + esc(fig.sourceUrl) + '" target="_blank" rel="noopener">Open Primary Article on PMC ↗</a>' +
+                  '<a href="' + esc(fig.sourceUrl) + '" target="_blank" rel="noopener">' + srcLabel + '</a>' +
                 '</div>' +
               '</figcaption>' +
             '</figure>'
@@ -1156,7 +1217,12 @@
       lbImg.alt = fig.caption || '';
       document.getElementById('ot-lb-cap').textContent = fig.caption || '';
       document.getElementById('ot-lb-cite').textContent = fig.citation || '';
-      document.getElementById('ot-lb-src').href = fig.sourceUrl || '#';
+      const lbSrc = document.getElementById('ot-lb-src');
+      lbSrc.href = fig.sourceUrl || '#';
+      const lbTier = fig.tier || 'primary';
+      lbSrc.textContent = lbTier === 'hazard'
+        ? 'Verify Photo & License Source ↗'
+        : (lbTier === 'reference' ? 'Open Reference Article on PMC ↗' : 'Open Primary Source ↗');
       lb.classList.add('open');
     }
 

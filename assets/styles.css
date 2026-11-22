@@ -1742,3 +1742,111 @@ a:hover { color: var(--crimson-dark); }
   color: #FFF;
   transform: translateY(-1px);
 }
+
+/* 3-Tier Exhibit Differentiation (Primary vs Reference Case vs Verified Hazard Photo) */
+.ot-exhibit-card.tier-reference {
+  border-top-color: #0F766E;
+}
+.ot-exhibit-card.tier-reference .ot-exhibit-head {
+  background: #134E4A;
+}
+.ot-exhibit-card.tier-hazard {
+  border-top-color: #B45309;
+}
+.ot-exhibit-card.tier-hazard .ot-exhibit-head {
+  background: #451A03;
+}
+.ot-exhibit-disclosure {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  line-height: 1.45;
+  padding: 7px 10px;
+  margin-bottom: 9px;
+  border-radius: 6px;
+  background: #F0FDFA;
+  border: 1px solid #99F6E4;
+  color: #115E59;
+}
+.ot-exhibit-card.tier-hazard .ot-exhibit-disclosure {
+  background: #FFFBEB;
+  border-color: #FDE68A;
+  color: #92400E;
+}
+.ot-exhibit-pill.ref {
+  background: #F0FDFA;
+  color: #115E59;
+  border-color: #99F6E4;
+}
+.ot-exhibit-pill.haz {
+  background: #FFFBEB;
+  color: #92400E;
+  border-color: #FDE68A;
+}
+
+/* Complete Illustrated Book & Image Stock Availability Shelf */
+.ot-book-shelf {
+  margin: 34px 0 28px;
+  padding: 24px 26px;
+  background: linear-gradient(135deg, #FAF7F2 0%, #F3EFE7 100%);
+  border: 1px solid var(--rule-strong);
+  border-top: 4px solid var(--crimson);
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba(24, 24, 27, 0.06);
+}
+.ot-book-shelf-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.ot-book-shelf-kicker {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--crimson);
+  margin-bottom: 4px;
+}
+.ot-book-shelf h2 {
+  font-family: var(--font-serif);
+  font-size: 1.65rem;
+  line-height: 1.2;
+  margin: 0 0 6px;
+  color: var(--ink);
+}
+.ot-book-shelf-sub {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  max-width: 680px;
+}
+.ot-book-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+.ot-book-metric {
+  background: #FFF;
+  border: 1px solid var(--rule);
+  border-radius: 9px;
+  padding: 10px 12px;
+}
+.ot-book-metric strong {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: var(--ink);
+  line-height: 1.15;
+}
+.ot-book-metric span {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+}

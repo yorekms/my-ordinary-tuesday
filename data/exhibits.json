@@ -1,14 +1,17 @@
 {
   "meta": {
     "updated": "2026-11-22",
-    "totalStoriesEnriched": 202,
-    "ccByClinicalExhibitStories": 90,
-    "ccByClinicalExhibitImages": 94,
+    "totalStoriesEnriched": 208,
+    "ccByClinicalExhibitStories": 170,
+    "ccByClinicalExhibitImages": 174,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 172,
-    "perStoryQuizzes": 202,
-    "examPoolSize": 50,
-    "externalFigureLinkoutStories": 38
+    "dynamicBlueprintStories": 178,
+    "perStoryQuizzes": 208,
+    "examPoolSize": 54,
+    "externalFigureLinkoutStories": 39,
+    "primaryClinicalExhibitStories": 95,
+    "referenceClinicalExhibitStories": 48,
+    "hazardFieldPhotoStories": 27
   },
   "stories": {
     "fractal-wood-burning": {
@@ -32,7 +35,21 @@
             "feedback": "Survived Tuesday! Never touch the victim or bench until power is confirmed dead at the source."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC12491081_12024_2025_948_fig2_html.jpg",
+          "caption": "A Wooden planks at the scene in case 1 showing typical Lichtenberg burns. B A burnt out transformer near the body in case 1",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Byard et al. (2025), Forensic Science, Medicine, and Pathology · PMC12491081",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12491081/"
+        }
+      ]
     },
     "driveway-ied-truck-tire": {
       "diagramId": "driveway-ied-truck-tire",
@@ -89,7 +106,8 @@
           "citation": "Figure 2 from Inoue et al. (2021), Cureus · PMC8081557",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8081557/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8081557/",
+          "tier": "primary"
         }
       ]
     },
@@ -104,7 +122,8 @@
           "citation": "Figure 1 from Fortuna et al. (2022), Journal of Education & Teaching in Emergency Medicine · PMC10332702",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10332702/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10332702/",
+          "tier": "primary"
         },
         {
           "exhibitCode": "EXHIBIT B · FOREARM X-RAY",
@@ -115,7 +134,8 @@
           "citation": "Figure 2 from Fortuna et al. (2022), Journal of Education & Teaching in Emergency Medicine · PMC10332702",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10332702/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10332702/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -150,7 +170,8 @@
           "citation": "Figure 2 from Tombul et al. (2026), Cureus · PMC13163607",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13163607/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13163607/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -195,7 +216,21 @@
             "feedback": "Almost no documented wire-bristle ingestion victims ever felt or tasted the wire going down."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13219350_fsurg-13-1817632-g002.jpg",
+          "caption": "CT scan showing a linear hyperdense foreign body (red arrow) in the right lower quadrant.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Zhang et al. (2026), Frontiers in Surgery · PMC13219350 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13219350/"
+        }
+      ]
     },
     "chocolate-brown-blood": {
       "diagramId": "chocolate-brown-blood",
@@ -209,7 +244,8 @@
           "citation": "Figure 2 from Nappe et al. (2015), Case Reports in Emergency Medicine · PMC4383305",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4383305/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4383305/",
+          "tier": "primary"
         },
         {
           "exhibitCode": "EXHIBIT B · THE CULPRIT TUBE",
@@ -220,7 +256,8 @@
           "citation": "Figure 1 from Nappe et al. (2015), Case Reports in Emergency Medicine · PMC4383305",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4383305/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4383305/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -255,7 +292,8 @@
           "citation": "Figure 1 from Pabon et al. (2026), Cureus · PMC13005768",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005768/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005768/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -290,7 +328,8 @@
           "citation": "Figure 1 from Sheele et al. (2016), Case Reports in Emergency Medicine · PMC5030406",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5030406/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5030406/",
+          "tier": "primary"
         }
       ],
       "externalFigureLinks": [
@@ -333,7 +372,8 @@
           "citation": "Photo: Kimberly Dubanoski, Manchester Health Department, Connecticut. Published in Garcia & Haile (2017), CDC MMWR.",
           "license": "Public domain per CDC MMWR",
           "licenseUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/pdfs/mm6634.pdf#page=24",
-          "sourceUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6634a6.htm#F1_down"
+          "sourceUrl": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6634a6.htm#F1_down",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -368,7 +408,8 @@
           "citation": "Figure 4 from Shahid et al. (2026), Cureus · PMC13471977",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13471977/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13471977/",
+          "tier": "primary"
         },
         {
           "exhibitCode": "EXHIBIT B · ABDOMINAL ULTRASOUND",
@@ -379,7 +420,8 @@
           "citation": "Figure 2 from Shahid et al. (2026), Cureus · PMC13471977",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13471977/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13471977/",
+          "tier": "primary"
         }
       ],
       "externalFigureLinks": [
@@ -422,7 +464,8 @@
           "citation": "Figure 1 from Lee et al. (2021), Cureus · PMC7949672",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949672/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7949672/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -457,7 +500,8 @@
           "citation": "Figure 1 from Maeso et al. (2020), Frontiers in Veterinary Science · PMC7456943",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/",
+          "tier": "primary"
         },
         {
           "exhibitCode": "EXHIBIT B · RECOVERY MRI (RESOLVED)",
@@ -468,7 +512,8 @@
           "citation": "Figure 2 from Maeso et al. (2020), Frontiers in Veterinary Science · PMC7456943",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7456943/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -513,7 +558,21 @@
             "feedback": "No explosion—just silent re-narcotization once short-acting naloxone fades."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Applying_transdermal_patch_d8c46f.jpg",
+          "caption": "A transdermal patch which delivers medication is applied to the skin. The patch is labelled with the time and date of administration as well as the adminstrator's initials.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "British Columbia Institute of Technology (BCIT). Download this book for free at… · Wikimedia Commons (Applying transdermal patch.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Applying_transdermal_patch.jpg"
+        }
+      ]
     },
     "small-stick-persistent-pain": {
       "externalFigureLinks": [
@@ -543,7 +602,21 @@
             "feedback": "Vomiting turns the esophagus into a return-trip pincushion, while waiting out a quiet belly gives a migrating toothpick time to build a liver abscess behind normal vitals and a clear X-ray."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13044128_fsurg-13-1799606-g001.jpg",
+          "caption": "Non-contrast abdominal CT showing a left hepatic lobe abscess-like lesion with an intralesional linear hyperdense focus (arrow). Axial non-contrast CT demonstrates an ill-defined, round hypodense lesion in the left hepatic lobe. A linear hyperdense structure is visible within the…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Yuan et al. (2026), Frontiers in Surgery · PMC13044128 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13044128/"
+        }
+      ]
     },
     "awn-beside-the-heart": {
       "externalFigureLinks": [
@@ -573,7 +646,21 @@
             "feedback": "Survived Tuesday! Neither a missing skin wound nor a negative prior fluid culture rules out migrating grass awns driving septic pericarditis and cardiac tamponade."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Hordeum_murinum_148777790_a83284.jpg",
+          "caption": "wall barley ( Hordeum murinum )",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Tomas Pocius · Wikimedia Commons (Hordeum murinum 148777790.jpg)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hordeum_murinum_148777790.jpg"
+        }
+      ]
     },
     "steroid-cream-adrenal-crisis": {
       "externalFigureLinks": [
@@ -594,7 +681,8 @@
           "citation": "Figure 1 from Shanavas Khan et al. (2025), Cureus · PMC12740012",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12740012/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12740012/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -652,7 +740,21 @@
             "feedback": "Survived Tuesday! On any -flozin pill, a boring blood sugar never rules out ketoacidosis—flag the drug immediately and ask for blood beta-hydroxybutyrate testing plus written sick-day hold rules."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ELECTROCARDIOGRAM",
+          "src": "assets/exhibits/REF_PMC13453335_cureus-0018-00000114227-i01.jpg",
+          "caption": "ECG on admission demonstrating sinus tachycardia without acute ischemic changes.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Meyer et al. (2026), Cureus · PMC13453335 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13453335/"
+        }
+      ]
     },
     "calcified-heart-toothpaste-micro-tumors": {
       "externalFigureLinks": [
@@ -673,7 +775,8 @@
           "citation": "Fig. 4 from Attico et al. (2025), International Journal of Legal Medicine · PMC12808286",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12808286/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12808286/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -731,7 +834,21 @@
             "feedback": "Pressing a maxed-out blocked bladder can rupture it straight into fatal uroabdomen, and forcing syringe water only piles even more back-pressure onto failing kidneys."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/REF_PMC9654282_animals-12-02934-g003.jpg",
+          "caption": "Ultrasound examination of the left kidney showing the dilatation of the renal pelvis and ureter (red arrow).",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Tabbì et al. (2022), Animals : an Open Access Journal from MDPI · PMC9654282 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9654282/"
+        }
+      ]
     },
     "current-left-no-mark-wet-voltage": {
       "externalFigureLinks": [
@@ -761,7 +878,21 @@
             "feedback": "Survived Tuesday! Killing the circuit keeps rescuers alive, and immediate hard-and-fast CPR plus an AED directly treats the ventricular fibrillation hiding under unblemished wet skin."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · RADIOGRAPH",
+          "src": "assets/exhibits/REF_PMC12809342_cureus-0017-00000099435-i03.jpg",
+          "caption": "Chest X-ray on ICU day 1 showing mild left-sided alveolar infiltrates",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Rivera Castrillón et al. (2025), Cureus · PMC12809342 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12809342/"
+        }
+      ]
     },
     "level-that-rose-after-last-pill": {
       "externalFigureLinks": [
@@ -821,7 +952,21 @@
             "feedback": "Even a zero-PFO heart cannot stop pressurized medical gas from crossing COPD or transpulmonary shunts, and reassuring yesterday anatomy never clears an acute mechanical emergency today."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13012216_ytag178f4.jpg",
+          "caption": "Cardiac-gated 3D computed tomography. 3D reconstruction computed tomography images showed a spiral dissection (arrow) extending from the right coronary ostium to just above the left coronary ostium and reaching the vicinity of the sinotubular junction (A and B). LCA, left coronary…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 4 from Inoue et al. (2026), European Heart Journal. Case Reports · PMC13012216 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13012216/"
+        }
+      ]
     },
     "gum-and-second-emergency": {
       "externalFigureLinks": [
@@ -881,7 +1026,21 @@
             "feedback": "Survived Tuesday! Glucagon rescues severe neuroglycopenia safely without airway aspiration or crashing glucose further while paramedics bring definitive IV dextrose."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13265440_13730_2026_1139_fig1_html.jpg",
+          "caption": "Contrast-enhanced computed tomography image of the patient. Yellow arrowheads in panel (a) point to poor contrast enhancement and pneumatosis intestinalis in the ascending and transverse colon. In panel (b), the yellow arrows point to portal venous gas. In panel (c), the yellow…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Hoshino et al. (2026), CEN Case Reports · PMC13265440 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13265440/"
+        }
+      ]
     },
     "sleep-aids-caffeine-nitrous": {
       "externalFigureLinks": [
@@ -941,7 +1100,21 @@
             "feedback": "Forcing fluids into a sleepy child creates aspiration danger on top of an upstream bowel obstruction, and poking or massaging a telescoped gut never belongs outside a hospital exam."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/REF_PMC13226614_fmed-13-1813715-g004.jpg",
+          "caption": "Ultrasound findings. (A) Red arrow: “target sign”; Blue arrow: blood flow in the intestinal wall. (B) “Kidney sign”. (C) Lymph nodes. (D) Ascites. RA, rectus abdominis; Int, intestine; IW, intestinal wall.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "FIGURE 4 from Huang et al. (2026), Frontiers in Medicine · PMC13226614 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13226614/"
+        }
+      ]
     },
     "antidepressant-opioid-screen-missed": {
       "externalFigureLinks": [
@@ -971,7 +1144,21 @@
             "feedback": "An oxygen mask can paint a flattering 98% over dangerously slow breathing, and tianeptine's active MC5 metabolite lingers for hours (often with undeclared synthetic cannabinoids), ready to drop breathing again."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12980998_cureus-0018-00000103350-i01.jpg",
+          "caption": "Noncontrast CT scan of the brain demonstrating diffuse hypoattenuation in the cerebellar white matter (arrows).",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Chabalout et al. (2026), Cureus · PMC12980998 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12980998/"
+        }
+      ]
     },
     "piece-the-camera-couldnt-see-eoe": {
       "externalFigureLinks": [
@@ -1001,7 +1188,21 @@
             "feedback": "Endoscopy lenses lie in both directions: they miss hidden EoE behind smooth pink mucosa in humans and make treatable Helicobacter-associated pseudotumors look like terminal stomach cancer in dogs."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ENDOSCOPY",
+          "src": "assets/exhibits/REF_PMC13282058_ac9-13-e02202-g002.jpg",
+          "caption": "Endoscopic images showing proximal esophageal stricture with inflammatory mucosal changes (A), extensive sheets of sloughing mucosa, with areas of denudation (B), and repeat endoscopy with diffuse desquamation with friability (C) and patchy ulcerations (D).",
+          "spoilerNote": "Illustrative peer-reviewed endoscopy exhibit from a separate CC BY report showing eosinophilic esophagitis mucosal rings/furrows (not the index patient). Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 2. from Bahmani et al. (2026), ACG Case Reports Journal · PMC13282058 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13282058/"
+        }
+      ]
     },
     "umbrella-methylmercury-forensic-mimics": {
       "externalFigureLinks": [
@@ -1061,7 +1262,21 @@
             "feedback": "Survived Tuesday! Respecting both blocked ALDH2 clearance and gut-brewed ethanol keeps you out of cardiac distress and off the highway until a gastroenterologist can confirm what's fermenting."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Durio_zibethinus_fruit_in_Bangkok_Thailand_DPLA__e49767.jpg",
+          "caption": "Close-upphotograph of a Durio zibethinus fruit (Durian) in Bangkok, Thailand. The outside is dark green and spiky. It is partially open and a relatively large, light brown seed and the fruit's white meat are visible inside of it. To the right, the stem of…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Carlquist, Sherwin John, 1930-2021 · Wikimedia Commons ((Durio zibethinus fruit in Bangkok, Thailand) - DPLA - b133251c0ada9cf892f7f3dde12eedc4.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Durio_zibethinus_fruit_in_Bangkok,_Thailand)_-_DPLA_-_b133251c0ada9cf892f7f3dde12eedc4.jpg"
+        }
+      ]
     },
     "puppy-with-the-twisted-stomach-gdv": {
       "externalFigureLinks": [
@@ -1152,7 +1367,21 @@
             "feedback": "Survived Tuesday! Flagging movement-worsening pain and exact symptom overlap cuts past 'stress headache' bias so clinicians test for fungal meningitis and raised intracranial pressure before herniation hits."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Cryptococcus_neoformans_using_a_light_India_ink__0dbb63.jpg",
+          "caption": "This photomicrograph depicts Cryptococcus neoformans using a light India ink staining preparation. Life-threatening infections caused by the encapsulated fungal pathogen Cryptococcus neoformans have been increasing steadily over the past 10 years because…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Photo Credit: Content Providers(s): CDC/Dr. Leanor Haley · Wikimedia Commons (Cryptococcus neoformans using a light India ink staining preparation PHIL 3771 lores.jpg)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cryptococcus_neoformans_using_a_light_India_ink_staining_preparation_PHIL_3771_lores.jpg"
+        }
+      ]
     },
     "silent-push-pin-choking-maternal": {
       "externalFigureLinks": [
@@ -1182,7 +1411,21 @@
             "feedback": "Survived Tuesday! Silent airways, absent hives, and bloodless sheets are classic clinical head-fakes—acting on physiology instead of visible drama beats all four before irreversible arrest."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13430971_crpu-2026-9666495-g001.jpg",
+          "caption": "(A) CT chest 2 weeks prebronchoscopy, (B) CT chest 2 months postbronchoscopy, and (C) CT chest 9 months postbronchoscopy.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from El-Akkad et al. (2026), Case Reports in Pulmonology · PMC13430971 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13430971/"
+        }
+      ]
     },
     "jumping-spanish-mackerel": {
       "externalFigureLinks": [
@@ -1209,7 +1452,8 @@
           "citation": "Fig. 1 from Evain et al. (2022), International Journal of Legal Medicine · PMC9005437",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9005437/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9005437/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1252,7 +1496,8 @@
           "citation": "Fig. 2 from Zambiasi et al. (2026), International Journal of Legal Medicine · PMC13658512",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658512/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13658512/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1304,7 +1549,21 @@
             "feedback": "Prolonged fasting cranks ALAS1 into worse porphyria flares, DIY salt solutions risk osmotic demyelination brain injury, and quitting prescriptions unilaterally invites seizures or relapse."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MRI SCAN",
+          "src": "assets/exhibits/REF_PMC10808997_fneur-14-1334743-g0001.jpg",
+          "caption": "On April 11, 2022, cranial magnetic resonance imaging (MRI) revealed high-signal intensities in the bilateral parieto-occipital lobes and the right temporal lobe on T2-FLAIR sequences. Additionally, diffusion-weighted imaging (DWI) demonstrated localized areas of high signal.…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Lin et al. (2024), Frontiers in Neurology · PMC10808997 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10808997/"
+        }
+      ]
     },
     "live-burial-traps-skin-warnings": {
       "externalFigureLinks": [
@@ -1377,7 +1636,8 @@
           "citation": "Figure 1 from Jacob et al. (2024), Cureus · PMC11531350",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11531350/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11531350/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1412,7 +1672,8 @@
           "citation": "Fig. 1 from Mittendorf et al. (2024), Forensic Science, Medicine, and Pathology · PMC11790695",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11790695/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11790695/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1447,7 +1708,8 @@
           "citation": "Fig. 2b from Schof et al. (2025), Forensic Science, Medicine, and Pathology · PMC12325501",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325501/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325501/",
+          "tier": "primary"
         }
       ],
       "diagramId": "one-finger-varicose-vein",
@@ -1483,7 +1745,8 @@
           "citation": "Fig. 1 from Pigaiani et al. (2023), Forensic Science, Medicine, and Pathology · PMC10944409",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10944409/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10944409/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1518,7 +1781,8 @@
           "citation": "Figure 1. from Jain et al. (2024), Qatar Medical Journal · PMC10985413",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10985413/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10985413/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1553,7 +1817,8 @@
           "citation": "Fig. 2 from Littlewood et al. (2023), Forensic Science, Medicine, and Pathology · PMC11297049",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11297049/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11297049/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1588,7 +1853,8 @@
           "citation": "Figure 3 from Ahn et al. (2024), Veterinary Sciences · PMC11511512",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11511512/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11511512/",
+          "tier": "primary"
         }
       ],
       "diagramId": "hair-treatment-reached-the-cat",
@@ -1624,7 +1890,8 @@
           "citation": "Figure 2 from Mitropoulou et al. (2021), Frontiers in Veterinary Science · PMC8287261",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8287261/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8287261/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1659,7 +1926,8 @@
           "citation": "Fig. 3 from Byard et al. (2023), Forensic Science, Medicine, and Pathology · PMC10328850",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10328850/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10328850/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1694,7 +1962,8 @@
           "citation": "Fig. 1 from Bell et al. (2017), Forensic Science, Medicine, and Pathology · PMC5688187",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5688187/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5688187/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1729,7 +1998,8 @@
           "citation": "Figure 1. from Hamilton et al. (2023), Medicine, Science, and the Law · PMC11168012",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11168012/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11168012/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1764,7 +2034,8 @@
           "citation": "Fig. 1 from Tan et al. (2024), Forensic Science, Medicine, and Pathology · PMC12325514",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325514/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325514/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1799,7 +2070,8 @@
           "citation": "Fig. 1 from Strano-Rossi et al. (2021), International Journal of Legal Medicine · PMC8062144",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8062144/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8062144/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1834,7 +2106,8 @@
           "citation": "Figure 3. from Molina et al. (2019), Forensic Sciences Research · PMC6713184",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6713184/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6713184/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1869,7 +2142,8 @@
           "citation": "Fig. 3 from van Bruggen et al. (2022), Forensic Science, Medicine, and Pathology · PMC9636077",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9636077/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9636077/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1904,7 +2178,8 @@
           "citation": "Fig. 2 from Rahimi et al. (2022), Egyptian Journal of Forensic Sciences · PMC9390957",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390957/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390957/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1939,7 +2214,8 @@
           "citation": "Fig. 1 from Chighine et al. (2022), International Journal of Legal Medicine · PMC8847265",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8847265/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8847265/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -1974,7 +2250,8 @@
           "citation": "Figure 4. from Long et al. (2017), Forensic sciences research · PMC6197143",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6197143/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6197143/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2009,7 +2286,8 @@
           "citation": "Fig. 3 from Liu et al. (2020), BMC Ophthalmology · PMC7168856",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7168856/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7168856/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2044,7 +2322,8 @@
           "citation": "Fig. 2 from Mattei et al. (2018), Acta Veterinaria Scandinavica · PMC6206667",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6206667/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6206667/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2079,7 +2358,8 @@
           "citation": "Fig. 1 from Bureta et al. (2018), BMC Surgery · PMC5851089",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5851089/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5851089/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2114,7 +2394,8 @@
           "citation": "Figure 1 from Al Marzouqi et al. (2023), Cureus · PMC10560862",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10560862/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10560862/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2149,7 +2430,8 @@
           "citation": "Figure 1 from Sebeih et al. (2025), Cureus · PMC12640370",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12640370/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12640370/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2184,7 +2466,8 @@
           "citation": "Figure 1 from Batzlaff et al. (2020), Cureus · PMC7494418",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7494418/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7494418/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2219,7 +2502,8 @@
           "citation": "Figure 2 from Duan et al. (2026), Frontiers in Surgery · PMC13638662",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13638662/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13638662/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2254,7 +2538,8 @@
           "citation": "Figure 1 from Chandra et al. (2026), JCEM Case Reports · PMC13100656",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13100656/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13100656/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2289,7 +2574,8 @@
           "citation": "Figure 1 from Eremia et al. (2024), Diagnostics · PMC11311301",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11311301/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11311301/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2324,7 +2610,8 @@
           "citation": "Figure 1 from Shizuku et al. (2025), Cureus · PMC11858471",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11858471/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11858471/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2359,7 +2646,8 @@
           "citation": "Fig. 1 from Wong et al. (2022), Thrombosis Journal · PMC9531369",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9531369/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9531369/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2394,7 +2682,8 @@
           "citation": "Figure 2 from Genjiafu et al. (2023), Frontiers in Public Health · PMC10641707",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10641707/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10641707/",
+          "tier": "primary"
         }
       ],
       "diagramId": "tank-after-the-collapse-h2s",
@@ -2430,7 +2719,8 @@
           "citation": "Figure 1 from Kikui et al. (2026), Cureus · PMC13023671",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13023671/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13023671/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2465,7 +2755,8 @@
           "citation": "Figure 2 from Kanaan et al. (2023), Cureus · PMC9893865",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893865/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893865/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2500,7 +2791,8 @@
           "citation": "Figure-1 from Ricci et al. (2024), Veterinary World · PMC11422646",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11422646/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11422646/",
+          "tier": "primary"
         }
       ],
       "quiz": {
@@ -2545,7 +2837,21 @@
             "feedback": "Improvised household items like wooden brooms offer false confidence around wet rooms and mains current—let trained crews confirm power is isolated first."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Apple_96W_USB_Type_C_Power_Adapter_for_new_16_in_3cfc41.jpg",
+          "caption": "A new Apple 96-watt MacBook Pro USB Type-C power adapter brick, model A2166, for the new 16-inch laptops.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Tony Webster from Minneapolis, Minnesota, United States · Wikimedia Commons (Apple 96W USB Type-C Power Adapter for new 16 inch MacBook Pro (49165128252).jpg)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_96W_USB_Type-C_Power_Adapter_for_new_16_inch_MacBook_Pro_(49165128252).jpg"
+        }
+      ]
     },
     "room-not-safe-to-finish": {
       "diagramId": "room-not-safe-to-finish",
@@ -2568,7 +2874,21 @@
             "feedback": "Re-entering a fume-filled bathroom to use its shower locks you inside the gas chamber; rinse at a kitchen sink or outdoor hose instead, and treat chest pain, wheezing, or shortness of breath as an immediate 911 call."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC11499000_cureus-0016-00000070025-i02.jpg",
+          "caption": "CTPA from current admissionInitial CTPA revealed diffuse ground-glass opacities with a centrilobular nodular pattern in both lungs. Additional findings include mosaic attenuation, a tree-in-bud appearance, and areas of air trapping. The grey arrow indicates a centrilobular nodular…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Mustafa et al. (2024), Cureus · PMC11499000 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11499000/"
+        }
+      ]
     },
     "reheated-rice-and-botulism": {
       "diagramId": "reheated-rice-and-botulism",
@@ -2591,7 +2911,21 @@
             "feedback": "Severe starch vomiting with confusion or drowsiness requires urgent ER liver and metabolic labs, while double vision or drooping eyelids signal a botulism airway crisis where early antitoxin decides the outcome."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Clostridium_botulinum_01_f9b948.jpg",
+          "caption": "A photomicrograph of Clostridium botulinum bacteria. This is a photomicrograph of Clostridium botulinum stained with Gentian violet. The bacterium C. botulinum produces a nerve toxin, which causes the rare, but serious paralytic illness Botulism.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Content Providers: CDC · Wikimedia Commons (Clostridium botulinum 01.png)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clostridium_botulinum_01.png"
+        }
+      ]
     },
     "battery-already-in-the-stomach": {
       "diagramId": "battery-already-in-the-stomach",
@@ -2660,7 +2994,21 @@
             "feedback": "Survived Tuesday! Any child alone in a parked vehicle is an instant 911 call—and no app arrival ping ever replaces physically walking every row."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12960640_fmed-13-1726603-g001.jpg",
+          "caption": "Brain CT findings (day 3). CT scan showing (A) bilateral hypodense lesions in the cerebellar hemispheres and (B) mixed-density lesions in the bilateral basal ganglia, as indicated by the blue arrows.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "FIGURE 1 from Zheng et al. (2026), Frontiers in Medicine · PMC12960640 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12960640/"
+        }
+      ]
     },
     "boots-in-the-snow-and-heatstroke": {
       "diagramId": "boots-in-the-snow-and-heatstroke",
@@ -2683,7 +3031,21 @@
             "feedback": "Waiting to cool cooks the central nervous system and organs by the minute—with exertional heat stroke, immediate field cooling comes BEFORE the ambulance ride."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MRI SCAN",
+          "src": "assets/exhibits/REF_PMC6011167_cricc2018-3597474.001.jpg",
+          "caption": "T2 FLAIR sequence. MRI brain (done on Day 4 of heat stroke) showed widespread T2 FLAIR hyperintensities over both cerebral and cerebellar hemispheres, predominantly the cortex and the subcortical white matter.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Koh et al. (2018), Case Reports in Critical Care · PMC6011167 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6011167/"
+        }
+      ]
     },
     "potassium-that-rose-in-the-tube": {
       "diagramId": "potassium-that-rose-in-the-tube",
@@ -2706,7 +3068,21 @@
             "feedback": "Another high-speed ride through the wall chute shears fragile CLL white cells all over again, chilling blood invites cold red-cell leak, and true kidney hyperkalemia cannot spare an hour's wait."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ELECTROCARDIOGRAM",
+          "src": "assets/exhibits/REF_PMC8802664_cureus-0013-00000020826-i04.jpg",
+          "caption": "The ECG showing normal sinus rhythm",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 4 from Menakuru et al. (2021), Cureus · PMC8802664 (Reference Case)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8802664/"
+        }
+      ]
     },
     "anesthetic-that-triggered-the-furnace": {
       "diagramId": "anesthetic-that-triggered-the-furnace",
@@ -2729,7 +3105,21 @@
             "feedback": "Suspected carriers undergo surgery safely with total intravenous anesthesia or regional blocks—whereas rolling the dice on sevoflurane and waiting on a thermometer lets rhabdomyolysis and hyperkalemia erupt first."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MRI SCAN",
+          "src": "assets/exhibits/REF_PMC13312338_j_jmotherandchild.20263001.d-26-00012_fig_002.jpg",
+          "caption": "Magnetic Resonance Imaging (MRI). (A-E) Selected axial T1W images of muscles of patient. (A) Arrows point to complete fatty atrophy in the gluteus maximus muscle bilaterally. (B) Arrows marks relative sparing of the right semitendinosus muscle. (C) Arrows mark hypertrophied short head…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2. from Nowakowski et al. (2026), Journal of Mother and Child · PMC13312338 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13312338/"
+        }
+      ]
     },
     "super-rat-bait-and-vitamin-k-trap": {
       "diagramId": "super-rat-bait-and-vitamin-k-trap",
@@ -2752,7 +3142,21 @@
             "feedback": "Livestock Vitamin K₃ (menadione) fails to stop superwarfarin bleeding and actively poisons red blood cells and kidneys—and quitting K₁ early before brodifacoum clears invites lethal rebound hemorrhage."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MRI SCAN",
+          "src": "assets/exhibits/REF_PMC10869089_medi-103-e36971-g001.jpg",
+          "caption": "Changes in imaging of head bleeding lesions in patients before and after treatment. (A–E) Changes in MRI at patient admission. (H–J) Head CT changes during follow-up 6 mo after discharge. CT = computed tomography, MRI = magnetic resonance imaging.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from He et al. (2024), Medicine · PMC10869089 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10869089/"
+        }
+      ]
     },
     "ottoman-bed-and-gravity": {
       "quiz": {
@@ -2774,7 +3178,21 @@
             "feedback": "Fresh air does zero good when your own organs splint your diaphragm upside down or a hinged mattress frame acts like a Class 5 lever across your neck and chest."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC10998646_cureus-0016-00000055683-i01.jpg",
+          "caption": "Head CT scan on arrival.The corticomedullary boundary is clear as shown by the yellow arrows, and the cerebral sulcus is not narrowed as shown by the red arrows.CT: computed tomography",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Yoshioka et al. (2024), Cureus · PMC10998646 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10998646/"
+        }
+      ]
     },
     "bottle-that-wasnt-a-feed": {
       "quiz": {
@@ -2796,7 +3214,21 @@
             "feedback": "A smiling infant printed on a water bottle adds zero electrolytes; restraining limbs or placing fingers in the mouth risks injury, and leaving water out of the feeding history blinds the ER to brain swelling."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13378400_cureus-0018-00000111032-i05.jpg",
+          "caption": "Non-contrast brain CT at the level of the basal ganglia.Axial non-contrast CT image demonstrating mild loss of gray-white matter differentiation (white arrows) and effacement of the Sylvian fissure (yellow arrowhead). These findings were suggestive of diffuse cerebral edema. No…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 5 from Pico Mendoza et al. (2026), Cureus · PMC13378400 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13378400/"
+        }
+      ]
     },
     "meal-and-the-match": {
       "quiz": {
@@ -2818,7 +3250,21 @@
             "feedback": "Wheat-dependent exercise-induced anaphylaxis only detonates when wheat meets cofactors like exertion, NSAIDs, or alcohol—and a 4–6 hour gap is no universal cure without an allergist workup and prescribed epinephrine."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM__69d5fc.jpg",
+          "caption": "Golden wheat stalks (Triticum aestivum) in the field—primary dietary allergen trigger in wheat-dependent exercise-induced anaphylaxis (WDEIA).",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Hound139 · Wikimedia Commons (Поле колосьев.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5_%D0%BA%D0%BE%D0%BB%D0%BE%D1%81%D1%8C%D0%B5%D0%B2.jpg"
+        }
+      ]
     },
     "bone-that-would-not-pass": {
       "quiz": {
@@ -2884,7 +3330,21 @@
             "feedback": "Survived Tuesday! Naming the new trimethoprim prescription beside heart/kidney meds points paramedics and ER clinicians straight at hyperkalemic BRASH syndrome before shock deepens."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ELECTROCARDIOGRAM",
+          "src": "assets/exhibits/REF_PMC13239596_ccr3-14-e72833-g002.jpg",
+          "caption": "Admission ECG, showing sinus bradycardia with a junctional escape rhythm.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "FIGURE 1 from Iyow et al. (2026), Clinical Case Reports · PMC13239596 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13239596/"
+        }
+      ]
     },
     "chest-that-could-not-move": {
       "quiz": {
@@ -2950,7 +3410,21 @@
             "feedback": "Violent dry retching with upper-belly pain screams closed-loop gastric volvulus, and a thyroid pill printed on a chart never proves someone isn't sliding into myxedema coma."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12527824_rjaf808f2.jpg",
+          "caption": "Contrast-enhanced CT abdomen and pelvis shows nasogastric (NG) tube noted in position. The stomach demonstrates abnormal orientation with inferior displacement of the fundus and superior displacement of the gastric pylorus near the gastroesophageal junction, with interval improvement…",
+          "spoilerNote": "Illustrative peer-reviewed clinical exhibit from a separate CC BY report showing the same mechanism (not the index patient). Contains graphic medical photography—click to unseal.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Alsobyani et al. (2025), Journal of Surgical Case Reports · PMC12527824 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12527824/"
+        }
+      ]
     },
     "lactate-that-was-not-lactate-antifreeze": {
       "quiz": {
@@ -2994,7 +3468,21 @@
             "feedback": "Monkshood's bidirectional ventricular tachycardia looks like textbook digoxin toxicity on the monitor—hiding the herbal brew wastes lethal minutes chasing DigiFab while cardiogenic shock closes in."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Aconitum_napellus_monkshood_aconite_flowers_Saat_6510b8.jpg",
+          "caption": "Aconitum napellus, monkshood or aconite (German: Blauer Eisenhut), is a hardy perennial of the buttercup family, native to Europe. It forms clumps of deeply divided, dark green leaves and tall, upright stems about 100–150 cm high, bearing spikes of…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Steffen Bauer ( www.saatpilot.de ) · Wikimedia Commons (Aconitum napellus (monkshood, aconite), flowers (SaatPilot).jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aconitum_napellus_(monkshood,_aconite),_flowers_(SaatPilot).jpg"
+        }
+      ]
     },
     "why-common-diabetes-pills-turn-deadly": {
       "quiz": {
@@ -3016,7 +3504,21 @@
             "feedback": "Survived Tuesday! Holding metformin protects dehydrated kidneys from mitochondrial shutdown, and bringing the exact sulfonylurea bottle secures prolonged observation (and octreotide if rebounds strike)."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MRI SCAN",
+          "src": "assets/exhibits/REF_PMC13081078_cureus-0018-00000105129-i02.jpg",
+          "caption": "Follow-up brain MRI performed six weeks after admission.(A) T2w FLAIR axial images at the level of the medulla oblongata and the pons demonstrate persistent bilateral hyperintensities of the cerebellar hemispheres (B) with newly developed symmetric hyperintense lesions in the bilateral…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Eser et al. (2026), Cureus · PMC13081078 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13081078/"
+        }
+      ]
     },
     "licorice-tea-paralysis": {
       "quiz": {
@@ -3038,7 +3540,21 @@
             "feedback": "Stacking a potassium-wasting diuretic onto real glycyrrhizin is an express lane to severe hypokalemia and torsades—weakness plus palpitations will not wait politely for next month."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ELECTROCARDIOGRAM",
+          "src": "assets/exhibits/REF_PMC13307586_cureus-0018-00000109726-i01.jpg",
+          "caption": "ECG showing U waves and a prolonged corrected QT interval (604 ms)ECG: electrocardiogram",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Guarneri et al. (2026), Cureus · PMC13307586 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13307586/"
+        }
+      ]
     },
     "bouquet-and-silent-bladder": {
       "quiz": {
@@ -3060,7 +3576,21 @@
             "feedback": "Survived Tuesday! Even tiny traces of Lilium pollen or vase water can trigger fatal feline kidney failure—ban true lilies completely and call an ER vet before a single symptom shows."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_hori_Park_The_Lilium_longiflorum_near_the_entran_94323b.jpg",
+          "caption": "Blooming Easter lilies (Lilium longiflorum)—every part of true Lilium and Hemerocallis plants, including pollen and vase water, is acutely nephrotoxic to cats.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Hirho · Wikimedia Commons (Ōhori Park The Lilium longiflorum near the entrance on the Sannomaru side Ōhorikōen Chūō-ku Fukuoka 20260616.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C5%8Chori_Park_The_Lilium_longiflorum_near_the_entrance_on_the_Sannomaru_side_%C5%8Chorik%C5%8Den_Ch%C5%AB%C5%8D-ku_Fukuoka_20260616.jpg"
+        }
+      ]
     },
     "shark-strikes-car-jacks-pepper-myths": {
       "quiz": {
@@ -3082,7 +3612,21 @@
             "feedback": "Brooms rarely break a jaw lock, while 4.5-mm air pellets can pierce a child’s heart and close-range pyrotechnic pepper jets cut iliac vessels like ballistic liquid blades."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Great_White_Shark_14730796397_a411d8.jpg",
+          "caption": "Great white shark (Carcharodon carcharias)",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Elias Levy · Wikimedia Commons (Great White Shark (14730796397).jpg)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_White_Shark_(14730796397).jpg"
+        }
+      ]
     },
     "dust-that-outlasted-the-work": {
       "quiz": {
@@ -3104,7 +3648,21 @@
             "feedback": "Microscopic amphibole needles don’t trigger a convenient Saturday-night cough—they sit silently in lung tissue driving frustrated phagocytosis for decades."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12569964_cureus-0017-00000093467-i01.jpg",
+          "caption": "Chest computed tomography.(A) Twelve years prior (year X-12): a small nodule around the left third intercostal space (arrow). (B) Three years prior (year X-3): a pleural plaque between the left third and fourth intercostal spaces (arrow). (C) Year X: pleural thickening can be seen…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Irie et al. (2025), Cureus · PMC12569964 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12569964/"
+        }
+      ]
     },
     "level-that-looked-reassuring-valproate": {
       "quiz": {
@@ -3126,7 +3684,21 @@
             "feedback": "That is the classic VHE disguise: valproate sabotages NAGS/CPS1 urea-cycle ammonia clearance directly without tripping standard liver enzymes first."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13179122_cureus-0018-00000107123-i01.jpg",
+          "caption": "Brain computed tomography (CT) upon admission and on day 5 of admission.(A) Non-contrast axial brain CT upon admission showing no acute abnormalities.(B) Non-contrast axial brain CT on day 5 demonstrating diffuse cerebral edema with effacement of cortical sulci and ventricles, and…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Ban et al. (2026), Cureus · PMC13179122 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13179122/"
+        }
+      ]
     },
     "lithium-that-came-from-the-tube": {
       "quiz": {
@@ -3148,7 +3720,21 @@
             "feedback": "Sedation blunts airway reflexes so forced drinks risk catastrophic pulmonary aspiration, and putting a drowsy or toxic person behind the wheel is never safe."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Vacutainer_with_blood_collection_tube_9e8c7c.jpg",
+          "caption": "Vacutainer with blood collection tube",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Whispyhistory · Wikimedia Commons (Vacutainer with blood collection tube.jpg)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vacutainer_with_blood_collection_tube.jpg"
+        }
+      ]
     },
     "illness-after-the-mushroom": {
       "quiz": {
@@ -3170,7 +3756,21 @@
             "feedback": "There is no home antidote for alpha-amanitin, and inducing vomiting without real-time veterinary instruction adds danger when the true crisis may be adrenal failure."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Death_Cap_Mushroom_b9327b.jpg",
+          "caption": "Warning sign for Death Cap Mushrooms , Canberra , Australia",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "AYArktos · Wikimedia Commons (Death Cap Mushroom.jpg)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Death_Cap_Mushroom.jpg"
+        }
+      ]
     },
     "when-the-screen-fell-tv-tipover": {
       "quiz": {
@@ -3192,7 +3792,21 @@
             "feedback": "Survived Tuesday! Gravity never respects three wobble-free years—follow CPSC guidance to anchor both TV and furniture and clear remotes or toys that invite climbing."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC10625338_cureus-0015-00000046521-i01.jpg",
+          "caption": "Extensive open skull fractures.Computed tomography volume-rendered three-dimensional (3-D) reformats demonstrating comminuted, displaced, open calvarial fractures involving the bilateral temporal (red arrow) and parietal bones (green arrows), as well as the frontal bone (blue arrow).",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Mirkin et al. (2023), Cureus · PMC10625338 (Reference Case)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10625338/"
+        }
+      ]
     },
     "glaze-in-the-pitcher-citrus-lead": {
       "quiz": {
@@ -3214,7 +3828,21 @@
             "feedback": "Lead substitutes for calcium inside bone hydroxyapatite—without the mandatory 14–21 day post-chelation recheck, skeletal rebound can quietly refill your blood."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC12949993_cureus-0018-00000102622-i03.jpg",
+          "caption": "Re-examination of the initial peripheral blood filmCoarse basophilic stippling (arrow) within erythrocytes. These features—initially overlooked—are classic morphological clues of lead toxicity and prompted confirmatory toxicology testing.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Chew et al. (2026), Cureus · PMC12949993 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12949993/"
+        }
+      ]
     },
     "sleep-aid-and-dark-urine-doxylamine": {
       "quiz": {
@@ -3258,7 +3886,21 @@
             "feedback": "Survived Tuesday! Naloxone rescues breathing while 12-lead telemetry guards against hERG arrhythmias and full med disclosure catches 2-to-5-fold CYP2D6/CYP3A4 pileups."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Kratom_leaves_3_7e17fd.jpg",
+          "caption": "Mitragyna Speciosa tree",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "ThorPorre · Wikimedia Commons (Kratom leaves 3.JPG)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kratom_leaves_3.JPG"
+        }
+      ]
     },
     "metallic-taste-before-cardiac-arrest": {
       "quiz": {
@@ -3302,7 +3944,21 @@
             "feedback": "Survived Tuesday! Fresh air breaks the exposure immediately, and telling 911 about the generator ensures firefighters enter with SCBA and gas meters while the ER runs multi-wavelength CO-oximetry."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Portable_generator_in_Waveland_Mississippi_66f134.jpg",
+          "caption": "Waveland, Miss., September 9, 2005 and August 10, 2006 -- Before (top) power was restored it was necessary to use portable generators to create electricity in Waveland. Work to restore electricity after Hurricane Katrina was a top priority.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Mark Wolfe/FEMA · Wikimedia Commons (Portable generator in Waveland Mississippi.jpg)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portable_generator_in_Waveland_Mississippi.jpg"
+        }
+      ]
     },
     "wild-garlic-deadly-twin": {
       "quiz": {
@@ -3324,7 +3980,21 @@
             "feedback": "Trashing the leftover leaves destroys the exact forensic evidence toxicologists and botanists need to rule out autumn crocus—and a deceptive reprieve after day one is not recovery."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Autumn_crocus_Colchicum_autumnale_flowering_plan_46d47b.jpg",
+          "caption": "Autumn crocus (Colchicum autumnale): flowering plant, leaves and floral segments. Coloured etching, c. 1836. Iconographic Collections Keywords: Philipp Miller",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Wikimedia Commons Contributor · Wikimedia Commons (Autumn crocus (Colchicum autumnale); flowering plant, leaves Wellcome V0044257.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_crocus_(Colchicum_autumnale);_flowering_plant,_leaves_Wellcome_V0044257.jpg"
+        }
+      ]
     },
     "ten-year-prescription-airway": {
       "quiz": {
@@ -3368,7 +4038,21 @@
             "feedback": "Detergent packets are built for rapid 'slip-and-slide' mucosal transit, meaning unburned pink lips and even a 97% oximeter can conceal severe lactic acidosis, CNS depression, and sudden airway compromise."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13108641_ac9-13-e02101-g001.jpg",
+          "caption": "(A) CT scan showing esophageal and gastric wall thickening (sagittal plane). (B) CT scan showing gastric wall and small bowel thickening (coronal plane). CT, computed tomography.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1. from Patel et al. (2026), ACG Case Reports Journal · PMC13108641 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13108641/"
+        }
+      ]
     },
     "testicular-torsion-doppler": {
       "quiz": {
@@ -3390,7 +4074,21 @@
             "feedback": "Survived Tuesday! Persistent or returning pain overrides a 'normal' Doppler every time, and immediate hands-off surgical triage protects the narrow window to save the testicle."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/REF_PMC13317636_cureus-0018-00000109969-i01.jpg",
+          "caption": "Scrotal Doppler ultrasound of the left testis showing absent blood flow.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Buali et al. (2026), Cureus · PMC13317636 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13317636/"
+        }
+      ]
     },
     "blackened-silver-h2s-traps": {
       "quiz": {
@@ -3412,7 +4110,21 @@
             "feedback": "Heroic breath-holding fails in seconds inside dense low-lying gas pockets, and even an outdoor breeze can harbor lethal localized hydrogen cyanide or H₂S before you reach safety."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12440726_fmed-12-1667174-g002.jpg",
+          "caption": "Imaging findings in Case 1: Chest CT shows a small area of inflammation or exudation in the left lung.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Shan et al. (2025), Frontiers in Medicine · PMC12440726 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12440726/"
+        }
+      ]
     },
     "night-that-was-not-sleep": {
       "quiz": {
@@ -3522,7 +4234,21 @@
             "feedback": "Fat-soluble plant defense toxins do not care about amber wellness bottles: three drops on an 80-gram body mass can drive coma, convulsions, and widespread cellular lysis within 30 minutes."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC6995176_12917_2020_2255_fig1_html.jpg",
+          "caption": "Fecal appearance after 8 h hospitalization. The brilliant green colors of the biliverdin in the urates are a result of liver damage",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Vetere et al. (2020), BMC Veterinary Research · PMC6995176",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6995176/"
+        }
+      ]
     },
     "count-and-unfinished-recovery-ttp": {
       "quiz": {
@@ -3566,7 +4292,21 @@
             "feedback": "Lightheadedness after reef predators can signal vagal bradycardia slowing the heart toward 41 bpm, and caffeine is a classic trigger that kicks ciguatoxin nerve firing back into overdrive."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Sphyraena_barracuda_great_barracuda_San_Salvador_ae0c7c.jpg",
+          "caption": "Sphyraena barracuda (Edwards, 1771) - great barracuda next to a reef. Classification: Animalia, Chordata, Vertebrata, Actinopterygii, Perciformes, Sphyraenidae Locality: Gaulin Reef, northern Graham's Harbour, northern offshore San Salvador Island, eastern…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "James St. John · Wikimedia Commons (Sphyraena barracuda (great barracuda) (San Salvador Island, Bahamas) 3 (15561133214).jpg)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphyraena_barracuda_(great_barracuda)_(San_Salvador_Island,_Bahamas)_3_(15561133214).jpg"
+        }
+      ]
     },
     "overdose-that-hadnt-arrived-bupropion": {
       "quiz": {
@@ -3588,7 +4328,21 @@
             "feedback": "Rapid urine immunoassays routinely misread bupropion as amphetamines, and chasing that decoy while leaving early drops telemetry right before active hydroxybupropion surges."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12639539_ytaf546f3.jpg",
+          "caption": "An image from the patient’s CT head showing loss of grey–white matter differentiation and sulcal effacement, consistent with global anoxic brain injury.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Kolluri et al. (2025), European Heart Journal. Case Reports · PMC12639539 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12639539/"
+        }
+      ]
     },
     "gas-station-royal-honey-blue-vision": {
       "quiz": {
@@ -3610,7 +4364,21 @@
             "feedback": "Survived Tuesday! Neon-blue vision is a flashing overdose flare for hidden sildenafil, and warning paramedics upfront prevents a fatal nitrate crash while protecting brain perfusion through viscous honey's prolonged drop."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · OPHTHALMIC EXHIBIT",
+          "src": "assets/exhibits/REF_PMC12325595_41433_2025_3894_fig4_html.jpg",
+          "caption": "Multimodal imaging of a 56-year-old male patient with bullous CSC.At initial presentation, the right eye shows macular serous elevation on colour fundus photography (A) and SRF involving the fovea and focal PED on OCT (B), which corresponds to a hypo-autofluorescent area on FAF (C).…",
+          "spoilerNote": "Illustrative peer-reviewed clinical exhibit from a separate CC BY report showing the same mechanism (not the index patient). Contains graphic medical photography—click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Fig. 4 from Kim et al. (2025), Eye · PMC12325595 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12325595/"
+        }
+      ]
     },
     "cherry-red-blood-and-burgundy-antidote": {
       "quiz": {
@@ -3632,7 +4400,21 @@
             "feedback": "Re-entering an enclosed smoke room without professional breathing apparatus risks hydrogen-cyanide collapse in seconds, and severe cellular asphyxiation needs zero skin burns to kill."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · RADIOGRAPH",
+          "src": "assets/exhibits/REF_PMC11807389_cureus-0017-00000077235-i01.jpg",
+          "caption": "Portable chest X-ray showing atelectatic changes",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Dhakal et al. (2025), Cureus · PMC11807389 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11807389/"
+        }
+      ]
     },
     "lunch-looked-like-allergy": {
       "quiz": {
@@ -3654,7 +4436,21 @@
             "feedback": "Survived Tuesday! Treat airway trouble or dizziness like anaphylaxis immediately, save a sample of the fish because blood histamine vanishes quickly, and pull that loin off the line before anyone else gets dosed."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC12679046_cureus-0017-00000098497-i01.jpg",
+          "caption": "Patient’s torse showing exuberant erythema with reddish color in the torso and limbs.",
+          "spoilerNote": "Illustrative peer-reviewed clinical exhibit from a separate CC BY report showing the same mechanism (not the index patient). Contains graphic medical photography—click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Oliveira et al. (2025), Cureus · PMC12679046 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12679046/"
+        }
+      ]
     },
     "fall-beneath-the-scalp": {
       "quiz": {
@@ -3676,7 +4472,21 @@
             "feedback": "Improvised towel or cardboard collars shift broken bone and raise intracranial pressure—and unless fire, traffic, or failed breathing demands action, forcing an angled head straight makes things worse."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MRI SCAN",
+          "src": "assets/exhibits/REF_PMC13413020_jcm-15-05522-g001.jpg",
+          "caption": "Preoperative imaging findings: (A) Anteroposterior and lateral radiographs of the cervical spine. (B) Cervical spine MRI demonstrating complete transverse atlantal ligament (TAL) rupture (yellow circle), mild cervical intervertebral disk protrusion, and no spinal cord compression. (C)…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Shen et al. (2026), Journal of Clinical Medicine · PMC13413020 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13413020/"
+        }
+      ]
     },
     "dog-flea-drops-on-kitten": {
       "quiz": {
@@ -3698,7 +4508,21 @@
             "feedback": "Survived Tuesday! Calling the emergency vet first with the exact permethrin concentration gets anti-seizure triage rolling and tells you whether washing right now is safe."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Cute_Cat_with_Beautiful_Green_Eyes_0b750e.jpg",
+          "caption": "This free picture of the cute cat with beautiful green eyes was created by the perpetual friend epSos.de and it can be used for free, if you link epSos.de as the original author of the image. The cute cat with green eyes has a beautiful nose too. This…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "epSos.de · Wikimedia Commons (Cute Cat with Beautiful Green Eyes.png)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cute_Cat_with_Beautiful_Green_Eyes.png"
+        }
+      ]
     },
     "signal-in-the-vessel-wall": {
       "quiz": {
@@ -3720,7 +4544,21 @@
             "feedback": "Survived Tuesday! Calling immediately and naming the infection or surgical trigger puts monitored hospital resuscitation and clinician-directed antimicrobials ahead of fulminant septic shock."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · TECHNICAL SCHEMATIC",
+          "src": "assets/exhibits/REF_PMC13310908_fnmol-19-1840888-g001.jpg",
+          "caption": "Proposed pathophysiological mechanisms of sepsis-associated encephalopathy and corresponding neuroimaging findings. Schematic overview of the major pathophysiological pathways involved in sepsis-associated encephalopathy (SAE) and their representative neuroimaging correlates.…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "FIGURE 1 from Yan et al. (2026), Frontiers in Molecular Neuroscience · PMC13310908 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13310908/"
+        }
+      ]
     },
     "lesion-that-needed-a-name": {
       "quiz": {
@@ -3786,7 +4624,21 @@
             "feedback": "Survived Tuesday! Putting water on the blade stops silica at the source while naming the exact >90%-silica stone gets medical surveillance started before progressive massive fibrosis steals your breath."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13400211_gr2.jpg",
+          "caption": "Transversal chest CT scan with pulmonary embolism protocol showing bilateral hilar lymphadenopathy.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Hofman et al. (2026), Respiratory Medicine Case Reports · PMC13400211 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13400211/"
+        }
+      ]
     },
     "meal-that-blocked-the-airway": {
       "quiz": {
@@ -3852,7 +4704,21 @@
             "feedback": "Survived Tuesday! Same-day exotic veterinary assessment backed by exact food and litter-tray counts catches surgical mimics like liver lobe torsion before internal bleeding wins."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC9544057_vsu-51-920-g002.jpg",
+          "caption": "Preoperative postcontrast CT maximum intensity projections of the rabbit abdomen in (A) axial, (B) sagittal, and (C) dorsal planes, and (D) 3‐dimensional reconstruction. (*) denotes torsion of caudate liver lobe. The caudate liver lobe is mildly enlarged and hypoattenuating compared to…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "FIGURE 3 from Leonard et al. (2022), Veterinary Surgery · PMC9544057 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9544057/"
+        }
+      ]
     },
     "burn-that-stole-calcium-hf-acid": {
       "quiz": {
@@ -3896,7 +4762,21 @@
             "feedback": "Driving during vagal-reflex bradycardia risks sudden syncope behind the wheel, and hiding the honey leaves a 15-nanomolar Bezold-Jarisch fakeout disguised as a blocked coronary artery."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Rhododendron_ponticum_flowers_30_April_2026_a6c9bc.jpg",
+          "caption": "Rhododendron ponticum flowers at Markeaton Park.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Aethonatic · Wikimedia Commons (Rhododendron ponticum - flowers - 30 April 2026.jpg)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhododendron_ponticum_-_flowers_-_30_April_2026.jpg"
+        }
+      ]
     },
     "remedy-that-left-a-mark-in-dna": {
       "quiz": {
@@ -3918,7 +4798,21 @@
             "feedback": "Flushing the bottle destroys the sole forensic evidence of an Aristolochia fangchi swap, and chasing rapid interstitial renal fibrosis with unverified detox teas only compounds the risk."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Aristolochia_clematitis_IMG_0616_7b5955.jpg",
+          "caption": "Aristolochia clematitis",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "DoF CC-BY-X · Wikimedia Commons (Aristolochia clematitis-IMG 0616.jpg)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aristolochia_clematitis-IMG_0616.jpg"
+        }
+      ]
     },
     "wound-hard-to-see-lawnmower-wire": {
       "quiz": {
@@ -3951,7 +4845,8 @@
           "citation": "Figure 3 from Davison-Kerwood et al. (2025), Cureus · PMC11848218",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11848218/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11848218/",
+          "tier": "primary"
         }
       ]
     },
@@ -3986,7 +4881,8 @@
           "citation": "Image 1 from Johnson et al. (2022), Clinical Practice and Cases in Emergency Medicine · PMC9197736",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9197736/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9197736/",
+          "tier": "primary"
         }
       ]
     },
@@ -4021,7 +4917,8 @@
           "citation": "Figure 3 from Kreilmeier-Berger et al. (2021), Animals : an Open Access Journal from MDPI · PMC8067123",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8067123/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8067123/",
+          "tier": "primary"
         }
       ]
     },
@@ -4057,7 +4954,8 @@
           "citation": "Figure 3 from Zhang et al. (2021), Frontiers in Pediatrics · PMC7928388",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7928388/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7928388/",
+          "tier": "primary"
         }
       ]
     },
@@ -4092,7 +4990,8 @@
           "citation": "Figure 1 from Ardabilygazir et al. (2018), Cureus · PMC6103391",
           "license": "CC BY 3.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103391/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6103391/",
+          "tier": "primary"
         }
       ],
       "diagramId": "thyroid-that-changed-in-the-test-biotin"
@@ -4146,6 +5045,20 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3628462/",
           "licenseNote": "CC BY-NC (view directly on PMC)"
         }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Escalator_steps_at_Tufts_Medical_Center_December_9f3277.jpg",
+          "caption": "Escalator steps piled up on the outbound platform at Tufts Medical Center while the escalator is being serviced",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "4300streetcar · Wikimedia Commons (Escalator steps at Tufts Medical Center December 2025.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Escalator_steps_at_Tufts_Medical_Center_December_2025.jpg"
+        }
       ]
     },
     "one-entrance-injured-branch-scad": {
@@ -4179,7 +5092,8 @@
           "citation": "Figure 2 from Al-Shammari et al. (2024), Cureus · PMC11567654",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11567654/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11567654/",
+          "tier": "primary"
         }
       ]
     },
@@ -4214,7 +5128,8 @@
           "citation": "Figure 2 from Vetere et al. (2023), Animals : an Open Access Journal from MDPI · PMC10000207",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10000207/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10000207/",
+          "tier": "primary"
         }
       ]
     },
@@ -4249,7 +5164,8 @@
           "citation": "Figure 1 from Kesu Belani et al. (2019), Cureus · PMC6957058",
           "license": "CC BY 3.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6957058/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6957058/",
+          "tier": "primary"
         }
       ],
       "diagramId": "thread-beneath-the-swelling-hair-tourniquet"
@@ -4307,7 +5223,8 @@
           "citation": "Figure 3 from Silva et al. (2022), Animals : an Open Access Journal from MDPI · PMC9179541",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9179541/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9179541/",
+          "tier": "primary"
         }
       ]
     },
@@ -4342,7 +5259,8 @@
           "citation": "Fig. 1 from Ma et al. (2020), BMC Gastroenterology · PMC7414988",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7414988/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7414988/",
+          "tier": "primary"
         }
       ]
     },
@@ -4377,7 +5295,8 @@
           "citation": "Fig. 1. from Chen et al. (2022), Journal of Medical Case Reports · PMC9063298",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9063298/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9063298/",
+          "tier": "primary"
         }
       ]
     },
@@ -4412,7 +5331,8 @@
           "citation": "Figure 3 from Murariu et al. (2026), Animals : an Open Access Journal from MDPI · PMC13296079",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13296079/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13296079/",
+          "tier": "primary"
         }
       ]
     },
@@ -4447,7 +5367,8 @@
           "citation": "Figure 1 from Zahoor et al. (2024), Cureus · PMC10917359",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10917359/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10917359/",
+          "tier": "primary"
         }
       ],
       "diagramId": "burn-looked-like-infection-wet-cement"
@@ -4483,7 +5404,8 @@
           "citation": "Figure 1 from Stojanovic et al. (2024), Cureus · PMC11070207",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11070207/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11070207/",
+          "tier": "primary"
         }
       ]
     },
@@ -4518,7 +5440,8 @@
           "citation": "Figure 2 from Doboși et al. (2024), Pathogens · PMC11676482",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11676482/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11676482/",
+          "tier": "primary"
         }
       ]
     },
@@ -4554,7 +5477,8 @@
           "citation": "Fig. 1 from Luu et al. (2018), Journal of Medical Case Reports · PMC5868062",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5868062/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5868062/",
+          "tier": "primary"
         }
       ]
     },
@@ -4633,7 +5557,8 @@
           "citation": "Figure 1 from Takeuchi et al. (2025), Cureus · PMC12631150",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631150/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631150/",
+          "tier": "primary"
         }
       ]
     },
@@ -4712,7 +5637,8 @@
           "citation": "FIGURE 1 from Tian et al. (2026), Frontiers in Toxicology · PMC13271673",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13271673/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13271673/",
+          "tier": "primary"
         }
       ]
     },
@@ -4747,7 +5673,8 @@
           "citation": "Figure 1 from Andino-Colón et al. (2026), Cureus · PMC13033944",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033944/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13033944/",
+          "tier": "primary"
         }
       ]
     },
@@ -4782,7 +5709,8 @@
           "citation": "Figure 1. from Rasper-Hössinger et al. (2024), Journal of Veterinary Diagnostic Investigation : Official Publication of the American Association of Veterinary Laboratory Diagnosticians, Inc · PMC11523163",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523163/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523163/",
+          "tier": "primary"
         }
       ]
     },
@@ -4812,6 +5740,20 @@
           "label": "Singh et al. (2017), Chinese Journal of Traumatology — 3 clinical figure(s) on PMC",
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5392724/",
           "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC13178944_cureus-0018-00000107084-i01.jpg",
+          "caption": "Preoperative CT imaging of the neck and chest(A) Airway CT demonstrating an irregular contour and deformity of the subglottic tracheal lumen. (B) CT showed a linear lucency through the cricoid cartilage, suggestive of cartilage fracture, with extensive subcutaneous emphysema in the…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Li et al. (2026), Cureus · PMC13178944 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178944/"
         }
       ]
     },
@@ -4846,7 +5788,8 @@
           "citation": "Figure 1 from Soini et al. (2024), Case Reports in Surgery · PMC11611422",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11611422/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11611422/",
+          "tier": "primary"
         }
       ]
     },
@@ -4881,7 +5824,8 @@
           "citation": "Fig. 1 from Kaczmar et al. (2022), Veterinary Research Communications · PMC9395306",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9395306/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9395306/",
+          "tier": "primary"
         }
       ]
     },
@@ -4906,7 +5850,21 @@
           }
         ]
       },
-      "diagramId": "thread-across-the-road-kite-string"
+      "diagramId": "thread-across-the-road-kite-string",
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Shield_shaped_Kite_Bangpaeyeon_and_Kite_Reel_Jeg_c47549.jpg",
+          "caption": "Traditional kite reel and string spool illustrating high-tension kite-line hazards.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "고려 · Wikimedia Commons (Shield-shaped Kite(Bangpaeyeon) and Kite Reel, Jegi (2).jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shield-shaped_Kite(Bangpaeyeon)_and_Kite_Reel,_Jegi_(2).jpg"
+        }
+      ]
     },
     "sample-taken-after-crisis-water-intox": {
       "quiz": {
@@ -4939,7 +5897,8 @@
           "citation": "Fig. 1 from Chiang et al. (2022), BMC Nephrology · PMC9753356",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9753356/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9753356/",
+          "tier": "primary"
         }
       ]
     },
@@ -4963,7 +5922,21 @@
             "feedback": "The mite-transmission claim came from a formally retracted 2007 paper—and waiting 24 hours on a floor-bound bird risks death before any lab test returns."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Nymphicus_hollandicus_Wilhelma_Zoo_Stuttgart_Ger_d13bc2.jpg",
+          "caption": "Two Cockatiels at Wilhelma Zoo, Stuttgart, Germany.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Dennis Irrgang from Deutschland(Germany) · Wikimedia Commons (Nymphicus hollandicus -Wilhelma Zoo, Stuttgart, Germany-8a.jpg)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nymphicus_hollandicus_-Wilhelma_Zoo,_Stuttgart,_Germany-8a.jpg"
+        }
+      ]
     },
     "air-beyond-the-eye-orbital-emphysema": {
       "quiz": {
@@ -4996,7 +5969,8 @@
           "citation": "Fig. 2 from Bassiouny et al. (2025), BMC Pediatrics · PMC11874850",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874850/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11874850/",
+          "tier": "primary"
         }
       ]
     },
@@ -5031,7 +6005,8 @@
           "citation": "Figure 1. from Hall et al. (2024), The American Journal of Tropical Medicine and Hygiene · PMC11619519",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11619519/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11619519/",
+          "tier": "primary"
         }
       ]
     },
@@ -5066,7 +6041,8 @@
           "citation": "Fig. 1 from Long et al. (2023), Animal Diseases · PMC10033294",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10033294/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10033294/",
+          "tier": "primary"
         }
       ]
     },
@@ -5090,7 +6066,21 @@
             "feedback": "CRP below 5 mg/L stayed silent even while his hand was visibly inflamed, and absent skin bumps never rule out active occupational rhinitis from workplace resin systems."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/REF_PMC13184831_avd-19-1-26-00004-g001.jpg",
+          "caption": "Preoperative clinical and ultrasound findings of the right lower leg. Preoperative clinical courses are shown in (A–F), and the ultrasound findings are shown in (G–I). (A) Before CAE. (B, C) Slight phlebitis in the right lower leg along the glue-occluded GSV 2 months after CAE. The…",
+          "spoilerNote": "Illustrative peer-reviewed clinical and ultrasound exhibit from a separate CC BY report showing subcutaneous foreign-body granulomas (not the index patient). Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Fig. 1 from Goto et al. (2026), Annals of Vascular Diseases · PMC13184831 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13184831/"
+        }
+      ]
     },
     "liver-failure-falling-hemoglobin-wilson": {
       "quiz": {
@@ -5123,7 +6113,8 @@
           "citation": "Figure 1 from Ghias et al. (2024), Cureus · PMC11194017",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11194017/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11194017/",
+          "tier": "primary"
         }
       ]
     },
@@ -5158,7 +6149,8 @@
           "citation": "Fig. 1 from Pigoli et al. (2024), Veterinary Research Communications · PMC11315794",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315794/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11315794/",
+          "tier": "primary"
         }
       ]
     },
@@ -5193,7 +6185,8 @@
           "citation": "Image 1 from Horn et al. (2021), Clinical Practice and Cases in Emergency Medicine · PMC7872613",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872613/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872613/",
+          "tier": "primary"
         }
       ],
       "diagramId": "ring-and-unbroken-bone-avulsion"
@@ -5218,7 +6211,21 @@
             "feedback": "Reference-lab hantavirus ELISA can take days—returning at Day 10 in the 2026 case—and waiting for lab labels or self-driving during respiratory failure can be lethal."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · RADIOGRAPH",
+          "src": "assets/exhibits/REF_PMC11083485_acmi-6-00554-g001.jpg",
+          "caption": "Chest radiograph-bilateral pleural effusion with opacification in the right mid-zone.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Fig. 1. from Pattiyakumbura et al. (2024), Access Microbiology · PMC11083485 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11083485/"
+        }
+      ]
     },
     "door-closed-to-rabbit-rhdv2": {
       "quiz": {
@@ -5251,7 +6258,8 @@
           "citation": "Figure 1 from Pinto et al. (2023), Frontiers in Veterinary Science · PMC10073570",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10073570/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10073570/",
+          "tier": "primary"
         }
       ]
     },
@@ -5286,7 +6294,8 @@
           "citation": "Figure 1 from Jastanyah et al. (2025), Cureus · PMC12398272",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12398272/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12398272/",
+          "tier": "primary"
         }
       ]
     },
@@ -5321,7 +6330,8 @@
           "citation": "Figure 1 from Suwal et al. (2022), Cureus · PMC9293272",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9293272/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9293272/",
+          "tier": "primary"
         }
       ]
     },
@@ -5356,7 +6366,8 @@
           "citation": "Figure 1 from Salman et al. (2023), Cureus · PMC10513347",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10513347/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10513347/",
+          "tier": "primary"
         }
       ]
     },
@@ -5391,7 +6402,8 @@
           "citation": "Fig. 1. from Stubhaug et al. (2016), JMM Case Reports · PMC5330229",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5330229/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5330229/",
+          "tier": "primary"
         }
       ]
     },
@@ -5415,7 +6427,21 @@
             "feedback": "Survived Tuesday! Three days at 8–9°C lets surviving spores manufacture heat-proof cereulide—and brief early vomiting after a taste is a warning to dump the batch, not fry it hotter."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC13247181_excli-25-481-g-002.jpg",
+          "caption": "Characteristics of B. cereus: (A) Blue appearance on PEMBA (polymyxin pyruvate egg yolk mannitol bromothymol blue agar) due to lack of mannite cleavage and protein degradation. Opaque zones around the colonies due to lecithinase activity. (B) Growth on sheep blood agar, here with…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Albahri et al. (2026), EXCLI Journal · PMC13247181 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247181/"
+        }
+      ]
     },
     "fish-had-two-identities-ciguatera": {
       "quiz": {
@@ -5448,7 +6474,8 @@
           "citation": "Figure 1 from Velut et al. (2019), Eurosurveillance · PMC6549462",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6549462/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6549462/",
+          "tier": "primary"
         }
       ]
     },
@@ -5483,7 +6510,8 @@
           "citation": "Figure 1 from Rittenhouse et al. (2024), Cureus · PMC11236488",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11236488/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11236488/",
+          "tier": "primary"
         }
       ]
     },
@@ -5518,7 +6546,8 @@
           "citation": "Figure 2 from Hall et al. (2015), Case Reports in Emergency Medicine · PMC4637455",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4637455/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4637455/",
+          "tier": "primary"
         }
       ],
       "diagramId": "aquarium-more-than-one-patient-palytoxin"
@@ -5554,7 +6583,8 @@
           "citation": "Figure 1 from Lee et al. (2019), Medicine · PMC6890358",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6890358/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6890358/",
+          "tier": "primary"
         }
       ]
     },
@@ -5589,7 +6619,8 @@
           "citation": "Figure 1. from Li et al. (2023), Medicine · PMC9981371",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9981371/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9981371/",
+          "tier": "primary"
         }
       ]
     },
@@ -5642,7 +6673,21 @@
             "feedback": "Fresh cattle ionophore feed is just as lethal to horses as expired feed—the species boundary is chemical, not calendar-based—and exercising a potentially poisoned horse risks sudden cardiac collapse."
           }
         ]
-      }
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Horses_standing_near_a_wooden_fence_in_a_rural_a_d7b22e.jpg",
+          "caption": "Horses standing near a wooden fence in a rural area",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Nenad Stojkovic · Wikimedia Commons (Horses standing near a wooden fence in a rural area - Flickr - nenadstojkovicart.jpg)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horses_standing_near_a_wooden_fence_in_a_rural_area_-_Flickr_-_nenadstojkovicart.jpg"
+        }
+      ]
     },
     "vitamin-that-left-crystals-oxalate": {
       "quiz": {
@@ -5670,6 +6715,20 @@
           "label": "Gurm et al. (2012), Journal of Community Hospital Internal Medicine Perspectives — 2 clinical figure(s) on PMC",
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714063/",
           "licenseNote": "CC BY-ND (view directly on PMC)"
+        }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MICROSCOPY",
+          "src": "assets/exhibits/REF_PMC6186097_12882_2018_1060_fig2_html.jpg",
+          "caption": "Kidney biopsy showing extensive birefringent calcium oxalate crystal deposition and epithelial degenerative changes. a and b. Polarized microscopy (hematoxylin and eosin) in a background of interstitial fibrosis, tubular atrophy, glomerulosclerosis, and hyaline arteriosclerosis. c…",
+          "spoilerNote": "Illustrative peer-reviewed clinical exhibit from a separate CC BY report showing the same mechanism (not the index patient). Contains graphic medical photography—click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Fig. 2 from Moyses-Neto et al. (2018), BMC Nephrology · PMC6186097 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6186097/"
         }
       ]
     },
@@ -5704,7 +6763,8 @@
           "citation": "Figure 1 from Mollasadeghi et al. (2013), Case Reports in Radiology · PMC3703385",
           "license": "CC BY 3.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3703385/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3703385/",
+          "tier": "primary"
         }
       ]
     },
@@ -5739,7 +6799,8 @@
           "citation": "Figure 1 from Borawski et al. (2024), Animals : an Open Access Journal from MDPI · PMC11047664",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11047664/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11047664/",
+          "tier": "primary"
         }
       ]
     },
@@ -5774,7 +6835,8 @@
           "citation": "Fig. 1 from Utsugi et al. (2015), BMC Pulmonary Medicine · PMC4589115",
           "license": "CC BY 4.0",
           "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4589115/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4589115/",
+          "tier": "primary"
         }
       ]
     },
@@ -5805,6 +6867,20 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10948946/",
           "licenseNote": "CC BY-NC-ND (view directly on PMC)"
         }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC12920035_cureus-0018-00000101936-i03.jpg",
+          "caption": "Case 3Pre-hyperbaric oxygen therapy (HBOT) plain computed tomography (CT) images. A: Bone-window settings (window width of 3000 HU and a window level of 400 HU).B: Lung-window settings. An intramedullary air bubble is observed in the left proximal humerus (solid arrow in A), and a…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Sugimura et al. (2026), Cureus · PMC12920035 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12920035/"
+        }
       ]
     },
     "water-around-and-within-axolotl": {
@@ -5834,6 +6910,20 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5487785/",
           "licenseNote": "CC BY-NC-ND (view directly on PMC)"
         }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Axolotl_Ambystoma_mexicanum_Aquarium_Li_ge_30012_b57b79.jpg",
+          "caption": "Axolotl ( Ambystoma mexicanum ) in Aquarium Dubuisson, in Liège.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Vassil · Wikimedia Commons (Axolotl Ambystoma mexicanum Aquarium Liège 30012016 2.jpg)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axolotl_Ambystoma_mexicanum_Aquarium_Li%C3%A8ge_30012016_2.jpg"
+        }
       ]
     },
     "pool-had-another-hazard-drain-suction": {
@@ -5857,7 +6947,21 @@
           }
         ]
       },
-      "diagramId": "pool-had-another-hazard-drain-suction"
+      "diagramId": "pool-had-another-hazard-drain-suction",
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Swimming_pool_drain_grate_200fb0.jpg",
+          "caption": "Pool draining grate by the pool",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "J RAWLS · Wikimedia Commons (Swimming pool drain grate.jpg)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swimming_pool_drain_grate.jpg"
+        }
+      ]
     },
     "family-behind-the-enzyme-g6pd": {
       "quiz": {
@@ -5887,7 +6991,21 @@
           "licenseNote": "CC BY-ND (view directly on PMC)"
         }
       ],
-      "diagramId": "family-behind-the-enzyme-g6pd"
+      "diagramId": "family-behind-the-enzyme-g6pd",
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC12741676_cureus-0017-00000097824-i01.jpg",
+          "caption": "The peripheral blood smear demonstrates a high degree of poikilocytosis (variation in red blood cell (RBC) shape), which is a key feature in this caseElliptocytes (green and red arrows): The predominant feature is the presence of numerous elliptocytes (oval or rod-shaped RBCs). This is…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Alasmari et al. (2025), Cureus · PMC12741676 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12741676/"
+        }
+      ]
     },
     "eggs-carried-yards-history-lead": {
       "quiz": {
@@ -5915,6 +7033,20 @@
           "label": "Roegner et al. (2013), Veterinary Medicine : Research and Reports — 3 clinical figure(s) on PMC",
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7337163/",
           "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · RADIOGRAPH",
+          "src": "assets/exhibits/REF_PMC12611801_fped-13-1692561-g002.jpg",
+          "caption": "Lead poisoning. The patient ingested an ayurvedic herbal medicine termed Indian spices. (A) The Indian spices were provided as a brown powder wrapped in filter paper. (B) The packets were found to be radio-opaque. (C) The powder contained crystalline elements. (D) An x-ray of the wrist…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Cericola et al. (2025), Frontiers in Pediatrics · PMC12611801 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12611801/"
         }
       ]
     },
@@ -5949,7 +7081,8 @@
           "citation": "Fig. 4 from Kim et al. (2026), Archives of Plastic Surgery · PMC12858321",
           "license": "CC BY 4.0",
           "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12858321/"
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12858321/",
+          "tier": "primary"
         }
       ]
     },
@@ -5980,6 +7113,20 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9399264/",
           "licenseNote": "CC BY-NC-ND (view directly on PMC)"
         }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC11882740_ccr3-13-e70289-g001.jpg",
+          "caption": "PET/CT scan: Hypermetabolic lesions around the aortic and pulmonary prosthetic valves, as well as involvement of the ascending aorta and proximal pulmonary artery.",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "FIGURE 1 from Ghaderkhani et al. (2025), Clinical Case Reports · PMC11882740 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11882740/"
+        }
       ]
     },
     "stone-not-the-whole-illness-tortoise": {
@@ -6008,6 +7155,220 @@
           "label": "OZAWA et al. (2025), The Journal of Veterinary Medical Science — 4 clinical figure(s) on PMC",
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12951059/",
           "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "spleen-after-the-ascent-altitude": {
+      "quiz": {
+        "prompt": "Two days after returning to sea level from a trip above 10,000 feet, a healthy young adult with no known medical conditions develops worsening upper-left abdominal pain radiating to the left shoulder and mild yellowing of the eyes. What is the safest move?",
+        "options": [
+          {
+            "label": "Seek immediate medical evaluation and report the exact mountain elevation and descent timeline—without waiting for trait testing or assuming sea-level air will reverse the pain.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Most patients in Colorado’s splenic-infarct referral series did not know they carried sickle cell trait beforehand, left-shoulder pain signals diaphragmatic irritation from an injured spleen, and sea-level air cannot reverse infarcted tissue."
+          },
+          {
+            "label": "Rest overnight with extra fluids since returning to sea level restores normal oxygen saturation and stops high-altitude illness.",
+            "correct": false,
+            "feedback": "Descending restores ambient oxygen, not necrotic splenic tissue; waiting out worsening upper-left abdominal and referred shoulder pain risks missed splenic infarction or rupture."
+          },
+          {
+            "label": "Order an outpatient hemoglobin electrophoresis test first and go to the emergency room only if the HbS percentage exceeds 50%.",
+            "correct": false,
+            "feedback": "Never delay emergency care for lab confirmation—and sickle cell trait typically sits below 50% HbS (40% in the Ecuador case), where protein fraction never serves as a safe-vs-unsafe threshold."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC7431312_cureus-0012-00000009815-i01.jpg",
+          "caption": "CT of the abdomen: Coronal CT of the abdomen showing splenomegaly and low attenuated images in the spleen compatible with splenic infarction.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Gonzalez et al. (2020), Cureus · PMC7431312",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7431312/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "antibody-and-the-scar-kidney": {
+      "quiz": {
+        "prompt": "An older relative with mild chronic kidney disease suddenly stops passing much urine, develops leg swelling, and passes black tarry stools over three days—yet feels no chest pain, has clear breathing, and sees no red blood in the toilet. What is the right move?",
+        "options": [
+          {
+            "label": "Have them drink extra water over the weekend to flush the kidneys, and wait for routine clinic blood work unless they start coughing up blood.",
+            "correct": false,
+            "feedback": "Pushing water onto failing kidneys can trigger dangerous fluid overload, and severe renal-limited anti-GBM disease plus GI bleeding can escalate to lethal potassium levels with completely clear lungs."
+          },
+          {
+            "label": "Seek urgent emergency care right away, bringing any old baseline kidney lab numbers plus their full prescription and supplement list.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sudden oliguria and black stools demand immediate stabilization for dangerous potassium, acid, and GI bleeding, while old baseline creatinine values immediately prove an acute drop."
+          },
+          {
+            "label": "Stop their blood-pressure pills at home and wait to consent to emergency treatments until autoimmune antibody results come back from the lab.",
+            "correct": false,
+            "feedback": "Never stop prescribed medications solo or delay urgent stabilization like dialysis or transfusions for specialized serology—metabolic crises kill long before antibody panels finish."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · ENDOSCOPY",
+          "src": "assets/exhibits/PMC11767534_cureus-0016-00000076469-i01.jpg",
+          "caption": "Upper endoscopy findings: Duodenal inspection revealed several ulcers, classified as Forrest IIc (arrow) and Forrest III (*).",
+          "spoilerNote": "Contains real upper gastrointestinal endoscopy photography from the primary case report. Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Maia et al. (2024), Cureus · PMC11767534",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11767534/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "hazard-along-winter-shore-dog": {
+      "quiz": {
+        "prompt": "After playing along a crystal-clear lake shoreline in February, your dog suddenly begins shaking, loses coordination, and vomits while you are rinsing him off. What should you do right now?",
+        "options": [
+          {
+            "label": "Induce vomiting immediately at home so he clears any swallowed shoreline plants before driving to the clinic.",
+            "correct": false,
+            "feedback": "Never induce vomiting in a neurologically impaired dog—impaired airway reflexes can send vomit straight into the lungs, causing fatal aspiration."
+          },
+          {
+            "label": "Walk back down to the beach first to scoop a jar of shoreline debris for lab confirmation, since clear winter water rarely carries algae.",
+            "correct": false,
+            "feedback": "Benthic cyanobacterial mats thrive beneath crystal-clear water even in winter, and delaying emergency supportive veterinary care to collect environmental samples costs irreplaceable minutes."
+          },
+          {
+            "label": "Stop him from licking his coat, transport him immediately to an emergency vet, and report the exact lake access point, timing, and any shoreline mat contact.",
+            "correct": true,
+            "feedback": "Survived Tuesday! There is no specific antidote for dihydroanatoxin-a, so blocking further ingestion and rushing straight to emergency supportive veterinary care is the only lifeline."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Manning et al. (2020), Data in Brief — 4 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7528197/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ],
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Algal_Bloom_in_Lake_Erie_MODIS_2019_08_19_5510e3.jpg",
+          "caption": "In July 2019, a severe bloom of blue-green algae began spreading across the western half of Lake Erie. The dominant organism—a Microcystis cyanobacteria—produces the toxin microcystin, which can cause liver damage, numbness, dizziness, and vomiting. On…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "MODIS Land Rapid Response Team, NASA GSFC · Wikimedia Commons (Algal Bloom in Lake Erie (MODIS 2019-08-19).jpg)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Algal_Bloom_in_Lake_Erie_(MODIS_2019-08-19).jpg"
+        }
+      ]
+    },
+    "missing-spot-after-the-light-laser": {
+      "quiz": {
+        "prompt": "A friend accidentally sweeps a red laser pointer labeled '5 mW' across your right eye for two seconds. Your eye feels zero pain and looks completely white, yet a small blurry dark spot sits in the middle of words when you read. What is your move?",
+        "options": [
+          {
+            "label": "Skip driving, arrange immediate specialist eye assessment, and report the affected eye, exact central reading blind spot, and laser exposure—without waiting to verify device power.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Retinal photoreceptors have no pain nerves, printed 5-mW labels cannot be verified at home, and immediate specialist imaging (OCT/autofluorescence) is needed regardless of pain."
+          },
+          {
+            "label": "Print an eye chart and Amsler grid at home; if you can still read the 20/20 line tomorrow morning, skip the clinic since the label caps power at 5 milliwatts.",
+            "correct": false,
+            "feedback": "Patients with permanent foveal laser burns can score 20/20 on a distance wall chart while retaining a persistent central scotoma, and cheap online pointers are frequently mislabeled."
+          },
+          {
+            "label": "Put on dark UV sunglasses and shine the laser onto a dark notebook cover to see whether it smokes so you can tell the doctor if it is truly overpowered.",
+            "correct": false,
+            "feedback": "Ordinary sunglasses do not block coherent laser beams, and specular reflections off household surfaces can inflict a second permanent retinal burn."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · OPHTHALMIC EXHIBIT",
+          "src": "assets/exhibits/PMC12597123_cureus-0017-00000094249-i01.jpg",
+          "caption": "Fundus photographs showing a yellowish lesion in the fovea of the right eye (white arrow) and a normal left eye",
+          "spoilerNote": "Contains close-up ophthalmology clinical photography. Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Naral et al. (2025), Cureus · PMC12597123",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12597123/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "cataract-pointed-beyond-the-eye": {
+      "quiz": {
+        "prompt": "A teenager with no major current health complaints is diagnosed with unexplained bilateral cataracts. Years ago as a young child she had chronic unexplained diarrhea that improved in adolescence, and her annual routine cholesterol test was normal. What should the family bring up at the ophthalmology visit?",
+        "options": [
+          {
+            "label": "Skip mentioning the childhood diarrhea since it resolved years ago and the normal cholesterol panel already rules out sterol storage disorders.",
+            "correct": false,
+            "feedback": "Routine cholesterol panels cannot detect cholestanol (which differs by one double bond), and childhood chronic diarrhea that improves later is a classic early cross-specialty clue to CTX."
+          },
+          {
+            "label": "Report the resolved childhood diarrhea, record the exact age at cataract diagnosis, ask whether systemic evaluation applies, and clarify who owns any pending cholestanol or genetic results.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Connecting past childhood gut history across specialty silos, keeping cholestanol distinct from cholesterol, and naming who owns pending tests intercepts systemic disease early."
+          },
+          {
+            "label": "Use a phone flashlight at home to check whether the cataracts look fleck-like and begin dietary fat restriction before requesting a geneticist.",
+            "correct": false,
+            "feedback": "Cataract morphology requires specialist slit-lamp evaluation and is not a standalone diagnostic test, and unproven DIY dietary changes never substitute for specialized biochemical and genetic workups."
+          }
+        ]
+      }
+    },
+    "worm-in-lungs-blood-supply-dog": {
+      "quiz": {
+        "prompt": "Your dog—who takes a standard over-the-counter intestinal dewormer and loves sniffing wet garden edges—develops a persistent cough, stops halfway down the block on walks, and develops minor unexplained nosebleeds ahead of next week’s dental cleaning. What is the right move?",
+        "options": [
+          {
+            "label": "Take him for a brisk sprint in the yard first to record a video of the cough for the vet, and scatter chemical snail bait along the garden border.",
+            "correct": false,
+            "feedback": "Forced exercise against worm-obstructed pulmonary arteries can trigger syncope or fatal collapse, and yard snail bait swaps a parasitic risk for acute chemical poisoning."
+          },
+          {
+            "label": "Keep next week’s dental appointment since he already receives a routine wormer and his gums aren’t turning blue yet.",
+            "correct": false,
+            "feedback": "Generic wormers often fail to cover Angiostrongylus vasorum, and subtle bleeding signs flag coagulation abnormalities that can turn a routine dental extraction into dangerous hemorrhage."
+          },
+          {
+            "label": "Keep him calm, contact the vet promptly with his stamina drop, bleeding signs, and exact dewormer product names and dates, and hold off on elective procedures until evaluated.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Functional stamina history, exact preventative records, and early reporting of bleeding signs let the vet test specifically for A. vasorum and protect coagulation before surgery."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Microfilaria_of_Dirofilaria_immitis_Heartworms_S_ed0537.jpg",
+          "caption": "Microfilaria of Dirofilaria immitis (Heartworms) in a lymph node impression smear from a dog with lymphoma. This baby nematode is snuggled down in a pillow of intermediate-to-large, immature lymphocytes, exhibiting multiple criteria of malignancy (1,000X…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Lance Wheeler · Wikimedia Commons (Microfilaria of Dirofilaria immitis (Heartworms) Surrounded by Neoplastic Lymphocytes 1.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microfilaria_of_Dirofilaria_immitis_(Heartworms)_Surrounded_by_Neoplastic_Lymphocytes_1.jpg",
+          "dims": [
+            1075,
+            1080
+          ],
+          "bytes": 311075
         }
       ]
     }
@@ -7112,14 +8473,249 @@
           "why": "Antibiotics never neutralize tick salivary neurotoxin, and sensory pathways can stay completely intact even while motor paralysis shuts down breathing muscles."
         }
       ]
+    },
+    {
+      "q": "Two days after returning to sea level from a trip above 10,000 feet, a healthy young adult with no known medical conditions develops worsening upper-left abdominal pain radiating to the left shoulder and mild yellowing of the eyes. What is the safest move?",
+      "caseSlug": "spleen-after-the-ascent-altitude",
+      "caseRef": "Case 203",
+      "options": [
+        {
+          "label": "Seek immediate medical evaluation and report the exact mountain elevation and descent timeline—without waiting for trait testing or assuming sea-level air will reverse the pain.",
+          "ok": true,
+          "why": "Survived Tuesday! Most patients in Colorado’s splenic-infarct referral series did not know they carried sickle cell trait beforehand, left-shoulder pain signals diaphragmatic irritation from an injured spleen, and sea-level air cannot reverse infarcted tissue."
+        },
+        {
+          "label": "Rest overnight with extra fluids since returning to sea level restores normal oxygen saturation and stops high-altitude illness.",
+          "ok": false,
+          "why": "Descending restores ambient oxygen, not necrotic splenic tissue; waiting out worsening upper-left abdominal and referred shoulder pain risks missed splenic infarction or rupture."
+        },
+        {
+          "label": "Order an outpatient hemoglobin electrophoresis test first and go to the emergency room only if the HbS percentage exceeds 50%.",
+          "ok": false,
+          "why": "Never delay emergency care for lab confirmation—and sickle cell trait typically sits below 50% HbS (40% in the Ecuador case), where protein fraction never serves as a safe-vs-unsafe threshold."
+        }
+      ]
+    },
+    {
+      "q": "An older relative with mild chronic kidney disease suddenly stops passing much urine, develops leg swelling, and passes black tarry stools over three days—yet feels no chest pain, has clear breathing, and sees no red blood in the toilet. What is the right move?",
+      "caseSlug": "antibody-and-the-scar-kidney",
+      "caseRef": "Case 204",
+      "options": [
+        {
+          "label": "Have them drink extra water over the weekend to flush the kidneys, and wait for routine clinic blood work unless they start coughing up blood.",
+          "ok": false,
+          "why": "Pushing water onto failing kidneys can trigger dangerous fluid overload, and severe renal-limited anti-GBM disease plus GI bleeding can escalate to lethal potassium levels with completely clear lungs."
+        },
+        {
+          "label": "Seek urgent emergency care right away, bringing any old baseline kidney lab numbers plus their full prescription and supplement list.",
+          "ok": true,
+          "why": "Survived Tuesday! Sudden oliguria and black stools demand immediate stabilization for dangerous potassium, acid, and GI bleeding, while old baseline creatinine values immediately prove an acute drop."
+        },
+        {
+          "label": "Stop their blood-pressure pills at home and wait to consent to emergency treatments until autoimmune antibody results come back from the lab.",
+          "ok": false,
+          "why": "Never stop prescribed medications solo or delay urgent stabilization like dialysis or transfusions for specialized serology—metabolic crises kill long before antibody panels finish."
+        }
+      ]
+    },
+    {
+      "q": "After playing along a crystal-clear lake shoreline in February, your dog suddenly begins shaking, loses coordination, and vomits while you are rinsing him off. What should you do right now?",
+      "caseSlug": "hazard-along-winter-shore-dog",
+      "caseRef": "Case 205",
+      "options": [
+        {
+          "label": "Induce vomiting immediately at home so he clears any swallowed shoreline plants before driving to the clinic.",
+          "ok": false,
+          "why": "Never induce vomiting in a neurologically impaired dog—impaired airway reflexes can send vomit straight into the lungs, causing fatal aspiration."
+        },
+        {
+          "label": "Walk back down to the beach first to scoop a jar of shoreline debris for lab confirmation, since clear winter water rarely carries algae.",
+          "ok": false,
+          "why": "Benthic cyanobacterial mats thrive beneath crystal-clear water even in winter, and delaying emergency supportive veterinary care to collect environmental samples costs irreplaceable minutes."
+        },
+        {
+          "label": "Stop him from licking his coat, transport him immediately to an emergency vet, and report the exact lake access point, timing, and any shoreline mat contact.",
+          "ok": true,
+          "why": "Survived Tuesday! There is no specific antidote for dihydroanatoxin-a, so blocking further ingestion and rushing straight to emergency supportive veterinary care is the only lifeline."
+        }
+      ]
+    },
+    {
+      "q": "A friend accidentally sweeps a red laser pointer labeled '5 mW' across your right eye for two seconds. Your eye feels zero pain and looks completely white, yet a small blurry dark spot sits in the middle of words when you read. What is your move?",
+      "caseSlug": "missing-spot-after-the-light-laser",
+      "caseRef": "Case 206",
+      "options": [
+        {
+          "label": "Skip driving, arrange immediate specialist eye assessment, and report the affected eye, exact central reading blind spot, and laser exposure—without waiting to verify device power.",
+          "ok": true,
+          "why": "Survived Tuesday! Retinal photoreceptors have no pain nerves, printed 5-mW labels cannot be verified at home, and immediate specialist imaging (OCT/autofluorescence) is needed regardless of pain."
+        },
+        {
+          "label": "Print an eye chart and Amsler grid at home; if you can still read the 20/20 line tomorrow morning, skip the clinic since the label caps power at 5 milliwatts.",
+          "ok": false,
+          "why": "Patients with permanent foveal laser burns can score 20/20 on a distance wall chart while retaining a persistent central scotoma, and cheap online pointers are frequently mislabeled."
+        },
+        {
+          "label": "Put on dark UV sunglasses and shine the laser onto a dark notebook cover to see whether it smokes so you can tell the doctor if it is truly overpowered.",
+          "ok": false,
+          "why": "Ordinary sunglasses do not block coherent laser beams, and specular reflections off household surfaces can inflict a second permanent retinal burn."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 6 Drops (Ep 2654–2754) (33)",
-      "tagline": "Freshly added on 2026-11-22 — 33 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 7 Drops (Ep 2755–2760) (6)",
+      "tagline": "Freshly added on 2026-11-22 — 6 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
+        "spleen-after-the-ascent-altitude",
+        "antibody-and-the-scar-kidney",
+        "hazard-along-winter-shore-dog",
+        "missing-spot-after-the-light-laser",
+        "cataract-pointed-beyond-the-eye",
+        "worm-in-lungs-blood-supply-dog"
+      ]
+    },
+    {
+      "id": "visual-pilot",
+      "label": "🩻 All Verified Exhibits (170)",
+      "tagline": "All 170 chapters featuring commercial-cleared primary case imaging (95), peer-reviewed reference exhibits (48), and verified hazard field photos (27).",
+      "slugs": [
+        "fractal-wood-burning",
+        "ottoman-bed-and-gravity",
+        "dry-ice-riding-shotgun",
+        "pressure-washer-pinhole",
+        "nail-gun-normal-xray",
+        "generator-beyond-the-wall",
+        "wire-behind-the-pain",
+        "lunch-looked-like-allergy",
+        "room-not-safe-to-finish",
+        "licorice-tea-paralysis",
+        "wild-garlic-deadly-twin",
+        "reheated-rice-and-botulism",
+        "durian-rum-and-auto-brewery",
+        "chocolate-brown-blood",
+        "steroid-cream-adrenal-crisis",
+        "bottle-that-wasnt-a-feed",
+        "heart-medicine-and-ketones",
+        "laundry-pod-unhurt-mouth",
+        "meal-and-the-match",
+        "jumping-spanish-mackerel",
+        "reusable-contacts-tap-water",
+        "lightning-fake-stroke",
+        "bee-stings-and-silent-kraits",
+        "boots-in-the-snow-and-heatstroke",
+        "one-finger-varicose-vein",
+        "plaster-cast-pain-and-bubbles",
+        "headache-after-the-birth",
+        "negative-test-ectopic-bleed",
+        "testicular-torsion-doppler",
+        "fall-beneath-the-scalp",
+        "shoulder-pain-spleen-and-stomach",
+        "bouquet-and-silent-bladder",
+        "hair-treatment-reached-the-cat",
+        "dog-flea-drops-on-kitten",
+        "grapes-and-puppy-bloat",
+        "blackened-silver-h2s-traps",
+        "unbruised-chests-silent-hearts",
+        "seatbelt-geometry-helmet-rings",
+        "nitazenes-fake-ct-bullets-otzi",
+        "migrating-heart-valves-air-sprays",
+        "silicone-airway-plugs-tube-traps",
+        "dieulafoy-arteries-sauna-gut-stasis",
+        "green-blue-organs-smoked-pills",
+        "meth-gut-infarction-rubbing-alcohol",
+        "calcified-heart-toothpaste-micro-tumors",
+        "silent-push-pin-choking-maternal",
+        "shark-strikes-car-jacks-pepper-myths",
+        "autopsy-that-reached-the-family",
+        "dust-that-outlasted-the-work",
+        "signal-in-the-vessel-wall",
+        "fractures-that-began-in-the-kidney",
+        "specimen-that-changed-the-story",
+        "pattern-was-not-the-poison",
+        "headache-needed-second-question",
+        "placenta-they-shared",
+        "test-beyond-the-scan-porphyria",
+        "level-that-looked-reassuring-valproate",
+        "bracelet-became-a-blood-test",
+        "toy-that-kept-growing-water-beads",
+        "flash-after-the-procedure-retina",
+        "infection-looked-like-bowel-pyometra",
+        "fever-was-not-the-whole-story",
+        "new-tablet-missing-clearance-baclofen",
+        "throat-looked-too-ordinary-epiglottis",
+        "sleepiness-began-in-the-bowel",
+        "breathlessness-long-prescription",
+        "old-injury-and-crowded-chest",
+        "blockage-in-the-less-likely-cat",
+        "small-stick-persistent-pain",
+        "headache-that-changed-the-chemistry",
+        "awn-beside-the-heart",
+        "lungs-that-did-not-complain-silica",
+        "new-antibiotic-slowing-heart",
+        "lithium-that-came-from-the-tube",
+        "chest-pain-after-the-vomiting",
+        "sore-throat-reached-the-bloodstream",
+        "illness-after-the-mushroom",
+        "abdominal-pain-without-a-wound",
+        "tank-after-the-collapse-h2s",
+        "van-that-was-not-empty",
+        "charger-between-phone-and-wall",
+        "room-was-warm-indoor-hypothermia",
+        "scan-before-the-flap-aorta",
+        "oil-on-the-wing-tea-tree",
+        "hook-and-the-changed-pupil",
+        "plant-and-the-swollen-brain-sago-palm",
+        "when-the-screen-fell-tv-tipover",
+        "quiet-gut-silent-blood-flow-rabbit",
+        "twisted-stomachs-button-batteries-sleep-off",
+        "current-left-no-mark-wet-voltage",
+        "glaze-in-the-pitcher-citrus-lead",
+        "when-ice-water-burns-ciguatera",
+        "black-sea-mad-honey-bradycardia",
+        "monkshood-aconitine-channel-lock",
+        "hot-baths-fentanyl-patches-deadly",
+        "overdose-that-hadnt-arrived-bupropion",
+        "antidepressant-opioid-screen-missed",
+        "poppy-seed-bagel-and-kratom-loophole",
+        "gas-station-royal-honey-blue-vision",
+        "remedy-that-left-a-mark-in-dna",
+        "why-common-diabetes-pills-turn-deadly",
+        "pressure-behind-the-reading-topiramate",
+        "potassium-that-rose-in-the-tube",
+        "piece-the-camera-couldnt-see-eoe",
+        "anesthetic-that-triggered-the-furnace",
+        "cherry-red-blood-and-burgundy-antidote",
+        "super-rat-bait-and-vitamin-k-trap",
+        "wound-hard-to-see-lawnmower-wire",
+        "line-not-the-retina-valsalva",
+        "eye-that-found-two-diabetics-guinea-pigs",
+        "small-hands-moving-treadmill-belt",
+        "thyroid-that-changed-in-the-test-biotin",
+        "step-that-kept-moving-escalator",
+        "one-entrance-injured-branch-scad",
+        "egg-that-would-not-leave-gecko",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "lump-not-lymph-node-hedgehog",
+        "injury-that-outlasted-crash-bowel",
+        "bruises-needed-different-question-hemophilia",
+        "clot-before-thick-wall-kitten-ate",
+        "burn-looked-like-infection-wet-cement",
+        "pulse-that-did-not-race-pheochromocytoma",
+        "tilt-needed-more-than-one-test-rabbit",
+        "handlebar-and-hidden-pancreatic-duct",
+        "missing-denture-faint-line-esophagus",
+        "burn-that-reached-the-heart-hf-acid",
+        "bleeding-behind-kidney-retroperitoneal",
+        "swelling-not-just-bone-disease-synovial",
+        "cloth-the-machine-caught-entanglement",
+        "twist-could-not-wait-for-scan-volvulus",
+        "pill-and-narrowed-passage-esophagitis",
+        "thread-across-the-road-kite-string",
+        "sample-taken-after-crisis-water-intox",
+        "bird-and-falling-blood-count-avian",
         "air-beyond-the-eye-orbital-emphysema",
         "antibody-test-stayed-negative-parasite",
         "paw-bore-weight-chinchilla-fracture",
@@ -7139,7 +8735,6 @@
         "aquarium-more-than-one-patient-palytoxin",
         "foam-was-not-neck-safeguard-trampoline",
         "fruit-kidneys-could-not-clear-starfruit",
-        "fume-left-different-record-welding",
         "ration-and-racing-heart-monensin-horse",
         "vitamin-that-left-crystals-oxalate",
         "scan-and-the-sound-mri-physics",
@@ -7152,14 +8747,19 @@
         "eggs-carried-yards-history-lead",
         "sun-completed-the-exposure-phytophoto",
         "infection-culture-could-not-grow",
-        "stone-not-the-whole-illness-tortoise"
+        "spleen-after-the-ascent-altitude",
+        "antibody-and-the-scar-kidney",
+        "hazard-along-winter-shore-dog",
+        "missing-spot-after-the-light-laser",
+        "worm-in-lungs-blood-supply-dog"
       ]
     },
     {
-      "id": "visual-pilot",
-      "label": "🩻 Real Clinical Exhibits (90)",
-      "tagline": "All 90 chapters featuring verified commercial-safe CC-BY X-rays, CTs, MRIs, ECGs, ultrasounds, and opt-in unsealable clinical photographs.",
+      "id": "primary-exhibits",
+      "label": "🏥 Primary Case Exhibits (95)",
+      "tagline": "The 95 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
+        "fractal-wood-burning",
         "dry-ice-riding-shotgun",
         "pressure-washer-pinhole",
         "nail-gun-normal-xray",
@@ -7204,6 +8804,7 @@
         "tank-after-the-collapse-h2s",
         "room-was-warm-indoor-hypothermia",
         "scan-before-the-flap-aorta",
+        "oil-on-the-wing-tea-tree",
         "hook-and-the-changed-pupil",
         "plant-and-the-swollen-brain-sago-palm",
         "pressure-behind-the-reading-topiramate",
@@ -7249,7 +8850,10 @@
         "scan-and-the-sound-mri-physics",
         "teeth-beneath-the-face-dental-abscess",
         "mist-was-part-of-history-humidifier",
-        "sun-completed-the-exposure-phytophoto"
+        "sun-completed-the-exposure-phytophoto",
+        "spleen-after-the-ascent-altitude",
+        "antibody-and-the-scar-kidney",
+        "missing-spot-after-the-light-laser"
       ]
     },
     {
@@ -7257,36 +8861,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "anesthetic-that-triggered-the-furnace",
-        "handlebar-and-hidden-pancreatic-duct",
-        "small-hands-moving-treadmill-belt",
-        "ring-and-unbroken-bone-avulsion",
-        "one-finger-varicose-vein",
-        "dry-ice-riding-shotgun",
-        "van-that-was-not-empty",
-        "potassium-that-rose-in-the-tube",
-        "pool-had-another-hazard-drain-suction",
-        "room-not-safe-to-finish",
-        "tank-after-the-collapse-h2s",
-        "family-behind-the-enzyme-g6pd",
         "battery-already-in-the-stomach",
-        "puppy-with-the-twisted-stomach-gdv",
-        "chocolate-brown-blood",
-        "thyroid-that-changed-in-the-test-biotin",
-        "aquarium-more-than-one-patient-palytoxin",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "super-rat-bait-and-vitamin-k-trap",
         "hair-treatment-reached-the-cat",
-        "reheated-rice-and-botulism",
-        "fractal-wood-burning",
-        "charger-between-phone-and-wall",
-        "wire-behind-the-pain",
-        "driveway-ied-truck-tire",
-        "spin-class-rhabdo",
-        "thread-across-the-road-kite-string",
+        "small-hands-moving-treadmill-belt",
+        "super-rat-bait-and-vitamin-k-trap",
         "boots-in-the-snow-and-heatstroke",
+        "aquarium-more-than-one-patient-palytoxin",
+        "handlebar-and-hidden-pancreatic-duct",
+        "one-finger-varicose-vein",
+        "room-not-safe-to-finish",
+        "anesthetic-that-triggered-the-furnace",
+        "driveway-ied-truck-tire",
+        "puppy-with-the-twisted-stomach-gdv",
+        "spin-class-rhabdo",
+        "thyroid-that-changed-in-the-test-biotin",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "charger-between-phone-and-wall",
+        "thread-across-the-road-kite-string",
+        "burn-looked-like-infection-wet-cement",
+        "pool-had-another-hazard-drain-suction",
+        "wire-behind-the-pain",
+        "ring-and-unbroken-bone-avulsion",
+        "reheated-rice-and-botulism",
         "hot-baths-fentanyl-patches-deadly",
-        "burn-looked-like-infection-wet-cement"
+        "chocolate-brown-blood",
+        "potassium-that-rose-in-the-tube",
+        "fractal-wood-burning",
+        "family-behind-the-enzyme-g6pd",
+        "tank-after-the-collapse-h2s",
+        "dry-ice-riding-shotgun",
+        "van-that-was-not-empty"
       ]
     },
     {
@@ -7342,7 +8946,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 36",
+      "label": "🐾 Pet Owner’s Mandatory 38",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }

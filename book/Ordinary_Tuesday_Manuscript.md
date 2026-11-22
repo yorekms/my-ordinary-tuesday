@@ -1,13 +1,13 @@
 # How Not to Die on an Ordinary Tuesday
 ### True Stories From the Autopsy Table, Deceptive Normal Tests, and the 60-Second Moves That Keep You Alive
 
-*Matthew Yorek / Deep Dive Forensic Network · Working Manuscript (202 Chapters · 2026-11-22)*
+*Matthew Yorek / Deep Dive Forensic Network · Working Manuscript (208 Chapters · 2026-11-22)*
 
 ---
 
 ## Table of Contents
 
-### Part I: The Garage, Backyard & Hardware Store (34 Chapters)
+### Part I: The Garage, Backyard & Hardware Store (35 Chapters)
 - **Chapter 1** — The 15,000-Volt Craft Table *(File № 001 · Ep 901)*
 - **Chapter 2** — The IED Parked in Your Driveway *(File № 002 · Ep 901)*
 - **Chapter 3** — When Furniture and Gravity Hold a Grudge *(File № 003 · Ep 901)*
@@ -42,184 +42,190 @@
 - **Chapter 32** — The Blood Dropped Eighty-One Percent—While the Brain Kept the Receipt *(File № 189 · Ep 2712)*
 - **Chapter 33** — The Bedroom Cloud That Turned Her Lungs Into a Barricade *(File № 194 · Ep 2717)*
 - **Chapter 34** — The Bends in a Landlocked Kitchen *(File № 195 · Ep 2718)*
+- **Chapter 35** — 20/20 on the Wall Chart—and a Permanently Scorched Bullseye *(File № 206 · Ep 2758)*
 
 ### Part II: The Kitchen & Dining Table (18 Chapters)
-- **Chapter 35** — The Wire Behind the Pain *(File № 008 · Ep 2283)*
-- **Chapter 36** — The Lunch That Looked Like an Allergy *(File № 009 · Ep 1171)*
-- **Chapter 37** — The Room That Was Not Safe to Finish *(File № 010 · Ep 2282)*
-- **Chapter 38** — The Herbal Tea That Stole Potassium *(File № 011 · Ep C112)*
-- **Chapter 39** — Wild Garlic's Lethal Lookalike *(File № 012 · Ep C115)*
-- **Chapter 40** — The Leftover Pasta and the Home-Canned Jar *(File № 013 · Ep C126)*
-- **Chapter 41** — The Fruit That Breaks Your Liver's Hangover Switch (and the Gut That Brews IPA) *(File № 014 · Ep 2330)*
-- **Chapter 42** — The Toothpick That Walked Out of Her Stomach and Into Her Liver *(File № 082 · Ep 2309)*
-- **Chapter 43** — 120 Over 70, 98% Oxygen, and a Hole in the Chest *(File № 090 · Ep 2318)*
-- **Chapter 44** — The Heart Attack Made of Banana *(File № 098 · Ep 2607)*
-- **Chapter 45** — The Lemon-Water Pitcher, the 0.6 Serum Fakeout, and the Skeleton That Paid It Back *(File № 117 · Ep 2041)*
-- **Chapter 46** — The Fresh Reef Fish That Made Ice Water Burn Like Fire *(File № 118 · Ep C122)*
-- **Chapter 47** — The Artisanal Honey That Drops Your Heart to 38 Beats a Minute *(File № 119 · Ep 2323)*
-- **Chapter 48** — The Herbal Root Soup That Locks Your Heart's Floodgates Open *(File № 120 · Ep C136)*
-- **Chapter 49** — His Vomiting Stopped at Hour Eight—While His Liver Hit 11,578 *(File № 183 · Ep 2706)*
-- **Chapter 50** — 0.38 Billionths of a Gram—and the Freezer Leftovers That Renamed the Snapper *(File № 184 · Ep 2707)*
-- **Chapter 51** — Six Days After the Garnish: The Hiccups That Mimicked a Stroke *(File № 188 · Ep 2711)*
-- **Chapter 52** — When the Canary in the Coal Mine Is Breakfast *(File № 199 · Ep 2751)*
+- **Chapter 36** — The Wire Behind the Pain *(File № 008 · Ep 2283)*
+- **Chapter 37** — The Lunch That Looked Like an Allergy *(File № 009 · Ep 1171)*
+- **Chapter 38** — The Room That Was Not Safe to Finish *(File № 010 · Ep 2282)*
+- **Chapter 39** — The Herbal Tea That Stole Potassium *(File № 011 · Ep C112)*
+- **Chapter 40** — Wild Garlic's Lethal Lookalike *(File № 012 · Ep C115)*
+- **Chapter 41** — The Leftover Pasta and the Home-Canned Jar *(File № 013 · Ep C126)*
+- **Chapter 42** — The Fruit That Breaks Your Liver's Hangover Switch (and the Gut That Brews IPA) *(File № 014 · Ep 2330)*
+- **Chapter 43** — The Toothpick That Walked Out of Her Stomach and Into Her Liver *(File № 082 · Ep 2309)*
+- **Chapter 44** — 120 Over 70, 98% Oxygen, and a Hole in the Chest *(File № 090 · Ep 2318)*
+- **Chapter 45** — The Heart Attack Made of Banana *(File № 098 · Ep 2607)*
+- **Chapter 46** — The Lemon-Water Pitcher, the 0.6 Serum Fakeout, and the Skeleton That Paid It Back *(File № 117 · Ep 2041)*
+- **Chapter 47** — The Fresh Reef Fish That Made Ice Water Burn Like Fire *(File № 118 · Ep C122)*
+- **Chapter 48** — The Artisanal Honey That Drops Your Heart to 38 Beats a Minute *(File № 119 · Ep 2323)*
+- **Chapter 49** — The Herbal Root Soup That Locks Your Heart's Floodgates Open *(File № 120 · Ep C136)*
+- **Chapter 50** — His Vomiting Stopped at Hour Eight—While His Liver Hit 11,578 *(File № 183 · Ep 2706)*
+- **Chapter 51** — 0.38 Billionths of a Gram—and the Freezer Leftovers That Renamed the Snapper *(File № 184 · Ep 2707)*
+- **Chapter 52** — Six Days After the Garnish: The Hiccups That Mimicked a Stroke *(File № 188 · Ep 2711)*
+- **Chapter 53** — When the Canary in the Coal Mine Is Breakfast *(File № 199 · Ep 2751)*
 
 ### Part III: Medicine Cabinet Roulette (34 Chapters)
-- **Chapter 53** — The Toothache That Turned the Blood Chocolate-Brown *(File № 015 · Ep 2252)*
-- **Chapter 54** — Medicine Cabinet Roulette: Sleep Aids, Caffeine Rebound & Whippets *(File № 016 · Ep 903)*
-- **Chapter 55** — The Ten-Year Prescription *(File № 017 · Ep 2289)*
-- **Chapter 56** — The Cream and the Missing Stress Response *(File № 018 · Ep 2293)*
-- **Chapter 57** — The Bottle That Wasn't a Feed *(File № 019 · Ep 2253)*
-- **Chapter 58** — The Heart Medicine and the Ketones *(File № 020 · Ep 2249)*
-- **Chapter 59** — The Mouth That Looked Unhurt *(File № 021 · Ep 2245)*
-- **Chapter 60** — Turquoise Organs, Smoked Stomach Pills & Veterinary Vapor *(File № 048 · Ep 914)*
-- **Chapter 61** — Sub-Lethal Meth, Zero-Ethanol Comas & the Five-Day Brain Fuse *(File № 049 · Ep 915)*
-- **Chapter 62** — Silent Push-Pin Choking, Hive-Free Shock & Bloodless Ruptures *(File № 051 · Ep 917)*
-- **Chapter 63** — The Cultural Hall Pass Called “Sleeping It Off” *(File № 057 · Ep 2233)*
-- **Chapter 64** — Therapeutic Level, Normal Liver—and 284 Micromoles of Ammonia in the Brain *(File № 068 · Ep 2246)*
-- **Chapter 65** — The “Healing” Fair Bracelet That Tested at 17,000 ppm Lead *(File № 069 · Ep 2250)*
-- **Chapter 66** — Two Back-Pain Pills, Zero Working Drain, and a GCS-8 Coma *(File № 076 · Ep 2300)*
-- **Chapter 67** — Fifteen Months of Bladder Pills, Half a Lung Left *(File № 079 · Ep 2306)*
-- **Chapter 68** — Two Clinics, One Root, Zero Potassium *(File № 085 · Ep 2312)*
-- **Chapter 69** — The Ear-Infection Pill That Pulled the Cardiac Brake *(File № 087 · Ep 2315)*
-- **Chapter 70** — The Battery That Made It to the Stomach—After Melting the Aorta *(File № 103 · Ep 2612)*
-- **Chapter 71** — The 106-Degree Bath That Wrung Out a Fentanyl Patch *(File № 121 · Ep C113)*
-- **Chapter 72** — The Over-the-Counter Sleep Aid That Melted Muscle After the Mind Cleared *(File № 122 · Ep 2029)*
-- **Chapter 73** — The Overdose That Hadn't Arrived Yet: Why Extended-Release Bupropion Bites Hours Later *(File № 123 · Ep 1493)*
-- **Chapter 74** — The Antibiotic That Kept Rewiring the Gut Eleven Days After the Last Pill *(File № 124 · Ep 1408)*
-- **Chapter 75** — The Gas-Station 'Brain Booster' That Stops Breathing and Ghosts the Opioid Screen *(File № 125 · Ep 2115)*
-- **Chapter 76** — The Test That Flags a Bagel—and Misses a 93-MME Gas-Station Opioid *(File № 126 · Ep 2254)*
-- **Chapter 77** — The Gas-Station 'Royal Honey' That Crashes Blood Pressure and Paints Traffic Lights Neon Blue *(File № 127 · Ep 2258)*
-- **Chapter 78** — The Slimming Herb That Permanently Carved Its Initials Into Human DNA *(File № 128 · Ep 2141)*
-- **Chapter 79** — When a Stomach Bug or One Wrong Pill Turns Common Diabetes Meds Into Biochemical Bombs *(File № 129 · Ep C129)*
-- **Chapter 80** — 58 Millimeters of Mercury—and the Shattered Eye That Read 14 *(File № 130 · Ep 1150)*
-- **Chapter 81** — The Hair-and-Nails Vitamin That Spoofed a Multi-Million-Dollar Lab *(File № 141 · Ep 2625)*
-- **Chapter 82** — She Took Every Vitamin on Schedule—And Her Brain Ran Out of Spark Plugs Anyway *(File № 147 · Ep 2631)*
-- **Chapter 83** — Blood Sugar 44, Zero Diabetes—and the Multivitamin That Turned Insulin Into a Time Bomb *(File № 156 · Ep 2640)*
-- **Chapter 84** — Five-and-a-Half Liters Behind a Bolted Kidney Dam *(File № 168 · Ep 2652)*
-- **Chapter 85** — Ferritin 1,426, Undetectable Vitamin C—and the 18th-Century Ghost Behind a Limp *(File № 185 · Ep 2708)*
-- **Chapter 86** — Expensive Urine—and the Glass Shards That Poured Concrete Over Both Kidneys *(File № 191 · Ep 2714)*
+- **Chapter 54** — The Toothache That Turned the Blood Chocolate-Brown *(File № 015 · Ep 2252)*
+- **Chapter 55** — Medicine Cabinet Roulette: Sleep Aids, Caffeine Rebound & Whippets *(File № 016 · Ep 903)*
+- **Chapter 56** — The Ten-Year Prescription *(File № 017 · Ep 2289)*
+- **Chapter 57** — The Cream and the Missing Stress Response *(File № 018 · Ep 2293)*
+- **Chapter 58** — The Bottle That Wasn't a Feed *(File № 019 · Ep 2253)*
+- **Chapter 59** — The Heart Medicine and the Ketones *(File № 020 · Ep 2249)*
+- **Chapter 60** — The Mouth That Looked Unhurt *(File № 021 · Ep 2245)*
+- **Chapter 61** — Turquoise Organs, Smoked Stomach Pills & Veterinary Vapor *(File № 048 · Ep 914)*
+- **Chapter 62** — Sub-Lethal Meth, Zero-Ethanol Comas & the Five-Day Brain Fuse *(File № 049 · Ep 915)*
+- **Chapter 63** — Silent Push-Pin Choking, Hive-Free Shock & Bloodless Ruptures *(File № 051 · Ep 917)*
+- **Chapter 64** — The Cultural Hall Pass Called “Sleeping It Off” *(File № 057 · Ep 2233)*
+- **Chapter 65** — Therapeutic Level, Normal Liver—and 284 Micromoles of Ammonia in the Brain *(File № 068 · Ep 2246)*
+- **Chapter 66** — The “Healing” Fair Bracelet That Tested at 17,000 ppm Lead *(File № 069 · Ep 2250)*
+- **Chapter 67** — Two Back-Pain Pills, Zero Working Drain, and a GCS-8 Coma *(File № 076 · Ep 2300)*
+- **Chapter 68** — Fifteen Months of Bladder Pills, Half a Lung Left *(File № 079 · Ep 2306)*
+- **Chapter 69** — Two Clinics, One Root, Zero Potassium *(File № 085 · Ep 2312)*
+- **Chapter 70** — The Ear-Infection Pill That Pulled the Cardiac Brake *(File № 087 · Ep 2315)*
+- **Chapter 71** — The Battery That Made It to the Stomach—After Melting the Aorta *(File № 103 · Ep 2612)*
+- **Chapter 72** — The 106-Degree Bath That Wrung Out a Fentanyl Patch *(File № 121 · Ep C113)*
+- **Chapter 73** — The Over-the-Counter Sleep Aid That Melted Muscle After the Mind Cleared *(File № 122 · Ep 2029)*
+- **Chapter 74** — The Overdose That Hadn't Arrived Yet: Why Extended-Release Bupropion Bites Hours Later *(File № 123 · Ep 1493)*
+- **Chapter 75** — The Antibiotic That Kept Rewiring the Gut Eleven Days After the Last Pill *(File № 124 · Ep 1408)*
+- **Chapter 76** — The Gas-Station 'Brain Booster' That Stops Breathing and Ghosts the Opioid Screen *(File № 125 · Ep 2115)*
+- **Chapter 77** — The Test That Flags a Bagel—and Misses a 93-MME Gas-Station Opioid *(File № 126 · Ep 2254)*
+- **Chapter 78** — The Gas-Station 'Royal Honey' That Crashes Blood Pressure and Paints Traffic Lights Neon Blue *(File № 127 · Ep 2258)*
+- **Chapter 79** — The Slimming Herb That Permanently Carved Its Initials Into Human DNA *(File № 128 · Ep 2141)*
+- **Chapter 80** — When a Stomach Bug or One Wrong Pill Turns Common Diabetes Meds Into Biochemical Bombs *(File № 129 · Ep C129)*
+- **Chapter 81** — 58 Millimeters of Mercury—and the Shattered Eye That Read 14 *(File № 130 · Ep 1150)*
+- **Chapter 82** — The Hair-and-Nails Vitamin That Spoofed a Multi-Million-Dollar Lab *(File № 141 · Ep 2625)*
+- **Chapter 83** — She Took Every Vitamin on Schedule—And Her Brain Ran Out of Spark Plugs Anyway *(File № 147 · Ep 2631)*
+- **Chapter 84** — Blood Sugar 44, Zero Diabetes—and the Multivitamin That Turned Insulin Into a Time Bomb *(File № 156 · Ep 2640)*
+- **Chapter 85** — Five-and-a-Half Liters Behind a Bolted Kidney Dam *(File № 168 · Ep 2652)*
+- **Chapter 86** — Ferritin 1,426, Undetectable Vitamin C—and the 18th-Century Ghost Behind a Limp *(File № 185 · Ep 2708)*
+- **Chapter 87** — Expensive Urine—and the Glass Shards That Poured Concrete Over Both Kidneys *(File № 191 · Ep 2714)*
 
-### Part IV: The Gym, Trail & Vacation (21 Chapters)
-- **Chapter 87** — The Pain That Outlasted the Class *(File № 022 · Ep 2291)*
-- **Chapter 88** — The Meal and the Match *(File № 023 · Ep 2286)*
-- **Chapter 89** — Struck by a 20-Kilogram Missile With Fins (and the Cold-Water Lung Flood) *(File № 024 · Ep 902)*
-- **Chapter 90** — The Eye That Would Not Clear *(File № 025 · Ep 2304)*
-- **Chapter 91** — After the Flash, One Side Would Not Move *(File № 026 · Ep 2251)*
-- **Chapter 92** — Fangs, Stingers & the Painless Bite You Sleep Through *(File № 027 · Ep 909)*
-- **Chapter 93** — Paradoxical Undressing & the Heat That Comes Back After Cooling *(File № 028 · Ep 2248)*
-- **Chapter 94** — When Safety Gear Flips Sides: Belt Fulcrums, Helmet Rings, and Day-One Clots *(File № 043 · Ep 908)*
-- **Chapter 95** — Liquid Blades, Slipped Car Jacks & the 180-Second Shark Bleed *(File № 052 · Ep 918)*
-- **Chapter 96** — The Pool With Too Many Watchers—and the Blood That Turned to Acid *(File № 071 · Ep 2287)*
-- **Chapter 97** — The Barbed Grass Seed Marching Beside His Heart *(File № 084 · Ep 2311)*
-- **Chapter 98** — Sweater Weather Outside, 112°F Behind the Glass *(File № 096 · Ep 2605)*
-- **Chapter 99** — The Metal Staircase That Keeps Driving After You Hit the Floor *(File № 143 · Ep 2627)*
-- **Chapter 100** — The Blunt Spear, the Normal White Count, and the Enzyme Nobody Checked *(File № 155 · Ep 2639)*
-- **Chapter 101** — The Glass-Coated Tripwire Stretched Across Traffic *(File № 167 · Ep 2651)*
-- **Chapter 102** — 96% Oxygen, a Strong Wrist Pulse—and Bone Scissors Under the Collarbone *(File № 180 · Ep 2703)*
-- **Chapter 103** — Ventilator, IVIG, Plasma Exchange—and the Apple-Seed Culprit Under the Matted Hair *(File № 181 · Ep 2704)*
-- **Chapter 104** — Drinking Water Is Not Sinus Water—And the Fungal Test That Hauled Up an Amoeba *(File № 182 · Ep 2705)*
-- **Chapter 105** — The Giant Marshmallow That Locked the Skull and Folded the Neck *(File № 187 · Ep 2710)*
-- **Chapter 106** — Clear Water, Roaring Pump, Missing Cover *(File № 197 · Ep 2720)*
-- **Chapter 107** — The Stencil Built by Sleeves, Sap, and Sunlight *(File № 200 · Ep 2752)*
+### Part IV: The Gym, Trail & Vacation (22 Chapters)
+- **Chapter 88** — The Pain That Outlasted the Class *(File № 022 · Ep 2291)*
+- **Chapter 89** — The Meal and the Match *(File № 023 · Ep 2286)*
+- **Chapter 90** — Struck by a 20-Kilogram Missile With Fins (and the Cold-Water Lung Flood) *(File № 024 · Ep 902)*
+- **Chapter 91** — The Eye That Would Not Clear *(File № 025 · Ep 2304)*
+- **Chapter 92** — After the Flash, One Side Would Not Move *(File № 026 · Ep 2251)*
+- **Chapter 93** — Fangs, Stingers & the Painless Bite You Sleep Through *(File № 027 · Ep 909)*
+- **Chapter 94** — Paradoxical Undressing & the Heat That Comes Back After Cooling *(File № 028 · Ep 2248)*
+- **Chapter 95** — When Safety Gear Flips Sides: Belt Fulcrums, Helmet Rings, and Day-One Clots *(File № 043 · Ep 908)*
+- **Chapter 96** — Liquid Blades, Slipped Car Jacks & the 180-Second Shark Bleed *(File № 052 · Ep 918)*
+- **Chapter 97** — The Pool With Too Many Watchers—and the Blood That Turned to Acid *(File № 071 · Ep 2287)*
+- **Chapter 98** — The Barbed Grass Seed Marching Beside His Heart *(File № 084 · Ep 2311)*
+- **Chapter 99** — Sweater Weather Outside, 112°F Behind the Glass *(File № 096 · Ep 2605)*
+- **Chapter 100** — The Metal Staircase That Keeps Driving After You Hit the Floor *(File № 143 · Ep 2627)*
+- **Chapter 101** — The Blunt Spear, the Normal White Count, and the Enzyme Nobody Checked *(File № 155 · Ep 2639)*
+- **Chapter 102** — The Glass-Coated Tripwire Stretched Across Traffic *(File № 167 · Ep 2651)*
+- **Chapter 103** — 96% Oxygen, a Strong Wrist Pulse—and Bone Scissors Under the Collarbone *(File № 180 · Ep 2703)*
+- **Chapter 104** — Ventilator, IVIG, Plasma Exchange—and the Apple-Seed Culprit Under the Matted Hair *(File № 181 · Ep 2704)*
+- **Chapter 105** — Drinking Water Is Not Sinus Water—And the Fungal Test That Hauled Up an Amoeba *(File № 182 · Ep 2705)*
+- **Chapter 106** — The Giant Marshmallow That Locked the Skull and Folded the Neck *(File № 187 · Ep 2710)*
+- **Chapter 107** — Clear Water, Roaring Pump, Missing Cover *(File № 197 · Ep 2720)*
+- **Chapter 108** — The Stencil Built by Sleeves, Sap, and Sunlight *(File № 200 · Ep 2752)*
+- **Chapter 109** — Zero Clots on CT, 13.8 Hemoglobin—and a Dying Spleen at Sea Level *(File № 203 · Ep 2755)*
 
-### Part V: “The First Test Looked Normal” (59 Chapters)
-- **Chapter 108** — The One-Finger Fix That Stops a Fatal Bathroom Bleed *(File № 029 · Ep 905)*
-- **Chapter 109** — The Cast That Hid a Flesh-Eating Fire *(File № 030 · Ep 905)*
-- **Chapter 110** — The Headache After the Birth *(File № 031 · Ep 2600)*
-- **Chapter 111** — The Negative Test and the Blood in the Abdomen *(File № 032 · Ep 2298)*
-- **Chapter 112** — The Blood Flow That Did Not Clear the Testicle *(File № 033 · Ep 2295)*
-- **Chapter 113** — The Fall Beneath the Scalp *(File № 034 · Ep 2232)*
-- **Chapter 114** — Symptoms You Never Sleep Off: Left Shoulder Pain, Dry Retching & Drop-Attack Headaches *(File № 035 · Ep 2292)*
-- **Chapter 115** — Unbruised Chests, Silent Plumbing, and Hearts on a Fuse *(File № 042 · Ep 907)*
-- **Chapter 116** — Vanishing Poisons, Fake Bullets, and the Machine That Hallucinated Evidence *(File № 044 · Ep 910)*
-- **Chapter 117** — When Heart Valves Go Touring and Medical Sprays Inject Air *(File № 045 · Ep 911)*
-- **Chapter 118** — Sixty-Second Silicone Casts and the Myth of ‘Minimally Invasive’ *(File № 046 · Ep 912)*
-- **Chapter 119** — Pinpoint Gut Fire Hoses, Lying Blood Counts, and the Eleven-Day Sauna Stomach *(File № 047 · Ep 913)*
-- **Chapter 120** — Calcified Heart Toothpaste, Telescoping Arteries & 380-Gram Traps *(File № 050 · Ep 916)*
-- **Chapter 121** — The Umbrella Syringe, False Lung Floats & Shattered Forensic Rules *(File № 054 · Ep 920)*
-- **Chapter 122** — The Wax Block That Reopened a Family Tree *(File № 055 · Ep 2230)*
-- **Chapter 123** — The Warning Lights Flashing Inside the Brain’s Plumbing *(File № 058 · Ep 2234)*
-- **Chapter 124** — The Empty Hallway and the Locked Safe *(File № 060 · Ep 2236)*
-- **Chapter 125** — The Footprints That Looked Like Asphyxia—Not the Drug *(File № 061 · Ep 2237)*
-- **Chapter 126** — The Skin Cancer That Never Metastasized—and Still Killed *(File № 062 · Ep 2238)*
-- **Chapter 127** — The Headache That Shifted on the Stairs *(File № 063 · Ep 2239)*
-- **Chapter 128** — The Aorta That Popped—and the Labs That Refused to Speak *(File № 064 · Ep 2240)*
-- **Chapter 129** — One Placenta, Three Lives, and the Valve That Went One Way *(File № 065 · Ep 2241)*
-- **Chapter 130** — The 9-Centimeter Colon With Textbook Vitals *(File № 066 · Ep 2243)*
-- **Chapter 131** — The Painless Flash You Blamed on the Laser *(File № 073 · Ep 2294)*
-- **Chapter 132** — The Breaking Fever That Hid a Collapsing Spine *(File № 075 · Ep 2297)*
-- **Chapter 133** — The Tidy Tonsils Sitting Above a Walnut-Sized Airway Trap *(File № 077 · Ep 2301)*
-- **Chapter 134** — The 135/95 Baby and the Telescoping Gut *(File № 078 · Ep 2302)*
-- **Chapter 135** — Two Years Later, His Stomach Moved Upstairs *(File № 080 · Ep 2307)*
-- **Chapter 136** — Three Clear Visits, a Sodium of 114, and a Bleeding Pea-Sized Gland *(File № 083 · Ep 2310)*
-- **Chapter 137** — The Overdose Inside the Plastic Tube *(File № 088 · Ep 2316)*
-- **Chapter 138** — The Sore Throat That Boarded the Jugular *(File № 091 · Ep 2319)*
-- **Chapter 139** — The Internal Hemorrhage With a Resting Pulse of 67 *(File № 093 · Ep 2601)*
-- **Chapter 140** — The Clear CT Angiogram Six Days Before Open-Heart Surgery *(File № 104 · Ep 2613)*
-- **Chapter 141** — The Negative Legionella Test That Only Hunted One Serogroup *(File № 107 · Ep 2616)*
-- **Chapter 142** — The Recovering Platelet Count That Hid an Unfinished Immune Attack *(File № 110 · Ep 2619)*
-- **Chapter 143** — Twisted Stomachs, Button Batteries, and Symptoms You Never Sleep Off *(File № 112 · Ep 906)*
-- **Chapter 144** — The Lethal Potassium That Happened Inside the Hospital Wall *(File № 131 · Ep 1149)*
-- **Chapter 145** — The Pristine Esophagus Hiding 169 Immune Cells Under the Lens *(File № 132 · Ep 1151)*
-- **Chapter 146** — The Operating-Room Furnace That Starts Before the Fever *(File № 133 · Ep 2042)*
-- **Chapter 147** — Cold Copper Pennies, 90 Seconds to Flatline, and a Bag of Soybean Oil *(File № 134 · Ep 2074)*
-- **Chapter 148** — 99% Oxygen on the Finger, Cherry-Red Veins, and the Burgundy Cure That Broke the Lab *(File № 135 · Ep 2064)*
-- **Chapter 149** — The Sneeze That Painted a Fake Retinal Detachment *(File № 138 · Ep 2622)*
-- **Chapter 150** — The Clean ECG, the Blank Left Wall, and the One-Door Heart *(File № 144 · Ep 2628)*
-- **Chapter 151** — 29,000 PSI Around a Two-Month-Old Finger—And the Belt That Stayed After the Hair Left *(File № 146 · Ep 2630)*
-- **Chapter 152** — The Clear Day-One Organs, the Two-Year Traffic Jam, and the Scar Built by a Seatbelt *(File № 149 · Ep 2633)*
-- **Chapter 153** — Two Blood Thinners, a Fire Alarm in the Test Tube, and the 61-Unit Autoimmune Gremlin *(File № 150 · Ep 2634)*
-- **Chapter 154** — 220 Over 135, Soaking the Gown—and a Smug Resting Pulse of 75 *(File № 153 · Ep 2637)*
-- **Chapter 155** — The Redacted Lower Denture and the 130-Hounsfield Ghost in the Throat *(File № 158 · Ep 2642)*
-- **Chapter 156** — 9,000 Platelets, Massive Clots—and the Invisible Syringe Flush That Lit the Fuse *(File № 159 · Ep 2643)*
-- **Chapter 157** — Dry Kitchen Floor, Burst Pipe Behind the Wall *(File № 162 · Ep 2646)*
-- **Chapter 158** — Ninety-Seven Percent Oxygen and the Scanner They Had to Skip *(File № 165 · Ep 2649)*
-- **Chapter 159** — Zero Pain, Zero Broken Bones—and Air Inside the Skull *(File № 170 · Ep 2654)*
-- **Chapter 160** — The Burglar Inside the Lungs—and the Silent Alarm Wire *(File № 171 · Ep 2655)*
-- **Chapter 161** — ALT Under Five, a Math Typo in Print—and 11,406 Micrograms of Copper *(File № 174 · Ep 2658)*
-- **Chapter 162** — 58% Sludge in the Veins, Rising Tide in the Lungs—and a Day-10 Name *(File № 177 · Ep 2700)*
-- **Chapter 163** — Two Perfectly Matching Labels—Both Attached to the Wrong Human *(File № 179 · Ep 2702)*
-- **Chapter 164** — Zero X-Rays—and Twenty-Five Minutes Inside a Magnetic Water Hammer *(File № 192 · Ep 2715)*
-- **Chapter 165** — Two Broken Blueprints, One Shattered Blood Count, and the Mother’s Normal 6.0 *(File № 198 · Ep 2750)*
-- **Chapter 166** — The Valve Infection That Refused to Grow in a Dish *(File № 201 · Ep 2753)*
+### Part V: “The First Test Looked Normal” (61 Chapters)
+- **Chapter 110** — The One-Finger Fix That Stops a Fatal Bathroom Bleed *(File № 029 · Ep 905)*
+- **Chapter 111** — The Cast That Hid a Flesh-Eating Fire *(File № 030 · Ep 905)*
+- **Chapter 112** — The Headache After the Birth *(File № 031 · Ep 2600)*
+- **Chapter 113** — The Negative Test and the Blood in the Abdomen *(File № 032 · Ep 2298)*
+- **Chapter 114** — The Blood Flow That Did Not Clear the Testicle *(File № 033 · Ep 2295)*
+- **Chapter 115** — The Fall Beneath the Scalp *(File № 034 · Ep 2232)*
+- **Chapter 116** — Symptoms You Never Sleep Off: Left Shoulder Pain, Dry Retching & Drop-Attack Headaches *(File № 035 · Ep 2292)*
+- **Chapter 117** — Unbruised Chests, Silent Plumbing, and Hearts on a Fuse *(File № 042 · Ep 907)*
+- **Chapter 118** — Vanishing Poisons, Fake Bullets, and the Machine That Hallucinated Evidence *(File № 044 · Ep 910)*
+- **Chapter 119** — When Heart Valves Go Touring and Medical Sprays Inject Air *(File № 045 · Ep 911)*
+- **Chapter 120** — Sixty-Second Silicone Casts and the Myth of ‘Minimally Invasive’ *(File № 046 · Ep 912)*
+- **Chapter 121** — Pinpoint Gut Fire Hoses, Lying Blood Counts, and the Eleven-Day Sauna Stomach *(File № 047 · Ep 913)*
+- **Chapter 122** — Calcified Heart Toothpaste, Telescoping Arteries & 380-Gram Traps *(File № 050 · Ep 916)*
+- **Chapter 123** — The Umbrella Syringe, False Lung Floats & Shattered Forensic Rules *(File № 054 · Ep 920)*
+- **Chapter 124** — The Wax Block That Reopened a Family Tree *(File № 055 · Ep 2230)*
+- **Chapter 125** — The Warning Lights Flashing Inside the Brain’s Plumbing *(File № 058 · Ep 2234)*
+- **Chapter 126** — The Empty Hallway and the Locked Safe *(File № 060 · Ep 2236)*
+- **Chapter 127** — The Footprints That Looked Like Asphyxia—Not the Drug *(File № 061 · Ep 2237)*
+- **Chapter 128** — The Skin Cancer That Never Metastasized—and Still Killed *(File № 062 · Ep 2238)*
+- **Chapter 129** — The Headache That Shifted on the Stairs *(File № 063 · Ep 2239)*
+- **Chapter 130** — The Aorta That Popped—and the Labs That Refused to Speak *(File № 064 · Ep 2240)*
+- **Chapter 131** — One Placenta, Three Lives, and the Valve That Went One Way *(File № 065 · Ep 2241)*
+- **Chapter 132** — The 9-Centimeter Colon With Textbook Vitals *(File № 066 · Ep 2243)*
+- **Chapter 133** — The Painless Flash You Blamed on the Laser *(File № 073 · Ep 2294)*
+- **Chapter 134** — The Breaking Fever That Hid a Collapsing Spine *(File № 075 · Ep 2297)*
+- **Chapter 135** — The Tidy Tonsils Sitting Above a Walnut-Sized Airway Trap *(File № 077 · Ep 2301)*
+- **Chapter 136** — The 135/95 Baby and the Telescoping Gut *(File № 078 · Ep 2302)*
+- **Chapter 137** — Two Years Later, His Stomach Moved Upstairs *(File № 080 · Ep 2307)*
+- **Chapter 138** — Three Clear Visits, a Sodium of 114, and a Bleeding Pea-Sized Gland *(File № 083 · Ep 2310)*
+- **Chapter 139** — The Overdose Inside the Plastic Tube *(File № 088 · Ep 2316)*
+- **Chapter 140** — The Sore Throat That Boarded the Jugular *(File № 091 · Ep 2319)*
+- **Chapter 141** — The Internal Hemorrhage With a Resting Pulse of 67 *(File № 093 · Ep 2601)*
+- **Chapter 142** — The Clear CT Angiogram Six Days Before Open-Heart Surgery *(File № 104 · Ep 2613)*
+- **Chapter 143** — The Negative Legionella Test That Only Hunted One Serogroup *(File № 107 · Ep 2616)*
+- **Chapter 144** — The Recovering Platelet Count That Hid an Unfinished Immune Attack *(File № 110 · Ep 2619)*
+- **Chapter 145** — Twisted Stomachs, Button Batteries, and Symptoms You Never Sleep Off *(File № 112 · Ep 906)*
+- **Chapter 146** — The Lethal Potassium That Happened Inside the Hospital Wall *(File № 131 · Ep 1149)*
+- **Chapter 147** — The Pristine Esophagus Hiding 169 Immune Cells Under the Lens *(File № 132 · Ep 1151)*
+- **Chapter 148** — The Operating-Room Furnace That Starts Before the Fever *(File № 133 · Ep 2042)*
+- **Chapter 149** — Cold Copper Pennies, 90 Seconds to Flatline, and a Bag of Soybean Oil *(File № 134 · Ep 2074)*
+- **Chapter 150** — 99% Oxygen on the Finger, Cherry-Red Veins, and the Burgundy Cure That Broke the Lab *(File № 135 · Ep 2064)*
+- **Chapter 151** — The Sneeze That Painted a Fake Retinal Detachment *(File № 138 · Ep 2622)*
+- **Chapter 152** — The Clean ECG, the Blank Left Wall, and the One-Door Heart *(File № 144 · Ep 2628)*
+- **Chapter 153** — 29,000 PSI Around a Two-Month-Old Finger—And the Belt That Stayed After the Hair Left *(File № 146 · Ep 2630)*
+- **Chapter 154** — The Clear Day-One Organs, the Two-Year Traffic Jam, and the Scar Built by a Seatbelt *(File № 149 · Ep 2633)*
+- **Chapter 155** — Two Blood Thinners, a Fire Alarm in the Test Tube, and the 61-Unit Autoimmune Gremlin *(File № 150 · Ep 2634)*
+- **Chapter 156** — 220 Over 135, Soaking the Gown—and a Smug Resting Pulse of 75 *(File № 153 · Ep 2637)*
+- **Chapter 157** — The Redacted Lower Denture and the 130-Hounsfield Ghost in the Throat *(File № 158 · Ep 2642)*
+- **Chapter 158** — 9,000 Platelets, Massive Clots—and the Invisible Syringe Flush That Lit the Fuse *(File № 159 · Ep 2643)*
+- **Chapter 159** — Dry Kitchen Floor, Burst Pipe Behind the Wall *(File № 162 · Ep 2646)*
+- **Chapter 160** — Ninety-Seven Percent Oxygen and the Scanner They Had to Skip *(File № 165 · Ep 2649)*
+- **Chapter 161** — Zero Pain, Zero Broken Bones—and Air Inside the Skull *(File № 170 · Ep 2654)*
+- **Chapter 162** — The Burglar Inside the Lungs—and the Silent Alarm Wire *(File № 171 · Ep 2655)*
+- **Chapter 163** — ALT Under Five, a Math Typo in Print—and 11,406 Micrograms of Copper *(File № 174 · Ep 2658)*
+- **Chapter 164** — 58% Sludge in the Veins, Rising Tide in the Lungs—and a Day-10 Name *(File № 177 · Ep 2700)*
+- **Chapter 165** — Two Perfectly Matching Labels—Both Attached to the Wrong Human *(File № 179 · Ep 2702)*
+- **Chapter 166** — Zero X-Rays—and Twenty-Five Minutes Inside a Magnetic Water Hammer *(File № 192 · Ep 2715)*
+- **Chapter 167** — Two Broken Blueprints, One Shattered Blood Count, and the Mother’s Normal 6.0 *(File № 198 · Ep 2750)*
+- **Chapter 168** — The Valve Infection That Refused to Grow in a Dish *(File № 201 · Ep 2753)*
+- **Chapter 169** — Clear Lungs, 333 Antibodies—and 20 Ruined Filters Out of 21 *(File № 204 · Ep 2756)*
+- **Chapter 170** — 68 Micromoles of Cholestanol—and the Childhood Diarrhea Nobody Mentioned *(File № 207 · Ep 2759)*
 
-### Part VI: Bonus: How Not to Accidentally Off Your Dog or Cat (36 Chapters)
-- **Chapter 167** — The Bouquet and the Silent Bladder *(File № 036 · Ep 2247)*
-- **Chapter 168** — The Hair Treatment That Reached the Cat *(File № 037 · Ep 2314)*
-- **Chapter 169** — The Flea Treatment That Was for the Dog *(File № 038 · Ep 2305)*
-- **Chapter 170** — The Gum and the Second Emergency *(File № 039 · Ep 2290)*
-- **Chapter 171** — The Grapes, the Unfinished Recovery & the Puppy With the Twisted Stomach *(File № 040 · Ep 2602)*
-- **Chapter 172** — The Blurry JPEG That Nearly Convicted a Dog’s Kidneys *(File № 059 · Ep 2235)*
-- **Chapter 173** — The Five-Inch Lamb Rib Hiding Behind Perfect Blood Work *(File № 067 · Ep 2244)*
-- **Chapter 174** — The Floating Uterus That Photobombed an Intestinal X-Ray *(File № 074 · Ep 2296)*
-- **Chapter 175** — The Female Cat Who Broke the Blocked-Bladder Stereotype *(File № 081 · Ep 2308)*
-- **Chapter 176** — Drowning on Dry Land After the Lamp Cord *(File № 089 · Ep 2317)*
-- **Chapter 177** — The Mushroom That Fired the Wrong Smoke Alarm *(File № 092 · Ep 2320)*
-- **Chapter 178** — The Bowel Prep That Handcuffed the Calcium *(File № 099 · Ep 2608)*
-- **Chapter 179** — The Autumn Helicopter Seeds That Shut Off a Horse's Engine *(File № 102 · Ep 2611)*
-- **Chapter 180** — Three Drops of 'All-Natural' Oil and an 80-Gram Coma *(File № 105 · Ep 2614)*
-- **Chapter 181** — The Sago Palm, the Mild Liver Enzyme, and the Herniating Brain *(File № 108 · Ep 2617)*
-- **Chapter 182** — The Rabbit With 'Mild Gas,' Normal Kidney Blood Tests, and a Twisted Liver Lobe *(File № 111 · Ep 2620)*
-- **Chapter 183** — The Fourteen-Pound Puppy Who Broke the Bloat Stereotype *(File № 113 · Ep 2299)*
-- **Chapter 184** — The Normal Hour-4 Clotting Test—and the Vitamin K That Kills *(File № 136 · Ep 2092)*
-- **Chapter 185** — The Cloudy Eye That Exposed the Healthier-Looking Sister *(File № 139 · Ep 2623)*
-- **Chapter 186** — The Seizure That Vanished by Tuesday Morning *(File № 142 · Ep 2626)*
-- **Chapter 187** — The Solitary Gecko, the Normal Total Calcium, and the Zero-Difference Hormone Implant *(File № 145 · Ep 2629)*
-- **Chapter 188** — The 336-Gram Patient, the Neck “Lymph Node,” and Two Independent Cancers Sharing One Throat *(File № 148 · Ep 2632)*
-- **Chapter 189** — Normal Heart Walls on the Screen—And a 5-to-1 Glucose Cliff in a Seven-Month-Old Kitten *(File № 151 · Ep 2635)*
-- **Chapter 190** — The Head Tilt That Refused a Single Test—and the Footprint Without a Boot *(File № 154 · Ep 2638)*
-- **Chapter 191** — The Diaper Cream That Rusted a Dog’s Hemoglobin From the Inside Out *(File № 157 · Ep 2641)*
-- **Chapter 192** — The ‘Pet-Friendly’ Snail Bait, the 91.8% Illusion, and Day Twelve After Discharge *(File № 160 · Ep 2644)*
-- **Chapter 193** — The Missing Hip Joint Hiding Behind an Old Bone Label *(File № 163 · Ep 2647)*
-- **Chapter 194** — The Antibiotic That Zipped a Cat’s Esophagus Shut *(File № 166 · Ep 2650)*
-- **Chapter 195** — Slightly Brighter—at a Fourteen-Percent Blood Count *(File № 169 · Ep 2653)*
-- **Chapter 196** — Purring Engine, Bent Axle—and a 0.7-Millimeter Bone Canal *(File № 172 · Ep 2656)*
-- **Chapter 197** — Eight Inches Beneath the Scales—and Three Percentages From One Lab *(File № 175 · Ep 2659)*
-- **Chapter 198** — Deadbolts Don’t Stop a Variant: 39°C on the Thermometer, 1,741 in the Liver *(File № 178 · Ep 2701)*
-- **Chapter 199** — The Cattle Pellet That Punched a Hole in a Horse’s Water Tower *(File № 190 · Ep 2713)*
-- **Chapter 200** — The Extrusion Press Behind the Eyeball: When Rabbit Teeth Tunnel Through the Skull *(File № 193 · Ep 2716)*
-- **Chapter 201** — Drowning From the Inside in Crystal-Clear Water *(File № 196 · Ep 2719)*
-- **Chapter 202** — One Kilogram Removed, One Metabolic Factory Still Running *(File № 202 · Ep 2754)*
+### Part VI: Bonus: How Not to Accidentally Off Your Dog or Cat (38 Chapters)
+- **Chapter 171** — The Bouquet and the Silent Bladder *(File № 036 · Ep 2247)*
+- **Chapter 172** — The Hair Treatment That Reached the Cat *(File № 037 · Ep 2314)*
+- **Chapter 173** — The Flea Treatment That Was for the Dog *(File № 038 · Ep 2305)*
+- **Chapter 174** — The Gum and the Second Emergency *(File № 039 · Ep 2290)*
+- **Chapter 175** — The Grapes, the Unfinished Recovery & the Puppy With the Twisted Stomach *(File № 040 · Ep 2602)*
+- **Chapter 176** — The Blurry JPEG That Nearly Convicted a Dog’s Kidneys *(File № 059 · Ep 2235)*
+- **Chapter 177** — The Five-Inch Lamb Rib Hiding Behind Perfect Blood Work *(File № 067 · Ep 2244)*
+- **Chapter 178** — The Floating Uterus That Photobombed an Intestinal X-Ray *(File № 074 · Ep 2296)*
+- **Chapter 179** — The Female Cat Who Broke the Blocked-Bladder Stereotype *(File № 081 · Ep 2308)*
+- **Chapter 180** — Drowning on Dry Land After the Lamp Cord *(File № 089 · Ep 2317)*
+- **Chapter 181** — The Mushroom That Fired the Wrong Smoke Alarm *(File № 092 · Ep 2320)*
+- **Chapter 182** — The Bowel Prep That Handcuffed the Calcium *(File № 099 · Ep 2608)*
+- **Chapter 183** — The Autumn Helicopter Seeds That Shut Off a Horse's Engine *(File № 102 · Ep 2611)*
+- **Chapter 184** — Three Drops of 'All-Natural' Oil and an 80-Gram Coma *(File № 105 · Ep 2614)*
+- **Chapter 185** — The Sago Palm, the Mild Liver Enzyme, and the Herniating Brain *(File № 108 · Ep 2617)*
+- **Chapter 186** — The Rabbit With 'Mild Gas,' Normal Kidney Blood Tests, and a Twisted Liver Lobe *(File № 111 · Ep 2620)*
+- **Chapter 187** — The Fourteen-Pound Puppy Who Broke the Bloat Stereotype *(File № 113 · Ep 2299)*
+- **Chapter 188** — The Normal Hour-4 Clotting Test—and the Vitamin K That Kills *(File № 136 · Ep 2092)*
+- **Chapter 189** — The Cloudy Eye That Exposed the Healthier-Looking Sister *(File № 139 · Ep 2623)*
+- **Chapter 190** — The Seizure That Vanished by Tuesday Morning *(File № 142 · Ep 2626)*
+- **Chapter 191** — The Solitary Gecko, the Normal Total Calcium, and the Zero-Difference Hormone Implant *(File № 145 · Ep 2629)*
+- **Chapter 192** — The 336-Gram Patient, the Neck “Lymph Node,” and Two Independent Cancers Sharing One Throat *(File № 148 · Ep 2632)*
+- **Chapter 193** — Normal Heart Walls on the Screen—And a 5-to-1 Glucose Cliff in a Seven-Month-Old Kitten *(File № 151 · Ep 2635)*
+- **Chapter 194** — The Head Tilt That Refused a Single Test—and the Footprint Without a Boot *(File № 154 · Ep 2638)*
+- **Chapter 195** — The Diaper Cream That Rusted a Dog’s Hemoglobin From the Inside Out *(File № 157 · Ep 2641)*
+- **Chapter 196** — The ‘Pet-Friendly’ Snail Bait, the 91.8% Illusion, and Day Twelve After Discharge *(File № 160 · Ep 2644)*
+- **Chapter 197** — The Missing Hip Joint Hiding Behind an Old Bone Label *(File № 163 · Ep 2647)*
+- **Chapter 198** — The Antibiotic That Zipped a Cat’s Esophagus Shut *(File № 166 · Ep 2650)*
+- **Chapter 199** — Slightly Brighter—at a Fourteen-Percent Blood Count *(File № 169 · Ep 2653)*
+- **Chapter 200** — Purring Engine, Bent Axle—and a 0.7-Millimeter Bone Canal *(File № 172 · Ep 2656)*
+- **Chapter 201** — Eight Inches Beneath the Scales—and Three Percentages From One Lab *(File № 175 · Ep 2659)*
+- **Chapter 202** — Deadbolts Don’t Stop a Variant: 39°C on the Thermometer, 1,741 in the Liver *(File № 178 · Ep 2701)*
+- **Chapter 203** — The Cattle Pellet That Punched a Hole in a Horse’s Water Tower *(File № 190 · Ep 2713)*
+- **Chapter 204** — The Extrusion Press Behind the Eyeball: When Rabbit Teeth Tunnel Through the Skull *(File № 193 · Ep 2716)*
+- **Chapter 205** — Drowning From the Inside in Crystal-Clear Water *(File № 196 · Ep 2719)*
+- **Chapter 206** — One Kilogram Removed, One Metabolic Factory Still Running *(File № 202 · Ep 2754)*
+- **Chapter 207** — Crystal-Clear Water, Sub-Zero Freeze—and 974 Nanograms of Benthic Venom *(File № 205 · Ep 2757)*
+- **Chapter 208** — 94.5 mmHg Inside the Right Heart—and Nine Swimmers in a Warm Funnel *(File № 208 · Ep 2760)*
 
 ---
 
@@ -2451,10 +2457,77 @@ Second, walking out of a hospital feeling normal does not equal occupational cle
 - **Companion Audio:** [Ep 2718 Audio Stream — The Pressure After the Shift (41:00)](https://drive.google.com/file/d/1G2lpnzdMoluuxuulJpC2dmu_CwmsgnGA/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2718 Audio](https://drive.google.com/file/d/1G2lpnzdMoluuxuulJpC2dmu_CwmsgnGA/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2718_PREV_1063_The_Pressure_After_the_Shift.m4a)
+## Chapter 35 (File № 206) — 20/20 on the Wall Chart—and a Permanently Scorched Bullseye
+
+*Why a painless camera-sensor burn beats the human blink reflex, why an 80%-versus-20% pediatric steroid gap vanished at p = 0.37, and why a 5-mW sticker is just paper.*
+
+- **Part:** Part I · The Garage, Backyard & Hardware Store
+- **Companion Episode:** Ep 2758 (50:45, 8,831 spoken words)
+- **Looks Like:** A painless two-second flash with clear cornea, normal 261-µm thickness map, and recovered 20/20 distance acuity
+- **Actually Is:** Photic maculopathy with disrupted photoreceptor IS/OS junction, subfoveal cavity, and persistent central scotoma
+- **Cause / Mechanism / Manner:** Accidental direct exposure of the right eye to a red laser pointer (labeled 650 nm, 5 mW; unverified output) for ≤2 seconds | Cornea and lens optically converging collimated light onto the cone-dense fovea, inducing painless photochemical and photothermal outer-retinal disruption and RPE injury | Survivor Case (Accidental Consumer Optical Injury)
+- **Avoidability:** High (never aim lasers at people/animals/vehicles, keep away from children, and replace unnecessary physical pointers) | **False Reassurance:** “It didn’t hurt at all, the eye isn’t red, the sticker says 5 milliwatts, and I can still read the 20/20 line on the eye chart.”
+
+### The Painless Burn Inside an Inward Magnifying Glass
+
+Drop one rogue eyelash onto your cornea and your nervous system stages a five-alarm opera—tears, redness, spasms, immediate surrender. Shine a coherent laser beam straight through that same clear front window and the surface alarms stay politely asleep. In October 2025, Gururaj Naral and colleagues in Cureus described a healthy man in his 20s standing outdoors during daytime conversation when a neighbor demonstrating a red laser pointer accidentally swept it into his right eye for no more than two seconds. Instantly, a dark blurry blotch appeared dead center in his right vision, derailing reading, face recognition, and fine tasks—with zero pain, zero redness, and zero watering.
+
+Blame optical excellence turned traitor. Evolution built the cornea and lens to gather diffuse daylight and funnel it onto the fovea, the tiny cone-packed bullseye at the heart of the macula. Feed that same lens a collimated laser and the eye acts like a magnifying glass pointed inward, concentrating photochemical oxidative toxicity and photothermal heat directly onto photoreceptors that carry no pain nerves. Like a camera whose glass lens stays scratch-free while a beam fries central sensor pixels, his anterior exam (cornea, iris, lens) looked immaculate. Left vision stayed 20/20 distance and N6 near; right vision slipped to 20/30 distance and N8 near, with an Amsler grid confirming a central scotoma and fundus exam spotting a crisp yellowish foveal lesion.
+
+Three imaging tools then interrogated three distinct layers of truth. Fundus photography gave 2D canopy coordinates without depth. Optical coherence tomography (OCT) sliced an infrared core sample revealing outer retinal hyperreflectivity, a broken IS/OS junction—severing photoreceptor mitochondrial engines from light-capturing discs—a subfoveal hyporeflective cavity, and a shallow localized neurosensory detachment (strictly a microscale burn blister, never to be confused with a giant sight-threatening peripheral retinal tear). Remarkably, central macular thickness measured 261 micrometers (0.261 mm)—classified normal overall, like an office tower whose roof height looks unchanged while two interior floors collapse. Short-wave fundus autofluorescence mapped retinal pigment epithelium stress—described in prose as a dark center ringed by brighter signal and in the caption as central hypofluorescence, signaling metabolic disruption without counting literal dead cells.
+
+### Aced the Eye Chart, Kept the Missing Hole
+
+Clinicians prescribed a two-week tapering course of oral prednisolone plus topical NSAID drops—a reasonable attempt to calm secondary inflammation, never proof that steroids unburn retinas while natural healing runs alongside. Six weeks later, the headline paradox arrived: right distance acuity rebounded from 20/30 (0.667) to a textbook 20/20 (1.0) and the yellow surface spot faded into subtle permanent RPE pigment change, yet near acuity stayed stuck at N8 and his central scotoma persisted—after which he was lost to follow-up, forbidding any invented happy ending. Eye charts only grade whether surviving high-contrast border cones can decode crisp black letters; they never audit the scorched crater sitting next door.
+
+For long-term perspective, Niloofar Farassat and colleagues’ 2023 International Ophthalmology main-article retrospective combed 13 years (2007–2020) of records at Germany’s University Eye Center in Freiburg, confirming organic laser maculopathy in 8 children out of 12 suspected records (66.67%). That two-thirds figure is strictly specialty-archive selection bias—counting cracked windshields inside a glass shop—not population injury risk. Better yet, 8 children produced 11 injured eyes (3 bilateral, 5 unilateral), reminding analysts that paired eyes inside one skull share genetics, healing, and the exact same beam rather than acting as 11 independent trials; 7 children (10 eyes) returned for follow-up while 1 child (1 eye) was lost (missing data is never coded cured).
+
+Then came the steroid statistical mirage. Four of five steroid-treated eyes (80%) improved acuity versus one of five untreated eyes (20%)—a seductive 60 percentage-point gulf built on tiny, correlated, non-random groups with mismatched baselines that crumbled to an interaction p-value of 0.37. That neither proves steroids work nor proves they do nothing; absence of proof is not proof of absence. What Freiburg unmistakably confirmed is the same dual reality: children achieved strong chart acuity years later while carrying stubborn scotomas and OCT scars.
+
+### Why Stickers, Sunglasses, and Blink Reflexes Fail Together
+
+The neighbor’s pointer bore a sticker reading 650 nanometers and 5 milliwatts—strictly proof of a printed sticker, never a laboratory photon check. As UK Health Security Agency guidance warns, cheap mass-produced pointers are notoriously mislabeled, cannot be power-tested safely at home, and should never be aimed at plastic, matches, or walls to check strength—specular reflections burn foveas too. Ordinary sunglasses and generic safety glasses filter broad sunlight, not coherent laser wavelengths, and no human blink reflex can outrun light; bystanders are never to blame for failing to dodge photons.
+
+Following FDA immediate-assessment guidance—never inventing a wait-and-see afterimage rule, and remembering six weeks was a visit date rather than a waiting window—any suspected laser flash demands immediate professional eye evaluation even with zero pain or partial improvement. State which eye was hit, exact functional changes (black spot, wavy lines, trouble reading faces), and the laser exposure; skip self-driving, DIY printed-chart clearances, and borrowed steroid drops. Upstream, keep laser pointers completely away from children, never aim at people, animals, vehicles, or aircraft, lock away legitimate devices, and ask whether screen-based digital pointers make physical beams obsolete.
+
+### RED FLAGS · PAINLESSNESS IS BIOLOGICAL FALSE COMFORT — When a Two-Second Flash Demands Immediate Ophthalmic Imaging
+
+- Seek immediate professional eye assessment after any suspected laser exposure—even with zero pain, zero redness, or partial visual improvement—because the retina has no pain receptors.
+- Never clear yourself with a home-printed eye chart or Amsler grid, never drive with impaired central vision, and never borrow someone else’s steroid drops.
+- Tell the eye clinician three specifics: which eye(s) were affected, exact functional disruptions (central spot, wavy lines, difficulty reading faces), and the laser exposure—without waiting to verify wattage.
+- Never test a suspect pointer on dark plastic, matches, or walls, never trust cheap 5-mW labels or ordinary sunglasses, and keep laser pointers completely out of children’s reach.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · FLASHED IN THE EYE BY A LASER
+*No pain and no redness never clear the fovea—arrange a ride and get OCT eyes on it now.*
+
+1. **DO NOT RE-FLASH OR TEST THE POINTER:** Never point the laser at a wall, dark plastic, or match to gauge its strength, and never recreate the exposure to gather specs—specular reflections burn retinas too.
+2. **GET IMMEDIATE PROFESSIONAL EYE CARE:** Follow FDA immediate-assessment guidance even if pain is zero or blur seems to ease; do not invent a waiting rule, do not self-drive with a central blind spot, and do not borrow steroid drops.
+3. **DELIVER THREE SPECIFICS AT TRIAGE:** Specify which eye(s) were hit, describe real-world functional loss (central black spot, wavy lines, trouble reading faces), and report the laser exposure—asking what changes require urgent return.
+4. **LOCK DOWN OR RETIRE PHYSICAL POINTERS:** Treat laser pointers strictly as non-toys stored away from children, never trust printed wattage stickers or ordinary sunglasses, and switch presentations to digital screen pointers.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case** | Naral G, Shetty SB, Kamath S & Nayak M (Oct 2025), Cureus (PMID 41216082 · PMC12597123) · Healthy man in his 20s; accidental daytime right-eye sweep ≤2 s from neighbor’s red laser pointer labeled 650 nm / 5 mW (printed sticker only, unmeasured output) |
+| **Initial Paradox** | Instant central black blurry spot impairing reading/faces/precision tasks with ZERO pain, redness, or tearing; unremarkable cornea/iris/lens; VA left 20/20 (N6), right 20/30 (N8); Amsler central scotoma; yellowish foveal lesion |
+| **Multimodal Imaging** | OCT: outer retinal hyperreflectivity, focal IS/OS junction disruption, subfoveal hyporeflective cavity, shallow localized neurosensory detachment (micro-blister, NOT peripheral tear), yet NORMAL central macular thickness 261 µm (0.261 mm); SW-FAF: dark center + bright ring in prose / central hypofluorescence in caption (RPE stress pattern, not cell count) |
+| **6-Week Split Outcome** | 2-wk oral prednisolone taper + topical NSAIDs (unproven efficacy in n = 1); Week 6: right distance VA improved 20/30 → 20/20, yellow spot faded to RPE pigment change, BUT near VA remained N8 & central scotoma persisted; lost to follow-up thereafter |
+| **Freiburg Cohort (2023)** | Farassat N et al. (2023), Int Ophthalmol (PMID 36670265 · PMC10313552, main text): 13-yr tertiary archive (2007–2020); 8/12 suspected confirmed = 66.67% (clinic selection rate, NOT population risk); 8 children = 11 eyes (3 bilateral, 5 unilateral—paired eyes non-independent); 7 kids/10 eyes followed, 1 lost |
+| **Steroid Mirage** | 4/5 (80%) steroid-treated eyes vs 1/5 (20%) untreated improved acuity (non-random, correlated, small n) → interaction p = 0.37 (absence of proof ≠ proof of equivalence); confirmed long-term coexistence of good chart acuity with scotomas & OCT scars |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Naral G, Shetty SB, Kamath S & Nayak M (2025) — Photic Maculopathy Caused by a Laser Pointer (Cureus · PMID 41216082 · PMC12597123)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12597123/)
+- **Cohort Study:** [Farassat N et al. (2023) — Incidence and long-term outcome of laser pointer maculopathy in children (Int Ophthalmol · PMID 36670265 · PMC10313552)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10313552/)
+- **Podcast Transcript:** [Ep 2758 Verbatim Transcript in Google Drive (8,831 words)](https://drive.google.com/file/d/1Gthq9DB968E59t6X6ggee-BVMzaAcyKk/view)
+- **Companion Audio:** [Ep 2758 Audio Stream — The Missing Spot After the Light (50:45)](https://drive.google.com/file/d/1fy2ItDPC-Khi3izfbB2HlboIYE_mzI9E/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2758 Audio](https://drive.google.com/file/d/1fy2ItDPC-Khi3izfbB2HlboIYE_mzI9E/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2758_PREV_1074_The_Missing_Spot_After_the_Light.m4a)
 # Part II: The Kitchen & Dining Table
 *Ordinary meals, sneaky chemistry, and cleaning bottles that hate each other.*
 
-## Chapter 35 (File № 008) — The Wire Behind the Pain
+## Chapter 36 (File № 008) — The Wire Behind the Pain
 
 *How a stray metal bristle from a backyard grill brush can sew its way straight out of your small intestine—without tasting like steel, triggering vomiting, or leaving a drop of blood in the toilet.*
 
@@ -2522,7 +2595,7 @@ The second trap kicks in when you actually DO feel a sharp prick in your throat 
 - **Podcast Transcript:** [Ep 2283 Verbatim Transcript in Google Drive (10,260 words)](https://drive.google.com/file/d/1JkUTWn6hFRWMDptT1lU8-0QSfYmdQhmr/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2283 Audio](https://drive.google.com/file/d/1ETs9W9DbXSrgslE1yeUo3HfcqUETVsMo/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2283_PREV_946_The_Wire_Behind_the_Pain.m4a)
-## Chapter 36 (File № 009) — The Lunch That Looked Like an Allergy
+## Chapter 37 (File № 009) — The Lunch That Looked Like an Allergy
 
 *You did not suddenly develop a terrifying adult seafood allergy at noon—a quiet break in the cold chain turned harmless tuna amino acids into a massive, heat-proof dose of histamine.*
 
@@ -2587,7 +2660,7 @@ Because scombroid masquerades so convincingly as IgE-mediated seafood anaphylaxi
 - **CDC Food Safety:** [CDC Yellow Book — Food Poisoning from Marine Toxins (Scombroid / Histamine)](https://wwwnc.cdc.gov/travel/yellowbook/2024/environmental-hazards-risks/food-poisoning-from-marine-toxins)
 - **Companion Audio (Google Drive):** [Stream Ep 1171 Audio](https://drive.google.com/file/d/19JZbLprHjCKjhwYvqFfyEHj_GNAE0MdN/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/The_Lunch_That_Looked_Like_an_Allergy_Scombroid_Histamine_Tuna_Outbreak_and_Traceback.m4a)
-## Chapter 37 (File № 010) — The Room That Was Not Safe to Finish
+## Chapter 38 (File № 010) — The Room That Was Not Safe to Finish
 
 *Mixing two brightly colored bottles under your sink does not make super-cleaner—it turns an enclosed bathroom into a chemical trench where your own lung moisture brews hydrochloric acid.*
 
@@ -2653,7 +2726,7 @@ Even worse is the DIY chemistry instinct—pouring vinegar, baking soda, or a th
 - **Podcast Transcript:** [Ep 2282 Verbatim Transcript in Google Drive (6,177 words)](https://drive.google.com/file/d/1sy6IHZt043Ug15EPb_h3l7qmmZZVAq8q/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2282 Audio](https://drive.google.com/file/d/1EtMsmGFd6Y4BPV5TpiZzF5GL7gK-oTBq/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2282_PREV_945_The_Room_That_Was_Not_Safe_to_Finish.m4a)
-## Chapter 38 (File № 011) — The Herbal Tea That Stole Potassium
+## Chapter 39 (File № 011) — The Herbal Tea That Stole Potassium
 
 *Real black licorice root knocks out a single kidney gatekeeper enzyme—tricking your own stress hormone into draining potassium until your muscles lock up and your heart twists into arrest.*
 
@@ -2717,7 +2790,7 @@ In the ICU, rescuing this patient required central-line potassium replacement, i
 - **Podcast Transcript:** [Ep C112 Verbatim Transcript in Google Drive (8,569 words)](https://drive.google.com/file/d/1o1TCuWR0CvFyjavx1BTqOnt1pRdDQPsS/view)
 - **Companion Audio (Google Drive):** [Stream Ep C112 Audio](https://drive.google.com/file/d/1Wjy8Lp7LmwQ-UkutUW70B4Ui79WVbxox/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-archive/How_Licorice_Tea_Caused_Sudden_Paralysis.m4a)
-## Chapter 39 (File № 012) — Wild Garlic's Lethal Lookalike
+## Chapter 40 (File № 012) — Wild Garlic's Lethal Lookalike
 
 *Every spring, foragers harvest bright green woodland leaves for pesto—and a few accidentally pick autumn crocus, packing a tricyclic alkaloid that freezes cell division solid across the entire body.*
 
@@ -2779,7 +2852,7 @@ Phase 2 (roughly 24 to 72 hours post-ingestion) is where the floor drops out: bo
 - **Toxicology Reference:** [NCBI StatPearls — Colchicine Toxicity (Tubulin Arrest & 3-Phase Clinical Course)](https://www.ncbi.nlm.nih.gov/books/NBK531462/)
 - **Companion Audio (Google Drive):** [Stream Ep C115 Audio](https://drive.google.com/file/d/1osZW7F_ssOzrDIsuO5Wu-PkdZA665n02/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Wild_Garlic_Mistakes_and_Lethal_Colchicine_Mitotic_Arrest.m4a)
-## Chapter 40 (File № 013) — The Leftover Pasta and the Home-Canned Jar
+## Chapter 41 (File № 013) — The Leftover Pasta and the Home-Canned Jar
 
 *Why microwaving room-temperature rice or pasta until it steams won't touch a heat-proof mitochondrial assassin—and how low-acid home canning breeds the deadliest biological neurotoxin on Earth.*
 
@@ -2842,7 +2915,7 @@ Put cooked rice and pasta in shallow containers inside the refrigerator promptly
 - **Food Safety:** [USDA FSIS — Leftovers and Food Safety (2-Hour Refrigeration Rule)](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
 - **Companion Audio (Google Drive):** [Stream Ep C126 Audio](https://drive.google.com/file/d/1FfyehNlnWL_xfI7HuV5cTWrpVTxAkK8-/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Home_Canned_Botulism_and_Reheated_Rice_Liver_Shock.m4a)
-## Chapter 41 (File № 014) — The Fruit That Breaks Your Liver's Hangover Switch (and the Gut That Brews IPA)
+## Chapter 42 (File № 014) — The Fruit That Breaks Your Liver's Hangover Switch (and the Gut That Brews IPA)
 
 *Why chasing durian with rum chemically jams a three-cysteine trap inside your liver mitochondria—plus the bizarre forensic cases where a sober driver's own intestines brewed a 200+ mg/dL DUI.*
 
@@ -2909,7 +2982,7 @@ Both stories carry the same humbling reminder: your kitchen counter and your gut
 - **Podcast Transcript:** [Ep 2330 Durian Transcript (9,628 words) · Ep 2321 Auto-Brewery Transcript (9,596 words)](https://drive.google.com/file/d/1zDZ0VX6OxKbUjUNB5X9XFD3v-nfVXwGQ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2330 Audio](https://drive.google.com/file/d/1X0jr8dcnec3oEijtKOsdRJJyDKYtr411/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2330_VICE_30_Why_Southeast_Asia_Bans_Durian_on_Subways_Why_Mixing_It_With_R.m4a)
-## Chapter 42 (File № 082) — The Toothpick That Walked Out of Her Stomach and Into Her Liver
+## Chapter 43 (File № 082) — The Toothpick That Walked Out of Her Stomach and Into Her Liver
 
 *Why a sharp wooden splinter can slip past your throat unfelt, let the stomach seal the exit door behind it, vanish on plain X-rays, and build a sepsis-triggering liver abscess beneath a completely soft belly.*
 
@@ -2971,7 +3044,7 @@ What DOES stack the odds against you is folk first aid. Current guidance from th
 - **Companion Audio:** [Ep 2309 Audio Stream — The Small Stick and the Persistent Pain (44:04)](https://drive.google.com/file/d/1Hu-53Y3LOiFojV7x2KrYJGNvc-r2qaz5/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2309 Audio](https://drive.google.com/file/d/1Hu-53Y3LOiFojV7x2KrYJGNvc-r2qaz5/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2309_PREV_972_The_Small_Stick_and_the_Persistent_Pain.m4a)
-## Chapter 43 (File № 090) — 120 Over 70, 98% Oxygen, and a Hole in the Chest
+## Chapter 44 (File № 090) — 120 Over 70, 98% Oxygen, and a Hole in the Chest
 
 *Why ordinary vomiting can blow a full-thickness rupture straight through a healthy esophagus with zero blood in the bowl—while textbook vital signs cheerfully mask a chest filling with stomach acid.*
 
@@ -3035,7 +3108,7 @@ Beware statistical shortcuts when reading older Boerhaave numbers. A 2007 retros
 - **Companion Audio:** [Ep 2318 Audio Stream — The Chest Pain After the Vomiting (42:54)](https://drive.google.com/file/d/1wSNDlYyiUz47XGPHgIbCUInMH1bAyd6w/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2318 Audio](https://drive.google.com/file/d/1wSNDlYyiUz47XGPHgIbCUInMH1bAyd6w/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2318_PREV_981_The_Chest_Pain_After_the_Vomiting.m4a)
-## Chapter 44 (File № 098) — The Heart Attack Made of Banana
+## Chapter 45 (File № 098) — The Heart Attack Made of Banana
 
 *Why silent choking at a dinner table looks identical to a sudden coronary, why soft pasty food and bananas kill sober and medicated adults alike, and why sticking a blind finger down a throat turns rescue into a cork-packer.*
 
@@ -3099,7 +3172,7 @@ If they lose consciousness, lower them safely and start CPR beginning with chest
 - **Companion Audio:** [Ep 2607 Audio Stream — The Meal That Blocked the Airway (42:09)](https://drive.google.com/file/d/1Ocg7xXUcNNP71_SMpN2U5PLbMdbpmvie/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2607 Audio](https://drive.google.com/file/d/1Ocg7xXUcNNP71_SMpN2U5PLbMdbpmvie/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2607_PREV_991_The_Meal_That_Blocked_the_Airway.m4a)
-## Chapter 45 (File № 117) — The Lemon-Water Pitcher, the 0.6 Serum Fakeout, and the Skeleton That Paid It Back
+## Chapter 46 (File № 117) — The Lemon-Water Pitcher, the 0.6 Serum Fakeout, and the Skeleton That Paid It Back
 
 *How a centrifuge tossed 99.1% of a patient's lead into the biohazard bin—and why a charming low-fired ceramic pitcher filled with pH 2.4 citrus quietly wired heavy metal straight into bone.*
 
@@ -3162,7 +3235,7 @@ An adult radial nerve suffers a reversible metabolic traffic jam; a toddler's de
 - **Companion Audio:** [Ep 2041 Audio Stream — The Glaze in the Pitcher and the Lone Pair That Stopped Heme (58:26)](https://drive.google.com/file/d/1C03bZ9IT7y83YwGlhMtOF_FPMkXL7X63/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2041 Audio](https://drive.google.com/file/d/1C03bZ9IT7y83YwGlhMtOF_FPMkXL7X63/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2041_HP_166_The_Glaze_in_the_Pitcher_and_the_Lone_Pair_That_Stopped_Heme.m4a)
-## Chapter 46 (File № 118) — The Fresh Reef Fish That Made Ice Water Burn Like Fire
+## Chapter 47 (File № 118) — The Fresh Reef Fish That Made Ice Water Burn Like Fire
 
 *Why a pristine, piping-hot reef barracuda can rewire your pain fibers so a cold glass of water feels like a red-hot stove—and why one beer three months later can wake the toxin back up.*
 
@@ -3227,7 +3300,7 @@ Surviving the acute night, however, does not evict the tenant. Because ciguatoxi
 - **Direct Audio:** [Ep C122 Direct 256 kbps .m4a Audio Release (GitHub)](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/When_Ice_Water_Burns_in_Ciguatera_Fish_Poisoning.m4a)
 - **Companion Audio (Google Drive):** [Stream Ep C122 Audio](https://drive.google.com/file/d/1BafKubaQ471M2kiZLG7ytKsN5aj1G-68/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/When_Ice_Water_Burns_in_Ciguatera_Fish_Poisoning.m4a)
-## Chapter 47 (File № 119) — The Artisanal Honey That Drops Your Heart to 38 Beats a Minute
+## Chapter 48 (File № 119) — The Artisanal Honey That Drops Your Heart to 38 Beats a Minute
 
 *How a throat-tingling spoonful of unblended Black Sea rhododendron honey flattens Greek hoplites, tricks ER monitors into mimicking a massive heart attack, and flips back to normal sixty seconds after half a milligram of atropine.*
 
@@ -3294,7 +3367,7 @@ Because waggle dances recruit ~80 percent of one colony into one rhododendron ra
 - **Podcast Transcript:** [Ep 2323 Verbatim Transcript in Google Drive (8,645 words)](https://drive.google.com/file/d/1XVNKpLYbk-aRWuicCc6QyWNKy29temGE/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2323 Audio](https://drive.google.com/file/d/1J0oMxV1w6qvg6A07i4cCsFl6z0AjH8Zc/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2323_VICE_23_Xenophon_s_Poisoned_Army_Black_Sea_Mad_Honey.m4a)
-## Chapter 48 (File № 120) — The Herbal Root Soup That Locks Your Heart's Floodgates Open
+## Chapter 49 (File № 120) — The Herbal Root Soup That Locks Your Heart's Floodgates Open
 
 *Why monkshood aconitine paints the exact same alternating sawtooth rhythm on an ICU monitor as prescription digoxin—then laughs at DigiFab, shrugs off the defibrillator, and erases itself in a warm autopsy tube.*
 
@@ -3359,7 +3432,7 @@ Even when forensic teams suspect monkshood, postmortem redistribution turns raw 
 - **Direct Audio:** [Ep C136 Direct 256 kbps .m4a Audio Release (GitHub)](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/How_Monkshood_Aconitine_Freezes_Cardiac_Channels_Open.m4a)
 - **Companion Audio (Google Drive):** [Stream Ep C136 Audio](https://drive.google.com/file/d/1nCaSrowIPfJsJOkuV48RU8XwqTt1Z0rK/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/How_Monkshood_Aconitine_Freezes_Cardiac_Channels_Open.m4a)
-## Chapter 49 (File № 183) — His Vomiting Stopped at Hour Eight—While His Liver Hit 11,578
+## Chapter 50 (File № 183) — His Vomiting Stopped at Hour Eight—While His Liver Hit 11,578
 
 *Inside the 2021 Austrian alpine chalet fried-rice-balls cluster where one teaspoon triggered a warning nobody recognized, four diners went home in days, and tandem mass spectrometry weighed a heat-proof peptide ring inside a failing human liver.*
 
@@ -3426,7 +3499,7 @@ Unlike generic leftover pasta reminders, the Austrian chalet proves the cold cha
 - **Companion Audio:** [Ep 2706 Audio Stream — The Toxin Reheating Could Not Undo (42:53)](https://drive.google.com/file/d/1uRjF-IxPkdnOF1ptizkdKeN1ulqg5HEW/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2706 Audio](https://drive.google.com/file/d/1uRjF-IxPkdnOF1ptizkdKeN1ulqg5HEW/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2706_PREV_1051_The_Toxin_Reheating_Could_Not_Undo.m4a)
-## Chapter 50 (File № 184) — 0.38 Billionths of a Gram—and the Freezer Leftovers That Renamed the Snapper
+## Chapter 51 (File № 184) — 0.38 Billionths of a Gram—and the Freezer Leftovers That Renamed the Snapper
 
 *How nine jumbled freezer remnants from a Sabah family dinner let COI DNA barcoding and single-quadrupole mass spectrometry revise the peer-reviewed identity of a toxic snapper—long after bedside clinicians kept a crashing heart alive without a single human toxin assay.*
 
@@ -3493,7 +3566,7 @@ Finally, separate your seafood physics cleanly. In Velut and colleagues’ 2019 
 - **Histamine Contrast:** [Velut et al. (2019) — Histamine food poisoning linked to fresh yellowfin tuna from Reunion Island (Euro Surveill · PMID 31164189 · PMC6549462)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6549462/)
 - **Companion Audio (Google Drive):** [Stream Ep 2707 Audio](https://drive.google.com/file/d/1ZqWM_GtXvfMl-PZ6jAJ6u2HkkpEuGGzT/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2707_PREV_1052_The_Fish_Had_Two_Identities.m4a)
-## Chapter 51 (File № 188) — Six Days After the Garnish: The Hiccups That Mimicked a Stroke
+## Chapter 52 (File № 188) — Six Days After the Garnish: The Hiccups That Mimicked a Stroke
 
 *Why a cocktail-rim tropical fruit can sit silently for nearly a week, why aggressive daily dialysis risked tossing out the paramedics alongside the rioters, and why a clean MRI five months later missed an electrical storm.*
 
@@ -3556,7 +3629,7 @@ The National Kidney Foundation draws one clean, blame-free boundary: people with
 - **Podcast Transcript:** [Ep 2711 Verbatim Transcript in Google Drive (8,573 words)](https://drive.google.com/file/d/1uUi0vgCnh4HBuspnA8XU4x1maeIxXWwi/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2711 Audio](https://drive.google.com/file/d/13khiwdUUIsUyyUEC3wZJhckh3tiFEgLV/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2711_PREV_1056_The_Fruit_the_Kidneys_Could_Not_Clear.m4a)
-## Chapter 52 (File № 199) — When the Canary in the Coal Mine Is Breakfast
+## Chapter 53 (File № 199) — When the Canary in the Coal Mine Is Breakfast
 
 *How two California hen necropsies turned cancer and blunt trauma into human food-chain alerts, why wet-weight eggs cannot be compared to dry dirt, and why you cannot set a kitchen timer to declare contaminated eggs safe.*
 
@@ -3623,7 +3696,7 @@ On the human and yard side, treat lead-positive hens as a shared-environment ala
 # Part III: Medicine Cabinet Roulette
 *Over-the-counter does not mean over-the-physics.*
 
-## Chapter 53 (File № 015) — The Toothache That Turned the Blood Chocolate-Brown
+## Chapter 54 (File № 015) — The Toothache That Turned the Blood Chocolate-Brown
 
 *How three days of drugstore numbing gel quietly rusted a healthy 29-year-old’s hemoglobin, why two different hospital monitors lied to his face, and the blue dye that reset him in fifteen minutes.*
 
@@ -3692,7 +3765,7 @@ Emergency clinicians and a medical toxicologist gave him intravenous methylene b
 - **Podcast Transcript:** [Ep 2252 Verbatim Transcript in Google Drive (6,891 words)](https://drive.google.com/file/d/1pYQ8hk7Gm3JgSbonoL3Nx2qqMakKm3qN/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2252 Audio](https://drive.google.com/file/d/1-wiLbLaVJbaGQh7vSSMtXROhHMIiuE0H/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2252_PREV_943_The_Toothache_That_Changed_the_Blood.m4a)
-## Chapter 54 (File № 016) — Medicine Cabinet Roulette: Sleep Aids, Caffeine Rebound & Whippets
+## Chapter 55 (File № 016) — Medicine Cabinet Roulette: Sleep Aids, Caffeine Rebound & Whippets
 
 *Why a five-dollar bottle of sleep pills can jam your heart's electrical reset switch, how 12.1 grams of caffeine stages a lethal encore ten hours after dialysis, and why a single relapse balloon of laughing gas rusts fresh vitamin B₁₂ on contact.*
 
@@ -3757,7 +3830,7 @@ Two weeks later he was found dead in bed surrounded by 20 empty 'Exotic Whip' cy
 - **Podcast Transcript:** [Ep 903 Verbatim Transcript in Google Drive (9,900 words)](https://drive.google.com/file/d/1Fjl8F0mYX44zk-RH59BiYZjHj9E5m078/view)
 - **Companion Audio (Google Drive):** [Stream Ep 903 Audio](https://drive.google.com/file/d/1TQ1EnI9Z-AlmZ0OSxc_cHP3oJGcZ5LgN/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/How_Everyday_Sleep_Aids_Caffeine_Rebound_and_Nitrous_Turn_Lethal.m4a)
-## Chapter 55 (File № 017) — The Ten-Year Prescription
+## Chapter 56 (File № 017) — The Ten-Year Prescription
 
 *Why ten peaceful years on lisinopril buy zero immunity against midnight throat closure, why your lips can look completely normal while your airway narrows to a straw, and why Benadryl brings a squirt gun to a bradykinin fire.*
 
@@ -3821,7 +3894,7 @@ One bedside subtlety deserves flashing neon tape: clinicians withheld intramuscu
 - **Podcast Transcript:** [Ep 2289 Verbatim Transcript in Google Drive (7,488 words)](https://drive.google.com/file/d/1v1Gs0m9kHQj3dZAE4fO55eVWkHHky2Ll/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2289 Audio](https://drive.google.com/file/d/1-ophIMxGqlz6UWsedvU-7bRocVKxYTDs/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2289_PREV_952_The_Ten_Year_Prescription.m4a)
-## Chapter 56 (File № 018) — The Cream and the Missing Stress Response
+## Chapter 57 (File № 018) — The Cream and the Missing Stress Response
 
 *How super-potent skin creams cross fissured psoriatic skin to put your adrenal furnace to sleep—and why a man with a blood pressure of 67/47 stayed wide awake while his lab table contradicted the textbook.*
 
@@ -3885,7 +3958,7 @@ Medicine has known this trap since a 1952 JAMA report documented fatal postopera
 - **Podcast Transcript:** [Ep 2293 Verbatim Transcript in Google Drive (7,322 words)](https://drive.google.com/file/d/1YFWV-nolFTnUWq0HqM5j2RCZAMvObciM/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2293 Audio](https://drive.google.com/file/d/1sPp7tVz8ivYw37BxTu_B7b77WibvOS67/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2293_PREV_956_The_Cream_and_the_Missing_Stress_Response.m4a)
-## Chapter 57 (File № 019) — The Bottle That Wasn't a Feed
+## Chapter 58 (File № 019) — The Bottle That Wasn't a Feed
 
 *How plain water—whether poured from a cute 'baby-labeled' bottle or the kitchen tap—dilutes an infant's blood sodium until osmosis swells brain cells inside a rigid skull, even while a head CT prints normal.*
 
@@ -3946,7 +4019,7 @@ One piece of 1994 history belongs straight in the shredder: the original report 
 - **Podcast Transcript:** [Ep 2253 Verbatim Transcript in Google Drive (7,048 words)](https://drive.google.com/file/d/1OxrDFEmtNtn9ePditKmsGvMzNXZRwju3/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2253 Audio](https://drive.google.com/file/d/12759v8rmB0PBKB27BScCw1Kkd1KLwav8/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2253_PREV_944_The_Bottle_That_Wasn_t_a_Feed.m4a)
-## Chapter 58 (File № 020) — The Heart Medicine and the Ketones
+## Chapter 59 (File № 020) — The Heart Medicine and the Ketones
 
 *How a fall, fractured ribs, and a modern heart-failure pill plunged a non-diabetic 83-year-old into 6,500 µmol/L ketoacidosis—while her blood glucose sat peacefully at 124 mg/dL and her kidneys kept dumping sugar for eight days after her last pill.*
 
@@ -4008,7 +4081,7 @@ Clinicians stopped dapagliflozin and rescued her with supervised IV fluids and I
 - **Podcast Transcript:** [Ep 2249 Verbatim Transcript in Google Drive (8,736 words)](https://drive.google.com/file/d/1xSMEhKFoRO_Owvrz6raZb7N8nGo3ULqL/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2249 Audio](https://drive.google.com/file/d/1g91gCSxew_7sd_IAvwBZVoEIxK0fJYhN/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2249_PREV_940_The_Heart_Medicine_and_the_Ketones.m4a)
-## Chapter 59 (File № 021) — The Mouth That Looked Unhurt
+## Chapter 60 (File № 021) — The Mouth That Looked Unhurt
 
 *Why a toddler's pink, unblistered tongue can conceal a blood pH of 7.28 and a lactate of 13.5 mmol/L after biting a concentrated laundry pod—and why aesthetic Pinterest glass jars defeat two layers of child safety at once.*
 
@@ -4072,7 +4145,7 @@ Prevention starts by destroying the Instagram laundry-room aesthetic: decanting 
 - **Podcast Transcript:** [Ep 2245 Verbatim Transcript in Google Drive (9,208 words)](https://drive.google.com/file/d/1fKNvDQDYMUXsa282zly6qLagiL1YDIkv/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2245 Audio](https://drive.google.com/file/d/1mZ75XrkUx3-ai5efT7Y-zwEyb0XwdMyU/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2245_PREV_936_The_Mouth_That_Looked_Unhurt.m4a)
-## Chapter 60 (File № 048) — Turquoise Organs, Smoked Stomach Pills & Veterinary Vapor
+## Chapter 61 (File № 048) — Turquoise Organs, Smoked Stomach Pills & Veterinary Vapor
 
 *Why a lighter turns a harmless cramp tablet into brain-crossing scopolamine, how ICU methylene blue paints organs turquoise in room air, and why a clean car hides a genetic sodium-channel ambush.*
 
@@ -4137,7 +4210,7 @@ Even modern mass spectrometry can convict the innocent when human context goes m
 - **Podcast Transcript:** [Ep 914 Verbatim Transcript in Google Drive (3,656 words)](https://drive.google.com/file/d/1i8E0WmdA8oAdsOJKym5zVjsOj4g0XzNT/view)
 - **Companion Audio (Google Drive):** [Stream Ep 914 Audio](https://drive.google.com/file/d/1b_Rv60pdGIAofCzq6FuPR0-IcyLyCslV/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Green_and_Blue_Autopsy_Organs_Smoked_Pills_and_Anesthetic_Traps.m4a)
-## Chapter 61 (File № 049) — Sub-Lethal Meth, Zero-Ethanol Comas & the Five-Day Brain Fuse
+## Chapter 62 (File № 049) — Sub-Lethal Meth, Zero-Ethanol Comas & the Five-Day Brain Fuse
 
 *Why giving insulin to a seizing diabetic acts like water on a grease fire, how rubbing alcohol flips the fomepizole playbook upside down, and how a party pill hides from hospital urine screens until Day 5.*
 
@@ -4200,7 +4273,7 @@ His routine hospital urine amphetamine screen came back stone-cold negative; onl
 - **Podcast Transcript:** [Ep 915 Verbatim Transcript in Google Drive (9,547 words)](https://drive.google.com/file/d/1ZY_DvewftSwtveKJDIxjYqNzX1PyAqLk/view)
 - **Companion Audio (Google Drive):** [Stream Ep 915 Audio](https://drive.google.com/file/d/1DPAGdcTTfCM52xTd11V8FYqtB0FM9Z44/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Meth_Gut_Infarction_Rubbing_Alcohol_Lies_and_Synthetic_Hallucinogens.m4a)
-## Chapter 62 (File № 051) — Silent Push-Pin Choking, Hive-Free Shock & Bloodless Ruptures
+## Chapter 63 (File № 051) — Silent Push-Pin Choking, Hive-Free Shock & Bloodless Ruptures
 
 *Why a 10-mm clear plastic tack silences a toddler's cough reflex completely, how anaphylaxis kills before a single hive appears, and why a term uterus can burst without shedding a drop of external blood.*
 
@@ -4263,7 +4336,7 @@ First-trimester pregnancy hides even better behind triage stereotypes. In a 2021
 - **Podcast Transcript:** [Ep 917 Verbatim Transcript in Google Drive (8,317 words)](https://drive.google.com/file/d/1sj7Tcd3DLOjIgPLCtaMOXDEWp5RGodHM/view)
 - **Companion Audio (Google Drive):** [Stream Ep 917 Audio](https://drive.google.com/file/d/17kBfls9B5EQq2EKB1Db1zssVQz4ir3-U/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Silent_Push_Pin_Choking_Anaphylaxis_Myths_and_Maternal_Emergencies.m4a)
-## Chapter 63 (File № 057) — The Cultural Hall Pass Called “Sleeping It Off”
+## Chapter 64 (File № 057) — The Cultural Hall Pass Called “Sleeping It Off”
 
 *Why an unarousable drinker isn’t resting—they’re losing brainstem autopilot—and why cold showers, black coffee, and even the recovery position fail once breathing slows.*
 
@@ -4329,7 +4402,7 @@ Meanwhile, every folk “sober-up” cure deserves immediate retirement. Black c
 - **Podcast Transcript:** [Ep 2233 Verbatim Transcript in Google Drive (8,363 words)](https://drive.google.com/file/d/1JlndBNbpc6sLSO4_7mMMMiFSwH6Iaxsm/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2233 Audio](https://drive.google.com/file/d/1ixMPFxRaGjVaFczOY7itREeV97vHNlnv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2233_PREV_924_The_Night_That_Was_Not_Sleep.m4a)
-## Chapter 64 (File № 068) — Therapeutic Level, Normal Liver—and 284 Micromoles of Ammonia in the Brain
+## Chapter 65 (File № 068) — Therapeutic Level, Normal Liver—and 284 Micromoles of Ammonia in the Brain
 
 *How sodium valproate quietly locks the liver's ammonia-disposal switch without killing a single liver cell—and why one partner saying 'this is not his usual post-seizure fog' broke a wall of green checkmarks.*
 
@@ -4393,7 +4466,7 @@ Current FDA DailyMed prescribing guidance (Divalproex ER v3.1, September 2026) w
 - **Companion Audio:** [Ep 2246 Audio Stream — The Level That Looked Reassuring (58:56)](https://drive.google.com/file/d/1N_S8Wr4Xbof9svD4MgsYGvi-TtN091-N/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2246 Audio](https://drive.google.com/file/d/1N_S8Wr4Xbof9svD4MgsYGvi-TtN091-N/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2246_PREV_937_The_Level_That_Looked_Reassuring.m4a)
-## Chapter 65 (File № 069) — The “Healing” Fair Bracelet That Tested at 17,000 ppm Lead
+## Chapter 66 (File № 069) — The “Healing” Fair Bracelet That Tested at 17,000 ppm Lead
 
 *How a routine nine-month checkup caught a 41 µg/dL blood lead spike with zero sirens—why peeling 1926 window paint wasn't the culprit, and why the CDC had to issue an erratum stripping off the marketing fairy dust.*
 
@@ -4456,7 +4529,7 @@ Here sits the darkest irony of the fairground booth: the FDA strongly warns agai
 - **Podcast Transcript:** [Ep 2250 Verbatim Transcript in Google Drive (8,269 words)](https://drive.google.com/file/d/1wGA-wSWs_JaR9vsq4JA-N7TtP4lchk1q/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2250 Audio](https://drive.google.com/file/d/1pDbe70BIZh8iGHydA9bY2Oan3vRfEcg7/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2250_PREV_941_The_Bracelet_That_Became_a_Blood_Test.m4a)
-## Chapter 66 (File № 076) — Two Back-Pain Pills, Zero Working Drain, and a GCS-8 Coma
+## Chapter 67 (File № 076) — Two Back-Pain Pills, Zero Working Drain, and a GCS-8 Coma
 
 *Why a routine muscle relaxer turns into a locked-in brain brake when kidneys are offline, how a clean head CT and reactive pupils disguise chemical coma, and why waiting for tomorrow’s dialysis appointment can turn fatal.*
 
@@ -4518,7 +4591,7 @@ That leaves two iron rules for families navigating kidney disease. First, never 
 - **Podcast Transcript:** [Ep 2300 Verbatim Transcript in Google Drive (12,158 words)](https://drive.google.com/file/d/1ppZu88jTnFHbp2Oo3FiuH0_Hq4LdaZyn/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2300 Audio](https://drive.google.com/file/d/1xga-uXXrJ2b68Tb9gl_Vw1WvYg-tC5Ym/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2300_PREV_963_The_New_Tablet_and_the_Missing_Clearance.m4a)
-## Chapter 67 (File № 079) — Fifteen Months of Bladder Pills, Half a Lung Left
+## Chapter 68 (File № 079) — Fifteen Months of Bladder Pills, Half a Lung Left
 
 *Why a daily UTI-prevention antibiotic taken cleanly for over a year quietly scarred a 70-year-old’s air-blood barrier—and why normal spirometry and a normal lung biopsy still couldn’t hide a 38% gas-transfer crash.*
 
@@ -4580,7 +4653,7 @@ Medicine has known this pill can bite for over four decades: a 1981 Swedish Adve
 - **Podcast Transcript:** [Ep 2306 Verbatim Transcript in Google Drive (8,107 words)](https://drive.google.com/file/d/1SaM4XWTZLQ4sB2Hv-lkVy1eEH7M4udOc/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2306 Audio](https://drive.google.com/file/d/1gFKswKiUw6p9Ao3GrOl1fW44XGBfl-rl/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2306_PREV_969_The_Breathlessness_and_the_Long_Prescription.m4a)
-## Chapter 68 (File № 085) — Two Clinics, One Root, Zero Potassium
+## Chapter 69 (File № 085) — Two Clinics, One Root, Zero Potassium
 
 *How two differently named herbal prescriptions quietly doubled up on licorice root, fired the kidney's cortisol bouncer, and sent an 89-year-old woman's heart into pulseless electrical chaos.*
 
@@ -4644,7 +4717,7 @@ On Day 8, potassium slipped back to 2.5 mEq/L, paroxysmal atrial fibrillation sp
 - **Companion Audio:** [Ep 2312 Audio Stream — The Shared Root in Two Prescriptions (50:49)](https://drive.google.com/file/d/1vfnk25KxTaWlQols8C_fQY31eQs0c6tQ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2312 Audio](https://drive.google.com/file/d/1vfnk25KxTaWlQols8C_fQY31eQs0c6tQ/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2312_PREV_975_The_Shared_Root_in_Two_Prescriptions.m4a)
-## Chapter 69 (File № 087) — The Ear-Infection Pill That Pulled the Cardiac Brake
+## Chapter 70 (File № 087) — The Ear-Infection Pill That Pulled the Cardiac Brake
 
 *How a routine seven-day antibiotic collided with two everyday heart drugs inside fragile kidneys, triggered a self-feeding BRASH feedback loop, and dropped a man's pulse to 20 beats a minute.*
 
@@ -4708,7 +4781,7 @@ Two statistical and charting traps still trip patients and doctors alike. First,
 - **Companion Audio:** [Ep 2315 Audio Stream — The New Antibiotic and the Slowing Heart (1:00:08)](https://drive.google.com/file/d/1a7epa6ulUgc0xqOygyaQIalxBosvNJEe/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2315 Audio](https://drive.google.com/file/d/1a7epa6ulUgc0xqOygyaQIalxBosvNJEe/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2315_PREV_978_The_New_Antibiotic_and_the_Slowing_Heart.m4a)
-## Chapter 70 (File № 103) — The Battery That Made It to the Stomach—After Melting the Aorta
+## Chapter 71 (File № 103) — The Battery That Made It to the Stomach—After Melting the Aorta
 
 *Why an X-ray showing a swallowed lithium coin safely inside a toddler's stomach is a photograph of the hotel door, not the highway wreckage behind it—and why 'dead' batteries still manufacture drain cleaner inside wet tissue.*
 
@@ -4771,7 +4844,7 @@ Nor does new federal legislation like Reese's Law retroactively screw shut the f
 - **Companion Audio:** [Ep 2612 Audio Stream — The Battery Was Already in the Stomach (50:24)](https://drive.google.com/file/d/1bupOyUO77PlbfHIq_y9zDIxIsWzD8zk1/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2612 Audio](https://drive.google.com/file/d/1bupOyUO77PlbfHIq_y9zDIxIsWzD8zk1/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2612_PREV_996_The_Battery_Was_Already_in_the_Stomach.m4a)
-## Chapter 71 (File № 121) — The 106-Degree Bath That Wrung Out a Fentanyl Patch
+## Chapter 72 (File № 121) — The 106-Degree Bath That Wrung Out a Fentanyl Patch
 
 *Why a prescribed 75-microgram-per-hour pain sticker turns a steaming bathtub into a 9.4-ng/mL opioid overdose—and why peeling the patch off still leaves a seventeen-hour trap hiding inside your skin.*
 
@@ -4836,7 +4909,7 @@ Peeling off a patch stops fresh drug from entering the sponge; it never wrings o
 - **Direct Audio:** [Ep C113 Direct 256 kbps .m4a Audio Release (GitHub)](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-archive/How_Hot_Baths_Turn_Fentanyl_Patches_Deadly.m4a)
 - **Companion Audio (Google Drive):** [Stream Ep C113 Audio](https://drive.google.com/file/d/1jMN3mz_VcwwJCUPzbntn7ZPIJMjypjoU/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-archive/How_Hot_Baths_Turn_Fentanyl_Patches_Deadly.m4a)
-## Chapter 72 (File № 122) — The Over-the-Counter Sleep Aid That Melted Muscle After the Mind Cleared
+## Chapter 73 (File № 122) — The Over-the-Counter Sleep Aid That Melted Muscle After the Mind Cleared
 
 *Why a reassuring Day-1 CK of 180 and a lucid Day-2 conversation can still hide tea-brown myoglobinuria, a 22,800-U/L muscle breakdown, and a urine screen falsely yelling 'methadone.'*
 
@@ -4902,7 +4975,7 @@ Regulatory history also deserves clean boundaries. On August 9, 1999, the FDA fo
 - **Direct Audio:** [Ep 2029 Direct 256 kbps .m4a Audio Release (GitHub)](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2029_HP_154_The_Sleep_Aid_and_the_Dark_Urine.m4a)
 - **Companion Audio (Google Drive):** [Stream Ep 2029 Audio](https://drive.google.com/file/d/1kYbTwS13umE14QNs0ZDz2mfVcGRkjvKS/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2029_HP_154_The_Sleep_Aid_and_the_Dark_Urine.m4a)
-## Chapter 73 (File № 123) — The Overdose That Hadn't Arrived Yet: Why Extended-Release Bupropion Bites Hours Later
+## Chapter 74 (File № 123) — The Overdose That Hadn't Arrived Yet: Why Extended-Release Bupropion Bites Hours Later
 
 *How a microscopic polymer osmotic shell hides a catastrophic seizure and cardiac collapse behind a chatty Hour-2 ER exam—and why the textbook wide-QRS antidote changes the ECG by a useless two milliseconds.*
 
@@ -4967,7 +5040,7 @@ Every toxicology reflex reaches for hypertonic sodium bicarbonate—the classic 
 - **Companion Audio:** [Ep 1493 Audio Stream — The Overdose That Hadn't Arrived Yet (45:05)](https://drive.google.com/file/d/1HF0t8nQjYNbgrSxr7BVpfwHIjW4O3HkI/view)
 - **Companion Audio (Google Drive):** [Stream Ep 1493 Audio](https://drive.google.com/file/d/1HF0t8nQjYNbgrSxr7BVpfwHIjW4O3HkI/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Pharmacology_Pilot_123_The_Overdose_That_Hadnt_Arrived_Yet.m4a)
-## Chapter 74 (File № 124) — The Antibiotic That Kept Rewiring the Gut Eleven Days After the Last Pill
+## Chapter 75 (File № 124) — The Antibiotic That Kept Rewiring the Gut Eleven Days After the Last Pill
 
 *Why crossing rifampin off a hospital chart does not shut down the extra CYP3A4 enzyme factories it forced your gut to build—and how a kidney transplant patient's blood drug level surged tenfold while doctors were actively cutting his dose.*
 
@@ -5034,7 +5107,7 @@ Genetics widened the gulf: she was a CYP3A5 expresser running a second cousin en
 - **Podcast Transcript:** [Ep 1408 Verbatim Transcript in Google Drive (7,372 words)](https://drive.google.com/file/d/12BlShNE5FiSERyQBJlGpxe60Svy9HkPH/view)
 - **Companion Audio (Google Drive):** [Stream Ep 1408 Audio](https://drive.google.com/file/d/1umIMFmx3jGS50DVNJAY_voJLT0QNGJRV/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/The_Level_That_Rose_After_the_Last_Pill_Delayed_Absorption_Pharmacobezoars_and_Serial_Levels.m4a)
-## Chapter 75 (File № 125) — The Gas-Station 'Brain Booster' That Stops Breathing and Ghosts the Opioid Screen
+## Chapter 76 (File № 125) — The Gas-Station 'Brain Booster' That Stops Breathing and Ghosts the Opioid Screen
 
 *How a 1970s French antidepressant masquerading as convenience-store 'cognitive support' turns off brainstem breathing through the µ-opioid receptor—while sliding straight past hospital urine screens and routine pulse oximeters.*
 
@@ -5099,7 +5172,7 @@ Science also marks what remains unseen: no experimental cryo-EM structure shows 
 - **Podcast Transcript:** [Ep 2115 Verbatim Transcript in Google Drive (7,564 words)](https://drive.google.com/file/d/13kdrUUuVrcOLmFZoSqU4hztYVQvEVsyf/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2115 Audio](https://drive.google.com/file/d/1etbWVz7DqImh5qa5saeU_EigAf8Nk9ui/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2115_HP_207_The_Antidepressant_the_Opioid_Screen_Missed.m4a)
-## Chapter 76 (File № 126) — The Test That Flags a Bagel—and Misses a 93-MME Gas-Station Opioid
+## Chapter 77 (File № 126) — The Test That Flags a Bagel—and Misses a 93-MME Gas-Station Opioid
 
 *Why America's workplace drug-testing net once condemned nearly nine innocent pastry eaters for every real heroin user—yet remains 100% blind to concentrated gas-station kratom tablets packing 31 morphine-milligram equivalents per chew.*
 
@@ -5162,7 +5235,7 @@ Yet naloxone rescues only the lungs, not the liver or heart. Parent mitragynine 
 - **Podcast Transcript:** [Ep 2254 Verbatim Transcript in Google Drive (9,903 words)](https://drive.google.com/file/d/10gmCsbFDkEX4LOiagUhIFo76OGjabUaQ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2254 Audio](https://drive.google.com/file/d/1j-9k7VWol8Ygfz5Oa3ktSuRzj7Bf6hu8/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2254_VICE_06_The_Poppy_Seed_Bagel_Defense_the_2_000_ng_mL_Cutoff_Gas_Statio.m4a)
-## Chapter 77 (File № 127) — The Gas-Station 'Royal Honey' That Crashes Blood Pressure and Paints Traffic Lights Neon Blue
+## Chapter 78 (File № 127) — The Gas-Station 'Royal Honey' That Crashes Blood Pressure and Paints Traffic Lights Neon Blue
 
 *Why bees do not synthesize 150-milligram doses of Viagra—and how counterfeit checkout-counter honey packets ambush heart patients on nitroglycerin while jamming the retina's twin light-processing enzyme into electric cyan vision.*
 
@@ -5229,7 +5302,7 @@ Both halves of Ep 2258 enforce one ruthless forensic rule: labels and mirrors li
 - **Podcast Transcript:** [Ep 2258 Verbatim Transcript in Google Drive (11,828 words)](https://drive.google.com/file/d/1oXBlWFSiHXtguoisO0oRlRax855v_VMH/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2258 Audio](https://drive.google.com/file/d/1olzJdgqt7WARCi0Z-_PlpSe_uYgTcVlk/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2258_VICE_10_Why_Freezing_Your_Forehead_Lifts_Your_Mood_How_Gas_Station_Roy.m4a)
-## Chapter 78 (File № 128) — The Slimming Herb That Permanently Carved Its Initials Into Human DNA
+## Chapter 79 (File № 128) — The Slimming Herb That Permanently Carved Its Initials Into Human DNA
 
 *How a phonetic root swap in a 1990s Brussels diet clinic slipped an ancient Roman childbirth herb into weight-loss pills—strangling kidneys in 90 days, seeding cancer in 18 of 39 surgical patients, and blasting 150 mutations per megabase into the genome.*
 
@@ -5294,7 +5367,7 @@ In 2007, Arthur Grollman and colleagues solved a decades-old riddle along Europe
 - **Podcast Transcript:** [Ep 2141 Verbatim Transcript in Google Drive (5,788 words)](https://drive.google.com/file/d/1IUOyZRqKPKxW6GSCkp10O7P6aKbtHnAN/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2141 Audio](https://drive.google.com/file/d/1Y9OASZuVfjq0b3cJfGIB5FqGRGqSC3Ip/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2141_EXT_ANC_176_The_Remedy_That_Left_a_Mark_in_DNA.m4a)
-## Chapter 79 (File № 129) — When a Stomach Bug or One Wrong Pill Turns Common Diabetes Meds Into Biochemical Bombs
+## Chapter 80 (File № 129) — When a Stomach Bug or One Wrong Pill Turns Common Diabetes Meds Into Biochemical Bombs
 
 *Why swallowing routine metformin through a dehydrating virus chokes every mitochondrial furnace in the body—and why a single 'Lazarus' sugar shot for a glyburide mistake triggers an even deeper coma an hour later.*
 
@@ -5357,7 +5430,7 @@ Imagine an 82-year-old non-diabetic man accidentally swallowing his spouse's sin
 - **Companion Audio:** [Ep C129 Audio Stream — Why Common Diabetes Pills Turn Deadly (42:41)](https://drive.google.com/file/d/1NaIGe_pEUaGlBnmY4ECUz8hGSNAtcsUJ/view)
 - **Companion Audio (Google Drive):** [Stream Ep C129 Audio](https://drive.google.com/file/d/1NaIGe_pEUaGlBnmY4ECUz8hGSNAtcsUJ/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-archive/Why_Common_Diabetes_Pills_Turn_Deadly.m4a)
-## Chapter 80 (File № 130) — 58 Millimeters of Mercury—and the Shattered Eye That Read 14
+## Chapter 81 (File № 130) — 58 Millimeters of Mercury—and the Shattered Eye That Read 14
 
 *Why a migraine pill pushed a 29-year-old woman’s eye pressure nearly triple the normal ceiling yet reversed in five days—while a traumatized cat’s textbook 10 and 14 mmHg hid a burst globe and a shattered lens.*
 
@@ -5421,7 +5494,7 @@ Even without trauma, instruments color reality. In a 2024 Veterinary World study
 - **Podcast Transcript:** [Ep 1150 Verbatim Transcript in Google Drive (7,642 words)](https://drive.google.com/file/d/1JLbaeaOX99UcuIeYLdLls04wHPwfVLtg/view)
 - **Companion Audio (Google Drive):** [Stream Ep 1150 Audio](https://drive.google.com/file/d/1UVe0v3bMvCkf1kHuuk6gRcv5g0TFwjJv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/The_Pressure_Behind_the_Reading_Human_Angle_Closure_Feline_Ocular_Trauma_and_Tonometry_H052_V033.m4a)
-## Chapter 81 (File № 141) — The Hair-and-Nails Vitamin That Spoofed a Multi-Million-Dollar Lab
+## Chapter 82 (File № 141) — The Hair-and-Nails Vitamin That Spoofed a Multi-Million-Dollar Lab
 
 *How 200 milligrams of legal vitamin B7 sabotaged a Roche analyzer’s streptavidin superglue to fake a raging thyroid storm, why 39% of biotin-dependent assays broke in JAMA testing, and why the FDA’s sharpest alarm isn’t about your thyroid—it’s about missing a dying heart.*
 
@@ -5488,7 +5561,7 @@ The remedy is neither lab paranoia nor amateur supplement experiments. Never del
 - **Podcast Transcript:** [Ep 2625 Verbatim Transcript in Google Drive (6,008 words)](https://drive.google.com/file/d/1sbxnrebDtnPJbGVk7R5tl04kRRWkGwKV/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2625 Audio](https://drive.google.com/file/d/1wYGcqep3zj38KMru8p19FuKsuSIqC_t0/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2625_PREV_1009_The_Thyroid_That_Changed_in_the_Test.m4a)
-## Chapter 82 (File № 147) — She Took Every Vitamin on Schedule—And Her Brain Ran Out of Spark Plugs Anyway
+## Chapter 83 (File № 147) — She Took Every Vitamin on Schedule—And Her Brain Ran Out of Spark Plugs Anyway
 
 *Why carrying abundant stored calories never protects a brain missing vitamin B1, how an active bladder infection accidentally blocked an unnecessary steroid detour, and why a normal MRI still flips a coin on Wernicke’s encephalopathy.*
 
@@ -5555,7 +5628,7 @@ Modern UK guidance verified in November 2026 leaves zero ambiguity about timing.
 - **Podcast Transcript:** [Ep 2631 Verbatim Transcript in Google Drive (6,099 words)](https://drive.google.com/file/d/14lYGhh_DRrJ9erNLUPI5oBUgVTGEqb1Q/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2631 Audio](https://drive.google.com/file/d/1LjKH-LdlSHP6XI-wjYX-3ee8PdNEadHS/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2631_PREV_1015_The_Vitamin_the_Brain_Could_Not_Spare.m4a)
-## Chapter 83 (File № 156) — Blood Sugar 44, Zero Diabetes—and the Multivitamin That Turned Insulin Into a Time Bomb
+## Chapter 84 (File № 156) — Blood Sugar 44, Zero Diabetes—and the Multivitamin That Turned Insulin Into a Time Bomb
 
 *Why a clean CT scan and negative general autoimmune screen missed Hirata disease, why dividing C-peptide by insulin is mathematical nonsense, and why 100% HLA-DR4 in a Lancet study does not mean genetic destiny.*
 
@@ -5618,7 +5691,7 @@ Because hospital care saves lives rather than running single-variable experiment
 - **Podcast Transcript:** [Ep 2640 Verbatim Transcript in Google Drive (7,435 words)](https://drive.google.com/file/d/1-VLRv-I9HrObbafH7FsjUDfwYGvR_c__/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2640 Audio](https://drive.google.com/file/d/17yNW1G3rGgy7yRwOPnamDhVtX8WoLZdM/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2640_PREV_1024_The_Antibody_and_the_Falling_Glucose.m4a)
-## Chapter 84 (File № 168) — Five-and-a-Half Liters Behind a Bolted Kidney Dam
+## Chapter 85 (File № 168) — Five-and-a-Half Liters Behind a Bolted Kidney Dam
 
 *Why 'anti-diuretic' bolts the water gates shut without adding salt, why a three-week-old normal sodium is a ghost, and how a urine sample drawn after 3% saline started made a closed dam look wide open.*
 
@@ -5685,7 +5758,7 @@ DailyMed oral desmopressin labels already warn plainly of water intoxication, hy
 - **Podcast Transcript:** [Ep 2652 Verbatim Transcript in Google Drive (7,869 words)](https://drive.google.com/file/d/1DFi0eMOf0TH8zKbBv9CXBO9dU-7Ubl8N/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2652 Audio](https://drive.google.com/file/d/1EbyLx30kuQ8Q67a3zBGdzI1EAlQKbbhO/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2652_PREV_1036_The_Sample_Taken_After_the_Crisis.m4a)
-## Chapter 85 (File № 185) — Ferritin 1,426, Undetectable Vitamin C—and the 18th-Century Ghost Behind a Limp
+## Chapter 86 (File № 185) — Ferritin 1,426, Undetectable Vitamin C—and the 18th-Century Ghost Behind a Limp
 
 *Why a seven-year-old girl’s femur X-ray cried cancer while her ferritin hit nine times normal, why James Lind’s famous 1747 citrus pair was never a modern 100% cure statistic, and why ‘picky eating’ tough love drives sensory-restricted children straight toward deficiency.*
 
@@ -5752,7 +5825,7 @@ Today’s clinical lessons belong in NHS limping, scurvy, and NHS Autism Central
 - **Companion Audio:** [Ep 2708 Audio Stream — The Scaffold Her Body Could Not Build (37:07)](https://drive.google.com/file/d/19DYK7RzREKjqhUQMv5dV4N60FcleyOhP/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2708 Audio](https://drive.google.com/file/d/19DYK7RzREKjqhUQMv5dV4N60FcleyOhP/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2708_PREV_1053_The_Scaffold_Her_Body_Could_Not_Build.m4a)
-## Chapter 86 (File № 191) — Expensive Urine—and the Glass Shards That Poured Concrete Over Both Kidneys
+## Chapter 87 (File № 191) — Expensive Urine—and the Glass Shards That Poured Concrete Over Both Kidneys
 
 *Why human metabolism is a chemical factory rather than a passive pipe, why ammonia breath arrived without a twinge of urinary pain, and why 40% urinary responders in a feeding trial means crowded traffic—not 40% kidney failure.*
 
@@ -5818,7 +5891,7 @@ NIH Vitamin C guidance (updated July 31, 2025) and NHS acute kidney injury (Marc
 # Part IV: The Gym, Trail & Vacation
 *Fitness heroics, hostile wildlife, and biology having a bad day outside.*
 
-## Chapter 87 (File № 022) — The Pain That Outlasted the Class
+## Chapter 88 (File № 022) — The Pain That Outlasted the Class
 
 *How sixty minutes on a stationary bike can turn thigh muscle into microscopic wet concrete—and why a totally normal kidney test on Day 3 is no excuse to go home.*
 
@@ -5883,7 +5956,7 @@ Do not try to out-hack rhabdomyolysis from home. Painkillers mute nerve alarms w
 - **Podcast Transcript:** [Ep 2291 Verbatim Transcript in Google Drive (8,593 words)](https://drive.google.com/file/d/1kkBNDQdNIW9ztU1WYmUXJ6vSLpGfvo_W/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2291 Audio](https://drive.google.com/file/d/121KHZIPGGbHTDzAJsmdHM4bTm9_6a1vT/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2291_PREV_954_The_Pain_That_Outlasted_the_Class.m4a)
-## Chapter 88 (File № 023) — The Meal and the Match
+## Chapter 89 (File № 023) — The Meal and the Match
 
 *How a bowl of wheat noodles and an indoor badminton game acted as a two-digit immunological combination lock—dropping an 18-year-old's blood pressure to 80/40 before a single hive appeared.*
 
@@ -5949,7 +6022,7 @@ Ever since Maulitz, Pratt, and Schocket shattered static-allergy dogma with a 19
 - **Podcast Transcript:** [Ep 2286 Verbatim Transcript in Google Drive (6,784 words)](https://drive.google.com/file/d/1ywr48hx1dFJ0WK78TwSKIRUpjbW3KThG/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2286 Audio](https://drive.google.com/file/d/1twB6EcYUf07N12h7qV1bRp0y3atf4JpG/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2286_PREV_949_The_Meal_and_the_Match.m4a)
-## Chapter 89 (File № 024) — Struck by a 20-Kilogram Missile With Fins (and the Cold-Water Lung Flood)
+## Chapter 90 (File № 024) — Struck by a 20-Kilogram Missile With Fins (and the Cold-Water Lung Flood)
 
 *Why a thumbnail-sized rib graze from a leaping Spanish mackerel hid 950 milliliters of internal bleeding—and why cold-water scuba lungs flood worst on the way back up.*
 
@@ -6016,7 +6089,7 @@ Cold-water diving IPE flips the rescue playbook completely upside down. Because 
 - **Podcast Transcript:** [Ep 902 Verbatim Transcript in Google Drive (3,779 words)](https://drive.google.com/file/d/1ZSyWCTLxvaKclP9D6iVzSa-Z720wo9yj/view)
 - **Companion Audio (Google Drive):** [Stream Ep 902 Audio](https://drive.google.com/file/d/1xS5TWa2FxMYtjMEC66yUYo002X9Fzssp/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Surviving_Freak_Marine_Impacts_Diving_Edema_and_Sauna_Heat.m4a)
-## Chapter 90 (File № 025) — The Eye That Would Not Clear
+## Chapter 91 (File № 025) — The Eye That Would Not Clear
 
 *Why steroid eye drops for 'stubborn pink eye' quietly sent the security guards home while double-walled amoeba cysts tunneled across a 19-year-old's cornea.*
 
@@ -6082,7 +6155,7 @@ Two statistical guardrails keep perspective sharp. First, an odds ratio of 3.84 
 - **Podcast Transcript:** [Ep 2304 Verbatim Transcript in Google Drive (7,682 words)](https://drive.google.com/file/d/1js7br_h50PiWapatkxrgKBR22VUnWCLE/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2304 Audio](https://drive.google.com/file/d/1su-v4pTadMBiMg1DVm_n7NbyvFeGxPgC/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2304_PREV_967_The_Eye_That_Would_Not_Clear.m4a)
-## Chapter 91 (File № 026) — After the Flash, One Side Would Not Move
+## Chapter 92 (File № 026) — After the Flash, One Side Would Not Move
 
 *How a lightning strike knocked a 45-year-old field worker unconscious and paralyzed his entire right side without leaving a single burn mark—and why every bystander must ignore Hollywood lightning myths.*
 
@@ -6148,7 +6221,7 @@ If lightning drops someone nearby, junk the cartoon myth that their body stays e
 - **Podcast Transcript:** [Ep 2251 Verbatim Transcript in Google Drive (8,385 words)](https://drive.google.com/file/d/1-RoOdBGJOmi86EcmhuEmEf9CDhY-P8b9/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2251 Audio](https://drive.google.com/file/d/1eSRiDz50RNDdT2ydsqeMbKx9XLzq1nfn/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2251_PREV_942_After_the_Flash_One_Side_Would_Not_Move.m4a)
-## Chapter 92 (File № 027) — Fangs, Stingers & the Painless Bite You Sleep Through
+## Chapter 93 (File № 027) — Fangs, Stingers & the Painless Bite You Sleep Through
 
 *Why a single vineyard sting overwhelmed an immediate EpiPen without leaving a welt on the skin—and how one nocturnal banded krait silently killed three sleepers while mimicking a viper in the morgue.*
 
@@ -6215,7 +6288,7 @@ In snake country, bury two deadly folk habits forever. Never drink alcohol after
 - **Podcast Transcript:** [Ep 909 Verbatim Transcript in Google Drive (9,511 words)](https://drive.google.com/file/d/1vErQRQpb1VXsFF96iuaXk8SMaLJ6DhUd/view)
 - **Companion Audio (Google Drive):** [Stream Ep 909 Audio](https://drive.google.com/file/d/17v1nZ0jfI3X_3nSP-zlIkovQjCvGARvP/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Bee_Sting_Mastocytosis_Silent_Kraits_and_Travel_Myocarditis.m4a)
-## Chapter 93 (File № 028) — Paradoxical Undressing & the Heat That Comes Back After Cooling
+## Chapter 94 (File № 028) — Paradoxical Undressing & the Heat That Comes Back After Cooling
 
 *Why dying hikers unlace their boots in 10 °F snow while feeling engulfed in fire—and why a 'mild' 38.5 °C ear thermometer after race-day cooling can hide a seizing runner's multi-organ meltdown.*
 
@@ -6282,7 +6355,7 @@ At both thermal extremes, treat the failing brain—not the thermometer. In cold
 - **Podcast Transcript (Cold):** [Ep 1142 Verbatim Transcript in Google Drive (9,100 words)](https://drive.google.com/file/d/1HUNz4nT0SDxfXFKNEH63VuUkMSDosc8h/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2248 Audio](https://drive.google.com/file/d/1mw5mKGeFNGnxVTDgo0IZs1bSPuQc4-h5/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2248_PREV_939_The_Temperature_That_Came_After_Cooling.m4a)
-## Chapter 94 (File № 043) — When Safety Gear Flips Sides: Belt Fulcrums, Helmet Rings, and Day-One Clots
+## Chapter 95 (File № 043) — When Safety Gear Flips Sides: Belt Fulcrums, Helmet Rings, and Day-One Clots
 
 *Why a displaced three-point belt tears the abdominal aorta inside an intact car cabin, how a full-face chin bar pops a skull like a bottle cap under an uncut scalp, and why clear leg veins never clear a post-crash lung clot.*
 
@@ -6347,7 +6420,7 @@ Blast physics offer the same invisible lesson. After an extension-cord welding s
 - **Podcast Transcript:** [Ep 908 Verbatim Transcript in Google Drive (3,417 words)](https://drive.google.com/file/d/14ql_UDJvlhS8j5bTrAAA0HpCfdelGsUx/view)
 - **Companion Audio (Google Drive):** [Stream Ep 908 Audio](https://drive.google.com/file/d/1gmSv4siIczCaEJyRk9P3_fFirI5f7Fwt/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Seatbelt_Geometry_Helmet_Biomechanics_and_High_Speed_Crash_Survival.m4a)
-## Chapter 95 (File № 052) — Liquid Blades, Slipped Car Jacks & the 180-Second Shark Bleed
+## Chapter 96 (File № 052) — Liquid Blades, Slipped Car Jacks & the 180-Second Shark Bleed
 
 *How a 'non-lethal' pyrotechnic pepper gun severed both walls of an iliac artery, why a purple crushed face tricked surgeons into cracking a healthy chest, and why brooms never break a stray dog's jaw lock.*
 
@@ -6410,7 +6483,7 @@ On land, canine attacks fool both rescuers and crime labs. Di Nunzio and colleag
 - **Podcast Transcript:** [Ep 918 Verbatim Transcript in Google Drive (3,492 words)](https://drive.google.com/file/d/1irZUuPSC0BDWYO_940rInX6Rzbj6pG_G/view)
 - **Companion Audio (Google Drive):** [Stream Ep 918 Audio](https://drive.google.com/file/d/1joqpJlCAloMj0pgRgTpd6SShV5oc7gNr/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Shark_Femoral_Strikes_Dog_Packs_Car_Jacks_and_Pepper_Jet_Myths.m4a)
-## Chapter 96 (File № 071) — The Pool With Too Many Watchers—and the Blood That Turned to Acid
+## Chapter 97 (File № 071) — The Pool With Too Many Watchers—and the Blood That Turned to Acid
 
 *Why a tiled indoor swimming lesson can lull every adult on deck into assuming someone else is watching, how pH 6.67 and 95 minutes of CPR rewrote one teenager’s odds, and why a beating heart on the pool deck is never medical clearance.*
 
@@ -6474,7 +6547,7 @@ Nor should miracle machinery breed complacency. In Fiedler’s separate ten-year
 - **Podcast Transcript:** [Ep 2287 Verbatim Transcript in Google Drive (7,862 words)](https://drive.google.com/file/d/1ckBh0M-lcWl4TtS6Ak9Xze8nI534_B6i/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2287 Audio](https://drive.google.com/file/d/1Ky3mLRLBSce_fFjF5vpatZznnYh41Kex/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2287_PREV_950_The_Lesson_After_the_Rescue.m4a)
-## Chapter 97 (File № 084) — The Barbed Grass Seed Marching Beside His Heart
+## Chapter 98 (File № 084) — The Barbed Grass Seed Marching Beside His Heart
 
 *Why a dry meadow’s one-way botanical harpoon can slip invisibly into a dog’s chest, survive negative fluid cultures and normal Doppler readings, and wrap the heart in 700 milliliters of crushing fluid.*
 
@@ -6536,7 +6609,7 @@ PDSA (July 2020) and Blue Cross (March 2023) guidance translates that botanical 
 - **Companion Audio:** [Ep 2311 Audio Stream — The Awn Beside the Heart (37:47)](https://drive.google.com/file/d/1pjMUj-sNqyl1aHkO-gEM6k5C36Ttcoc-/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2311 Audio](https://drive.google.com/file/d/1pjMUj-sNqyl1aHkO-gEM6k5C36Ttcoc-/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2311_PREV_974_The_Awn_Beside_the_Heart.m4a)
-## Chapter 98 (File № 096) — Sweater Weather Outside, 112°F Behind the Glass
+## Chapter 99 (File № 096) — Sweater Weather Outside, 112°F Behind the Glass
 
 *Why a parked vehicle acts as a one-way infrared trap even on a crisp 72°F morning, why sweat-soaked clothes and a post-discovery temperature of 40.3°C never rule out heatstroke, and why a GPS 'arrived' ping is not a safe handoff.*
 
@@ -6600,7 +6673,7 @@ Preventing the tragedy means admitting human memory fails when routines shift—
 - **Companion Audio:** [Ep 2605 Audio Stream — The Van That Was Not Empty (44:17)](https://drive.google.com/file/d/1qp48Bz2TrN3LmpM3oZgfz7Wi8VATb3rc/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2605 Audio](https://drive.google.com/file/d/1qp48Bz2TrN3LmpM3oZgfz7Wi8VATb3rc/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2605_PREV_989_The_Van_That_Was_Not_Empty.m4a)
-## Chapter 99 (File № 143) — The Metal Staircase That Keeps Driving After You Hit the Floor
+## Chapter 100 (File № 143) — The Metal Staircase That Keeps Driving After You Hit the Floor
 
 *Why 76% of escalator casualties at a Swiss Level 1 trauma center required hospital admission, why one of two deaths was a heart attack before the fall while the other was blunt skull trauma, and why bystanders must never invent mechanical failures they did not witness.*
 
@@ -6665,7 +6738,7 @@ If someone does fall or get caught, call emergency services and facility staff i
 - **Podcast Transcript:** [Ep 2627 Verbatim Transcript in Google Drive (6,926 words)](https://drive.google.com/file/d/115mw-a_p1GB10PeUM-N0JGNPlVGLLtix/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2627 Audio](https://drive.google.com/file/d/1LjMw4MJjVF7aAX5XqE2Rf_ptE67Zodl6/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2627_PREV_1011_The_Step_That_Kept_Moving.m4a)
-## Chapter 100 (File № 155) — The Blunt Spear, the Normal White Count, and the Enzyme Nobody Checked
+## Chapter 101 (File № 155) — The Blunt Spear, the Normal White Count, and the Enzyme Nobody Checked
 
 *Why saying ‘fell off a bike’ at triage can hide a Grade III pancreatic rupture, why identical triple-normal enzyme spikes split into 48 ICU days versus a smoother ward stay, and why losing the pancreas tail often costs your spleen for life.*
 
@@ -6728,7 +6801,7 @@ Both survivors also paid a permanent anatomical tax. Because the splenic artery 
 - **Podcast Transcript:** [Ep 2639 Verbatim Transcript in Google Drive (8,693 words)](https://drive.google.com/file/d/16Z9bUtn9OOKZhPmYeAgdfDG4T5rtovxJ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2639 Audio](https://drive.google.com/file/d/1bOHNzrlpdV1x-UEg_rWSwNw89WN6-fp_/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2639_PREV_1023_The_Handlebar_and_the_Hidden_Duct.m4a)
-## Chapter 101 (File № 167) — The Glass-Coated Tripwire Stretched Across Traffic
+## Chapter 102 (File № 167) — The Glass-Coated Tripwire Stretched Across Traffic
 
 *Why a festival string coated in glass powder turns a neighborhood commute into a silent razor wire, why a clean neck-vessel CT still missed torn muscles underneath, and why homemade bumper armor is a public-health dodge.*
 
@@ -6795,7 +6868,7 @@ If contact still happens, NHS cuts-and-grazes guidance (reviewed April 2026) def
 - **Podcast Transcript:** [Ep 2651 Verbatim Transcript in Google Drive (7,244 words)](https://drive.google.com/file/d/1miJ01Y67vwzXHr_XN_k4fZUetABx-lEs/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2651 Audio](https://drive.google.com/file/d/1vS0hvmH72VeNNXYpXBV4wEclz8zelciv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2651_PREV_1035_The_Thread_Across_the_Road.m4a)
-## Chapter 102 (File № 180) — 96% Oxygen, a Strong Wrist Pulse—and Bone Scissors Under the Collarbone
+## Chapter 103 (File № 180) — 96% Oxygen, a Strong Wrist Pulse—and Bone Scissors Under the Collarbone
 
 *Why a healthy 32-year-old swimmer’s arm kept ballooning on modern anticoagulation, why her spotless thrombophilia blood work never spotted the clogged drain, and why sometimes the chemistry is fine while the skeleton is pinching the pipe.*
 
@@ -6862,7 +6935,7 @@ Symptomatic Paget-Schroetter syndrome strikes only an estimated 1 to 2 per 100,0
 - **Companion Audio:** [Ep 2703 Audio Stream — The Vein Beneath the First Rib (1:00:59)](https://drive.google.com/file/d/1R5LmbFLZCSzJZjGFRHi_7kjCnlQoUgP3/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2703 Audio](https://drive.google.com/file/d/1R5LmbFLZCSzJZjGFRHi_7kjCnlQoUgP3/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2703_PREV_1048_The_Vein_Beneath_the_First_Rib.m4a)
-## Chapter 103 (File № 181) — Ventilator, IVIG, Plasma Exchange—and the Apple-Seed Culprit Under the Matted Hair
+## Chapter 104 (File № 181) — Ventilator, IVIG, Plasma Exchange—and the Apple-Seed Culprit Under the Matted Hair
 
 *How a four-year-old’s alert brain stayed trapped behind failing lungs and drooping eyelids through a normal CT, contrast MRI, IVIG, and plasma exchange—until one repeated scalp exam found an American dog tick hiding in plain sight.*
 
@@ -6929,7 +7002,7 @@ CDC prevention guidance (dated August 28, 2024; verified November 21, 2026) keep
 - **Companion Audio:** [Ep 2704 Audio Stream — The Paralysis Beneath the Hair (45:12)](https://drive.google.com/file/d/19p_epezm4hgT9NtcKXYtJzn0Hp9w-A0a/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2704 Audio](https://drive.google.com/file/d/19p_epezm4hgT9NtcKXYtJzn0Hp9w-A0a/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2704_PREV_1049_The_Paralysis_Beneath_the_Hair.m4a)
-## Chapter 104 (File № 182) — Drinking Water Is Not Sinus Water—And the Fungal Test That Hauled Up an Amoeba
+## Chapter 105 (File № 182) — Drinking Water Is Not Sinus Water—And the Fungal Test That Hauled Up an Amoeba
 
 *Why stomach acid digests what the olfactory nerve escorts straight to the brain, how a lab technician refusing to force a label unlocked an accidental cross-kingdom PCR discovery, and why adding table salt to holiday tap water sterilizes nothing.*
 
@@ -6996,7 +7069,7 @@ Biology explains the hazard cleanly. Chlorine fluctuates in warm building pipes,
 - **Companion Audio:** [Ep 2705 Audio Stream — The Water Had Another Route (39:15)](https://drive.google.com/file/d/18H5AaiD8p1tG95LHTHGFvq838A0A3jic/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2705 Audio](https://drive.google.com/file/d/18H5AaiD8p1tG95LHTHGFvq838A0A3jic/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2705_PREV_1050_The_Water_Had_Another_Route.m4a)
-## Chapter 105 (File № 187) — The Giant Marshmallow That Locked the Skull and Folded the Neck
+## Chapter 106 (File № 187) — The Giant Marshmallow That Locked the Skull and Folded the Neck
 
 *Why grippy foam blocks act like a vice rather than a slide, why 76.1 milliseconds of neck compression mimics a hydraulic press, and why moving your wrists never rules out a complete spinal cord injury below.*
 
@@ -7058,7 +7131,7 @@ The American Academy of Pediatrics (updated September 3, 2024) advises children 
 - **Companion Audio:** [Ep 2710 Audio Stream — The Foam Was Not a Neck Safeguard (51:17)](https://drive.google.com/file/d/1uMANJ23TNskyzTXxqJc1pS_TX92AHXwX/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2710 Audio](https://drive.google.com/file/d/1uMANJ23TNskyzTXxqJc1pS_TX92AHXwX/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2710_PREV_1055_The_Foam_Was_Not_a_Neck_Safeguard.m4a)
-## Chapter 106 (File № 197) — Clear Water, Roaring Pump, Missing Cover
+## Chapter 107 (File № 197) — Clear Water, Roaring Pump, Missing Cover
 
 *Why a 40-centimeter grate imprint on a teenager’s back and a trapped foot under a watchful mother’s eyes dismantle “just watch your kids,” and why 70.8% of surveyed UK pool-holiday operators never inspected a single drain.*
 
@@ -7124,7 +7197,7 @@ If entrapment occurs, shout explicitly that pool equipment is trapping someone�
 - **Companion Audio:** [Ep 2720 Audio Stream — The Pool Had Another Hazard (42:32)](https://drive.google.com/file/d/1BNUpyg8VBTk7sURVLi8k8tnf3S02mUPb/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2720 Audio](https://drive.google.com/file/d/1BNUpyg8VBTk7sURVLi8k8tnf3S02mUPb/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2720_PREV_1065_The_Pool_Had_Another_Hazard.m4a)
-## Chapter 107 (File № 200) — The Stencil Built by Sleeves, Sap, and Sunlight
+## Chapter 108 (File № 200) — The Stencil Built by Sleeves, Sap, and Sunlight
 
 *Why phytophotodermatitis is neither a heat burn nor a poison-ivy allergy, why 23 mothers tried to scrub a 1984 lime outbreak off as stubborn dirt, and why dividing by zero is undefined—not “infinite risk.”*
 
@@ -7188,10 +7261,77 @@ Upstream prevention does not mean banning limes from summer camp—eating citrus
 - **Companion Audio:** [Ep 2752 Audio Stream — The Sun Completed the Exposure (50:32)](https://drive.google.com/file/d/126_ZAobHbGbChy4Jx8NPKozVTkXnWv94/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2752 Audio](https://drive.google.com/file/d/126_ZAobHbGbChy4Jx8NPKozVTkXnWv94/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2752_PREV_1068_The_Sun_Completed_the_Exposure.m4a)
+## Chapter 109 (File № 203) — Zero Clots on CT, 13.8 Hemoglobin—and a Dying Spleen at Sea Level
+
+*Why an unblocked main artery never clears a microscopic bottleneck, what a 40% HbS fraction actually measures, and why driving down the mountain never reverses dead tissue.*
+
+- **Part:** Part IV · The Gym, Trail & Vacation
+- **Companion Episode:** Ep 2755 (54:58, 9,386 spoken words)
+- **Looks Like:** A mysterious sea-level stomachache with 13.8 hemoglobin, negative clotting panels, and no main-artery plug
+- **Actually Is:** High-altitude splenic infarction triggered by previously unknown sickle cell trait (40% HbS)
+- **Cause / Mechanism / Manner:** High-altitude splenic infarction associated with previously undiagnosed sickle cell trait | Deoxygenation in thin mountain air prompting beta-globin HbS polymerization into rigid cellular rods that jam microscopic splenic sinusoids without obstructing the main splenic artery | Survivor Case (Environmental Stress / Occult Hematologic Trait)
+- **Avoidability:** Uncertain (altitude-aware clinical planning & prompt evaluation reduce risk; no universal guarantee) | **False Reassurance:** “I’m back at sea level, my hemoglobin is normal at 13.8, the clotting panel is negative, and the CT didn’t spot a single blood clot in the main artery.”
+
+### A Dried-Up Garden With the Main Valve Wide Open
+
+We like to treat human health as a permanent badge stamped at birth, right up until physics runs an unannounced stress test. Think of a laptop that purrs through emails for years and freezes the instant you render 3D video—not because the file broke it, but because heavy load finally woke a motherboard bug. In 2020, Luis Gonzalez and colleagues in Cureus documented Case 2, a previously healthy 20-year-old Hispanic man living in sea-level Guayaquil, Ecuador, with zero medical history and no daily medications. After traveling to a city at 10,341 feet and returning home to thick coastal air, he walked into a hospital with upper-left abdominal pain and jaundiced skin and eyes.
+
+Exam found upper-left tenderness and an enlarged spleen. Ultrasound shrugged with vague heterogeneous echoes, so clinicians escalated to an axial contrast-enhanced CT. Iodine contrast lights up perfused tissue; here, discrete zones of his enlarged spleen stayed ominously dark—compatible with a splenic infarct, meaning living tissue starved to death. Yet the CT showed zero obstructing clot in the main splenic artery. Missing context compounded the riddle: the paper reported no oxygen saturation, no hydration status, and no duration of how many hours or days he spent at 10,341 feet.
+
+Blood work piled on false tidiness. Systemic hemoglobin sat at a reassuring 13.8 grams per deciliter with a 38% hematocrit and normal platelets at 157 billion per liter (157 × 10⁹/L)—proving arm-vein averages cannot guarantee oxygen inside microscopic splenic capillaries. White blood cells rose to 13.3 billion per liter from tissue stress, while total bilirubin reached 4.30 milligrams per deciliter with 3.49 milligrams per deciliter indirect, pointing to accelerated red-cell breakdown without naming why. A clotting workup—protein C, protein S, antithrombin III, Factor V Leiden, and D-dimer—was reported simply as negative without printed numbers or assay methods, ruling out a tidy plasma-clot culprit without proving every thrombosis mechanism impossible.
+
+### Forty Percent Pantry Inventory, Zero Observed Clots
+
+When the main water valve stands open yet the lawn turns brown, inspect the water hitting the sprinkler heads. Hemoglobin electrophoresis sorted his red-cell proteins by charge: 55% HbA, 40% HbS, 3.2% HbA2, and 1.8% fetal HbF—summing cleanly to 100% and diagnosing sickle cell trait (SCT). That label is genetically distinct from sickle cell disease; trait carriers inherit one variant gene and cannot turn into sickle cell disease. Swapping one amino acid on beta-globin—glutamic acid to valine—leaves a sticky patch exposed once oxygen unloads in thin mountain air, letting deoxygenated HbS link into rigid rods like engine oil thickening to sludge on a freezing pass. Stiff cells jam the spleen’s tortuous sinusoids and kill tissue silently.
+
+Still, scientific hygiene demands strict fences around every number. A 40% HbS fraction is strictly a pantry inventory of proteins in that tube—not 40% sickled cells, not infarcted spleen volume, not DNA sequencing, and not a future-risk score. Because clinicians performed no splenic biopsy and measured no splenic-artery oxygen, linking altitude to infarction was a logical synthesis rather than live video; he received supportive care and went home with no long-term follow-up imaging reported. Separate Case 1—a 25-year-old man who achieved full symptom resolution—actually published an arithmetic impossibility on electrophoresis (57.5% HbA, 39% HbS, 3.5% HbA2, and 1.9% HbF, totaling 101.9%), preserved verbatim without contaminating Case 2’s clean math. Nor can two patients validate the paper’s speculative discussion claims about sex ratios or permanent-resident immunity.
+
+For physical proof of the microscopic logjam, turn to Jeremy Goodman and colleagues’ 2014 High Altitude Medicine & Biology referral series of 25 splenic infarctions collected over 20 years in Colorado (10 prospective cases verified by chromatography and electrospray mass spectrometry; 15 retrospective; 16 solubility tests, 17 electrophoresis, 11 both, and 1 self-reported without lab proof). All 25 presented with upper-left pain, and 5 underwent splenectomy for rupture, bleeding, or unrecorded indications—yielding removed organs whose histology physically proved hemorrhage, infarction, and widespread sinusoidal sickling with zero major-vessel clots. Yet denominator neglect waits for sloppy readers: 16 of 25 (64%) were previously unaware of their trait (9 of 25, or 36%, knew), and all 25 were male. Those fractions describe who reached two Colorado specialists—not global unawareness, not ski-trip probability, and certainly not biological immunity for women.
+
+### Why Driving Down the Mountain Cannot Unkill Tissue
+
+Altitude does not negotiate retroactively. Descending to sea level pops your ears; it does not resurrect necrotic spleen tissue, which is why symptoms can roar loudest after unpacking at home. CDC spleen-and-trait guidance flags persistent upper-left abdominal pain, referred left-shoulder pain from diaphragmatic irritation, breath-linked chest pain, severe nausea, or fever after elevation shifts as immediate clinical alarms—whether or not you have ever been tested. If severe pain hits while still up high and stable, request professional advice and assisted transport to lower elevation; there is no DIY tent waiting rule or home oxygen recipe. Never wait for a hemoglobin test before seeking emergency care for severe pain, fainting, weakness, or breathlessness, and hand clinicians your exact altitude timeline and prior records.
+
+Long-term, knowledge replaces panic with planning. The CDC Yellow Book tags sickle cell trait as caution required—far short of a travel ban, and utterly distinct from pressurized commercial flights (~6,000–8,000-foot cabin equivalent), which carry no blanket SCT ban. Both CDC and the American Society of Hematology emphasize hydration (keeping intracellular HbS less concentrated), paced exertion, rest, and an individualized medical plan—without pretending a magic liter count or altitude ceiling fits every body, and without ancestry stereotyping or discriminatory exclusion.
+
+### RED FLAGS · SEA LEVEL IS NOT AN ERASER — When Post-Mountain Pain Demands Immediate Evaluation
+
+- Seek urgent medical assessment for persistent upper-left abdominal pain, referred left-shoulder pain, breath-linked chest pain, severe nausea, or fever after high-altitude travel—even days later at sea level and even with zero known trait history.
+- Never assume returning to thicker coastal air reversed an injury; if severe symptoms strike while still at altitude, seek professional advice and assisted descent rather than resting it out in a tent.
+- Give ER clinicians your exact elevation reached, symptom chronology (at altitude versus after descent), and any electrophoresis or scan records—without ever delaying emergency care to confirm trait status first.
+- Before high-altitude mountain trips with known SCT, consult an altitude-familiar physician for an individualized hydration, pacing, and emergency-access plan—never rely on family lore or blanket bans.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · LEFT-SIDE PAIN AFTER HIGH ALTITUDE
+*Back at sea level does not mean out of danger—handoff the elevation history and let clinicians scan.*
+
+1. **DO NOT WAIT FOR SEA-LEVEL AIR TO FIX IT:** Descending from altitude cannot resurrect infarcted splenic tissue. Persistent upper-left abdominal pain, left-shoulder pain, fever, severe nausea, or breath-linked chest pain require prompt medical assessment.
+2. **CALL EMERGENCY CARE FOR SEVERE DISTRESS:** Worsening severe pain, fainting, marked weakness, or trouble breathing warrant urgent emergency help immediately—never wait for a hemoglobin electrophoresis result first.
+3. **USE ASSISTED DESCENT IF STILL UP HIGH:** If symptoms strike at elevation while stable, seek professional medical advice and assisted transport to lower altitude rather than attempting solo descent, DIY oxygen dosing, or a tent wait-out.
+4. **LEAD WITH ALTITUDE & LAB RECORDS:** Tell triage the exact altitude visited, when pain started relative to descent, and any known sickle cell trait status—keeping electrophoresis reports and discharge imaging together for future clinicians.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case** | Gonzalez L et al. (2020), Cureus (PMID 32821639 · PMC7431312) · Case 2: previously healthy 20-year-old Hispanic male in sea-level Guayaquil, Ecuador, after travel to 10,341 ft (SpO₂, altitude duration & hydration unreported) |
+| **Imaging & Labs** | Splenomegaly & ULQ tenderness; ultrasound heterogeneous; contrast CT: non-enhancing splenic infarct zones with NO main splenic artery clot; Hb 13.8 g/dL, Hct 38%, WBC 13.3 × 10⁹/L, Plt 157 × 10⁹/L, total/indirect bilirubin 4.30 / 3.49 mg/dL; negative clotting panel (Protein C/S, AT-III, Factor V Leiden, D-dimer—no values/methods printed) |
+| **Electrophoresis & Boundary** | Case 2: HbA 55% + HbS 40% + HbA2 3.2% + HbF 1.8% = 100% (SCT; protein fraction ≠ sickled-cell %, infarct size, DNA genotype, or future risk); no splenic biopsy; discharged after supportive care without long-term imaging |
+| **Source Discrepancy (Case 1)** | Separate Case 1 (25-year-old male, complete symptom resolution) reported HbA 57.5% + HbS 39% + HbA2 3.5% + HbF 1.9% = 101.9%—preserved verbatim as an unresolved primary arithmetic anomaly |
+| **Colorado Series (2014)** | Goodman J, Hassell K, Irwin D, Witkowski EH & Nuss R (2014), High Alt Med Biol (PMID 25361178 · PMC4273194): 25 referred splenic infarcts (1986–2006; 10 prospective with chromatography/ESI-MS, 15 retrospective); 16/25 (64%) unaware of SCT (9/25 = 36% aware); 25/25 male (referral selection, NOT female immunity or global risk) |
+| **Pathology Proof** | 5/25 Colorado patients underwent splenectomy; excised spleens confirmed hemorrhage, infarction, and widespread sinusoidal sickling with ZERO overt major-vessel intravascular thrombosis |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Gonzalez L et al. (2020) — Splenic Infarct Secondary to High Altitude Exposure in Sickle Cell Trait Patients: A Case Series (Cureus · PMID 32821639 · PMC7431312)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7431312/)
+- **Cohort Study:** [Goodman J, Hassell K, Irwin D, Witkowski EH & Nuss R (2014) — The splenic syndrome in individuals with sickle cell trait (High Alt Med Biol · PMID 25361178 · PMC4273194)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4273194/)
+- **Podcast Transcript:** [Ep 2755 Verbatim Transcript in Google Drive (9,386 words)](https://drive.google.com/file/d/1A3OOZf6ugLr5siU4JYsOiQ1z5K1feBVv/view)
+- **Companion Audio:** [Ep 2755 Audio Stream — The Spleen After the Ascent (54:58)](https://drive.google.com/file/d/1lFnYIfSg3S5nPptKcbqVYKdjmcULfrL7/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2755 Audio](https://drive.google.com/file/d/1lFnYIfSg3S5nPptKcbqVYKdjmcULfrL7/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2755_PREV_1071_The_Spleen_After_the_Ascent.m4a)
 # Part V: “The First Test Looked Normal”
 *Routine care gone sideways, one-finger saves, and red flags you never sleep off.*
 
-## Chapter 108 (File № 029) — The One-Finger Fix That Stops a Fatal Bathroom Bleed
+## Chapter 110 (File № 029) — The One-Finger Fix That Stops a Fatal Bathroom Bleed
 
 *Why a 2-millimeter pinhole on an ankle or dialysis arm can mimic a homicide scene in under twenty minutes—and how a fluffy bath towel politely helps gravity finish the job.*
 
@@ -7257,7 +7397,7 @@ Stopping either catastrophe requires replacing polite panic with blunt physics. 
 - **Podcast Transcript:** [Ep 905 Verbatim Transcript in Google Drive (10,519 words)](https://drive.google.com/file/d/1JhtW-iM9De9oXzQqu9AW0Z0WAvi5LQ-T/view)
 - **Companion Audio (Google Drive):** [Stream Ep 905 Audio](https://drive.google.com/file/d/1qXKW0Mz-4H6F_LMJ9R-P4FTNR2BLL73e/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Plaster_Cast_Infections_Varicose_Bleeds_and_Medical_Air_Embolism.m4a)
-## Chapter 109 (File № 030) — The Cast That Hid a Flesh-Eating Fire
+## Chapter 111 (File № 030) — The Cast That Hid a Flesh-Eating Fire
 
 *Why opaque plaster turns a normal wrist X-ray into a sealed black box—plus the pus-free tattoo, the thyroid needle, and the half-milliliter air bubbles that turn routine outpatient care lethal.*
 
@@ -7322,7 +7462,7 @@ Worse still, on the arterial left side of the heart, it takes less than a quarte
 - **Podcast Transcript:** [Ep 905 Verbatim Transcript in Google Drive (10,519 words)](https://drive.google.com/file/d/1JhtW-iM9De9oXzQqu9AW0Z0WAvi5LQ-T/view)
 - **Companion Audio (Google Drive):** [Stream Ep 905 Audio](https://drive.google.com/file/d/1qXKW0Mz-4H6F_LMJ9R-P4FTNR2BLL73e/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Plaster_Cast_Infections_Varicose_Bleeds_and_Medical_Air_Embolism.m4a)
-## Chapter 110 (File № 031) — The Headache After the Birth
+## Chapter 112 (File № 031) — The Headache After the Birth
 
 *Why a normal pregnancy blood pressure, normal ER blood work, and a completely clear first brain CT still missed a massive clot plugging the brain's drainage pipes ten days after delivery.*
 
@@ -7387,7 +7527,7 @@ What keeps a new parent alive is not memorizing MRV physics or trying to diagnos
 - **Podcast Transcript:** [Ep 2600 Verbatim Transcript in Google Drive (6,375 words)](https://drive.google.com/file/d/1ZmaULmxFmU1aQEbUmBIsfV1rwIeCocWl/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2600 Audio](https://drive.google.com/file/d/1DE6MEIekROjEJD_aPZnKUHY9V3tVyZXW/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2600_PREV_984_The_Headache_After_the_Birth.m4a)
-## Chapter 111 (File № 032) — The Negative Test and the Blood in the Abdomen
+## Chapter 113 (File № 032) — The Negative Test and the Blood in the Abdomen
 
 *How a negative urine pregnancy stick, a 56.5% plunge in blood hormone, zero vaginal bleeding, and 'stable' vitals still disguised a ruptured ectopic pregnancy bleeding into the pelvis.*
 
@@ -7452,7 +7592,7 @@ Updated 2026 NICE guidelines for pregnancies of unknown location (recommendation
 - **Podcast Transcript:** [Ep 2298 Verbatim Transcript in Google Drive (8,818 words)](https://drive.google.com/file/d/1Vqh63GOdwdK1TzfeojWoqKds9W1c65pM/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2298 Audio](https://drive.google.com/file/d/1J_PAajGO799fJn0zwHbx4IlEM6rRjwFv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2298_PREV_961_The_Negative_Test_and_the_Blood_in_the_Abdomen.m4a)
-## Chapter 112 (File № 033) — The Blood Flow That Did Not Clear the Testicle
+## Chapter 114 (File № 033) — The Blood Flow That Did Not Clear the Testicle
 
 *How a spermatic cord twisted two full 360-degree turns still flashed arterial blood flow and a 'normal' 0.75 resistive index on Doppler ultrasound—and why 1 in 4 torsions beat the old flow rule.*
 
@@ -7517,7 +7657,7 @@ Second, never read three days of prior tenderness as proof that torsion carries 
 - **Podcast Transcript:** [Ep 2295 Verbatim Transcript in Google Drive (7,249 words)](https://drive.google.com/file/d/1mKRaBEhda9OirjYBnb0Q4dbeEoHdROvP/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2295 Audio](https://drive.google.com/file/d/1FCtuoJgAw-VYje1VyizISk6qf46avFNf/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2295_PREV_958_The_Blood_Flow_That_Did_Not_Clear_the_Testicle.m4a)
-## Chapter 113 (File № 034) — The Fall Beneath the Scalp
+## Chapter 115 (File № 034) — The Fall Beneath the Scalp
 
 *How a two-inch scalp cut over a smooth, unbroken skull concealed a shattered C1 Atlas ring, a snapped C2 peg, and a skull slid backward off the spine—plus why improvised cardboard neck collars make things worse.*
 
@@ -7580,7 +7720,7 @@ One supreme rule overrides even spinal stillness. Under the 2025 Resuscitation C
 - **Podcast Transcript:** [Ep 2232 Verbatim Transcript in Google Drive (6,465 words)](https://drive.google.com/file/d/1RxnFCvc6Hv49sB5J1Bfs1oFI78BsQ5FM/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2232 Audio](https://drive.google.com/file/d/1UlQ0E-pIuzto7wpDYu_KsQL6RVgh1q6N/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2232_PREV_923_The_Fall_Beneath_the_Scalp.m4a)
-## Chapter 114 (File № 035) — Symptoms You Never Sleep Off: Left Shoulder Pain, Dry Retching & Drop-Attack Headaches
+## Chapter 116 (File № 035) — Symptoms You Never Sleep Off: Left Shoulder Pain, Dry Retching & Drop-Attack Headaches
 
 *Three anatomical sirens hiding behind ordinary aches: a normal-sized mono spleen ringing the left shoulder via Kehr's sign, a twisted stomach trapped in Borchardt's triad, and a brain-drain rubber stopper that hates spinal taps.*
 
@@ -7643,7 +7783,7 @@ Mechanically, a third-ventricle colloid cyst behaves like a loose rubber sink st
 - **Podcast Transcript:** [Ep 2292 Verbatim Transcript in Google Drive (9,160 words)](https://drive.google.com/file/d/1V3m0XqUujDLmMnRbbyFkvWWIvkQ_o54m/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2292 Audio](https://drive.google.com/file/d/1vc-NPkc752Of203AMKAi7JodcSRhMdWu/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2292_PREV_955_The_Shoulder_Pain_Without_a_Collision.m4a)
-## Chapter 115 (File № 042) — Unbruised Chests, Silent Plumbing, and Hearts on a Fuse
+## Chapter 117 (File № 042) — Unbruised Chests, Silent Plumbing, and Hearts on a Fuse
 
 *How cartilaginous ribs bruise the back of a teen heart without marking the skin, why a single elbow at end-diastole bursts a ventricle like a water balloon, and how pregnancy or steroids quietly prime an aorta to tear.*
 
@@ -7705,7 +7845,7 @@ Most humbling of all is Roger Byard’s 2023 case: a 39-year-old woman (BMI 36.9
 - **Podcast Transcript:** [Ep 907 Verbatim Transcript in Google Drive (8,836 words)](https://drive.google.com/file/d/1BV92Yy0ly4XO-rfNZbRpPW_yEIOU1cqZ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 907 Audio](https://drive.google.com/file/d/1bT-2UJNdvjhHxEgPGc5xnck1TmeM7zWT/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Silent_Coronary_Anomalies_Blunt_Cardiac_Rupture_and_Aortic_Tears.m4a)
-## Chapter 116 (File № 044) — Vanishing Poisons, Fake Bullets, and the Machine That Hallucinated Evidence
+## Chapter 118 (File № 044) — Vanishing Poisons, Fake Bullets, and the Machine That Hallucinated Evidence
 
 *Why sub-nanogram nitazenes and esterase-eaten cannabinoids erase themselves from standard blood panels—and how benign lung stones, steel search probes, and sloppy electron beams fabricate murders that never happened.*
 
@@ -7768,7 +7908,7 @@ In a companion series (Amadasi et al., 2025b), a 12-year-old girl’s irregular,
 - **Podcast Transcript:** [Ep 910 Verbatim Transcript in Google Drive (3,651 words)](https://drive.google.com/file/d/1FPJDYuwIovqPqwnsoQ6R2BCqJER0ZBo3/view)
 - **Companion Audio (Google Drive):** [Stream Ep 910 Audio](https://drive.google.com/file/d/1vwnLP148pjif1e-41taEEb3RxLw5DwUG/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Nitazene_Traps_Fake_CT_Bullets_Otzi_and_Forensic_Illusions.m4a)
-## Chapter 117 (File № 045) — When Heart Valves Go Touring and Medical Sprays Inject Air
+## Chapter 119 (File № 045) — When Heart Valves Go Touring and Medical Sprays Inject Air
 
 *How a 'contaminant' skin bug liquefies stitches and launches a prosthetic valve down the aorta, why a pizza-sized groin bruise hides an 800-mL chest bleed, and how aerosol sprays bypass intact hearts straight to the brain.*
 
@@ -7831,7 +7971,7 @@ Even 'controlled' operating-room sprays obey the same brutal pressure math. In B
 - **Podcast Transcript:** [Ep 911 Verbatim Transcript in Google Drive (8,457 words)](https://drive.google.com/file/d/1VYQXxMiz2Gm9hECfuOX7upUuXrqeqtgg/view)
 - **Companion Audio (Google Drive):** [Stream Ep 911 Audio](https://drive.google.com/file/d/1M17LR34qF40Po3UP466IYKOIigd4cVdi/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/When_Heart_Valves_Migrate_and_Medical_Sprays_Inject_Air.m4a)
-## Chapter 118 (File № 046) — Sixty-Second Silicone Casts and the Myth of ‘Minimally Invasive’
+## Chapter 120 (File № 046) — Sixty-Second Silicone Casts and the Myth of ‘Minimally Invasive’
 
 *How liquid silicone squeezed past a physically intact airway balloon in 60 seconds, why the classic stethoscope 'whoosh test' flooded a lung with tube feed, and how room air during routine endoscopy triggers instant stroke.*
 
@@ -7894,7 +8034,7 @@ Nor are all tube-and-valve hazards instant. In MacDonald, Langlois, and Byard (2
 - **Podcast Transcript:** [Ep 912 Verbatim Transcript in Google Drive (3,602 words)](https://drive.google.com/file/d/1VOEfOuxP_IJnYJUnDfdpFYJyYUKs1OJC/view)
 - **Companion Audio (Google Drive):** [Stream Ep 912 Audio](https://drive.google.com/file/d/15dkPBCgSILiuECY0t71tPxWvU1gW3uzM/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Silicone_Airway_Plugs_Valve_Bleeds_and_Hospital_Tube_Traps.m4a)
-## Chapter 119 (File № 047) — Pinpoint Gut Fire Hoses, Lying Blood Counts, and the Eleven-Day Sauna Stomach
+## Chapter 121 (File № 047) — Pinpoint Gut Fire Hoses, Lying Blood Counts, and the Eleven-Day Sauna Stomach
 
 *Why a normal first hemoglobin hides over a liter of upper-GI blood, how a 25-year-old’s tearing iliac artery gets silenced with painkillers, and why vegetables sat untouched in a burn patient’s stomach for 264 hours.*
 
@@ -7957,7 +8097,7 @@ Severe stress stalls the gut in bizarre ways across the lifespan. In Gadsby, Tho
 - **Podcast Transcript:** [Ep 913 Verbatim Transcript in Google Drive (9,125 words)](https://drive.google.com/file/d/1JSmnnYhib1rUrd2vP5NeZbDVNIZ0j2fa/view)
 - **Companion Audio (Google Drive):** [Stream Ep 913 Audio](https://drive.google.com/file/d/1mgnIDIJtbBuzW5djmPBO2zLSei7Xjv20/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Pinpoint_Dieulafoy_Arteries_Sauna_Gut_Stasis_and_Abdominal_Apoplexy.m4a)
-## Chapter 120 (File № 050) — Calcified Heart Toothpaste, Telescoping Arteries & 380-Gram Traps
+## Chapter 122 (File № 050) — Calcified Heart Toothpaste, Telescoping Arteries & 380-Gram Traps
 
 *Why clean coronary arteries and normal heart weights hide liquefied calcium invading the AV node, a vomiting-telescoped vessel wall, the smallest lethal tumor in medicine, and an operating-table 'suicide LV.'*
 
@@ -8020,7 +8160,7 @@ Dynamic physiology pulls the same trigger outside the hospital. In biventricular
 - **Podcast Transcript:** [Ep 916 Verbatim Transcript in Google Drive (3,695 words)](https://drive.google.com/file/d/16AdpBg1-ZAk3RHXslQVnIks6n5NPSeCO/view)
 - **Companion Audio (Google Drive):** [Stream Ep 916 Audio](https://drive.google.com/file/d/1i6JGm8DkWI7DP4_0Oj_XmKzpRN6W33rY/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Calcified_Heart_Toothpaste_Telescoping_Arteries_and_Micro_Tumors.m4a)
-## Chapter 121 (File № 054) — The Umbrella Syringe, False Lung Floats & Shattered Forensic Rules
+## Chapter 123 (File № 054) — The Umbrella Syringe, False Lung Floats & Shattered Forensic Rules
 
 *Why methylmercury waits weeks while sneaking into the brain disguised as an amino acid—and how six 'shaken baby' parents, a teen mother with floating stillborn lungs, and prison guards beat broken forensic dogmas.*
 
@@ -8083,7 +8223,7 @@ Thermodynamics misfired just as dangerously in a German cell. Potente and collea
 - **Podcast Transcript:** [Ep 920 Verbatim Transcript in Google Drive (3,721 words)](https://drive.google.com/file/d/16a7893gmsqujUIyr3-fWiNoli2nOuSWW/view)
 - **Companion Audio (Google Drive):** [Stream Ep 920 Audio](https://drive.google.com/file/d/12e2iwRqrKjhGOG82M1IFeMO7NuzjtLDz/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Umbrella_Methylmercury_Shaken_Baby_Mimics_and_Broken_Forensic_Rules.m4a)
-## Chapter 122 (File № 055) — The Wax Block That Reopened a Family Tree
+## Chapter 124 (File № 055) — The Wax Block That Reopened a Family Tree
 
 *Why a textbook clogged-artery autopsy sent two living sisters home reassured—until nine years later a cousin’s cardiac MRI unmasked broken cellular rivets hiding in the same heart.*
 
@@ -8150,7 +8290,7 @@ Nor can anyone extrapolate 5 carriers out of 19 into community prevalence (ascer
 - **Podcast Transcript:** [Ep 2230 Verbatim Transcript in Google Drive (9,308 words)](https://drive.google.com/file/d/1suO7vO-dsEp99dVoA0Rf86oflslU8vKE/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2230 Audio](https://drive.google.com/file/d/10zh-uApolyldqWGC9wwVK4Lhp1Lft9ZT/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2230_PREV_921_The_Autopsy_That_Reached_the_Family.m4a)
-## Chapter 123 (File № 058) — The Warning Lights Flashing Inside the Brain’s Plumbing
+## Chapter 125 (File № 058) — The Warning Lights Flashing Inside the Brain’s Plumbing
 
 *Why sepsis turns blood vessels from lungs to cerebral cortex sticky with inflammatory alarm signals—and why waiting for a lab test or home symptom score can cost the only hour that matters.*
 
@@ -8217,7 +8357,7 @@ For patients and families, the CDC’s recognition prompts—confusion or disori
 - **Podcast Transcript:** [Ep 2234 Verbatim Transcript in Google Drive (6,659 words)](https://drive.google.com/file/d/1KhhWez8V9Zp2Rz9rRg3bEMyID0-4FSwz/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2234 Audio](https://drive.google.com/file/d/1gX1AsON2jxvdglOds5p6X0cvr5ixtNvv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2234_PREV_925_The_Signal_in_the_Vessel_Wall.m4a)
-## Chapter 124 (File № 060) — The Empty Hallway and the Locked Safe
+## Chapter 126 (File № 060) — The Empty Hallway and the Locked Safe
 
 *Why postmortem blood grew nothing while a swab from the aortic valve unmasked a picky bacterium that hollowed a 3-centimeter crater inside a 19-year-old’s heart.*
 
@@ -8282,7 +8422,7 @@ Two practical rules survive the forensic fog. First, under NHS guidance, ordinar
 - **Podcast Transcript:** [Ep 2236 Verbatim Transcript in Google Drive (8,947 words)](https://drive.google.com/file/d/1wptKETUwZ3Gk9fO7DfxvJHLw7Y0_vIhm/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2236 Audio](https://drive.google.com/file/d/1qZNA2_RBOS5zvcG8AIO0zOwLv3Vloa3Q/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2236_PREV_927_The_Specimen_That_Changed_the_Story.m4a)
-## Chapter 125 (File № 061) — The Footprints That Looked Like Asphyxia—Not the Drug
+## Chapter 127 (File № 061) — The Footprints That Looked Like Asphyxia—Not the Drug
 
 *How proton-NMR urine metabolomics read cellular oxygen starvation inside an infant death that looked like SIDS—while mass spectrometry named methadone and reminded families why “child-resistant” caps aren’t locks.*
 
@@ -8348,7 +8488,7 @@ For suspected exposure when someone is still awake and breathing normally, call 
 - **Podcast Transcript:** [Ep 2237 Verbatim Transcript in Google Drive (7,939 words)](https://drive.google.com/file/d/1_KZmCUcVopvS6sTMoatOsvkbyLdq224A/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2237 Audio](https://drive.google.com/file/d/1hHLf0fWFet6KTGg9eEbrHWTaG_UxLhow/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2237_PREV_928_The_Pattern_Was_Not_the_Poison.m4a)
-## Chapter 126 (File № 062) — The Skin Cancer That Never Metastasized—and Still Killed
+## Chapter 128 (File № 062) — The Skin Cancer That Never Metastasized—and Still Killed
 
 *How a giant untreated scalp tumor stayed strictly on the head yet eroded straight through the skull into brain linings and unleashed a fatal clotting avalanche from neck sinus to lungs.*
 
@@ -8414,7 +8554,7 @@ What we can change is the silent paralysis that keeps living people waiting unti
 - **Podcast Transcript:** [Ep 2238 Verbatim Transcript in Google Drive (7,961 words)](https://drive.google.com/file/d/1vXWqQPEOILIBsucS22zh8ucEMfKZLTYB/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2238 Audio](https://drive.google.com/file/d/1F8orVZ1oySV_aMt9V2y5LAzWMnV-UX-n/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2238_PREV_929_The_Lesion_That_Needed_a_Name.m4a)
-## Chapter 127 (File № 063) — The Headache That Shifted on the Stairs
+## Chapter 129 (File № 063) — The Headache That Shifted on the Stairs
 
 *Why a headache that spikes when you bend over or jog down a staircase is not dehydration—and why waiting for the famous meningitis rash against an environmental fungus means waiting for a biological impossibility.*
 
@@ -8478,7 +8618,7 @@ The deadlier misconception lives outside the lab. Public health checklists from 
 - **Podcast Transcript:** [Ep 2239 Verbatim Transcript in Google Drive (7,347 words)](https://drive.google.com/file/d/1bDwuadXATNy0mMNMHBKOl61RMG2gQXeP/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2239 Audio](https://drive.google.com/file/d/1aHHxQRIh7R80L0X_XrnMljWRLIWIzY3t/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2239_PREV_930_The_Headache_That_Needed_a_Second_Question.m4a)
-## Chapter 128 (File № 064) — The Aorta That Popped—and the Labs That Refused to Speak
+## Chapter 130 (File № 064) — The Aorta That Popped—and the Labs That Refused to Speak
 
 *When a 55-millimeter thoracic aorta blows straight into the chest cavity, three syphilis blood tests say no, a tissue stain whispers maybe, and formalin shreds the DNA before PCR can cast a tie-breaking vote.*
 
@@ -8544,7 +8684,7 @@ Real life leaves zero time for that philosophical luxury. When an aortic emergen
 - **Podcast Transcript:** [Ep 2240 Verbatim Transcript in Google Drive (6,325 words)](https://drive.google.com/file/d/1kc5lPG2OqFcNgCTiytoGTz_qY3iDNila/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2240 Audio](https://drive.google.com/file/d/1amOSHKmzfO6XzBxHD1iHBl2xyz_3Q38u/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2240_PREV_931_The_Tests_That_Would_Not_Agree.m4a)
-## Chapter 129 (File № 065) — One Placenta, Three Lives, and the Valve That Went One Way
+## Chapter 131 (File № 065) — One Placenta, Three Lives, and the Valve That Went One Way
 
 *How deep one-way blood bridges inside a shared triplet placenta drained two babies into the third—why a normal morning Doppler cannot certify the evening, and why a $40 home Doppler is a concrete-stadium illusion.*
 
@@ -8608,7 +8748,7 @@ Modern guidelines therefore pair scheduled imaging with maternal vigilance. UK N
 - **Podcast Transcript:** [Ep 2241 Verbatim Transcript in Google Drive (6,622 words)](https://drive.google.com/file/d/1qk4NMQF4qpDZOUbtjYYmZaJThOhSuHvt/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2241 Audio](https://drive.google.com/file/d/17V4pP0__4n_vHGmVD_76imgEhKYieJQj/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2241_PREV_932_The_Placenta_They_Shared.m4a)
-## Chapter 130 (File № 066) — The 9-Centimeter Colon With Textbook Vitals
+## Chapter 132 (File № 066) — The 9-Centimeter Colon With Textbook Vitals
 
 *How acute intermittent porphyria paralyzed a 22-year-old's gut right alongside a real C. diff infection—why normal vitals and yellow urine lie, and why ordering generic 'porphyrins' misses the chemical smoking gun.*
 
@@ -8670,7 +8810,7 @@ Modern care even extends upstream: in the 2020 industry-funded ENVISION trial (9
 - **Podcast Transcript:** [Ep 2243 Verbatim Transcript in Google Drive (9,553 words)](https://drive.google.com/file/d/1DChNOzxJ3C289_fSSjfVSj3Z7WDF9LSm/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2243 Audio](https://drive.google.com/file/d/1ASS7ekmjWS0gXaVG60DoaKSFAFuV0Qm8/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2243_PREV_934_The_Test_Beyond_the_Scan.m4a)
-## Chapter 131 (File № 073) — The Painless Flash You Blamed on the Laser
+## Chapter 133 (File № 073) — The Painless Flash You Blamed on the Laser
 
 *Why a clean morning eye exam is a timestamp rather than a warranty, why reading a phone text cannot clear a peeling peripheral retina, and how seven quiet days turned 8/20 vision into counting fingers at two feet.*
 
@@ -8733,7 +8873,7 @@ Current National Eye Institute (updated November 2025) and NHS guidance (verifie
 - **Podcast Transcript:** [Ep 2294 Verbatim Transcript in Google Drive (8,751 words)](https://drive.google.com/file/d/150F-DJqQ3HnF2gLz0oTBNwZ8BDSjC4ID/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2294 Audio](https://drive.google.com/file/d/1uoS6JXOl4iTiwE3gio67jqA4ny6sdeYU/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2294_PREV_957_The_Flash_After_the_Procedure.m4a)
-## Chapter 132 (File № 075) — The Breaking Fever That Hid a Collapsing Spine
+## Chapter 134 (File № 075) — The Breaking Fever That Hid a Collapsing Spine
 
 *Why clearing bacteria from the bloodstream silences the thermometer while a walled-off epidural abscess keeps crushing leg and bladder nerves—and how intact saddle sensation tricks you into waiting.*
 
@@ -8796,7 +8936,7 @@ Current NHS guidance (reviewed March 2026) and AANS standards (April 2024, check
 - **Podcast Transcript:** [Ep 2297 Verbatim Transcript in Google Drive (6,647 words)](https://drive.google.com/file/d/1q9BNEmWyncjdfM4cS6dqYj4xLGzeMbao/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2297 Audio](https://drive.google.com/file/d/11lCY5BCNW7pOx7wFXd5GjXQGjjdGSwGx/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2297_PREV_960_The_Fever_Was_Not_the_Whole_Story.m4a)
-## Chapter 133 (File № 077) — The Tidy Tonsils Sitting Above a Walnut-Sized Airway Trap
+## Chapter 135 (File № 077) — The Tidy Tonsils Sitting Above a Walnut-Sized Airway Trap
 
 *How a 65-year-old man looked well, lay flat, and held normal room-air oxygen with zero stridor—while a 28-millimeter epiglottic abscess hovered millimeters above his vocal cords.*
 
@@ -8858,7 +8998,7 @@ Remember the final rule from MedlinePlus, CDC, and NHS airway guidance: never an
 - **Podcast Transcript:** [Ep 2301 Verbatim Transcript in Google Drive (6,298 words)](https://drive.google.com/file/d/1wXPgP2SX5HrHjfsxGwVkQjyL0G1582uS/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2301 Audio](https://drive.google.com/file/d/1-BOHCERpJAnZcpk-PQesiGWblN0kzl9b/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2301_PREV_964_The_Throat_That_Looked_Too_Ordinary.m4a)
-## Chapter 134 (File № 078) — The 135/95 Baby and the Telescoping Gut
+## Chapter 136 (File № 078) — The 135/95 Baby and the Telescoping Gut
 
 *Why a 10-month-old with a soft belly, normal kidneys, and a textbook-perfect pH of 7.40 was actually harboring a folded intestine—and why waiting for the “classic” bloody diaper misses more than half of all cases.*
 
@@ -8920,7 +9060,7 @@ If that feels like an unfair outlier, the broader numbers are worse. In Blanch a
 - **Podcast Transcript:** [Ep 2302 Verbatim Transcript in Google Drive (8,599 words)](https://drive.google.com/file/d/1T7I3SF_vtT8Yw_TMQQCT2XPlGS-8GOQ9/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2302 Audio](https://drive.google.com/file/d/1iKjqH5w58gQtzDg2U6SBdVbwwNqHiiR-/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2302_PREV_965_The_Sleepiness_That_Began_in_the_Bowel.m4a)
-## Chapter 135 (File № 080) — Two Years Later, His Stomach Moved Upstairs
+## Chapter 137 (File № 080) — Two Years Later, His Stomach Moved Upstairs
 
 *Why a “clear” trauma CT never grants permanent immunity—and how negative chest pressure quietly suctioned a man’s stomach, spleen, colon, and pancreas straight through a 10-centimeter tear in his diaphragm.*
 
@@ -8982,7 +9122,7 @@ Treat those numbers with forensic discipline. That 80% figure describes anatomy 
 - **Podcast Transcript:** [Ep 2307 Verbatim Transcript in Google Drive (7,872 words)](https://drive.google.com/file/d/1rbl6YK2ZJv-AWlscLm2azrTp46n0RfuF/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2307 Audio](https://drive.google.com/file/d/18o5mSOOt2bonM3Ax7_XkZDE7N7WSX3gZ/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2307_PREV_970_The_Old_Injury_and_the_Crowded_Chest.m4a)
-## Chapter 136 (File № 083) — Three Clear Visits, a Sodium of 114, and a Bleeding Pea-Sized Gland
+## Chapter 138 (File № 083) — Three Clear Visits, a Sodium of 114, and a Bleeding Pea-Sized Gland
 
 *Why two negative head CTs missed a bleeding pituitary lesion in a healthy 24-year-old—and how losing cortisol cut the kidneys’ brake line until even 1.6 liters of concentrated saltwater couldn’t stop his sodium from crashing.*
 
@@ -9044,7 +9184,7 @@ Never misread that word. In pituitary apoplexy, as the Society for Endocrinology
 - **Companion Audio:** [Ep 2310 Audio Stream — The Headache That Changed the Chemistry (53:38)](https://drive.google.com/file/d/1lD8qxi1VwMKLqZ_FCrqLqekqfOXW_0yU/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2310 Audio](https://drive.google.com/file/d/1lD8qxi1VwMKLqZ_FCrqLqekqfOXW_0yU/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2310_PREV_973_The_Headache_That_Changed_the_Chemistry.m4a)
-## Chapter 137 (File № 088) — The Overdose Inside the Plastic Tube
+## Chapter 139 (File № 088) — The Overdose Inside the Plastic Tube
 
 *Why a lithium-heparin blood tube can manufacture a terrifying 2.05 mmol/L “overdose” out of thin air—and why catching a lab hallucination still never clears the sick human in the bed.*
 
@@ -9108,7 +9248,7 @@ One final trap lurked in the software: the electronic medical record initially f
 - **Companion Audio:** [Ep 2316 Audio Stream — The Lithium That Came From the Tube (51:54)](https://drive.google.com/file/d/1OfVOXr53nCbnptVnLLJTAsLNlLgcm7Dv/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2316 Audio](https://drive.google.com/file/d/1OfVOXr53nCbnptVnLLJTAsLNlLgcm7Dv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2316_PREV_979_The_Lithium_That_Came_From_the_Tube.m4a)
-## Chapter 138 (File № 091) — The Sore Throat That Boarded the Jugular
+## Chapter 140 (File № 091) — The Sore Throat That Boarded the Jugular
 
 *How a 21-year-old's ordinary throat ache turned into a septic jugular clot firing bacteria into her lungs and thigh—while a spotless 7,900 white blood cell count and 98% oxygen acted like nothing was wrong.*
 
@@ -9172,7 +9312,7 @@ Survival isn't about memorizing Scandinavian decimals; it is about respecting th
 - **Companion Audio:** [Ep 2319 Audio Stream — The Sore Throat That Reached the Bloodstream (42:27)](https://drive.google.com/file/d/1v-jrCglSigh798ToSitvRdhwgfaVlLmH/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2319 Audio](https://drive.google.com/file/d/1v-jrCglSigh798ToSitvRdhwgfaVlLmH/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2319_PREV_982_The_Sore_Throat_That_Reached_the_Bloodstream.m4a)
-## Chapter 139 (File № 093) — The Internal Hemorrhage With a Resting Pulse of 67
+## Chapter 141 (File № 093) — The Internal Hemorrhage With a Resting Pulse of 67
 
 *Why a violent bout of pneumonia coughing on properly prescribed apixaban tore a 17-centimeter bleed down into an 82-year-old’s pelvis—while his skin stayed unbruised, his aPTT printed normal, and his heart refused to speed up.*
 
@@ -9238,7 +9378,7 @@ Per NHS guidance, sudden severe abdominal pain on anticoagulants triggers an imm
 - **Companion Audio:** [Ep 2601 Audio Stream — The Abdominal Pain Without a Wound (49:04)](https://drive.google.com/file/d/1DCNmtPU8SaDGSHif-0T1N97GmsouGQoR/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2601 Audio](https://drive.google.com/file/d/1DCNmtPU8SaDGSHif-0T1N97GmsouGQoR/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2601_PREV_985_The_Abdominal_Pain_Without_a_Wound.m4a)
-## Chapter 140 (File № 104) — The Clear CT Angiogram Six Days Before Open-Heart Surgery
+## Chapter 142 (File № 104) — The Clear CT Angiogram Six Days Before Open-Heart Surgery
 
 *How a high-pressure bruise trapped inside an intact aortic wall impersonated ordinary plaque, cleared a negative D-dimer and a 68% ejection fraction, and then disguised itself as a 39°C bacterial infection.*
 
@@ -9301,7 +9441,7 @@ Population averages save hundreds of patients from unnecessary CT radiation, and
 - **Companion Audio:** [Ep 2613 Audio Stream — The Scan Before the Flap (52:05)](https://drive.google.com/file/d/1OUkUqRxMmleKwM1pz_gwAOL8PQX3ZaOP/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2613 Audio](https://drive.google.com/file/d/1OUkUqRxMmleKwM1pz_gwAOL8PQX3ZaOP/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2613_PREV_997_The_Scan_Before_the_Flap.m4a)
-## Chapter 141 (File № 107) — The Negative Legionella Test That Only Hunted One Serogroup
+## Chapter 143 (File № 107) — The Negative Legionella Test That Only Hunted One Serogroup
 
 *Why setting a trap engineered exclusively for red pickup trucks proves nothing about the blue sedan parked in your lungs—and how 96% oxygen on a reservoir mask plus an afebrile 36.1°C reading disguised fulminant Legionella longbeachae.*
 
@@ -9366,7 +9506,7 @@ Equally instructive is what Kenagy's small study failed to prove: it did not dem
 - **Companion Audio:** [Ep 2616 Audio Stream — The Test With a Smaller Target (65:24)](https://drive.google.com/file/d/1ZEKIf66WZG2vlTTkqjQc1o1346rhR2-E/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2616 Audio](https://drive.google.com/file/d/1ZEKIf66WZG2vlTTkqjQc1o1346rhR2-E/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2616_PREV_1000_The_Test_With_a_Smaller_Target.m4a)
-## Chapter 142 (File № 110) — The Recovering Platelet Count That Hid an Unfinished Immune Attack
+## Chapter 144 (File № 110) — The Recovering Platelet Count That Hid an Unfinished Immune Attack
 
 *How immune TTP clogs tiny blood vessels while bruising the skin at the exact same moment—and why a bouncing platelet count plus feeling completely well disguised a Day-51 relapse waiting four days behind a paused prescription.*
 
@@ -9430,7 +9570,7 @@ Today, surviving TTP runs on two distinct tracks: recognizing acute emergencies 
 - **Companion Audio:** [Ep 2619 Audio Stream — The Count and the Unfinished Recovery (46:06)](https://drive.google.com/file/d/1ECPAn6-7i2Ub35Wdh7Q5Y-62XnEVAScS/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2619 Audio](https://drive.google.com/file/d/1ECPAn6-7i2Ub35Wdh7Q5Y-62XnEVAScS/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2619_PREV_1003_The_Count_and_the_Unfinished_Recovery.m4a)
-## Chapter 143 (File № 112) — Twisted Stomachs, Button Batteries, and Symptoms You Never Sleep Off
+## Chapter 145 (File № 112) — Twisted Stomachs, Button Batteries, and Symptoms You Never Sleep Off
 
 *How a toddler's swallowed battery turns tissue water into caustic lye behind a 'stomach bug' white count—and why medicine's deadliest misses combine brutal closed-space physics with charts that sedate the room.*
 
@@ -9491,7 +9631,7 @@ Even constipation turns biomechanical when volume overwhelms the container. Fore
 - **Direct Audio:** [Ep 906 Direct 256 kbps M4A Release (GitHub)](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Twisted_Stomachs_Button_Batteries_and_Symptoms_Never_to_Sleep_Off.m4a)
 - **Companion Audio (Google Drive):** [Stream Ep 906 Audio](https://drive.google.com/file/d/1LlxcZ-QfKMVd0QS2jWykhsPKPJohqQgu/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-new60/Twisted_Stomachs_Button_Batteries_and_Symptoms_Never_to_Sleep_Off.m4a)
-## Chapter 144 (File № 131) — The Lethal Potassium That Happened Inside the Hospital Wall
+## Chapter 146 (File № 131) — The Lethal Potassium That Happened Inside the Hospital Wall
 
 *Three calibrated lab machines swore a chatting 49-year-old man had a cardiac-arrest potassium of 9.5 mmol/L—exposing how pneumatic tubes shred fragile cells, how a fridge turns donor blood lethal, and why a clean ECG still misses one in four real emergencies.*
 
@@ -9555,7 +9695,7 @@ The monitor stayed disturbingly polite: 25.4%—more than one in four truly hype
 - **Podcast Transcript:** [Ep 1149 Verbatim Transcript in Google Drive (9,337 words)](https://drive.google.com/file/d/1CfZvoD4XeUSPmQa9HnS-oroUk9QcTrrt/view)
 - **Companion Audio (Google Drive):** [Stream Ep 1149 Audio](https://drive.google.com/file/d/1IIjDhVOQI51adOCwlHpNx2_w4VWKtpd5/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/The_Potassium_That_Rose_in_the_Tube_Reverse_Pseudohyperkalemia_Pneumatic_Tube_and_Cold_Leak.m4a)
-## Chapter 145 (File № 132) — The Pristine Esophagus Hiding 169 Immune Cells Under the Lens
+## Chapter 147 (File № 132) — The Pristine Esophagus Hiding 169 Immune Cells Under the Lens
 
 *Why a high-definition scope called a woman’s violently spasming esophagus completely normal for fifteen years, why a dog’s terrifying ‘stomach cancer’ vanished in four weeks, and how a millimeter twitch of a microscope stage flips a diagnosis.*
 
@@ -9620,7 +9760,7 @@ Finally, even a flawless biopsy only certifies its exact postal address and dept
 - **Podcast Transcript:** [Ep 1151 Verbatim Transcript in Google Drive (6,658 words)](https://drive.google.com/file/d/1HbE7WUVOLq78uF5i7xbAOCD2PDAphNbo/view)
 - **Companion Audio (Google Drive):** [Stream Ep 1151 Audio](https://drive.google.com/file/d/1QXZwZj8gOC6RwC42arZh-vyFnlrDTZ_R/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/The_Piece_the_Camera_Couldnt_See_Endoscopy_vs_Multilevel_Biopsy_EoE_and_Canine_Gastritis_H047_V036.m4a)
-## Chapter 146 (File № 133) — The Operating-Room Furnace That Starts Before the Fever
+## Chapter 148 (File № 133) — The Operating-Room Furnace That Starts Before the Fever
 
 *Why waiting for high temperature in malignant hyperthermia means arriving late to a muscle meltdown, how a failed 1968 antibiotic slams the RyR1 calcium gate shut using the cell’s own ADP, and why a negative DNA panel never clears a survivor.*
 
@@ -9683,7 +9823,7 @@ Then comes the family’s genetic trap. MH is autosomal dominant—a 50% shot fo
 - **Podcast Transcript:** [Ep 2042 Verbatim Transcript in Google Drive (11,705 words)](https://drive.google.com/file/d/1xPdZMX4GtfaxgW8O2njDjRDIT_GTzvTz/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2042 Audio](https://drive.google.com/file/d/1MD2SjPMBWwXGv7cvSnTlfZIfNX8Up8A7/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2042_HP_167_The_Anesthetic_That_Triggered_the_Furnace_and_the_Hydantoin_That_Shut_th.m4a)
-## Chapter 147 (File № 134) — Cold Copper Pennies, 90 Seconds to Flatline, and a Bag of Soybean Oil
+## Chapter 149 (File № 134) — Cold Copper Pennies, 90 Seconds to Flatline, and a Bag of Soybean Oil
 
 *Why a metallic taste after a routine nerve block can outrun standard CPR in ninety seconds, how a failed 1998 rat experiment accidentally discovered the 20% Intralipid shuttle, and why a standard 1-mg epinephrine push makes cardiac arrest worse.*
 
@@ -9746,7 +9886,7 @@ Even after a 220-ms sine wave snaps back to a 96-ms pulse, two ICU traps remain.
 - **Podcast Transcript:** [Ep 2074 Verbatim Transcript in Google Drive (10,057 words)](https://drive.google.com/file/d/1UQi7FrabDZu79oUah3u6lyYWIq7gAlwx/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2074 Audio](https://drive.google.com/file/d/1mhJrgqKScT1njphBiVAMJNaV51XuYqlJ/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2074_HP_184_The_Metallic_Taste_Before_Cardiac_Arrest_and_the_Fat_Emulsion_That_Pulle.m4a)
-## Chapter 148 (File № 135) — 99% Oxygen on the Finger, Cherry-Red Veins, and the Burgundy Cure That Broke the Lab
+## Chapter 150 (File № 135) — 99% Oxygen on the Finger, Cherry-Red Veins, and the Burgundy Cure That Broke the Lab
 
 *Why a smoke-inhalation survivor flashed 99% on a pulse oximeter while dying of cyanide and carbon monoxide, why a 1933 poison-cart antidote would have finished him off, and how 5 grams of cobalt turned poison into Vitamin B₁₂—then triggered fake kidney-failure alarms.*
 
@@ -9808,7 +9948,7 @@ Hydroxocobalamin (1,346 Da) absorbs fiercely at 500–550 nm—directly overlapp
 - **Podcast Transcript:** [Ep 2064 Verbatim Transcript in Google Drive (9,539 words)](https://drive.google.com/file/d/1sc8Hy8_TDtv-9y86Vu3jakypqvRRQtnJ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2064 Audio](https://drive.google.com/file/d/1fGj8Z8x0xCVhHminXhIpmf9WzARBoPun/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2064_HP_177_The_Cherry_Red_Venous_Blood_and_the_Burgundy_Antidote_That_Fooled_the_La.m4a)
-## Chapter 149 (File № 138) — The Sneeze That Painted a Fake Retinal Detachment
+## Chapter 151 (File № 138) — The Sneeze That Painted a Fake Retinal Detachment
 
 *How an ordinary sneeze launched a pressure wave up valveless neck veins into fragile retinal capillaries, why a painless dark cloud demands immediate ER triage even when the front of the eye looks spotless, and how one anatomical rule unmasked a bedside ultrasound impostor.*
 
@@ -9875,7 +10015,7 @@ Against specialist exams, emergency POCUS logged an eye-popping 96.9% sensitivit
 - **Podcast Transcript:** [Ep 2622 Verbatim Transcript in Google Drive (8,283 words)](https://drive.google.com/file/d/1OFlRzufHSI4dpFKfqiMFnoN6PZuIzu53/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2622 Audio](https://drive.google.com/file/d/1cVLkV5VB655Y-Dmm65t-waeo5c1Mve7Y/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2622_PREV_1006_The_Line_That_Was_Not_the_Retina.m4a)
-## Chapter 150 (File № 144) — The Clean ECG, the Blank Left Wall, and the One-Door Heart
+## Chapter 152 (File № 144) — The Clean ECG, the Blank Left Wall, and the One-Door Heart
 
 *Why a calm 67-bpm pulse and spotless serial ECGs never cancel crushing chest pain, how blood blistering behind arterial wallpaper caused a heart attack in a single-entrance coronary tree, and why FMD screening denominators jump from 31% to 57% depending on who gets checked.*
 
@@ -9940,7 +10080,7 @@ Never drive yourself or let a panicked relative speed you to the ER; an unstable
 - **Podcast Transcript:** [Ep 2628 Verbatim Transcript in Google Drive (8,151 words)](https://drive.google.com/file/d/1WsZtVz5ygb7yjtHnXlebZ_6LQLd2XBbB/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2628 Audio](https://drive.google.com/file/d/1u_CnYOFrgzwmDBfpSj4pMgAOAgTPY1Y5/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2628_PREV_1012_One_Entrance_an_Injured_Branch.m4a)
-## Chapter 151 (File № 146) — 29,000 PSI Around a Two-Month-Old Finger—And the Belt That Stayed After the Hair Left
+## Chapter 153 (File № 146) — 29,000 PSI Around a Two-Month-Old Finger—And the Belt That Stayed After the Hair Left
 
 *Why human keratin behaves like self-tightening piano wire inside a warm baby sock, why seeing zero hair proves nothing, and why cutting every strand still left a two-month-old headed for the operating microscope.*
 
@@ -10007,7 +10147,7 @@ Equally clear is what stays locked in the drawer. Never aim scissors, needles, r
 - **Podcast Transcript:** [Ep 2630 Verbatim Transcript in Google Drive (6,547 words)](https://drive.google.com/file/d/1v8SV2_aiveXSuKPmefh81XoR9Wa1lepr/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2630 Audio](https://drive.google.com/file/d/1FUuk1TQxNHIyMD7Kyj1WXGbGn3aqsHFR/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2630_PREV_1014_The_Thread_Beneath_the_Swelling.m4a)
-## Chapter 152 (File № 149) — The Clear Day-One Organs, the Two-Year Traffic Jam, and the Scar Built by a Seatbelt
+## Chapter 154 (File № 149) — The Clear Day-One Organs, the Two-Year Traffic Jam, and the Scar Built by a Seatbelt
 
 *Why a small puddle of free abdominal fluid never meant an all-clear scan, how a helicopter view blamed the wrong stretch of bowel, and what a 117-patient trauma study proves about the seatbelt sign without excusing anyone from buckling up.*
 
@@ -10074,7 +10214,7 @@ After any crash, defeat old-test reassurance. A Day-1 CT captures one millisecon
 - **Podcast Transcript:** [Ep 2633 Verbatim Transcript in Google Drive (8,529 words)](https://drive.google.com/file/d/1FrggEvdY0q1wl0A3xCGM1MeH4SMD1FSv/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2633 Audio](https://drive.google.com/file/d/1c7dCDUPKwe5vi47nd-SFyyLwZ2b7KBYx/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2633_PREV_1017_The_Injury_That_Outlasted_the_Crash.m4a)
-## Chapter 153 (File № 150) — Two Blood Thinners, a Fire Alarm in the Test Tube, and the 61-Unit Autoimmune Gremlin
+## Chapter 155 (File № 150) — Two Blood Thinners, a Fire Alarm in the Test Tube, and the 61-Unit Autoimmune Gremlin
 
 *Why blaming the obvious baseball misses the sniper in the trees, how a misnamed antibody fools a clotting clock, and why pumping 98.5% of floodwater out still leaves a wet basement floor on Table 1.*
 
@@ -10141,7 +10281,7 @@ Because no diet or routine prevents spontaneous autoimmune inhibitors, St. James
 - **Podcast Transcript:** [Ep 2634 Verbatim Transcript in Google Drive (9,493 words)](https://drive.google.com/file/d/1uIHAjxpD2MZ5itbT_BB1oeNfcInbkfgC/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2634 Audio](https://drive.google.com/file/d/15qjgGhcMkq_tGTUjxJ7XQV6rVf-rhtJn/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2634_PREV_1018_The_Bruises_That_Needed_a_Different_Question.m4a)
-## Chapter 154 (File № 153) — 220 Over 135, Soaking the Gown—and a Smug Resting Pulse of 75
+## Chapter 156 (File № 153) — 220 Over 135, Soaking the Gown—and a Smug Resting Pulse of 75
 
 *Why a patient’s pounding chest can be dead right while a million-dollar rhythm screen insists nothing is racing, why beta-blocking first turns blood vessels into a vise, and why a 99%-sensitive test still generates an 8.3% positive predictive value in the wrong waiting room.*
 
@@ -10206,7 +10346,7 @@ During open right adrenalectomy, surgeons peeled the tumor off the inferior vena
 - **Podcast Transcript:** [Ep 2637 Verbatim Transcript in Google Drive (8,672 words)](https://drive.google.com/file/d/1KKgdFNIKxwVY3jVCnNgtcS4PSO7rC_tV/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2637 Audio](https://drive.google.com/file/d/101w7onWzshkyTJET1XuVjgdysb1Wqv6k/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2637_PREV_1021_The_Pulse_That_Did_Not_Race.m4a)
-## Chapter 155 (File № 158) — The Redacted Lower Denture and the 130-Hounsfield Ghost in the Throat
+## Chapter 157 (File № 158) — The Redacted Lower Denture and the 130-Hounsfield Ghost in the Throat
 
 *Why ‘radiolucent’ acrylic plastic isn’t invisible—just 20 Hounsfield units denser than throat muscle—why blind finger sweeps turn partial chokes fatal, and why 23 plus 44 equaled 60 patients in a classic 1990 airway series.*
 
@@ -10270,7 +10410,7 @@ Just as vital is respecting the throat’s neurological software—dysphagia. Wh
 - **Podcast Transcript:** [Ep 2642 Verbatim Transcript in Google Drive (7,624 words)](https://drive.google.com/file/d/1V3jI0f_12NyO2weKr85B2n4N0TLvo6Vz/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2642 Audio](https://drive.google.com/file/d/1HAOxl2K0A18IvlGKsyVeFCEp-FEYuy2q/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2642_PREV_1026_The_Missing_Denture_and_the_Faint_Line.m4a)
-## Chapter 156 (File № 159) — 9,000 Platelets, Massive Clots—and the Invisible Syringe Flush That Lit the Fuse
+## Chapter 158 (File № 159) — 9,000 Platelets, Massive Clots—and the Invisible Syringe Flush That Lit the Fuse
 
 *Why infusing fresh platelets into heparin-induced thrombocytopenia pours lumber onto a clotting furnace, why a normal chest X-ray never rules out a lung clot, and why an odds ratio of 36.9 in a 1995 hip trial is not a 37-fold probability.*
 
@@ -10333,7 +10473,7 @@ For patients crossing between infusion centers, clinics, and emergency rooms, th
 - **Podcast Transcript:** [Ep 2643 Verbatim Transcript in Google Drive (8,488 words)](https://drive.google.com/file/d/1ljmAyfgJM_Z8I0ZZWuIRA_grVvHsoTG0/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2643 Audio](https://drive.google.com/file/d/1n3O_OFypy_chbcIFx0OwabBcWEVLU18k/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2643_PREV_1027_The_Flush_Behind_the_Falling_Count.m4a)
-## Chapter 157 (File № 162) — Dry Kitchen Floor, Burst Pipe Behind the Wall
+## Chapter 159 (File № 162) — Dry Kitchen Floor, Burst Pipe Behind the Wall
 
 *Why a pristine bedside abdominal ultrasound only answered the question about the wrong room, why a 25.7% drop in hemoglobin was half IV saline dilution, and why patching a burst adrenal artery could not drain a ship that had already taken on water.*
 
@@ -10400,7 +10540,7 @@ Current European Association of Urology guidance rejects 4 cm alone as an automa
 - **Companion Audio:** [Ep 2646 Audio Stream — The Bleeding Behind the Kidney (43:06)](https://drive.google.com/file/d/1CVh_q_CyLYkNnzttJKDC_nWzRzCnksAx/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2646 Audio](https://drive.google.com/file/d/1CVh_q_CyLYkNnzttJKDC_nWzRzCnksAx/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2646_PREV_1030_The_Bleeding_Behind_the_Kidney.m4a)
-## Chapter 158 (File № 165) — Ninety-Seven Percent Oxygen and the Scanner They Had to Skip
+## Chapter 160 (File № 165) — Ninety-Seven Percent Oxygen and the Scanner They Had to Skip
 
 *Why a glowing pulse oximeter only counts cargo on stalled delivery trucks, why non-green vomit never rules out a dying gut obstruction, and why the world’s best scanner becomes a death trap when blood pressure sits at 78 over 52.*
 
@@ -10467,7 +10607,7 @@ For parents, Cambridge University Hospitals and NIDDK guidance clears dangerous 
 - **Podcast Transcript:** [Ep 2649 Verbatim Transcript in Google Drive (10,022 words)](https://drive.google.com/file/d/1Vn8zeiwrKR41QNEzAkDLUSTRvb3Cv4Ys/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2649 Audio](https://drive.google.com/file/d/1AaCSijrMjRhoU4QKIUjhtO0XItKHj8M9/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2649_PREV_1033_The_Twist_That_Could_Not_Wait_for_a_Scan.m4a)
-## Chapter 159 (File № 170) — Zero Pain, Zero Broken Bones—and Air Inside the Skull
+## Chapter 161 (File № 170) — Zero Pain, Zero Broken Bones—and Air Inside the Skull
 
 *How a 12-year-old boy arrived in an Egyptian emergency room feeling no pain at all while gas sat beside his temporal lobe—and why an unbroken bone only answers one narrow question.*
 
@@ -10534,7 +10674,7 @@ In the late period, metalworkers achieved an adjusted incidence rate ratio of 0.
 - **Companion Audio:** [Ep 2654 Audio Stream — The Air Beyond the Eye (47:11)](https://drive.google.com/file/d/1TNd9OghBhIb1VoK_BynBVN979ZUP3dmR/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2654 Audio](https://drive.google.com/file/d/1TNd9OghBhIb1VoK_BynBVN979ZUP3dmR/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2654_PREV_1038_The_Air_Beyond_the_Eye.m4a)
-## Chapter 160 (File № 171) — The Burglar Inside the Lungs—and the Silent Alarm Wire
+## Chapter 162 (File № 171) — The Burglar Inside the Lungs—and the Silent Alarm Wire
 
 *Why testing for antibodies is never the same as hunting the pathogen itself, how a vanishing 49% eosinophil count fooled everyone, and why a 2014 accuracy study excluded the exact crisis killing this patient.*
 
@@ -10601,7 +10741,7 @@ In fragmented multi-specialty care, patients and families protect themselves thr
 - **Companion Audio:** [Ep 2655 Audio Stream — The Antibody Test That Stayed Negative (49:12)](https://drive.google.com/file/d/15xquwdwqgNdfqfJez9uk8Bcy99LuGKX6/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2655 Audio](https://drive.google.com/file/d/15xquwdwqgNdfqfJez9uk8Bcy99LuGKX6/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2655_PREV_1039_The_Antibody_Test_That_Stayed_Negative.m4a)
-## Chapter 161 (File № 174) — ALT Under Five, a Math Typo in Print—and 11,406 Micrograms of Copper
+## Chapter 163 (File № 174) — ALT Under Five, a Math Typo in Print—and 11,406 Micrograms of Copper
 
 *How copper simultaneously shredded red cells and sabotaged liver-enzyme alarms, why negative family history never excludes recessive genetics, and why dividing 18 by 15.7 catches what peer review missed.*
 
@@ -10668,7 +10808,7 @@ Second comes secondary prevention across the family blueprint. Under NIDDK guida
 - **Companion Audio:** [Ep 2658 Audio Stream — The Liver Failure Behind the Falling Hemoglobin (51:12)](https://drive.google.com/file/d/1IUAvFi4XFGeSmw5rGgSQk12B2x3lchBr/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2658 Audio](https://drive.google.com/file/d/1IUAvFi4XFGeSmw5rGgSQk12B2x3lchBr/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2658_PREV_1042_The_Liver_Failure_Behind_the_Falling_Hemoglobin.m4a)
-## Chapter 162 (File № 177) — 58% Sludge in the Veins, Rising Tide in the Lungs—and a Day-10 Name
+## Chapter 164 (File № 177) — 58% Sludge in the Veins, Rising Tide in the Lungs—and a Day-10 Name
 
 *How unzipped capillary mortar turns one body into two warring fluid crises, why ICU doctors saved him ten days before the reference lab faxed back a virus name, and why dry-sweeping dusty barns aerosolizes disaster.*
 
@@ -10735,7 +10875,7 @@ Upstream prevention targets invisible aerosols rather than visible bites. Under 
 - **Companion Audio:** [Ep 2700 Audio Stream — The Blood That Concentrated While the Lungs Filled (1:03:07)](https://drive.google.com/file/d/1pCK76Ji36arPf9Rjadj_mQrQS5mZWT-z/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2700 Audio](https://drive.google.com/file/d/1pCK76Ji36arPf9Rjadj_mQrQS5mZWT-z/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2700_PREV_1045_The_Blood_That_Concentrated_While_the_Lungs_Filled.m4a)
-## Chapter 163 (File № 179) — Two Perfectly Matching Labels—Both Attached to the Wrong Human
+## Chapter 165 (File № 179) — Two Perfectly Matching Labels—Both Attached to the Wrong Human
 
 *Why a blood bag and a requisition slip agreed line for line in a modern operating room while feeding the wrong blood into a sleeping group O-positive woman—and why barcode scanners still fail if nobody points the laser at the patient.*
 
@@ -10802,7 +10942,7 @@ That retrospective, non-random association is impressive at sample draw, yet tec
 - **Companion Audio:** [Ep 2702 Audio Stream — Two Matching Labels, One Wrong Patient (50:59)](https://drive.google.com/file/d/1VCHX-n8Z-xHey0FJ0Mz2O_uDF0hGE8jC/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2702 Audio](https://drive.google.com/file/d/1VCHX-n8Z-xHey0FJ0Mz2O_uDF0hGE8jC/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2702_PREV_1047_Two_Matching_Labels_One_Wrong_Patient.m4a)
-## Chapter 164 (File № 192) — Zero X-Rays—and Twenty-Five Minutes Inside a Magnetic Water Hammer
+## Chapter 166 (File № 192) — Zero X-Rays—and Twenty-Five Minutes Inside a Magnetic Water Hammer
 
 *Why 'non-ionizing' never meant 'low-energy,' why you cannot subtract a 20 dB HL hearing loss from a 110 dB SPL scanner, and why polite silence inside the bore is the worst safety protocol in radiology.*
 
@@ -10864,7 +11004,7 @@ If muffled hearing or ringing starts after a scan, switch to NIDCD guidance (Mar
 - **Companion Audio:** [Ep 2715 Audio Stream — The Scan and the Sound (37:03)](https://drive.google.com/file/d/1QPPOw_da6dWh1NJf0-eVZpPR6FRewsXI/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2715 Audio](https://drive.google.com/file/d/1QPPOw_da6dWh1NJf0-eVZpPR6FRewsXI/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2715_PREV_1060_The_Scan_and_the_Sound.m4a)
-## Chapter 165 (File № 198) — Two Broken Blueprints, One Shattered Blood Count, and the Mother’s Normal 6.0
+## Chapter 167 (File № 198) — Two Broken Blueprints, One Shattered Blood Count, and the Mother’s Normal 6.0
 
 *Why G6PD deficiency is not exclusively a male disease or a food allergy, why a normal 6.0 enzyme assay masked a female carrier through X-chromosome mosaicism, and why blood-donor statistics hide the sickest people in the room.*
 
@@ -10930,7 +11070,7 @@ Long-term safety hinges on turning one diagnosis into durable family continuity.
 - **Podcast Transcript:** [Ep 2750 Verbatim Transcript in Google Drive (6,251 words)](https://drive.google.com/file/d/12AlxlMWSF1FczxTe6oSpsSQqtz0jyjs6/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2750 Audio](https://drive.google.com/file/d/1TTawthOR_mHPqbKc_1H_u5vahtk5DHEr/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2750_PREV_1066_The_Family_Behind_the_Enzyme.m4a)
-## Chapter 166 (File № 201) — The Valve Infection That Refused to Grow in a Dish
+## Chapter 168 (File № 201) — The Valve Infection That Refused to Grow in a Dish
 
 *Why Coxiella burnetii laughs at routine culture bottles, why titers over 1:8,192 behave like a maxed-out speedometer, and why every heart-valve patient must know the difference between a metal gate and a donor homograft.*
 
@@ -10996,10 +11136,143 @@ Before the next fever, current CDC Q fever guidance emphasizes targeted risk red
 - **Companion Audio:** [Ep 2753 Audio Stream — The Infection the Culture Could Not Grow (41:36)](https://drive.google.com/file/d/1nRW3qCYDGjv_4Lfj-xDZW7XyTeaXHQ89/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2753 Audio](https://drive.google.com/file/d/1nRW3qCYDGjv_4Lfj-xDZW7XyTeaXHQ89/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2753_PREV_1069_The_Infection_the_Culture_Could_Not_Grow.m4a)
+## Chapter 169 (File № 204) — Clear Lungs, 333 Antibodies—and 20 Ruined Filters Out of 21
+
+*Why Occam’s razor flunks dual pathology, why clear lungs never rule out Goodpasture’s autoimmune cousin, and why a 2001 cohort’s 87-point kidney gap wasn’t a drug trial.*
+
+- **Part:** Part V · “The First Test Looked Normal”
+- **Companion Episode:** Ep 2756 (56:44, 9,699 spoken words)
+- **Looks Like:** Expected chronic kidney drift in an 83-year-old with clear lungs and zero visible blood in the urine
+- **Actually Is:** Renal-limited anti-GBM glomerulonephritis (333 U/mL; 20/21 damaged glomeruli) alongside bleeding duodenal ulcers
+- **Cause / Mechanism / Manner:** Renal-limited anti-glomerular basement membrane (anti-GBM) rapidly progressive glomerulonephritis occurring concurrently with bleeding Forrest IIc and III duodenal ulcers | Autoantibodies binding linearly to glomerular type IV collagen triggering crescentic necrosis and severe interstitial fibrosis, causing uremic acidosis and lethal hyperkalemia while separate upper-GI ulceration compounded profound anemia | Survivor Case (Autoimmune Renal Failure & Concurrent GI Hemorrhage)
+- **Avoidability:** Uncertain (rapid evaluation of acute decline & individualized fluid/renal care improve safety; autoimmune onset unpreventable) | **False Reassurance:** “She’s 83 with chronic kidney disease already, her lungs sound clear, and there’s no visible blood in her urine—this must just be expected wear and tear.”
+
+### Two Crises Sharing One ER Bed
+
+Broken bones spoil us for internal medicine: an X-ray prints one crisp white crack, everybody nods, and reality behaves itself. Severe autoimmune nephrology offers no such courtesy. In December 2024, Catarina Maia and colleagues in Cureus reported an 83-year-old woman with hypertension and chronic kidney disease whose routine blood creatinine eight months earlier sat comfortably at 1.00 to 1.15 milligrams per deciliter—leaving an eight-month blind spot, yet proving her filters were working nicely not long ago. Then came a month of weakness, lost appetite, weight loss, swollen legs, and foot-and-calf cramps, followed by a three-day cliff: urine output nearly stopped, and her stools turned black and tarry.
+
+Her admission chemistry read like a control-room meltdown. Creatinine had rocketed to 24.8 milligrams per deciliter (reference 0.5–0.9). Potassium hit 8.7 milliequivalents per liter against a razor-thin 3.5–5.3 ceiling—high enough to turn cardiac electricity into sudden arrest from minute to minute. Arterial pH dropped to 7.13 (normal 7.35–7.45), acidifying blood until cellular enzymes struggle like raw fish in lime juice, and hemoglobin plunged to 6.6 grams per deciliter (normal 12–16).
+
+Occam’s razor whispered a tidy trap: failed kidneys stop making erythropoietin, so blame the anemia on renal failure and call it a day. Instead, clinicians respected the black tarry stools (melena) and performed upper endoscopy—uncovering duodenal ulcers graded Forrest IIc (dark hematin spot of recent hemorrhage) and Forrest III (clean-based). Nobody could mathematically split how much of that 6.6 hemoglobin came from bleeding gut ulcers versus stalled marrow, and the ulcers were never proven caused by her autoimmune disease. Two separate threats shared one patient, demanding GI ulcer care, red-cell transfusions, and urgent hemodialysis—washing potassium and acid across counter-current hollow fibers—long before autoimmune serology returned.
+
+### Smoke in the Room, Holes in the Mesh, and Linear Paint
+
+Dialysis cleared the metabolic smoke without naming the arsonist. Blood creatinine tells you toxic exhaust has filled the factory floor; urine albumin-to-creatinine ratio checks the exhaust pipe for torn filter mesh. Hers stood at 4,124 milligrams per gram against a normal ceiling under 30, with white and red cells present yet zero red-cell casts, zero dysmorphic red cells, no visible blood in her urine, no foam, and completely clear lungs. Textbooks love pairing kidney collapse with coughing up blood as Goodpasture syndrome because both organs share type IV collagen. Yet kidney capillaries are wide-pored filters while healthy lung endothelium stays tightly sealed—meaning anti-GBM antibodies can demolish kidneys while leaving uninjured lungs utterly silent.
+
+Blood immunology screamed the target: anti-GBM antibodies hit 333 units per milliliter against a normal threshold under 7 (printed U/mL in prose and UI/mL in the table—preserved verbatim). Elevated ANA (1:640) and ENA (SSA, Ro-52) tagged along as noisy autoimmune static rather than automatic lupus or Sjögren diagnoses. Kidney biopsy settled the crime scene: immunofluorescence glowed in a razor-sharp linear IgG stripe painted directly along the basement membrane, unlike the lumpy splatters of circulating immune complexes. Of 21 sampled glomeruli, 4 were dead sclerosed scars, 1 looked preserved, and 16 were being crushed inward by cellular crescents with fibrinoid necrosis—76.2% actively crescentic and 95.2% abnormal, set inside greater than 60% interstitial fibrosis and tubular atrophy.
+
+Resist turning 20 of 21 into a tidy scar clock claiming precisely 4.8% kidney function left; a needle core samples 21 filters out of roughly a million. Still, architectural devastation was unmistakable—and native urine never returned. Facing advanced fibrosis, dialysis dependence, recent GI bleeding, advanced age, and zero lung hemorrhage, clinicians made a deeply individualized choice (never a blanket disease rule) to withhold toxic cyclophosphamide and plasma exchange, discharging her stable on maintenance dialysis after 20 days (later course unreported). Jeremy Levy and colleagues’ 2001 Annals of Internal Medicine abstract—read strictly as an abstract across 71 UK referral-center patients over 25 years, all treated aggressively—illuminates that boundary: 39 of 71 (54.9%) arrived dialysis-dependent (referral composition, not modern population risk), with 1-year renal survival of 8% versus 95% in the 19 mildest patients (creatinine <500 µmol/L) and patient survival of 65% versus 100%. That 87 percentage-point kidney gap reflects arrival tissue scarring, not randomized drug efficacy—proving that keeping the person alive, suppressing immune fire, and salvaging scarred kidneys are three distinct clinical goals.
+
+### Why Wellness Hydration Advice Can Drown Failing Kidneys
+
+Patients cannot diagnose anti-GBM at home, nor should families wait for dramatic textbook coughing up blood before seeking care. NHS acute kidney injury and NIDDK anti-GBM guidance converge on prompt assessment for sharply reduced urine output, unexplained swelling, profound weakness, or new black stools—especially refusing to wave away sudden collapse in older CKD patients as expected aging. Bring printed prior kidney numbers (that eight-month-old 1.0 creatinine proved an acute cliff), symptom dates, and every prescription and supplement; accept emergency stabilization before exotic antibody labs return, and never halt prescribed blood-pressure drugs solo.
+
+Once discharged on dialysis, flip the internet wellness script: generic drink-more-water slogans can literally flood the lungs and heart of an edematous or dialysis-dependent patient, who needs an individualized nephrology fluid plan and a single clear care coordinator. NIDDK also notes avoiding smoking and lung irritants—which crack the pulmonary endothelial barrier and invite antibodies to lung collagen—without inventing any unrecorded trigger for this woman or tearing apart household drywall in DIY panic.
+
+### RED FLAGS · CLEAR LUNGS NEVER CLEAR FAILING KIDNEYS — When Silent Renal Collapse Demands Urgent Care
+
+- Seek immediate medical assessment for a sudden drop in urine output, unexplained leg or facial swelling, profound weakness, or black tarry stools—never wait for visible bloody urine or coughing up blood.
+- Never dismiss an acute functional crash in an older adult with chronic kidney disease as expected aging; bring prior baseline creatinine reports so ER teams immediately see the velocity of decline.
+- Accept urgent life-saving stabilization such as dialysis or transfusion before specialized antibody panels return, and never stop prescribed blood-pressure medications on your own.
+- If edematous or dialysis-dependent, ignore generic 'drink more water' advice—follow an individualized nephrology fluid plan, keep tests in their proper lanes, and avoid smoking or lung irritants.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · LOW URINE, SWELLING OR BLACK STOOLS
+*Lethal potassium and acid strike hours before antibody labs come back—stabilize the human first.*
+
+1. **GET URGENT EVALUATION WITHOUT WAITING:** Sharply reduced urine output, unexplained swelling, sudden weakness, or black tarry stools demand prompt emergency assessment—do not wait for textbook bloody urine or lung symptoms.
+2. **HAND OVER BASELINE LABS & FULL MED LIST:** Share prior kidney results (even months old), exact symptom dates, every prescription, and every OTC supplement so clinicians spot an acute cliff rather than assuming slow CKD drift.
+3. **PRIORITIZE STABILIZATION OVER EXOTIC LABELS:** Let teams run urgent dialysis, transfusions, or endoscopy before autoimmune panels return—never demand an immediate biopsy first or quit blood-pressure medicines unilaterally.
+4. **DITCH GENERIC HYDRATION ADVICE AFTERWARD:** If edematous or dialysis-dependent, follow an individualized fluid prescription, clarify one care coordinator, and avoid smoking or lung irritants rather than attempting DIY home detoxes.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case** | Maia C, Rocha J, Cardoso H, Antunes T & Almeida JS (Dec 2024), Cureus (PMID 39867011 · PMC11767534) · 83-year-old woman with hypertension & CKD; baseline creatinine 8 mo prior 1.00–1.15 mg/dL (8-mo interval gap) |
+| **Admission Crisis & Dual Pathology** | 1-mo weakness/edema/cramps → 3-day oliguria & melena; Cr 24.8 mg/dL (ref 0.5–0.9), K⁺ 8.7 mEq/L (ref 3.5–5.3), arterial pH 7.13 (ref 7.35–7.45), Hb 6.6 g/dL (ref 12–16); endoscopy: Forrest IIc & III duodenal ulcers (anemia split unquantifiable; ulcers not proven anti-GBM-caused) |
+| **Urine & Immunology** | Urine ACR 4,124 mg/g (ref <30), increased WBC/RBC without casts or dysmorphic RBCs; ZERO lung symptoms, hemoptysis, visible hematuria, or foamy urine; anti-GBM 333 U/mL (table prints UI/mL; ref <7); bystander ANA 1:640 & ENA (SSA, Ro-52) |
+| **Biopsy & Course** | Linear IgG on IF; 21 glomeruli: 16 cellular crescents + fibrinoid necrosis (76.2%), 4 sclerosed, 1 preserved → 20/21 (95.2%) abnormal (sample snapshot, NOT a scar clock); >60% IFTA; individualized withholding of cyclophosphamide/PLEX (NOT a general rule); discharged stable on maintenance dialysis Day 20 (long-term outcome unreported) |
+| **Historical Cohort (2001)** | Levy JB, Turner AN, Rees AJ & Pusey CD (2001), Ann Intern Med (PMID 11388816, abstract only): 25-yr single UK referral center, n = 71, ALL treated (PLEX + prednisolone + cyclophosphamide; no untreated control/RCT) |
+| **Presentation Strata Gap** | 19 Cr <500 µmol/L (1-yr renal survival 95%, patient 100%) vs 13 Cr ≥500 non-dialysis vs 39 dialysis-dependent (39/71 = 54.9% referral share; 1-yr renal survival 8%, patient 65%) → 87 percentage-point renal gap reflects arrival scarring, NOT treatment efficacy |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Maia C, Rocha J, Cardoso H, Antunes T & Almeida JS (2024) — Rapidly Progressive Glomerulonephritis Associated With Anti-glomerular Basement Membrane Disease: A Rare Diagnosis (Cureus · PMID 39867011 · PMC11767534)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11767534/)
+- **Historical Cohort Abstract:** [Levy JB, Turner AN, Rees AJ & Pusey CD (2001) — Long-term outcome of anti-glomerular basement membrane antibody disease treated with plasma exchange and immunosuppression (Ann Intern Med · PMID 11388816)](https://pubmed.ncbi.nlm.nih.gov/11388816/)
+- **Podcast Transcript:** [Ep 2756 Verbatim Transcript in Google Drive (9,699 words)](https://drive.google.com/file/d/1OoZHN8RhFB4eM9xEPtRSnfH-ocbYiJUc/view)
+- **Companion Audio:** [Ep 2756 Audio Stream — The Antibody and the Scar (56:44)](https://drive.google.com/file/d/1jsgE8iuOCgGFTlkoSE9hwFcAwe4B0L3w/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2756 Audio](https://drive.google.com/file/d/1jsgE8iuOCgGFTlkoSE9hwFcAwe4B0L3w/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2756_PREV_1072_The_Antibody_and_the_Scar.m4a)
+## Chapter 170 (File № 207) — 68 Micromoles of Cholestanol—and the Childhood Diarrhea Nobody Mentioned
+
+*Why changing bald tires never fixes a bent chassis, why a toddler with 15.3 cholestanol was not a confirmed case, and how changing the denominator turns 1.76% into 18.75%.*
+
+- **Part:** Part V · “The First Test Looked Normal”
+- **Companion Episode:** Ep 2759 (53:04, 8,894 spoken words)
+- **Looks Like:** Isolated early cataracts in a healthy 19-year-old whose childhood stomach trouble resolved years ago
+- **Actually Is:** Cerebrotendinous xanthomatosis (CYP27A1 bile-acid synthesis defect) with plasma cholestanol at 68 µmol/L
+- **Cause / Mechanism / Manner:** Cerebrotendinous xanthomatosis (CTX) caused by biallelic CYP27A1 deficiency impairing hepatic sterol 27-hydroxylase | Failed primary bile-acid synthesis causing childhood fat-malabsorption diarrhea while shunting sterol intermediates into toxic plasma cholestanol accumulating across lenses and nervous tissue | Survivor Case (Autosomal Recessive Metabolic / Screening Diagnosis)
+- **Avoidability:** Uncertain (inheritance cannot be prevented; connecting cross-specialty clues enables early bile-acid therapy) | **False Reassurance:** “Her childhood diarrhea cleared up years ago, she has no major neurologic trouble, and standard cholesterol panels don’t flag anything unusual—just replace the cloudy lenses.”
+
+### Replacing the Tires While the Chassis Bends
+
+Modern medicine slices the body into tidy departmental fiefdoms—eyes on floor four, guts on floor two, nerves across the street—and human biochemistry laughs right through the walls. Finding cloudy lenses in an 80-year-old is ordinary mileage; finding unexplained cataracts in both eyes of a teenager is uneven tire wear screaming that the chassis is out of alignment. Between January 2018 and January 2020, Gorka Fernández-Eulate and colleagues across seven French ophthalmology departments prospectively screened 30 patients diagnosed with unexplained bilateral cataracts between ages 1 and 20, publishing their findings in Orphanet Journal of Rare Diseases in December 2022.
+
+One 19-year-old woman arrived with bilateral posterior cataracts dotted by distinctive cortical fleck-like opacities—scattered reflective specks rather than uniform age-related haze or the multicolored Christmas-tree crystals of myotonic dystrophy type 1 (still strictly a specialist slit-lamp observation requiring further study, never a smartphone-flashlight DIY check). Digging past her current intake form uncovered a buried pediatric clue: unexplained chronic diarrhea in childhood that had improved during adolescence. Symptoms that grow quieter do not erase the underlying broken assembly line; they merely move the spotlight. She had no reported neurodevelopmental disorder, no severe cognitive collapse, and no massive Achilles tendon lumps—yet a careful exam caught a fine postural tremor of her upper limbs.
+
+Those three silos converged on cerebrotendinous xanthomatosis (CTX), an autosomal recessive mutation of the CYP27A1 gene encoding hepatic sterol 27-hydroxylase. Without that enzyme, the liver cannot make primary bile acids—the gut’s biological dish soap—explaining her childhood diarrhea, while blocked sterol traffic piles into side streets as toxic cholestanol. Notice the fatal spelling trap: cholestanol differs from routine cholesterol by a single double bond, meaning annual cholesterol checks are completely blind to it (her routine cholesterol wasn’t even reported). Separating chemical lookalikes by quantitative liquid chromatography–mass spectrometry (LC-MS), clinicians measured her plasma cholestanol at 68 micromoles per liter—nearly seven times the normal ceiling below 10.
+
+### Two Broken Manuals, One Uncertain Toddler, and Shifting Nets
+
+Her genetics confirmed two pathogenic heterozygous CYP27A1 mutations—though strict literature reading preserves what the paper left out: exact variant spelling changes, phasing confirmation that they sat on opposite parental copies, and parental testing were all unreported. Starting chenodeoxycholic acid (CDCA) replaced the missing bile acid, switching on hepatic negative feedback until her plasma cholestanol reportedly normalized at six months (exact repeat number unprinted). Biochemical normalization stops new overflow; it never magically unfrosts already-clouded eye lenses or guarantees lifelong cure, yet it intercepted a progressive disorder while neurologic signs remained subtle.
+
+Association by proximity nearly fools readers on the cohort’s next five patients. Five of the remaining 29 cataract patients (17.2%) showed moderate cholestanol elevations from 10.3 to 16.5 micromoles per liter—including a 39-month-old toddler with bilateral cortical cataracts, chronic diarrhea, and repeat cholestanol rising from 12.4 to 15.3. Yet sequencing found only one heterozygous CYP27A1 variant of uncertain significance (a recipe typo nobody knows ruins the cake), urinary bile alcohols stayed normal, and four years of follow-up showed zero other CTX signs: strictly NOT confirmed CTX. The other four moderately elevated patients were never sequenced given normal cholestanol-to-cholesterol ratios and no diarrhea or family neurologic history. Compared with 286 older pediatric lab controls tested for other serious indications such as intellectual disability or leukodystrophy (12 of 286, or 4.2% elevated; age-adjusted p = 0.014), that gap is statistically unlikely by chance—without proving moderate cholestanol causes cataracts.
+
+Denominator discipline also governs earlier U.S. screening led by Sharon F. Freedman and colleagues in JAMA Ophthalmology (2019 interim report, read via PubMed Central HTML): among 170 unexplained juvenile bilateral cataract patients (ages 2–21), 16 met biochemical testing criteria and 3 had confirmed CTX. Those exact 3 humans read as 1.76% of enrolled cataract patients (3/170) or 18.75% of the biochemically filtered subgroup (3/16)—casting a net in a river versus a trout hatchery, neither measuring test sensitivity nor general-population risk. Their 2023 final analysis expanded to 426 completers with 4 confirmed cases (about 0.9%)—never double-count 3 plus 4 into 7, since the 2019 patients sit inside 2023—just as France’s 1 in 30 (3.3%) is selected cohort yield, never community incidence.
+
+### Carrying the Baton Across Specialty Silos
+
+Before diagnosis, unexplained bilateral cataracts in a child or young adult demand asking the ophthalmologist not only how to restore sight, but whether a systemic or genetic evaluation fits. Patients and parents have to act as track coaches retrieving dropped batons between clinics: preserve the exact age at cataract diagnosis, volunteer years-old resolved childhood diarrhea even when intake boxes ask only about current bowel trouble, keep cholestanol and cholesterol distinct on every lab order, and confirm before leaving which clinician explicitly owns pending LC-MS or uncertain VUS genetic results so unfinished workups never harden into assumed negatives.
+
+After confirmation—guided by NCBI GeneReviews (revised November 14, 2024) and MedlinePlus Genetics—the job shifts from solving a mystery to running a blueprint: coordinated metabolic care for bile-acid replacement and ongoing biochemical and neurologic surveillance, continued ophthalmology for lens care, and formal genetics-led evaluation of apparently well relatives rather than family symptom guesswork or DIY diet experiments.
+
+### RED FLAGS · A RESOLVED SYMPTOM IS STILL EVIDENCE — Keeping Whole-Body Clues Connected Across Clinics
+
+- When a child or young adult develops unexplained bilateral cataracts, follow through on the cause—not just lens surgery—and ask whether systemic or genetic screening applies.
+- Preserve exact age at cataract diagnosis and actively report past 'resolved' chronic childhood diarrhea or subtle tremors even when current intake forms only ask about today’s symptoms.
+- Maintain strict vocabulary discipline on labs: routine cholesterol never substitutes for specialized LC-MS plasma cholestanol, and every pending biochemical or VUS genetic result needs one named clinician owning follow-up.
+- Never attempt DIY flashlight eye exams or family recurrence guesswork—confirmed autosomal recessive CTX warrants coordinated metabolic, ophthalmic, and formal genetics-led family care.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · UNEXPLAINED JUVENILE CATARACTS
+*Do not let specialty silos drop the baton—connect the childhood timeline before leaving the eye clinic.*
+
+1. **ASK ABOUT CAUSE, NOT JUST SURGERY:** When bilateral cataracts appear in a child or young adult without trauma or clear cause, ask the ophthalmologist whether metabolic or genetic evaluation is warranted.
+2. **PASS THE FULL HISTORICAL BATON:** Record exact age at cataract onset and volunteer past 'resolved' chronic childhood diarrhea or subtle tremors—even if current intake checkboxes accurately read 'no.'
+3. **GUARD LAB NAMES & PENDING OWNERS:** Verify specialized cholestanol (never routine cholesterol) when ordered, and ask before leaving which specific doctor will review pending LC-MS or uncertain VUS genetic results.
+4. **COORDINATE METABOLIC & FAMILY CARE:** If CTX is confirmed, pair metabolic surveillance and prescribed pathway therapy with ongoing eye care and formal genetics-led counseling for apparently well relatives.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Study** | Fernández-Eulate G et al. (Dec 2022), Orphanet J Rare Dis (PMID 36514115 · PMC9749289) · Prospective multicenter screening across 7 French ophthalmology departments (Jan 2018–Jan 2020); 30 patients with unexplained bilateral cataracts diagnosed ages 1–20 (1/30 = 3.3% selected cohort yield, NOT population incidence) |
+| **Confirmed Case (Age 19)** | 19-yr-old woman: bilateral posterior cataracts with cortical fleck-like opacities, adolescent-improved chronic childhood diarrhea, fine upper-limb postural tremor (no neurodevelopmental disorder); plasma cholestanol 68 µmol/L via LC-MS (ref <10; routine cholesterol unreported) |
+| **Genetics, Omissions & CDCA** | Two pathogenic heterozygous CYP27A1 mutations confirming CTX (exact variant identities, phasing & parental testing unreported); started on CDCA → cholestanol 'normalized' at 6 mo (numeric repeat unprinted; stops overflow, does NOT unfrost lenses) |
+| **Unresolved Moderate Group** | 5/29 remaining patients (17.2%) had moderate cholestanol 10.3–16.5 µmol/L: 39-mo toddler (bilateral cataracts, chronic diarrhea, cholestanol 12.4 → 15.3) had ONLY 1 heterozygous CYP27A1 VUS, normal urinary bile alcohols, and zero new signs at 4-yr follow-up (NOT confirmed CTX); other 4 not sequenced |
+| **Control Comparison** | 12/286 older pediatric lab controls (4.2%, tested for other severe indications like intellectual disability/leukodystrophy) had elevated cholestanol; age-adjusted p = 0.014 vs 17.2% cataract share (statistical difference, NOT causal proof) |
+| **U.S. Screening Denominators** | Freedman SF et al. (2019 JAMA Ophthalmol interim): 3 confirmed CTX / 170 enrolled (1.76%) vs 3 / 16 biochemically selected (18.75%); 2023 final analysis: 4 / 426 completers (~0.9%)—overlapping cohort, NEVER add 3 + 4 = 7 |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Fernández-Eulate G et al. (2022) — Prospective cholestanol screening of cerebrotendinous xanthomatosis among patients with juvenile-onset unexplained bilateral cataracts (Orphanet J Rare Dis · PMID 36514115 · PMC9749289)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9749289/)
+- **Podcast Transcript:** [Ep 2759 Verbatim Transcript in Google Drive (8,894 words)](https://drive.google.com/file/d/1gQS6emabTtRpsxbRQzGSVxxyodc_-E-K/view)
+- **Companion Audio:** [Ep 2759 Audio Stream — The Cataract That Pointed Beyond the Eye (53:04)](https://drive.google.com/file/d/1WrpxVRkj6sC6QLJoT6dfIldMT1YKx_4A/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2759 Audio](https://drive.google.com/file/d/1WrpxVRkj6sC6QLJoT6dfIldMT1YKx_4A/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2759_PREV_1075_The_Cataract_That_Pointed_Beyond_the_Eye.m4a)
 # Part VI: Bonus: How Not to Accidentally Off Your Dog or Cat
 *One Medicine survival rules for the innocent four-legged roommates sharing your floor.*
 
-## Chapter 167 (File № 036) — The Bouquet and the Silent Bladder
+## Chapter 171 (File № 036) — The Bouquet and the Silent Bladder
 
 *How a grocery-store Easter lily centerpiece shut down a 3.6-pound kitten’s kidneys, turned a calm pulse of 140 into an electrical crisis, and exposed why a plummeting lab number can still be an IV-fluid mirage.*
 
@@ -11066,7 +11339,7 @@ Two statistical traps also ambush worried owners. Bennett and Reineke’s (2013)
 - **Podcast Transcript:** [Ep 2247 Verbatim Transcript in Google Drive (7,390 words)](https://drive.google.com/file/d/1Gsn8ADWJg3rz6Tr41w2JW5G4sq_3jEee/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2247 Audio](https://drive.google.com/file/d/1phobKTmDOiUqe5uSnMFJ99K2WuaXwYwf/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2247_PREV_938_The_Bouquet_and_the_Silent_Bladder.m4a)
-## Chapter 168 (File № 037) — The Hair Treatment That Reached the Cat
+## Chapter 172 (File № 037) — The Hair Treatment That Reached the Cat
 
 *Why a bathroom hair-regrowth serum never stopped being a heavyweight blood-pressure sledgehammer—and why wrestling an exposed cat into a soapy bathtub can trigger the very crash you are trying to prevent.*
 
@@ -11131,7 +11404,7 @@ Spain’s medicines agency (AEMPS, October 26, 2026) puts the triage rule bluntl
 - **Podcast Transcript:** [Ep 2314 Verbatim Transcript in Google Drive (8,164 words)](https://drive.google.com/file/d/1QWiF6dCPyhF00xMwaPqUXUTLmtj61bna/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2314 Audio](https://drive.google.com/file/d/1ijyz19Kb3-7DVsb53IlrmAuwkUqBGAPv/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2314_PREV_977_The_Hair_Treatment_That_Reached_the_Cat.m4a)
-## Chapter 169 (File № 038) — The Flea Treatment That Was for the Dog
+## Chapter 173 (File № 038) — The Flea Treatment That Was for the Dog
 
 *Why squeezing “just a little bit” of canine permethrin flea drops onto a kitten jams nerve sodium channels open like a wedged doorbell—and why pantry olive oil can turn a seizure into fatal lung failure.*
 
@@ -11197,7 +11470,7 @@ Two subtler household traps finish the dossier. Australian guidance (APVMA) flag
 - **Podcast Transcript:** [Ep 2305 Verbatim Transcript in Google Drive (8,685 words)](https://drive.google.com/file/d/1LPB14sWMmIeq-tdMYYHueExeqTwG-rmJ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2305 Audio](https://drive.google.com/file/d/1-zL7HkAqEQ-X3BRFISvWaAYd43MX_YL6/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2305_PREV_968_The_Flea_Treatment_That_Was_for_the_Dog.m4a)
-## Chapter 170 (File № 039) — The Gum and the Second Emergency
+## Chapter 174 (File № 039) — The Gum and the Second Emergency
 
 *Why sugar-free xylitol mints can drop a Golden Retriever into a stupor even while his blood sugar prints a smug 163 mg/dL—and why waking up bright and alert at hour 14 was only the intermission before his blood stopped clotting.*
 
@@ -11263,7 +11536,7 @@ Prevention starts by treating ingredient lists like a detective novel. Xylitol h
 - **Podcast Transcript:** [Ep 2290 Verbatim Transcript in Google Drive (8,185 words)](https://drive.google.com/file/d/1uWB234SnX8E1aWv1a4eSGwPFZwo1TyeP/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2290 Audio](https://drive.google.com/file/d/10nulT-OIsksaPr_6r5POop_LUvjTQKfI/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2290_PREV_953_The_Gum_and_the_Second_Emergency.m4a)
-## Chapter 171 (File № 040) — The Grapes, the Unfinished Recovery & the Puppy With the Twisted Stomach
+## Chapter 175 (File № 040) — The Grapes, the Unfinished Recovery & the Puppy With the Twisted Stomach
 
 *Two canine emergencies that smash every cozy assumption about hospitals and stereotypes: a Boxer whose grape-dialysis rescue triggered a trachea-crushing chest bleed four hours after the tube came out—and a 14-pound, two-month-old puppy who developed “giant-breed” bloat without retching once.*
 
@@ -11330,7 +11603,7 @@ Ignore survivalist forums promising DIY fixes. For grapes or raisins (Cornell, A
 - **Podcast Transcript:** [Ep 2602 Verbatim Transcript in Google Drive (8,605 words)](https://drive.google.com/file/d/1qpnhaL93SscBb0why9nfr7FEk5ReMw7h/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2602 Audio](https://drive.google.com/file/d/1JUvun9bF7os4qVvtFsBccBY7nxdE3hY4/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2602_PREV_986_The_Grapes_and_the_Unfinished_Recovery.m4a)
-## Chapter 172 (File № 059) — The Blurry JPEG That Nearly Convicted a Dog’s Kidneys
+## Chapter 176 (File № 059) — The Blurry JPEG That Nearly Convicted a Dog’s Kidneys
 
 *How failing kidneys raided a Shih Tzu’s ribs and jaw into rubber—creating healing fractures that mimicked chronic abuse until uncompressed DICOM files exposed “floating teeth.”*
 
@@ -11395,7 +11668,7 @@ For pet owners, the survival math starts long before rubber jaw. Take a purely h
 - **Podcast Transcript:** [Ep 2235 Verbatim Transcript in Google Drive (5,566 words)](https://drive.google.com/file/d/1REiGtfwgRtTsWgj5fEpk9_nW3ps9_FBg/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2235 Audio](https://drive.google.com/file/d/1N9_YEWF4WEY-KOQbUnUwqSvfp7fGsF6v/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2235_PREV_926_The_Fractures_That_Began_in_the_Kidney.m4a)
-## Chapter 173 (File № 067) — The Five-Inch Lamb Rib Hiding Behind Perfect Blood Work
+## Chapter 177 (File № 067) — The Five-Inch Lamb Rib Hiding Behind Perfect Blood Work
 
 *Why a nine-pound dachshund with a 120-millimeter bone wedged down his chest returned spotless blood panels—why kitchen hydrogen peroxide can punch a hole in the esophagus, and why '24 hours' is never a grace period.*
 
@@ -11457,7 +11730,7 @@ Real prevention starts at the trash lid. Treat discarded bones as an accessible 
 - **Podcast Transcript:** [Ep 2244 Verbatim Transcript in Google Drive (7,835 words)](https://drive.google.com/file/d/1HFNY1AC_v59-IcbSxTVOONL_YPHIlLm-/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2244 Audio](https://drive.google.com/file/d/1xWmtgEefQgCEBfphAd113OykXPsLHq5Y/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2244_PREV_935_The_Bone_That_Would_Not_Pass.m4a)
-## Chapter 174 (File № 074) — The Floating Uterus That Photobombed an Intestinal X-Ray
+## Chapter 178 (File № 074) — The Floating Uterus That Photobombed an Intestinal X-Ray
 
 *How gas-fermenting bacteria inflated one uterine horn until it floated like a hot-air balloon into bowel territory—wearing worms in the stool, zero fever, and a deceptively tidy X-ray disguise.*
 
@@ -11520,7 +11793,7 @@ Never treat visible drainage as safety. In Jitpean and colleagues’ separate 20
 - **Podcast Transcript:** [Ep 2296 Verbatim Transcript in Google Drive (8,136 words)](https://drive.google.com/file/d/19DKPut7gBbNOfrngqWORE5HDLcXmh0Qx/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2296 Audio](https://drive.google.com/file/d/1NrGJzj5hMZVAqJA8Eus3c2kvAXpNcYZl/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2296_PREV_959_The_Infection_That_Looked_Like_Bowel.m4a)
-## Chapter 175 (File № 081) — The Female Cat Who Broke the Blocked-Bladder Stereotype
+## Chapter 179 (File № 081) — The Female Cat Who Broke the Blocked-Bladder Stereotype
 
 *Why assuming “only male cats block” lets a simple mineral cork back up both kidneys, drive potassium to 8.9 mmol/L, and quietly brake a feline heart toward arrest—and why squeezing the belly at home pops the balloon.*
 
@@ -11582,7 +11855,7 @@ The 2025 iCatCare consensus guidelines (Taylor et al., PMC11816079), PDSA, and C
 - **Podcast Transcript:** [Ep 2308 Verbatim Transcript in Google Drive (7,726 words)](https://drive.google.com/file/d/1B4--ybodYqe2Tut3D_bTHYQOdVCou8wr/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2308 Audio](https://drive.google.com/file/d/1mZQR9F09ENdH61uHuHF1gA8_YNZfPOUD/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2308_PREV_971_The_Blockage_in_the_Less_Likely_Cat.m4a)
-## Chapter 176 (File № 089) — Drowning on Dry Land After the Lamp Cord
+## Chapter 180 (File № 089) — Drowning on Dry Land After the Lamp Cord
 
 *Why a puppy who yelps at a 110-volt cord, shakes it off, and stands up can still flood both lungs within an hour—and why prying open their mouth to check for burns wastes lethal minutes.*
 
@@ -11647,7 +11920,7 @@ Put that rescue beside Nemi and colleagues' 2023 retrospective review (PMID 3708
 - **Companion Audio:** [Ep 2317 Audio Stream — The Danger After the Puppy Woke (40:47)](https://drive.google.com/file/d/1J0jTp1n5vWG9gZAgxjwsshVukLojS-nw/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2317 Audio](https://drive.google.com/file/d/1J0jTp1n5vWG9gZAgxjwsshVukLojS-nw/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2317_PREV_980_The_Danger_After_the_Puppy_Woke.m4a)
-## Chapter 177 (File № 092) — The Mushroom That Fired the Wrong Smoke Alarm
+## Chapter 181 (File № 092) — The Mushroom That Fired the Wrong Smoke Alarm
 
 *A ten-year-old Labrador beat an ALT of 13,288 IU/L after a backyard mushroom raid—only to collapse three weeks later while her liver numbers looked triumphantly normal and a completely different organ system quietly flatlined.*
 
@@ -11713,7 +11986,7 @@ Surviving Hospital Act One never clears Act Two. Clinical signs always outrank p
 - **Companion Audio:** [Ep 2320 Audio Stream — The Illness After the Mushroom (52:29)](https://drive.google.com/file/d/1zPcZfT4RwhAlOPKMj82et_mZTEUI5w2Y/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2320 Audio](https://drive.google.com/file/d/1zPcZfT4RwhAlOPKMj82et_mZTEUI5w2Y/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2320_PREV_983_The_Illness_After_the_Mushroom.m4a)
-## Chapter 178 (File № 099) — The Bowel Prep That Handcuffed the Calcium
+## Chapter 182 (File № 099) — The Bowel Prep That Handcuffed the Calcium
 
 *Why the hours before a routine procedure are never a harmless waiting room—and how an oral phosphate cleanser can crash a senior dog's nervous system while his morning blood panel sits in the chart smiling at you.*
 
@@ -11777,7 +12050,7 @@ Even sharper is the literature footnote hiding underneath. The 2024 report summa
 - **Companion Audio:** [Ep 2608 Audio Stream — The Preparation That Changed the Blood (55:16)](https://drive.google.com/file/d/1492r2LDHNQhCJXtMowuwdF2fS9-Ber-G/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2608 Audio](https://drive.google.com/file/d/1492r2LDHNQhCJXtMowuwdF2fS9-Ber-G/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2608_PREV_992_The_Preparation_That_Changed_the_Blood.m4a)
-## Chapter 179 (File № 102) — The Autumn Helicopter Seeds That Shut Off a Horse's Engine
+## Chapter 183 (File № 102) — The Autumn Helicopter Seeds That Shut Off a Horse's Engine
 
 *Why clear urine and a hungry stallion can still conceal a muscle-enzyme reading above 737,000 IU/L—and why spraying sycamore seedlings or baling them into hay preserves the poison instead of killing it.*
 
@@ -11840,7 +12113,7 @@ Worst of all are the well-meaning chores and barn panics that boomerang. Per Nat
 - **Companion Audio:** [Ep 2611 Audio Stream — The Pasture That Stopped the Fuel (43:16)](https://drive.google.com/file/d/1sNmCRgWehbly6WmwCPl9dmLKFJupb5Go/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2611 Audio](https://drive.google.com/file/d/1sNmCRgWehbly6WmwCPl9dmLKFJupb5Go/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2611_PREV_995_The_Pasture_That_Stopped_the_Fuel.m4a)
-## Chapter 180 (File № 105) — Three Drops of 'All-Natural' Oil and an 80-Gram Coma
+## Chapter 184 (File № 105) — Three Drops of 'All-Natural' Oil and an 80-Gram Coma
 
 *Why plants invented essential oils as chemical warfare rather than spa therapy—and how 0.15 milliliters of pure tea tree oil put a pet cockatiel into convulsions, coma, neon-green urates, and a 20-fold enzyme spike in thirty minutes.*
 
@@ -11903,7 +12176,7 @@ Nor should dog-and-cat statistics lull bird owners into false safety. Khan, McLe
 - **Companion Audio:** [Ep 2614 Audio Stream — The Oil on the Wing (41:55)](https://drive.google.com/file/d/14qCg5y_p4Ehupd6WKMeQNq863K4YwwM3/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2614 Audio](https://drive.google.com/file/d/14qCg5y_p4Ehupd6WKMeQNq863K4YwwM3/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2614_PREV_998_The_Oil_on_the_Wing.m4a)
-## Chapter 181 (File № 108) — The Sago Palm, the Mild Liver Enzyme, and the Herniating Brain
+## Chapter 185 (File № 108) — The Sago Palm, the Mild Liver Enzyme, and the Herniating Brain
 
 *Why an unremarkable belly X-ray and barely elevated liver enzymes can sit right below a swelling cerebellum—and how a Jack Russell terrier survived MRI brain herniation, a 230 mmHg blood-pressure spike, and a platelet cliff after eating garden cycad seeds.*
 
@@ -11968,7 +12241,7 @@ Because neither report defines a safe nibble, a harmless seed count, or a forgiv
 - **Companion Audio:** [Ep 2617 Audio Stream — The Plant and the Swollen Brain (62:30)](https://drive.google.com/file/d/174eMSfMnJWdZT40cVAhT1kevCk2Z50Fr/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2617 Audio](https://drive.google.com/file/d/174eMSfMnJWdZT40cVAhT1kevCk2Z50Fr/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2617_PREV_1001_The_Plant_and_the_Swollen_Brain.m4a)
-## Chapter 182 (File № 111) — The Rabbit With 'Mild Gas,' Normal Kidney Blood Tests, and a Twisted Liver Lobe
+## Chapter 186 (File № 111) — The Rabbit With 'Mild Gas,' Normal Kidney Blood Tests, and a Twisted Liver Lobe
 
 *Why 'GI stasis' is a symptom rather than a hall pass—and how a 1.33-kilogram Mini Rex with normal 38.3°C temperature and in-range renal labs turned out to be hiding a twisted, bloodless liver lobe plus a severely cystic left kidney.*
 
@@ -12033,7 +12306,7 @@ Because nobody knows a household trick that stops a rabbit's caudate liver lobe 
 - **Companion Audio:** [Ep 2620 Audio Stream — The Quiet Gut and the Silent Blood Flow (52:18)](https://drive.google.com/file/d/1s9q3Cob3fA1CJH8PBJ7zP2JPqMszk6Ws/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2620 Audio](https://drive.google.com/file/d/1s9q3Cob3fA1CJH8PBJ7zP2JPqMszk6Ws/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2620_PREV_1004_The_Quiet_Gut_and_the_Silent_Blood_Flow.m4a)
-## Chapter 183 (File № 113) — The Fourteen-Pound Puppy Who Broke the Bloat Stereotype
+## Chapter 187 (File № 113) — The Fourteen-Pound Puppy Who Broke the Bloat Stereotype
 
 *How a 6.4-kilogram puppy shattered veterinary medicine's 'old Great Dane' shortcut, why a plasma lactate above 9.0 is not an automatic death sentence, and why home belly-poking turns survivable bloat lethal.*
 
@@ -12096,7 +12369,7 @@ In Zacher and colleagues' 2010 JAVMA cohort of 64 GDV dogs (abstract scope), ini
 - **Companion Audio:** [Ep 2299 Audio Stream — The Puppy With the Twisted Stomach (45:23)](https://drive.google.com/file/d/1tSf-pz58MC1TVGmjkwrV3pEZi--xp-Hn/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2299 Audio](https://drive.google.com/file/d/1tSf-pz58MC1TVGmjkwrV3pEZi--xp-Hn/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2299_PREV_962_The_Puppy_With_the_Twisted_Stomach.m4a)
-## Chapter 184 (File № 136) — The Normal Hour-4 Clotting Test—and the Vitamin K That Kills
+## Chapter 188 (File № 136) — The Normal Hour-4 Clotting Test—and the Vitamin K That Kills
 
 *Why a Labrador cleared by a flawless blood test four hours after chewing rat bait bled 780 milliliters into his chest on Day 4, how 1958 Scottish ‘super rats’ led to a 14-Ångström liver clamp, and why feed-store Vitamin K₃ is a fatal substitute for Vitamin K₁.*
 
@@ -12159,7 +12432,7 @@ Never cut brodifacoum therapy to a 7–10-day warfarin course—dogs require 28 
 - **Podcast Transcript:** [Ep 2092 Verbatim Transcript in Google Drive (11,958 words)](https://drive.google.com/file/d/1seC3BXS8jwuah5_Tl4iYjBpNYtShhf1a/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2092 Audio](https://drive.google.com/file/d/1zM9tHn_rL1IBmu8jvV9bG8okoTkCu6l0/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-one-medicine/Ep2092_HP_193_The_Super_Rat_Bait_in_the_Dogs_Chest_the_Deadly_Vitamin_K_Isomer_Trap_an.m4a)
-## Chapter 185 (File № 139) — The Cloudy Eye That Exposed the Healthier-Looking Sister
+## Chapter 189 (File № 139) — The Cloudy Eye That Exposed the Healthier-Looking Sister
 
 *Why the guinea pig sitting quietly in the carrier with spotless eyes carried nearly two and a half times the normal ceiling of blood sugar, how sorbitol blows lens fibers apart from the inside, and why a 0.33 mmol/L glucometer average hides a four-millimole blind spot.*
 
@@ -12224,7 +12497,7 @@ That leaves real-world prevention anchored to PDSA (diet guidance updated Oct 20
 - **Podcast Transcript:** [Ep 2623 Verbatim Transcript in Google Drive (8,139 words)](https://drive.google.com/file/d/1cqdO9s-a2-DREnYa_pZXa4hDQsXe7gdL/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2623 Audio](https://drive.google.com/file/d/1bEd1gI9UinOthutfhpVjmhqZK0R6rN2v/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2623_PREV_1007_The_Eye_That_Found_Two_Diabetics.m4a)
-## Chapter 186 (File № 142) — The Seizure That Vanished by Tuesday Morning
+## Chapter 190 (File № 142) — The Seizure That Vanished by Tuesday Morning
 
 *Why anticonvulsants fail when the pancreas is the arsonist, why a ‘normal’ blood insulin reading during a 40 mg/dL sugar crash is deeply abnormal, and how historical ferret survival charts trap loving owners in false math.*
 
@@ -12290,7 +12563,7 @@ Just as critical: never delay transport to shoot phone video, and never fast or 
 - **Podcast Transcript:** [Ep 2626 Verbatim Transcript in Google Drive (6,185 words)](https://drive.google.com/file/d/1OqHy-zp6n0NE6bJ8ECaNTwNHBgTnvAPQ/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2626 Audio](https://drive.google.com/file/d/17GMEF7h-JPi9iLlNhsKwWvrU5IGQnjZU/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2626_PREV_1010_The_Seizure_Between_Normal_Days.m4a)
-## Chapter 187 (File № 145) — The Solitary Gecko, the Normal Total Calcium, and the Zero-Difference Hormone Implant
+## Chapter 191 (File № 145) — The Solitary Gecko, the Normal Total Calcium, and the Zero-Difference Hormone Implant
 
 *Why a female leopard gecko can manufacture an emergency without ever meeting a male, why a total calcium number hides an empty checking account, and why a 0.00-clutch implant study should make every clinician check the math.*
 
@@ -12357,7 +12630,7 @@ Nor does one rescue guarantee forever. Case 1 gained 5 grams within a month and 
 - **Podcast Transcript:** [Ep 2629 Verbatim Transcript in Google Drive (7,096 words)](https://drive.google.com/file/d/1c-0LSsT_t9jjDfTYM4KaBW9OL_tuNPY6/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2629 Audio](https://drive.google.com/file/d/1uo3Q9M_OT8vDHyFSxsjYvViwNcn86QDd/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2629_PREV_1013_The_Egg_That_Would_Not_Leave.m4a)
-## Chapter 188 (File № 148) — The 336-Gram Patient, the Neck “Lymph Node,” and Two Independent Cancers Sharing One Throat
+## Chapter 192 (File № 148) — The 336-Gram Patient, the Neck “Lymph Node,” and Two Independent Cancers Sharing One Throat
 
 *Why your fingertips cannot palpate a cancer cell, how a sleepy mitotic count still dissolves a jawbone, and why the “cell phone repair shop” denominator exposes terrifying internet hedgehog-cancer statistics.*
 
@@ -12424,7 +12697,7 @@ Remember the limits of speculation, too. Good dental hygiene prevents painful pe
 - **Podcast Transcript:** [Ep 2632 Verbatim Transcript in Google Drive (8,205 words)](https://drive.google.com/file/d/1hrC9uu20Y8uXRi4nZI-zWIjb8crSn1qx/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2632 Audio](https://drive.google.com/file/d/13uKKgCDyPooFJAb-cCx8rBcUNzhzgEV9/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2632_PREV_1016_The_Lump_That_Was_Not_a_Lymph_Node.m4a)
-## Chapter 189 (File № 151) — Normal Heart Walls on the Screen—And a 5-to-1 Glucose Cliff in a Seven-Month-Old Kitten
+## Chapter 193 (File № 151) — Normal Heart Walls on the Screen—And a 5-to-1 Glucose Cliff in a Seven-Month-Old Kitten
 
 *Why an echocardiogram is a single high-speed photograph of a speeding train, why diuretics can silence the lung alarm while the arterial plug stays wedged, and how shifting denominators flip feline clot statistics upside down.*
 
@@ -12491,7 +12764,7 @@ Just as crucial is resisting comforting human instincts that violate vascular ph
 - **Podcast Transcript:** [Ep 2635 Verbatim Transcript in Google Drive (5,805 words)](https://drive.google.com/file/d/1GNelc-uTP0NzEajLAWIyavfwxrz5XJX_/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2635 Audio](https://drive.google.com/file/d/16Gg0aHTuYprDnWhK3H17nQqVty9R_lBr/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2635_PREV_1019_The_Clot_Before_the_Thick_Wall.m4a)
-## Chapter 190 (File № 154) — The Head Tilt That Refused a Single Test—and the Footprint Without a Boot
+## Chapter 194 (File № 154) — The Head Tilt That Refused a Single Test—and the Footprint Without a Boot
 
 *Why a 1:320 antibody titer does not count four times as many fungal harpoons, why an Italian survey of 125 rabbits mathematically broke the myth that seropositive equals sick, and why you never try to straighten a tilted neck.*
 
@@ -12554,7 +12827,7 @@ One tragic timeline is never a blanket prognosis for every tilted rabbit; plenty
 - **Podcast Transcript:** [Ep 2638 Verbatim Transcript in Google Drive (9,336 words)](https://drive.google.com/file/d/1hyVlCIgfP_sHu6vlKlM6J0-O6njyVy0x/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2638 Audio](https://drive.google.com/file/d/1ekChzj4IfU3idpmYOaLK2qAZjTZhqz8h/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2638_PREV_1022_The_Tilt_That_Needed_More_Than_One_Test.m4a)
-## Chapter 191 (File № 157) — The Diaper Cream That Rusted a Dog’s Hemoglobin From the Inside Out
+## Chapter 195 (File № 157) — The Diaper Cream That Rusted a Dog’s Hemoglobin From the Inside Out
 
 *Why spherocytes nearly pinned the crime on an autoimmune glitch, why three hematocrit numbers of 18%, 10%, and 17% were never a spontaneous rebound, and why an honest ‘I don’t know’ beats guessing a teaspoon on the poison hotline.*
 
@@ -12617,7 +12890,7 @@ Essential dietary zinc in balanced kibble is NOT the villain here; repeated inge
 - **Podcast Transcript:** [Ep 2641 Verbatim Transcript in Google Drive (7,704 words)](https://drive.google.com/file/d/1dodFYsfNZi9l9nx-w2cDf0SHSIWf8UDz/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2641 Audio](https://drive.google.com/file/d/11qm_bkBkHd53_tr340kyMcOymnAwIGqG/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2641_PREV_1025_The_Cream_That_Reached_the_Blood.m4a)
-## Chapter 192 (File № 160) — The ‘Pet-Friendly’ Snail Bait, the 91.8% Illusion, and Day Twelve After Discharge
+## Chapter 196 (File № 160) — The ‘Pet-Friendly’ Snail Bait, the 91.8% Illusion, and Day Twelve After Discharge
 
 *Why ‘pet-friendly’ on a garden box is marketing copy rather than pharmacology, how normal vital signs masked fatal iron toxicity in a Border Collie, and why a published 84.3% statistic accidentally mixed two denominators.*
 
@@ -12680,7 +12953,7 @@ Prevention begins behind a latched door, keeping every bait in its original labe
 - **Podcast Transcript:** [Ep 2644 Verbatim Transcript in Google Drive (6,679 words)](https://drive.google.com/file/d/18FJNrUV9IcV7Z5QW4LgsnZQRFm0R6PBT/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2644 Audio](https://drive.google.com/file/d/12sHGhoNyupNdE0XitSRdmFO42OLUyCF1/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2644_PREV_1028_The_Discharge_That_Was_Not_the_Ending.m4a)
-## Chapter 193 (File № 163) — The Missing Hip Joint Hiding Behind an Old Bone Label
+## Chapter 197 (File № 163) — The Missing Hip Joint Hiding Behind an Old Bone Label
 
 *Why a slow, jelly-packed tumor with benign-looking cells dissolved an entire reptile hip without snapping the sciatic nerve, why feline amputations exposed pinch-biopsy blind spots, and how diagnostic momentum hijacks chronic pet care.*
 
@@ -12747,7 +13020,7 @@ For reptile keepers, current Washington State University and RSPCA guidance pair
 - **Podcast Transcript:** [Ep 2647 Verbatim Transcript in Google Drive (7,583 words)](https://drive.google.com/file/d/1fZKJLy3EEZNMczk3j4BmjDSKUoRSX7NM/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2647 Audio](https://drive.google.com/file/d/17pi3CWXAo6zHMz5o-PFjCAP3egNlJpg9/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2647_PREV_1031_The_Swelling_That_Was_Not_Just_Bone_Disease.m4a)
-## Chapter 194 (File № 166) — The Antibiotic That Zipped a Cat’s Esophagus Shut
+## Chapter 198 (File № 166) — The Antibiotic That Zipped a Cat’s Esophagus Shut
 
 *Why a human-normal temperature of 36.5°C is genuine hypothermia in a cat, how a healing mucosal burn cinches an esophagus like a plastic zip tie, and why you never test a stuck throat with a treat or syringe.*
 
@@ -12814,7 +13087,7 @@ Prevention starts before you walk out of the pharmacy, following Merck/MSD Veter
 - **Podcast Transcript:** [Ep 2650 Verbatim Transcript in Google Drive (8,115 words)](https://drive.google.com/file/d/1JDFbbg-koxN_v8koMFvpOoSniqC114V1/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2650 Audio](https://drive.google.com/file/d/1_xL6CVB6hCfKK0Bv07xlnHTGl_nmF-_A/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2650_PREV_1034_The_Pill_and_the_Narrowed_Passage.m4a)
-## Chapter 195 (File № 169) — Slightly Brighter—at a Fourteen-Percent Blood Count
+## Chapter 199 (File № 169) — Slightly Brighter—at a Fourteen-Percent Blood Count
 
 *Why Sao Paulo clinicians deliberately refused a Day-1 blood draw, why zero positive tests out of 85 birds never proves 0% flock infection, and how a retracted 2007 mite-transmission paper sneaked into a 2015 citation list.*
 
@@ -12880,7 +13153,7 @@ Source skepticism saves birds from bad chemicals too: Philadelpho’s 2015 paper
 - **Companion Audio:** [Ep 2653 Audio Stream — The Bird and the Falling Blood Count (49:44)](https://drive.google.com/file/d/1k79pppDDeYb-Aml9h4fI7w8scTA75xN6/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2653 Audio](https://drive.google.com/file/d/1k79pppDDeYb-Aml9h4fI7w8scTA75xN6/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2653_PREV_1037_The_Bird_and_the_Falling_Blood_Count.m4a)
-## Chapter 196 (File № 172) — Purring Engine, Bent Axle—and a 0.7-Millimeter Bone Canal
+## Chapter 200 (File № 172) — Purring Engine, Bent Axle—and a 0.7-Millimeter Bone Canal
 
 *Why a healthy appetite never clears a crooked limb in a prey animal, why a bony callus is scaffolding rather than a cured bridge, and how a 2016 hindfoot abstract tricked casual readers with a one-foot percentage.*
 
@@ -12947,7 +13220,7 @@ Hands stay strictly off suspect fractures: never squeeze bones, test range of mo
 - **Companion Audio:** [Ep 2656 Audio Stream — The Paw That Bore Weight but Could Not Grasp (42:42)](https://drive.google.com/file/d/1pjiEFcfEjJGTsZlxClhVCQ3xWj1B0R8N/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2656 Audio](https://drive.google.com/file/d/1pjiEFcfEjJGTsZlxClhVCQ3xWj1B0R8N/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2656_PREV_1040_The_Paw_That_Bore_Weight_but_Could_Not_Grasp.m4a)
-## Chapter 197 (File № 175) — Eight Inches Beneath the Scales—and Three Percentages From One Lab
+## Chapter 201 (File № 175) — Eight Inches Beneath the Scales—and Three Percentages From One Lab
 
 *Why coelomic swelling is only a check-engine light, how loose smears and fixed tissue slices answer different microscopic questions, and why zero metastases never makes a massive tumor harmless.*
 
@@ -13012,7 +13285,7 @@ Just as critical is what keepers must never do. Never net, squeeze, or stick a n
 - **Companion Audio:** [Ep 2659 Audio Stream — The Swelling Beneath the Scales (47:11)](https://drive.google.com/file/d/1bOWnuRkJG0cCLY4rQaLBX9m3vPIoNEi_/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2659 Audio](https://drive.google.com/file/d/1bOWnuRkJG0cCLY4rQaLBX9m3vPIoNEi_/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2659_PREV_1043_The_Swelling_Beneath_the_Scales.m4a)
-## Chapter 198 (File № 178) — Deadbolts Don’t Stop a Variant: 39°C on the Thermometer, 1,741 in the Liver
+## Chapter 202 (File № 178) — Deadbolts Don’t Stop a Variant: 39°C on the Thermometer, 1,741 in the Liver
 
 *Why four Lisbon households lost four pet rabbits in a single December week, why a dead-center 39°C thermometer and normal X-rays hid exploding hepatocytes, and why classical rabbit vaccines left the back door open for GI.2.*
 
@@ -13079,7 +13352,7 @@ Because RHDV2 shrugs off freezing and heat and survives for months in organic ma
 - **Companion Audio:** [Ep 2701 Audio Stream — The Door Was Closed to the Rabbit, Not the Virus (44:34)](https://drive.google.com/file/d/1ZwmPvKp59GirS5iljMD8A8SEBdGMgHt8/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2701 Audio](https://drive.google.com/file/d/1ZwmPvKp59GirS5iljMD8A8SEBdGMgHt8/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2701_PREV_1046_The_Door_Was_Closed_to_the_Rabbit_Not_the_Virus.m4a)
-## Chapter 199 (File № 190) — The Cattle Pellet That Punched a Hole in a Horse’s Water Tower
+## Chapter 203 (File № 190) — The Cattle Pellet That Punched a Hole in a Horse’s Water Tower
 
 *Why an expired-feed date was a total red herring, why a resting horse heart beating at 86 pumps less blood than at 36, and why a 99.6% plunge in cardiac troponin-I means the fire went out—never that the house rebuilt itself.*
 
@@ -13142,7 +13415,7 @@ University of Arizona, Merck Veterinary Manual, and US FDA guidance turn this bi
 - **Companion Audio:** [Ep 2713 Audio Stream — The Ration and the Racing Heart (50:57)](https://drive.google.com/file/d/1OJbS9a1msK7bWyDBIUMlFu8iIFoRFDl0/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2713 Audio](https://drive.google.com/file/d/1OJbS9a1msK7bWyDBIUMlFu8iIFoRFDl0/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2713_PREV_1058_The_Ration_and_the_Racing_Heart.m4a)
-## Chapter 200 (File № 193) — The Extrusion Press Behind the Eyeball: When Rabbit Teeth Tunnel Through the Skull
+## Chapter 204 (File № 193) — The Extrusion Press Behind the Eyeball: When Rabbit Teeth Tunnel Through the Skull
 
 *Why rabbit teeth behave like a 3D printer that never shuts off, why a 2024 journal printed 63% where 54 divided by 90 equals 60%, and why a pair of nail clippers turns one overgrown tooth into a bacterial superhighway.*
 
@@ -13205,7 +13478,7 @@ One household temptation deserves an absolute ban. As the UK’s PDSA (February 
 - **Companion Audio:** [Ep 2716 Audio Stream — The Teeth Beneath the Face (53:28)](https://drive.google.com/file/d/1SiPXO5kxVn6aRrTgEj1S6AaXfujDMo5Y/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2716 Audio](https://drive.google.com/file/d/1SiPXO5kxVn6aRrTgEj1S6AaXfujDMo5Y/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2716_PREV_1061_The_Teeth_Beneath_the_Face.m4a)
-## Chapter 201 (File № 196) — Drowning From the Inside in Crystal-Clear Water
+## Chapter 205 (File № 196) — Drowning From the Inside in Crystal-Clear Water
 
 *How an aquatic salamander’s own permeable skin collides with a 24°C, pH 6 aquarium, why ultrasound beat X-ray gray fog, and why a limb-regeneration superpower never saves a flooding body cavity.*
 
@@ -13271,7 +13544,7 @@ Finally, stop trusting crystal-clear water or a single panic-day test strip. A o
 - **Companion Audio:** [Ep 2719 Audio Stream — The Water Around and Within (38:26)](https://drive.google.com/file/d/1AbZldU9T8nC6sWL0e-OARIW1xivEbt0l/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2719 Audio](https://drive.google.com/file/d/1AbZldU9T8nC6sWL0e-OARIW1xivEbt0l/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2719_PREV_1064_The_Water_Around_and_Within.m4a)
-## Chapter 202 (File № 202) — One Kilogram Removed, One Metabolic Factory Still Running
+## Chapter 206 (File № 202) — One Kilogram Removed, One Metabolic Factory Still Running
 
 *Why a tortoise can eat happily for a month with a blocked colon inside a rigid bone box, why a four-month weight gain was a false finish line, and why 26.7% return-visit coverage is never a surgical cure rate.*
 
@@ -13337,3 +13610,138 @@ After stone removal, redefine success from “cured” to actively managing an u
 - **Companion Audio:** [Ep 2754 Audio Stream — The Stone Was Not the Whole Illness (48:54)](https://drive.google.com/file/d/1Xu8eSE6WhWfLN0UaXpwK7JemS--ZZs3g/view)
 - **Companion Audio (Google Drive):** [Stream Ep 2754 Audio](https://drive.google.com/file/d/1Xu8eSE6WhWfLN0UaXpwK7JemS--ZZs3g/view)
 - **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2754_PREV_1070_The_Stone_Was_Not_the_Whole_Illness.m4a)
+## Chapter 207 (File № 205) — Crystal-Clear Water, Sub-Zero Freeze—and 974 Nanograms of Benthic Venom
+
+*How bottom-hugging cyanobacteria inflate themselves like sunken carpets, why caffeine calibrated a Texas neurotoxin test, and why 101 days on Lady Bird Lake is never a safe-return clock.*
+
+- **Part:** Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat
+- **Companion Episode:** Ep 2757 (55:17, 9,152 spoken words)
+- **Looks Like:** A sparkling, pea-soup-free winter lake shoreline after eight days of sub-zero temperatures
+- **Actually Is:** Detached benthic cyanobacterial mats carrying dihydroanatoxin-a (estimated 974.88 ng/g dry stomach contents)
+- **Cause / Mechanism / Manner:** Acute dihydroanatoxin-a (dhATX) neurotoxicosis following shoreline exposure to benthic cyanobacterial mats at Hudson Bend, Lake Travis, Texas | Persistent agonist binding to nicotinic acetylcholine receptors locking neuromuscular junctions into continuous firing, driving tremors, ataxia, paralysis, and respiratory collapse | Veterinary Forensic Case (Environmental Neurotoxicosis; CPR Attempted, Euthanized)
+- **Avoidability:** Uncertain (avoiding shoreline mats/scum/carcasses and checking advisories reduce risk; clear water masks benthic mats) | **False Reassurance:** “It’s February right after a hard freeze, and the lake water is crystal clear with zero green pea soup—algae can’t survive winter.”
+
+### The Sunken Carpet Beneath Crystal-Clear Winter Water
+
+Public safety loves a neon warning sign. Summer planktonic blooms—those warm-weather spills that turn reservoirs into glowing pea soup—practically beg you to leash the dog and turn around. Benthic cyanobacteria prefer ambush. Ancient photosynthetic bacteria rather than true plant-like algae, they weave dense felt carpets along rocky lake floors far out of sight. As they photosynthesize, oxygen bubbles lodge inside their tangled filaments until the carpet inflates its own flotation vest, rips loose into floating metaphyton, and washes quietly onto beaches where dogs sniff and chew—while open water stays postcard-clear.
+
+In August 2023, Anthea Fredrickson, Aaron Richter, Katherine A. Perri, and Schonna R. Manning documented the first chemically confirmed canine death from dihydroanatoxin-a (dhATX) in Central Texas in Toxins. Case C1 was an approximately three-year-old, 51-pound male Golden Retriever who spent roughly three and a half hours swimming and exploring Hudson Bend on Lake Travis on February 20, 2021—immediately after eight straight days of historic freeze plunging between 3°C and −17°C starting February 11. During his routine post-lake rinse, C1 suddenly developed violent shaking, fasciculations, total loss of coordination, and vomiting. Rushed to a veterinarian within 20 minutes, he received attempted CPR before ultimately being euthanized—an unvarnished clinical outcome that forbids comforting rewrites.
+
+Community reports also noted five other ill dogs and one unconfirmed canine death around Lake Travis across January and February, including illnesses predating the freeze. That timeline keeps causation honest: the storm may have churned bottom mats loose, but it did not conjure toxic bacteria from ice, and those other dogs lacked chemical tissue confirmation. Even the published paper wears real-world field smudges we preserve verbatim: prose dates the incident February 20 while Figure 4 marks February 21; text dates necropsy February 26 while Table 1 lists the duodenum on February 24; and a typo places a March 2021 community survey in March 2012.
+
+### Weighing Poison Next to Caffeine in a Dog’s Stomach
+
+At the Texas A&M Veterinary Medical Diagnostic Laboratory, necropsy ruled out insecticides, petroleum products, and botulism while stomach microscopy confirmed green algae, diatoms, and cyanobacteria—species unidentified because gastric acid chewed up diagnostic filaments, reminding us you can never copy-paste a lake-shore species list into a stomach report. Chemistry finished the case. High-performance liquid chromatography coupled to high-resolution mass spectrometry (HPLC-HRMS) caught dhATX within 0.5 parts per million of its theoretical 168.133 atomic mass units. Because no commercial pure dhATX reference standard existed, chemists calibrated against a known caffeine proxy—turning the results into rigorous estimates rather than absolute quantifications.
+
+Across dehydrated dry-weight specimens—baking out variable water, with n = 2 denoting two analytical replicates of C1 rather than two dogs—labs estimated 974.88 nanograms per gram dry weight in stomach contents, 10.51 in duodenum, and 6.076 in jejunum (with trace anatoxin-a in stomach; saxitoxin, cylindrospermopsin, and microcystins were non-detects strictly in C1’s tested samples, while shoreline mats hit up to 12,047 nanograms per gram). Dry weight cannot convert backward into wet lake-water sips, absorbed bloodstream dose, or safe swimming minutes. Mechanistically, dhATX tapes its finger onto nicotinic acetylcholine receptors, locking muscles into relentless tremors before exhausting respiratory nerves. Imputed principal component analysis linked higher toxin levels with clearer Secchi-disk water, dissolved oxygen, lower dam inflows, and invasive zebra mussels driving benthification—vital ecological correlations, never single-factor proof.
+
+C1 also closed a two-year forensic loop opened by Schonna R. Manning, Katherine A. Perri, and Brent J. Bellinger’s 2020 Data Brief on 2019 dog mortalities at Austin’s Lady Bird Lake. There, microscopy, ribosomal genetics, and chemistry proved dhATX sat in shoreline mats—showing the gun was loaded without canine necropsy tissue proving the bullet struck home. Those floating mats persisted from August 3 through November 12—101 elapsed days—strictly a persistence window, never a chemical half-life or a Day-102 all-clear. As a One Health sentinel, C1 prompted year-round benthic and planktonic monitoring at Lake Travis, without claiming human illness occurred there or condemning every winter lake.
+
+### Zero Antidote, Zero Home Emesis, Zero Sample Jars
+
+Because there is no specific chemical antidote for dhATX, speed to veterinary supportive care—seizure control, IV fluids, and ventilation—is the entire game. Following Cornell and CDC guidance, sudden shaking, stumbling, weakness, drooling, vomiting, collapse, seizures, or breathing distress after any shoreline contact demand immediate emergency veterinary transport without waiting for algal lab tests or leaving a sick dog to scoop lake water into a jar. Pull the animal away from water, prevent fur-licking while calling the clinic, and report the exact lake access point, timeline, and whether shoreline material was eaten.
+
+Panic breeds fatal home remedies: never give human medications, never attempt unguided CPR, and never induce vomiting on your own—neurologically impaired dogs lose airway control and aspirate vomit straight into their lungs. Upstream, check dated local advisories, obey closures, remember clear water and quiet websites never certify safety, keep dogs off shoreline mats, foam, scum, and washed-up dead fish or birds (toxic vectors), and report suspect mats from a safe distance without bagging them into your car.
+
+### RED FLAGS · CLEAR WATER CAN STILL CARRY NEUROTOXIN — When a Shoreline Outing Turns Into a 20-Minute Emergency
+
+- Rush immediately to an emergency veterinarian if tremors, stumbling, weakness, drooling, vomiting, seizures, collapse, or labored breathing begin after lake contact—never wait for lab confirmation.
+- Pull the dog off the shore and prevent fur-licking while calling ahead with exact lake access, timing, and suspected mat ingestion—never delay care to bottle water or algae samples.
+- Never induce vomiting at home, dose human drugs, or attempt unguided CPR; compromised airway reflexes turn home emesis into fatal aspiration.
+- Treat clear winter water with the same caution as summer blooms: check dated advisories, keep pets away from shoreline mats, scum, foam, and dead wildlife, and report suspect mats from a safe distance.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · TREMORS AFTER LAKE SHORELINE PLAY
+*No antidote exists for dihydroanatoxin-a—skip home emesis, stop fur-licking, and drive to an ER vet.*
+
+1. **REMOVE FROM WATER & BLOCK FUR-LICKING:** Get your dog away from the shoreline immediately and stop them from licking wet paws or coat while calling an emergency veterinary clinic for instructions.
+2. **SKIP HOME VOMITING & SAMPLE JARS:** Never induce vomiting in a shaking or stumbling dog (high risk of fatal aspiration), never give human medicines, and never delay transport to scoop algae samples.
+3. **GIVE LOCATION & INGESTION DETAILS:** Tell the vet the exact lake and access point, timing of contact versus first symptoms, and whether you saw the dog chew shoreline mats, scum, or dead fish/birds.
+4. **UPSTREAM: DISTRUST CRYSTAL-CLEAR WINTER SHORES:** Check current dated advisories, obey closures, steer dogs away from detached mats, foam, and carcasses year-round, and report suspect blooms safely from a distance.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case** | Fredrickson A, Richter A, Perri KA & Manning SR (Aug 2023), Toxins (PMID 37624242 · PMC10467149) · Case C1: ~3-yr, 51-lb male Golden Retriever, 3.5 hrs at Hudson Bend, Lake Travis, TX, Feb 20, 2021 after 8-day freeze (3°C to −17°C starting Feb 11) |
+| **Timeline & Outcome** | Acute tremors/fasciculations, ataxia/inability to walk & vomiting during post-lake rinse; emergency vet within 20 min; CPR attempted; euthanized (5 other ill dogs & 1 unconfirmed Jan–Feb death lacked chemical confirmation) |
+| **Necropsy & HPLC-HRMS** | Texas A&M TVMDL excluded insecticides/petroleum/botulism; stomach microscopy found green algae, diatoms & cyanobacteria (species degraded by gastric acid); HPLC-HRMS matched dhATX within 0.5 ppm of 168.133 amu using caffeine proxy (estimates, not pure-standard quantification) |
+| **Dry-Weight Estimates** | n = 2 lab replicates of C1 (NOT 2 dogs): stomach contents 974.88 ng/g DW, duodenum 10.51 ng/g DW, jejunum 6.076 ng/g DW (trace anatoxin-a in stomach; saxitoxin/cylindrospermopsin/microcystins non-detect in C1 only; shore mats up to 12,047 ng/g); no absorbed dose or safe-time threshold |
+| **Preserved Record Quirks** | Prose incident Feb 20 vs Fig 4 Feb 21; necropsy Feb 26 vs Table 1 duodenum Feb 24; community survey typo 'March 2012' (for March 2021); PCA linked clarity, DO, zebra-mussel benthification & low inflows (correlation, not single-cause proof) |
+| **Precursor Event (2019)** | Manning SR, Perri KA & Bellinger BJ (2020), Data Brief (PMID 33024803 · PMC7528197): Lady Bird Lake mats carried dhATX (microscopy + ribosomal genetics + chemistry, no dog tissue necropsy); persisted Aug 3–Nov 12 = 101 elapsed days (persistence window, NOT half-life or safe-return clock) |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Fredrickson A, Richter A, Perri KA & Manning SR (2023) — First Confirmed Case of Canine Mortality Due to Dihydroanatoxin-a in Central Texas, USA (Toxins · PMID 37624242 · PMC10467149)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10467149/)
+- **Precursor Study:** [Manning SR, Perri KA & Bellinger BJ (2020) — Bloom announcement: first reports of dog mortalities associated with neurotoxic filamentous cyanobacterial mats at recreational sites in Lady Bird Lake, Austin, Texas (Data Brief · PMID 33024803 · PMC7528197)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7528197/)
+- **Podcast Transcript:** [Ep 2757 Verbatim Transcript in Google Drive (9,152 words)](https://drive.google.com/file/d/1pTv9oiGYN_TbIM7CX5sT7OtewfVu_v0T/view)
+- **Companion Audio:** [Ep 2757 Audio Stream — The Hazard Along the Winter Shore (55:17)](https://drive.google.com/file/d/1-Ir9hefjVMZFFFvH2zIbX1cUeSKr_OZs/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2757 Audio](https://drive.google.com/file/d/1-Ir9hefjVMZFFFvH2zIbX1cUeSKr_OZs/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2757_PREV_1073_The_Hazard_Along_the_Winter_Shore.m4a)
+## Chapter 208 (File № 208) — 94.5 mmHg Inside the Right Heart—and Nine Swimmers in a Warm Funnel
+
+*How the simplified Bernoulli equation reads heart pressure by radar, why a four-week phone check never proves a cure, and why poisoning backyard snails trades one crisis for another.*
+
+- **Part:** Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat
+- **Companion Episode:** Ep 2760 (43:26, 7,107 spoken words)
+- **Looks Like:** Worsening degenerative mitral valve disease in a 10-year-old terrier with normal hematocrit and negative heartworm tests
+- **Actually Is:** Angiostrongylus vasorum clogging pulmonary arteries, driving a 94.5 mmHg tricuspid pressure gradient
+- **Cause / Mechanism / Manner:** Canine cardiopulmonary Angiostrongylus vasorum infection superimposed on preexisting degenerative mitral valve disease and pulmonary hypertension | Adult nematodes in pulmonary arteries and migrating larvae in lung capillaries spiking pulmonary vascular resistance, overloading the thin-walled right ventricle while disrupting coagulation | Veterinary Forensic Case (Fatal Cardiopulmonary Parasitosis; No Necropsy in Focal Case)
+- **Avoidability:** Uncertain (veterinarian-led regional preventatives reduce infection risk; no universal single-pill guarantee) | **False Reassurance:** “He already has a heart murmur, his routine heartworm test is negative, and he sounded better on the phone four weeks after treatment.”
+
+### A Low-Pressure Pump Pushing Through a Living Roadblock
+
+We like mechanical heart failure tidy: one worn valve, one tired pump, zero guests living inside the plumbing. In 2023, Marian Aurel Taulescu and colleagues in Frontiers in Veterinary Science profiled Case 1, a 10-year-old intact male Yorkshire terrier in Bucharest, Romania, arriving with a persistent cough, labored breathing, low exercise tolerance, and bluish cyanotic gums. His chart already carried degenerative mitral valve disease and pulmonary hypertension, and he lived near a lakeside city edge with no recent travel and no deworming in the previous year—environmental opportunity, never proof of a witnessed snail meal. Yet his acute collapse outran his old valve diagnosis.
+
+Blood work yelled fire without naming the arsonist: white blood cells climbed to 18.57 thousand per microliter (reference 5.05–16.76) and platelets surged to 747 thousand per microliter (reference 148–484) as vascular walls suffered ongoing injury, while hematocrit stayed comfortably normal at 43% (reference 37.3–61.7%). Coagulation told a half-finished warning: prothrombin time stretched to 24.4 seconds (reference 14–20), while aPTT (120.1 s, reference 94–123) and D-dimer (0.27 µg/mL, reference 0.23–0.65) sat normal—enough to flag bleeding danger without independently proving full disseminated intravascular coagulation.
+
+Chest X-rays showed hazy interstitial and peribronchial lung infiltration; echocardiography exposed a ballooning right heart. Normally the thin-walled right ventricle pushes blood gently through wide-open lung capillaries. Pack those arteries with adult Angiostrongylus vasorum—the gastropod-borne canine lungworm acquired via slugs, snails, or frog paratenic hosts, distinct from mosquito-borne Dirofilaria immitis and never caught by humans from a coughing dog—and vascular resistance skyrockets until the tricuspid valve leaks backward. Using Doppler like a highway radar gun, clinicians clocked that backward jet at 4.86 meters per second. Plugged into the simplified Bernoulli equation (4 × v²), 4.86 squared (23.6196) times 4 equals 94.4784—rounding to 94.5 millimeters of mercury. Per Carol Reinero and colleagues’ 2020 ACVIM consensus guidelines, that Doppler figure is a probe-angle-sensitive estimated pressure gradient, not a direct catheter reading or heart-function percentage.
+
+### Nine Swimmers, Three Postmortems, and a Lagging Heart
+
+Inside the right main pulmonary artery, ultrasound caught two bright parallel echogenic lines framing a dark hypoechoic core—the acoustic cross-section of a tubular worm cuticle, yet never species proof alone. Rapid antigen and blood PCR came back negative for standard mosquito heartworm (D. immitis). So clinicians deployed the Baermann funnel: suspending stool in gauze over warm water for 12 to 24 hours until live coughed-and-swallowed larvae swam out and sank by gravity. Nine larvae emerged matching A. vasorum morphology, confirmed by PCR (Ct 22.76)—definitive species identification, never a calibrated body-wide worm count or proof only nine existed.
+
+After targeted antiparasitic treatment, a four-week telephone check reported him doing better—subjective reassurance that never proved parasite eradication or heart recovery. Six months post-diagnosis, he died in severe respiratory distress without an autopsy, leaving the exact terminal share among mitral disease, 94.5 mmHg hypertension, lung fibrosis, and infection forever undefined. Taulescu’s remaining lethal cases—an 8-year-old Caucasian shepherd, a 1.5-year-old poodle, and a 5-month-old mixed-breed puppy—showed the unseen interior at necropsy: dark-red liver-like consolidated lungs unable to trade oxygen, hemorrhage, and adult A. vasorum packing pulmonary arteries in Cases 2 and 4 (Case 3 lacked reported PCR and gross artery evaluation). Case 2 even harbored a dual infection—adult A. vasorum in pulmonary arteries alongside a single adult D. immitis inside the right ventricle—proving generic worm nicknames can kill.
+
+Can a stretched right heart actually recover once the worms die? A foundational 2004 Irish Veterinary Journal series by Siobhan F. Brennan and colleagues tracked Case 3, a 23-month-old Jack Russell terrier without old valve disease presenting with cough, exercise intolerance, fainting (syncope—when exertion slams the right ventricle into a vascular wall and starves the brain), heart rate 192 beats per minute, and respiratory rate 88 breaths per minute. Unlike a phone check, serial echocardiograms proved right-heart enlargement shrank progressively after therapy—yet fainting continued initially after drugs began while dead worms and inflammation cleared slowly, and a later single negative Baermann test never guarantees lifelong clearance because shedding is intermittent. (Brennan’s note that blood tests were unavailable belongs strictly to 2004; rapid blood antigen tests exist widely today.)
+
+### Never Film a Cough at a Sprint—and Skip the Snail Bait
+
+Under June 2025 ESCCAP and April 2020 PDSA UK guidance, persistent coughing, shrinking stamina, fainting, or unexplained bruising and bleeding—crucial to report before even routine dental cleanings—demand prompt veterinary evaluation, while acute labored breathing, collapse, or uncontrolled bleeding mean an immediate ER trip. Bring a functional history (what distance your dog ran last month versus today) plus exact boxes, doses, and dates of prior preventatives rather than saying he is wormed. Above all, never run a home exercise test to capture a cough video for the clinic: forcing exertion against choked pulmonary arteries can trigger syncope or sudden death.
+
+Upstream, ask your veterinarian directly whether your licensed preventative actually covers A. vasorum based on local wildlife reservoirs, travel, and scavenging habits—there is no one-pill-fits-every-country schedule. Discourage eating slugs and snails without turning your garden into a toxicology ward: scattering chemical snail bait trades a parasite risk for acute fatal poisoning, and general hygiene beats baseless panic over human contagion.
+
+### RED FLAGS · GENERIC 'WORMERS' SKIP PULMONARY NEMATODES — Protecting a Dog’s Lungs Without Creating a Second Emergency
+
+- Seek immediate emergency veterinary care for labored breathing, blue gums, collapse, or uncontrolled bleeding—and prompt appointments for persistent coughing, falling stamina, fainting, or unexplained bruising (especially before any dental or surgical procedure).
+- Never force a coughing or exercise-intolerant dog to run in the yard to film symptoms for the vet; exertion against high pulmonary pressure can trigger collapse or sudden death.
+- Bring exact product names, doses, and dates of all preventatives—never assume an over-the-counter dewormer or standard mosquito-heartworm pill covers Angiostrongylus vasorum.
+- Discourage scavenging slugs and snails through supervision and vet-prescribed regional preventatives—never scatter chemical snail bait to eradicate yard gastropods.
+
+### FIRST 60 SECONDS — FIRST 60 SECONDS · COUGHING, FAINTING OR BLUE GUMS
+*Keep a breathless dog strictly calm—skip home exercise tests and get cardiopulmonary vet care.*
+
+1. **KEEP CALM & SKIP EXERCISE CHALLENGES:** Never jog or provoke a coughing dog to record a video for the vet—exertion against obstructed lung vessels can trigger syncope or sudden collapse. Go straight to an ER vet for dyspnea, collapse, or blue gums.
+2. **SHARE FUNCTIONAL CHANGES & BRUISING:** Report concrete stamina drops (two miles last month vs half a block today), fainting spells, and any minor bruising or gum bleeding—especially prior to routine dental or surgical procedures.
+3. **BRING EXACT PREVENTATIVE BOXES & DATES:** Skip vague 'he is wormed' summaries; hand clinicians exact product names, doses, dates, travel/import history, and prior heart records so they know whether A. vasorum was ever covered.
+4. **ASK FOR REGIONAL COVERAGE—NEVER SNAIL BAIT:** Work with your vet on a licensed regional preventative matching local slug/fox epidemiology, keep records across caregivers, and never poison your yard with toxic chemical snail bait.
+
+### Autopsy & Clinical Proof Ledger
+
+| Field | Verified Record |
+| --- | --- |
+| **Primary Case** | Taulescu MA et al. (2023), Front Vet Sci (PMID 37275619 · PMC10232773) · Case 1: 10-yr intact male Yorkshire terrier, Bucharest, Romania (lakeside edge, no deworming past yr—opportunity, not witnessed snail ingestion); preexisting mitral valve disease & pulmonary hypertension |
+| **Labs & Coagulation** | Cough, dyspnea, exercise intolerance, cyanosis; WBC 18.57 × 10³/µL (ref 5.05–16.76), Plt 747 × 10³/µL (ref 148–484), Hct 43% (ref 37.3–61.7%); PT prolonged 24.4 s (ref 14–20), aPTT normal 120.1 s (ref 94–123), D-dimer normal 0.27 µg/mL (ref 0.23–0.65) → bleeding alert, NOT standalone proof of DIC |
+| **Echo & Bernoulli Math** | Right-heart enlargement; tricuspid regurgitant jet 4.86 m/s → 4 × (4.86)² = 4 × 23.6196 = 94.4784 ≈ 94.5 mmHg estimated gradient (Reinero et al. 2020 ACVIM, PMC7097566: angle-sensitive estimate, NOT direct catheter pressure); parallel echogenic/hypoechoic tubular image in right pulmonary artery |
+| **Parasitology & Outcome** | Negative D. immitis antigen & blood PCR; Baermann funnel recovered 9 A. vasorum larvae confirmed by PCR (Ct 22.76; species proof, NOT calibrated total worm count); 4-wk phone check subjectively better (NOT cure); died 6 mo later in severe respiratory distress (NO autopsy) |
+| **Necropsy Trio (Cases 2–4)** | 8-yr Caucasian shepherd, 1.5-yr poodle, 5-mo mixed puppy: dark-red liver-like lung consolidation & hemorrhage; adult A. vasorum in pulmonary arteries (Cases 2 & 4) + dual D. immitis in right ventricle (Case 2); Case 3 lacked reported PCR/gross artery exam (selected deaths ≠ population mortality) |
+| **Serial Recovery (2004)** | Brennan SF et al. (2004), Ir Vet J (PMID 21851655 · PMC3113816) · Case 3 (23-mo Jack Russell): cough, syncope, HR 192 bpm, RR 88/min; serial echoes proved right-heart shrinkage after treatment, though syncope lagged initially & 1 negative Baermann never guarantees lifelong clearance |
+
+### Primary Sources & Companion Links
+
+- **Primary Paper:** [Taulescu MA et al. (2023) — Is the Angiostrongylus vasorum infection in domestic dogs underestimated or misdiagnosed? A comprehensive presentation of four lethal cases (Front Vet Sci · PMID 37275619 · PMC10232773)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10232773/)
+- **Comparative Case Series:** [Brennan SF, McCarthy G, McAllister H, Bassett H & Jones BR (2004) — Clinical signs, diagnosis and treatment of three dogs with angiostrongylosis in Ireland (Ir Vet J · PMID 21851655 · PMC3113816)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3113816/)
+- **Consensus Guidelines:** [Reinero C et al. (2020) — ACVIM consensus statement guidelines for the diagnosis, classification, treatment, and monitoring of pulmonary hypertension in dogs (J Vet Intern Med · PMID 32065428 · PMC7097566)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7097566/)
+- **Podcast Transcript:** [Ep 2760 Verbatim Transcript in Google Drive (7,107 words)](https://drive.google.com/file/d/1VjGSeyRxwgsjm5PjmooaZ2jDhGxHE_p6/view)
+- **Companion Audio:** [Ep 2760 Audio Stream — The Worm in the Lung’s Blood Supply (43:26)](https://drive.google.com/file/d/1FzoFAX0FR_bFqfb9aW-Y8Ya4Erdhxy6P/view)
+- **Companion Audio (Google Drive):** [Stream Ep 2760 Audio](https://drive.google.com/file/d/1FzoFAX0FR_bFqfb9aW-Y8Ya4Erdhxy6P/view)
+- **Direct 256 kbps .m4a Audio:** [Download / Stream .m4a](https://github.com/yorekms/deep-dive-podcasts/releases/download/v2026.11-characters-and-beyond/Ep2760_PREV_1076_The_Worm_in_the_Lung_s_Blood_Supply.m4a)

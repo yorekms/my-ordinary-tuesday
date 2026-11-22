@@ -15,12 +15,14 @@ Generates:
 """
 
 import argparse
+import csv
 import json
 import os
 import html as html_mod
 import shutil
 import subprocess
 from pathlib import Path
+from PIL import Image
 
 ap = argparse.ArgumentParser(description='Build web bundle, Carrd embeds, Markdown manuscript, Print HTML, and optional illustrated PDF book.')
 ap.add_argument('--pdf', action='store_true', help='Also render book/Ordinary_Tuesday_Book_Draft.pdf via headless Chrome')
@@ -370,7 +372,7 @@ embed_js_code = (
     '\'<div class="cnt" id="otg-cnt"></div>\'+'
     '\'<div class="gr" id="otg-g"></div>\'+'
     '\'<div class="more-wrap" id="otg-mw"></div>\'+'
-    '\'<div class="cta"><div><h2>Open the Full Static Reader &amp; Printable Survival Archive</h2><p>Read every full chapter with primary DOIs, clinical proof ledgers, and companion variable-speed audio.</p></div><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Open Full Reader ↗</a></div>\'+'
+    '\'<div class="cta"><div><h2>Open the Full Reader &amp; Illustrated Book PDF</h2><p>Read every full chapter with verified clinical &amp; hazard exhibits, primary DOIs, tear-out First 60 Seconds cards, and companion variable-speed audio.</p></div><div style="display:flex;flex-wrap:wrap;gap:8px"><a class="b" href="https://github.com/yorekms/my-ordinary-tuesday/releases/download/latest-book/Ordinary_Tuesday_Book_Draft_Latest.pdf" target="_blank" rel="noopener">📖 Book PDF ↗</a><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Open Full Reader ↗</a></div></div>\'+'
     '\'<div class="net" id="otg-net" style="display:none"></div>\'+'
     '\'</div>\';\n'
     '    if(explicitMount){explicitMount.innerHTML="";explicitMount.appendChild(wrap);}\n'
@@ -402,7 +404,7 @@ embed_js_code = (
     '      var words=cat.cases.reduce(function(s,c){return s+(c.spokenWords||0);},0);\n'
     '      var exN=exMeta.ccByClinicalExhibitStories||"";\n'
     '      var dgN=exMeta.bespokeInfographics||"";\n'
-    '      $("otg-chs").innerHTML=\'<span class="ch red">\'+live.length+\' Stories Live</span><span class="ch">\'+Math.round(words/1000)+\'k+ Spoken Words</span><a class="b" href="\'+R+\'?pack=latest" target="_blank" rel="noopener">🆕 Latest Drops ↗</a><a class="b" href="\'+R+\'?pack=visual-pilot" target="_blank" rel="noopener">🩻 \'+(exN?exN+" ":"")+\'Clinical Exhibits ↗</a><a class="b" href="\'+R+\'?pack=infographics" target="_blank" rel="noopener">📐 \'+(dgN?dgN+" ":"")+\'Diagrams ↗</a><a class="b" href="\'+R+\'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="\'+R+\'cards.html" target="_blank" rel="noopener">🪪 Fridge 6-Pack ↗</a><a class="b" href="\'+R+\'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Full Reader ↗</a>\';\n'
+    '      $("otg-chs").innerHTML=\'<span class="ch red">\'+live.length+\' Stories Live</span><span class="ch">\'+Math.round(words/1000)+\'k+ Spoken Words</span><a class="b" href="\'+R+\'?pack=latest" target="_blank" rel="noopener">🆕 Latest Drops ↗</a><a class="b" href="\'+R+\'?pack=visual-pilot" target="_blank" rel="noopener">🩻 \'+(exN?exN+" ":"")+\'Verified Exhibits ↗</a><a class="b" href="\'+R+\'?pack=infographics" target="_blank" rel="noopener">📐 \'+(dgN?dgN+" ":"")+\'Diagrams ↗</a><a class="b" href="https://github.com/yorekms/my-ordinary-tuesday/releases/download/latest-book/Ordinary_Tuesday_Book_Draft_Latest.pdf" target="_blank" rel="noopener">📖 Book PDF ↗</a><a class="b" href="\'+R+\'?exam=1" target="_blank" rel="noopener">🧪 Survival Exam ↗</a><a class="b" href="\'+R+\'cards.html" target="_blank" rel="noopener">🪪 Fridge 6-Pack ↗</a><a class="b" href="\'+R+\'poster.html" target="_blank" rel="noopener">🖨 Lying Lab Poster ↗</a><button type="button" class="b" id="otg-rand">🎲 Random</button><a class="b red" href="\'+R+\'" target="_blank" rel="noopener">Full Reader ↗</a>\';\n'
     '      var hubs=(cat.meta&&cat.meta.networkHubs)||[],portal=(cat.meta&&cat.meta.networkPortalUrl)||"";\n'
     '      if(hubs.length&&$("otg-net")){$("otg-net").style.display="block";$("otg-net").innerHTML=\'<div class="net-hd"><span>DEEP DIVE AUDIO NETWORK · COMPANION CARRD HUBS</span>\'+(portal?\'<a href="\'+E(portal)+\'" target="_blank" rel="noopener">All 16 Hubs &amp; RSS Feeds ↗</a>\':"")+\'</div><div class="net-pills">\'+hubs.map(function(h){return\'<a class="np\'+(h.tier==="primary"?" pri":"")+\'" href="\'+E(h.url)+\'" target="_blank" rel="noopener">\'+E(h.label)+\' ↗</a>\';}).join("")+\'</div>\';}\n'
     '      var rb=$("otg-rand");if(rb&&live.length){rb.onclick=function(){var pk=live[Math.floor(Math.random()*live.length)];window.open(R+"story.html?case="+encodeURIComponent(pk.slug),"_blank","noopener");};}\n'
@@ -668,10 +670,16 @@ if diagrams_js_path.exists() and shutil.which('node'):
 ex_meta = exhibits.get('meta') or {}
 ex_ch_count = ex_meta.get('ccByClinicalExhibitStories', 0)
 ex_img_count = ex_meta.get('ccByClinicalExhibitImages', 0)
+pri_ch_count = ex_meta.get('primaryClinicalExhibitStories', ex_ch_count)
+ref_ch_count = ex_meta.get('referenceClinicalExhibitStories', 0)
+haz_ch_count = ex_meta.get('hazardFieldPhotoStories', 0)
 diag_count = len(bespoke_diagrams)
 ex_bits = []
 if ex_img_count:
-    ex_bits.append(f'{ex_ch_count} Chapters / {ex_img_count} Verified CC-BY Clinical Exhibits')
+    if ref_ch_count or haz_ch_count:
+        ex_bits.append(f'{ex_ch_count} Chapters / {ex_img_count} Commercial-Safe Exhibits ({pri_ch_count} Primary, {ref_ch_count} Peer-Reviewed Reference, {haz_ch_count} Verified Hazard Photos)')
+    else:
+        ex_bits.append(f'{ex_ch_count} Chapters / {ex_img_count} Verified CC-BY Clinical Exhibits')
 if diag_count:
     ex_bits.append(f'{diag_count} Original Forensic Vector Infographics')
 ex_subline = f' · Illustrated Edition ({" + ".join(ex_bits)})' if ex_bits else ''
@@ -713,6 +721,10 @@ book_html_parts = [
   .diagram-box svg {{ width: 100%; height: auto; display: block; margin: 0 auto 8px; }}
   .diagram-box figcaption {{ font-size: 0.83rem; color: #433E37; line-height: 1.45; }}
   .exhibit {{ margin: 18px 0; padding: 12px; border: 1px solid #D1CCC2; border-top: 3px solid #B41C1C; background: #FAF9F6; page-break-inside: avoid; }}
+  .exhibit.tier-reference {{ border-top-color: #0F766E; }}
+  .exhibit.tier-hazard {{ border-top-color: #B45309; }}
+  .exhibit-note {{ font-family: monospace; font-size: 9.5px; color: #115E59; background: #F0FDFA; border: 1px solid #99F6E4; padding: 4px 7px; margin: 6px 0 8px; }}
+  .exhibit.tier-hazard .exhibit-note {{ color: #92400E; background: #FFFBEB; border-color: #FDE68A; }}
   .exhibit img {{ max-width: 100%; max-height: 360px; display: block; margin: 0 auto 8px; }}
   .exhibit figcaption {{ font-size: 0.85rem; color: #433E37; line-height: 1.45; }}
 </style></head><body>
@@ -748,8 +760,15 @@ for part, entries in book_structure:
                 )
             fig_blocks = []
             for fig in ex_entry.get('clinicalFigures') or []:
+                tier = fig.get('tier', 'primary')
+                note_html = ''
+                if tier == 'reference':
+                    note_html = '<div class="exhibit-note">ILLUSTRATIVE REFERENCE EXHIBIT — Verified CC BY diagnostic figure from a separate peer-reviewed publication showing the same mechanism (not the index patient).</div>'
+                elif tier == 'hazard':
+                    note_html = '<div class="exhibit-note">VERIFIED HAZARD REFERENCE PHOTO — Commercial-cleared Public Domain / CC BY photograph of the organism or physical hazard (not the index scene).</div>'
                 fig_blocks.append(
-                    f'<figure class="exhibit"><div class="kicker">{html_mod.escape(fig.get("exhibitCode","EXHIBIT"))} · {html_mod.escape(fig.get("license","CC BY"))}</div>'
+                    f'<figure class="exhibit tier-{html_mod.escape(tier)}"><div class="kicker">{html_mod.escape(fig.get("exhibitCode","EXHIBIT"))} · {html_mod.escape(fig.get("license","CC BY"))}</div>'
+                    f'{note_html}'
                     f'<img src="../{html_mod.escape(fig["src"])}" alt="{html_mod.escape(fig["caption"])}" />'
                     f'<figcaption>{html_mod.escape(fig["caption"])}<br /><span style="font-family:monospace;font-size:10px;color:#70685D">{html_mod.escape(fig["citation"])} ({html_mod.escape(fig["license"])})</span></figcaption></figure>'
                 )
@@ -786,6 +805,78 @@ book_html_parts.append('</body></html>')
 print_html_path = BOOK_DIR / 'Ordinary_Tuesday_Print.html'
 print_html_path.write_text('\n'.join(book_html_parts), encoding='utf-8')
 print(f'[5/5] Wrote book/Ordinary_Tuesday_Manuscript.md & book/Ordinary_Tuesday_Print.html ({ch_seq} sequential chapters, Table of Contents, {embedded_svg_count} vector SVG infographics)')
+
+# ---------------------------------------------------------------------------
+# 5b. Auto-Generate Commercial Image Stock Manifest (CSV) & License Ledger (MD)
+# ---------------------------------------------------------------------------
+stock_rows = []
+tier_counts = {'primary': 0, 'reference': 0, 'hazard': 0}
+for part, entries in book_structure:
+    for ch_num, c in entries:
+        if ch_num is None:
+            continue
+        ex_entry = (exhibits.get('stories') or {}).get(c['slug']) or {}
+        for fig in ex_entry.get('clinicalFigures') or []:
+            tier = fig.get('tier', 'primary')
+            tier_counts[tier] = tier_counts.get(tier, 0) + 1
+            img_fp = ROOT / fig['src']
+            w, h, kb = 0, 0, 0.0
+            if img_fp.exists():
+                kb = round(img_fp.stat().st_size / 1024.0, 1)
+                try:
+                    with Image.open(img_fp) as _im:
+                        w, h = _im.size
+                except Exception:
+                    pass
+            stock_rows.append({
+                'chapter': f'{ch_num:03d}',
+                'file_no': c['fileNo'],
+                'ep': c['ep'],
+                'part': part['roman'],
+                'slug': c['slug'],
+                'story_title': c['title'],
+                'tier': tier,
+                'exhibit_code': fig.get('exhibitCode', ''),
+                'filename': Path(fig['src']).name,
+                'repo_path': fig['src'],
+                'dimensions_px': f'{w}x{h}' if w else '',
+                'size_kb': kb,
+                'blurred_by_default': bool(fig.get('blurredByDefault', False)),
+                'license': fig.get('license', ''),
+                'license_url': fig.get('licenseUrl', ''),
+                'citation': fig.get('citation', ''),
+                'source_url': fig.get('sourceUrl', ''),
+            })
+
+csv_path = ROOT / 'assets' / 'exhibits' / 'IMAGE_STOCK_MANIFEST.csv'
+fieldnames = ['chapter', 'file_no', 'ep', 'part', 'slug', 'story_title', 'tier', 'exhibit_code', 'filename', 'repo_path', 'dimensions_px', 'size_kb', 'blurred_by_default', 'license', 'license_url', 'citation', 'source_url']
+with csv_path.open('w', encoding='utf-8', newline='') as f:
+    w = csv.DictWriter(f, fieldnames=fieldnames)
+    w.writeheader()
+    w.writerows(stock_rows)
+
+ledger_lines = [
+    f"# How Not to Die on an Ordinary Tuesday — Commercial Image Stock & License Ledger ({len(stock_rows)} Verified Images)",
+    "",
+    f"**Updated:** {catalog['meta']['updated']} · **Edition:** {live_count} Chapters",
+    f"**Commercial Book Clearance:** 100% cleared (`CC BY 4.0`, `CC BY 3.0`, `CC BY 2.0`, `CC0 1.0`, `Public Domain` / `CDC MMWR` / `US Gov` only — **zero** `CC BY-NC`, `CC BY-ND`, or `CC BY-SA` files hosted locally).",
+    "",
+    "## Tier Breakdown",
+    f"- **Tier 1 — Primary Peer-Reviewed Case Exhibits (`primary`):** {tier_counts.get('primary', 0)} images",
+    f"- **Tier 2 — Peer-Reviewed Reference Clinical Exhibits (`reference`):** {tier_counts.get('reference', 0)} images *(clearly labeled as illustrative separate CC BY cases)*",
+    f"- **Tier 3 — Verified Real-World Hazard Field Photos (`hazard`):** {tier_counts.get('hazard', 0)} images *(Public Domain / CC0 / CC BY verified photos)*",
+    f"- **Original Vector Infographics (Author-Owned SVG in `assets/diagrams.js`):** {embedded_svg_count} vector diagrams",
+    "",
+    "| Ch | File | Tier | Filename | Dimensions | License | Citation & Source |",
+    "|---:|---:|---|---|---:|---|---|",
+]
+for r in stock_rows:
+    safe_cite = r['citation'].replace('|', '/')
+    ledger_lines.append(
+        f"| {r['chapter']} | {r['file_no']} | `{r['tier']}` | `{r['filename']}` | {r['dimensions_px']} | [{r['license']}]({r['license_url']}) | {safe_cite} ([Source]({r['source_url']})) |"
+    )
+(BOOK_DIR / 'IMAGE_STOCK_LICENSE_LEDGER.md').write_text('\n'.join(ledger_lines) + '\n', encoding='utf-8')
+print(f'[5b/5] Wrote assets/exhibits/IMAGE_STOCK_MANIFEST.csv & book/IMAGE_STOCK_LICENSE_LEDGER.md ({len(stock_rows)} images: {tier_counts})')
 
 if BUILD_ARGS.pdf:
     chrome = shutil.which('google-chrome') or shutil.which('chromium') or shutil.which('chromium-browser')

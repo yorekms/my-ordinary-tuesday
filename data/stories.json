@@ -25616,5 +25616,785 @@
       "water-around-and-within-axolotl",
       "blockage-in-the-less-likely-cat"
     ]
+  },
+  "spleen-after-the-ascent-altitude": {
+    "slug": "spleen-after-the-ascent-altitude",
+    "fileNo": "203",
+    "partId": "outdoors",
+    "partLabel": "Part IV · The Gym, Trail & Vacation",
+    "title": "Zero Clots on CT, 13.8 Hemoglobin—and a Dying Spleen at Sea Level",
+    "deck": "Why an unblocked main artery never clears a microscopic bottleneck, what a 40% HbS fraction actually measures, and why driving down the mountain never reverses dead tissue.",
+    "byline": "Compiled from Ep 2755 (PREV_1071) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "High-altitude splenic infarction associated with previously undiagnosed sickle cell trait",
+      "mechanism": "Deoxygenation in thin mountain air prompting beta-globin HbS polymerization into rigid cellular rods that jam microscopic splenic sinusoids without obstructing the main splenic artery",
+      "manner": "Survivor Case (Environmental Stress / Occult Hematologic Trait)",
+      "avoidability": "Uncertain (altitude-aware clinical planning & prompt evaluation reduce risk; no universal guarantee)",
+      "falseReassurance": "“I’m back at sea level, my hemoglobin is normal at 13.8, the clotting panel is negative, and the CT didn’t spot a single blood clot in the main artery.”"
+    },
+    "looksLike": "A mysterious sea-level stomachache with 13.8 hemoglobin, negative clotting panels, and no main-artery plug",
+    "actuallyIs": "High-altitude splenic infarction triggered by previously unknown sickle cell trait (40% HbS)",
+    "sections": [
+      {
+        "heading": "A Dried-Up Garden With the Main Valve Wide Open",
+        "paragraphs": [
+          "We like to treat human health as a permanent badge stamped at birth, right up until physics runs an unannounced stress test. Think of a laptop that purrs through emails for years and freezes the instant you render 3D video—not because the file broke it, but because heavy load finally woke a motherboard bug. In 2020, Luis Gonzalez and colleagues in Cureus documented Case 2, a previously healthy 20-year-old Hispanic man living in sea-level Guayaquil, Ecuador, with zero medical history and no daily medications. After traveling to a city at 10,341 feet and returning home to thick coastal air, he walked into a hospital with upper-left abdominal pain and jaundiced skin and eyes.",
+          "Exam found upper-left tenderness and an enlarged spleen. Ultrasound shrugged with vague heterogeneous echoes, so clinicians escalated to an axial contrast-enhanced CT. Iodine contrast lights up perfused tissue; here, discrete zones of his enlarged spleen stayed ominously dark—compatible with a splenic infarct, meaning living tissue starved to death. Yet the CT showed zero obstructing clot in the main splenic artery. Missing context compounded the riddle: the paper reported no oxygen saturation, no hydration status, and no duration of how many hours or days he spent at 10,341 feet.",
+          "Blood work piled on false tidiness. Systemic hemoglobin sat at a reassuring 13.8 grams per deciliter with a 38% hematocrit and normal platelets at 157 billion per liter (157 × 10⁹/L)—proving arm-vein averages cannot guarantee oxygen inside microscopic splenic capillaries. White blood cells rose to 13.3 billion per liter from tissue stress, while total bilirubin reached 4.30 milligrams per deciliter with 3.49 milligrams per deciliter indirect, pointing to accelerated red-cell breakdown without naming why. A clotting workup—protein C, protein S, antithrombin III, Factor V Leiden, and D-dimer—was reported simply as negative without printed numbers or assay methods, ruling out a tidy plasma-clot culprit without proving every thrombosis mechanism impossible."
+        ]
+      },
+      {
+        "heading": "Forty Percent Pantry Inventory, Zero Observed Clots",
+        "paragraphs": [
+          "When the main water valve stands open yet the lawn turns brown, inspect the water hitting the sprinkler heads. Hemoglobin electrophoresis sorted his red-cell proteins by charge: 55% HbA, 40% HbS, 3.2% HbA2, and 1.8% fetal HbF—summing cleanly to 100% and diagnosing sickle cell trait (SCT). That label is genetically distinct from sickle cell disease; trait carriers inherit one variant gene and cannot turn into sickle cell disease. Swapping one amino acid on beta-globin—glutamic acid to valine—leaves a sticky patch exposed once oxygen unloads in thin mountain air, letting deoxygenated HbS link into rigid rods like engine oil thickening to sludge on a freezing pass. Stiff cells jam the spleen’s tortuous sinusoids and kill tissue silently.",
+          "Still, scientific hygiene demands strict fences around every number. A 40% HbS fraction is strictly a pantry inventory of proteins in that tube—not 40% sickled cells, not infarcted spleen volume, not DNA sequencing, and not a future-risk score. Because clinicians performed no splenic biopsy and measured no splenic-artery oxygen, linking altitude to infarction was a logical synthesis rather than live video; he received supportive care and went home with no long-term follow-up imaging reported. Separate Case 1—a 25-year-old man who achieved full symptom resolution—actually published an arithmetic impossibility on electrophoresis (57.5% HbA, 39% HbS, 3.5% HbA2, and 1.9% HbF, totaling 101.9%), preserved verbatim without contaminating Case 2’s clean math. Nor can two patients validate the paper’s speculative discussion claims about sex ratios or permanent-resident immunity.",
+          "For physical proof of the microscopic logjam, turn to Jeremy Goodman and colleagues’ 2014 High Altitude Medicine & Biology referral series of 25 splenic infarctions collected over 20 years in Colorado (10 prospective cases verified by chromatography and electrospray mass spectrometry; 15 retrospective; 16 solubility tests, 17 electrophoresis, 11 both, and 1 self-reported without lab proof). All 25 presented with upper-left pain, and 5 underwent splenectomy for rupture, bleeding, or unrecorded indications—yielding removed organs whose histology physically proved hemorrhage, infarction, and widespread sinusoidal sickling with zero major-vessel clots. Yet denominator neglect waits for sloppy readers: 16 of 25 (64%) were previously unaware of their trait (9 of 25, or 36%, knew), and all 25 were male. Those fractions describe who reached two Colorado specialists—not global unawareness, not ski-trip probability, and certainly not biological immunity for women."
+        ]
+      },
+      {
+        "heading": "Why Driving Down the Mountain Cannot Unkill Tissue",
+        "paragraphs": [
+          "Altitude does not negotiate retroactively. Descending to sea level pops your ears; it does not resurrect necrotic spleen tissue, which is why symptoms can roar loudest after unpacking at home. CDC spleen-and-trait guidance flags persistent upper-left abdominal pain, referred left-shoulder pain from diaphragmatic irritation, breath-linked chest pain, severe nausea, or fever after elevation shifts as immediate clinical alarms—whether or not you have ever been tested. If severe pain hits while still up high and stable, request professional advice and assisted transport to lower elevation; there is no DIY tent waiting rule or home oxygen recipe. Never wait for a hemoglobin test before seeking emergency care for severe pain, fainting, weakness, or breathlessness, and hand clinicians your exact altitude timeline and prior records.",
+          "Long-term, knowledge replaces panic with planning. The CDC Yellow Book tags sickle cell trait as caution required—far short of a travel ban, and utterly distinct from pressurized commercial flights (~6,000–8,000-foot cabin equivalent), which carry no blanket SCT ban. Both CDC and the American Society of Hematology emphasize hydration (keeping intracellular HbS less concentrated), paced exertion, rest, and an individualized medical plan—without pretending a magic liter count or altitude ceiling fits every body, and without ancestry stereotyping or discriminatory exclusion."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · SEA LEVEL IS NOT AN ERASER",
+        "heading": "When Post-Mountain Pain Demands Immediate Evaluation",
+        "bullets": [
+          "Seek urgent medical assessment for persistent upper-left abdominal pain, referred left-shoulder pain, breath-linked chest pain, severe nausea, or fever after high-altitude travel—even days later at sea level and even with zero known trait history.",
+          "Never assume returning to thicker coastal air reversed an injury; if severe symptoms strike while still at altitude, seek professional advice and assisted descent rather than resting it out in a tent.",
+          "Give ER clinicians your exact elevation reached, symptom chronology (at altitude versus after descent), and any electrophoresis or scan records—without ever delaying emergency care to confirm trait status first.",
+          "Before high-altitude mountain trips with known SCT, consult an altitude-familiar physician for an individualized hydration, pacing, and emergency-access plan—never rely on family lore or blanket bans."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Case",
+        "value": "Gonzalez L et al. (2020), Cureus (PMID 32821639 · PMC7431312) · Case 2: previously healthy 20-year-old Hispanic male in sea-level Guayaquil, Ecuador, after travel to 10,341 ft (SpO₂, altitude duration & hydration unreported)"
+      },
+      {
+        "label": "Imaging & Labs",
+        "value": "Splenomegaly & ULQ tenderness; ultrasound heterogeneous; contrast CT: non-enhancing splenic infarct zones with NO main splenic artery clot; Hb 13.8 g/dL, Hct 38%, WBC 13.3 × 10⁹/L, Plt 157 × 10⁹/L, total/indirect bilirubin 4.30 / 3.49 mg/dL; negative clotting panel (Protein C/S, AT-III, Factor V Leiden, D-dimer—no values/methods printed)"
+      },
+      {
+        "label": "Electrophoresis & Boundary",
+        "value": "Case 2: HbA 55% + HbS 40% + HbA2 3.2% + HbF 1.8% = 100% (SCT; protein fraction ≠ sickled-cell %, infarct size, DNA genotype, or future risk); no splenic biopsy; discharged after supportive care without long-term imaging"
+      },
+      {
+        "label": "Source Discrepancy (Case 1)",
+        "value": "Separate Case 1 (25-year-old male, complete symptom resolution) reported HbA 57.5% + HbS 39% + HbA2 3.5% + HbF 1.9% = 101.9%—preserved verbatim as an unresolved primary arithmetic anomaly"
+      },
+      {
+        "label": "Colorado Series (2014)",
+        "value": "Goodman J, Hassell K, Irwin D, Witkowski EH & Nuss R (2014), High Alt Med Biol (PMID 25361178 · PMC4273194): 25 referred splenic infarcts (1986–2006; 10 prospective with chromatography/ESI-MS, 15 retrospective); 16/25 (64%) unaware of SCT (9/25 = 36% aware); 25/25 male (referral selection, NOT female immunity or global risk)"
+      },
+      {
+        "label": "Pathology Proof",
+        "value": "5/25 Colorado patients underwent splenectomy; excised spleens confirmed hemorrhage, infarction, and widespread sinusoidal sickling with ZERO overt major-vessel intravascular thrombosis"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · LEFT-SIDE PAIN AFTER HIGH ALTITUDE",
+      "subhead": "Back at sea level does not mean out of danger—handoff the elevation history and let clinicians scan.",
+      "steps": [
+        {
+          "action": "DO NOT WAIT FOR SEA-LEVEL AIR TO FIX IT",
+          "detail": "Descending from altitude cannot resurrect infarcted splenic tissue. Persistent upper-left abdominal pain, left-shoulder pain, fever, severe nausea, or breath-linked chest pain require prompt medical assessment."
+        },
+        {
+          "action": "CALL EMERGENCY CARE FOR SEVERE DISTRESS",
+          "detail": "Worsening severe pain, fainting, marked weakness, or trouble breathing warrant urgent emergency help immediately—never wait for a hemoglobin electrophoresis result first."
+        },
+        {
+          "action": "USE ASSISTED DESCENT IF STILL UP HIGH",
+          "detail": "If symptoms strike at elevation while stable, seek professional medical advice and assisted transport to lower altitude rather than attempting solo descent, DIY oxygen dosing, or a tent wait-out."
+        },
+        {
+          "action": "LEAD WITH ALTITUDE & LAB RECORDS",
+          "detail": "Tell triage the exact altitude visited, when pain started relative to descent, and any known sickle cell trait status—keeping electrophoresis reports and discharge imaging together for future clinicians."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Gonzalez L et al. (2020) — Splenic Infarct Secondary to High Altitude Exposure in Sickle Cell Trait Patients: A Case Series (Cureus · PMID 32821639 · PMC7431312)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7431312/"
+      },
+      {
+        "type": "Cohort Study",
+        "label": "Goodman J, Hassell K, Irwin D, Witkowski EH & Nuss R (2014) — The splenic syndrome in individuals with sickle cell trait (High Alt Med Biol · PMID 25361178 · PMC4273194)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4273194/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2755 Verbatim Transcript in Google Drive (9,386 words)",
+        "url": "https://drive.google.com/file/d/1A3OOZf6ugLr5siU4JYsOiQ1z5K1feBVv/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2755 Audio Stream — The Spleen After the Ascent (54:58)",
+        "url": "https://drive.google.com/file/d/1lFnYIfSg3S5nPptKcbqVYKdjmcULfrL7/view"
+      }
+    ],
+    "relatedSlugs": [
+      "shoulder-pain-spleen-and-stomach",
+      "pressure-after-the-shift-decompression",
+      "family-behind-the-enzyme-g6pd"
+    ]
+  },
+  "antibody-and-the-scar-kidney": {
+    "slug": "antibody-and-the-scar-kidney",
+    "fileNo": "204",
+    "partId": "hospital",
+    "partLabel": "Part V · “The First Test Looked Normal”",
+    "title": "Clear Lungs, 333 Antibodies—and 20 Ruined Filters Out of 21",
+    "deck": "Why Occam’s razor flunks dual pathology, why clear lungs never rule out Goodpasture’s autoimmune cousin, and why a 2001 cohort’s 87-point kidney gap wasn’t a drug trial.",
+    "byline": "Compiled from Ep 2756 (PREV_1072) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Renal-limited anti-glomerular basement membrane (anti-GBM) rapidly progressive glomerulonephritis occurring concurrently with bleeding Forrest IIc and III duodenal ulcers",
+      "mechanism": "Autoantibodies binding linearly to glomerular type IV collagen triggering crescentic necrosis and severe interstitial fibrosis, causing uremic acidosis and lethal hyperkalemia while separate upper-GI ulceration compounded profound anemia",
+      "manner": "Survivor Case (Autoimmune Renal Failure & Concurrent GI Hemorrhage)",
+      "avoidability": "Uncertain (rapid evaluation of acute decline & individualized fluid/renal care improve safety; autoimmune onset unpreventable)",
+      "falseReassurance": "“She’s 83 with chronic kidney disease already, her lungs sound clear, and there’s no visible blood in her urine—this must just be expected wear and tear.”"
+    },
+    "looksLike": "Expected chronic kidney drift in an 83-year-old with clear lungs and zero visible blood in the urine",
+    "actuallyIs": "Renal-limited anti-GBM glomerulonephritis (333 U/mL; 20/21 damaged glomeruli) alongside bleeding duodenal ulcers",
+    "sections": [
+      {
+        "heading": "Two Crises Sharing One ER Bed",
+        "paragraphs": [
+          "Broken bones spoil us for internal medicine: an X-ray prints one crisp white crack, everybody nods, and reality behaves itself. Severe autoimmune nephrology offers no such courtesy. In December 2024, Catarina Maia and colleagues in Cureus reported an 83-year-old woman with hypertension and chronic kidney disease whose routine blood creatinine eight months earlier sat comfortably at 1.00 to 1.15 milligrams per deciliter—leaving an eight-month blind spot, yet proving her filters were working nicely not long ago. Then came a month of weakness, lost appetite, weight loss, swollen legs, and foot-and-calf cramps, followed by a three-day cliff: urine output nearly stopped, and her stools turned black and tarry.",
+          "Her admission chemistry read like a control-room meltdown. Creatinine had rocketed to 24.8 milligrams per deciliter (reference 0.5–0.9). Potassium hit 8.7 milliequivalents per liter against a razor-thin 3.5–5.3 ceiling—high enough to turn cardiac electricity into sudden arrest from minute to minute. Arterial pH dropped to 7.13 (normal 7.35–7.45), acidifying blood until cellular enzymes struggle like raw fish in lime juice, and hemoglobin plunged to 6.6 grams per deciliter (normal 12–16).",
+          "Occam’s razor whispered a tidy trap: failed kidneys stop making erythropoietin, so blame the anemia on renal failure and call it a day. Instead, clinicians respected the black tarry stools (melena) and performed upper endoscopy—uncovering duodenal ulcers graded Forrest IIc (dark hematin spot of recent hemorrhage) and Forrest III (clean-based). Nobody could mathematically split how much of that 6.6 hemoglobin came from bleeding gut ulcers versus stalled marrow, and the ulcers were never proven caused by her autoimmune disease. Two separate threats shared one patient, demanding GI ulcer care, red-cell transfusions, and urgent hemodialysis—washing potassium and acid across counter-current hollow fibers—long before autoimmune serology returned."
+        ]
+      },
+      {
+        "heading": "Smoke in the Room, Holes in the Mesh, and Linear Paint",
+        "paragraphs": [
+          "Dialysis cleared the metabolic smoke without naming the arsonist. Blood creatinine tells you toxic exhaust has filled the factory floor; urine albumin-to-creatinine ratio checks the exhaust pipe for torn filter mesh. Hers stood at 4,124 milligrams per gram against a normal ceiling under 30, with white and red cells present yet zero red-cell casts, zero dysmorphic red cells, no visible blood in her urine, no foam, and completely clear lungs. Textbooks love pairing kidney collapse with coughing up blood as Goodpasture syndrome because both organs share type IV collagen. Yet kidney capillaries are wide-pored filters while healthy lung endothelium stays tightly sealed—meaning anti-GBM antibodies can demolish kidneys while leaving uninjured lungs utterly silent.",
+          "Blood immunology screamed the target: anti-GBM antibodies hit 333 units per milliliter against a normal threshold under 7 (printed U/mL in prose and UI/mL in the table—preserved verbatim). Elevated ANA (1:640) and ENA (SSA, Ro-52) tagged along as noisy autoimmune static rather than automatic lupus or Sjögren diagnoses. Kidney biopsy settled the crime scene: immunofluorescence glowed in a razor-sharp linear IgG stripe painted directly along the basement membrane, unlike the lumpy splatters of circulating immune complexes. Of 21 sampled glomeruli, 4 were dead sclerosed scars, 1 looked preserved, and 16 were being crushed inward by cellular crescents with fibrinoid necrosis—76.2% actively crescentic and 95.2% abnormal, set inside greater than 60% interstitial fibrosis and tubular atrophy.",
+          "Resist turning 20 of 21 into a tidy scar clock claiming precisely 4.8% kidney function left; a needle core samples 21 filters out of roughly a million. Still, architectural devastation was unmistakable—and native urine never returned. Facing advanced fibrosis, dialysis dependence, recent GI bleeding, advanced age, and zero lung hemorrhage, clinicians made a deeply individualized choice (never a blanket disease rule) to withhold toxic cyclophosphamide and plasma exchange, discharging her stable on maintenance dialysis after 20 days (later course unreported). Jeremy Levy and colleagues’ 2001 Annals of Internal Medicine abstract—read strictly as an abstract across 71 UK referral-center patients over 25 years, all treated aggressively—illuminates that boundary: 39 of 71 (54.9%) arrived dialysis-dependent (referral composition, not modern population risk), with 1-year renal survival of 8% versus 95% in the 19 mildest patients (creatinine <500 µmol/L) and patient survival of 65% versus 100%. That 87 percentage-point kidney gap reflects arrival tissue scarring, not randomized drug efficacy—proving that keeping the person alive, suppressing immune fire, and salvaging scarred kidneys are three distinct clinical goals."
+        ]
+      },
+      {
+        "heading": "Why Wellness Hydration Advice Can Drown Failing Kidneys",
+        "paragraphs": [
+          "Patients cannot diagnose anti-GBM at home, nor should families wait for dramatic textbook coughing up blood before seeking care. NHS acute kidney injury and NIDDK anti-GBM guidance converge on prompt assessment for sharply reduced urine output, unexplained swelling, profound weakness, or new black stools—especially refusing to wave away sudden collapse in older CKD patients as expected aging. Bring printed prior kidney numbers (that eight-month-old 1.0 creatinine proved an acute cliff), symptom dates, and every prescription and supplement; accept emergency stabilization before exotic antibody labs return, and never halt prescribed blood-pressure drugs solo.",
+          "Once discharged on dialysis, flip the internet wellness script: generic drink-more-water slogans can literally flood the lungs and heart of an edematous or dialysis-dependent patient, who needs an individualized nephrology fluid plan and a single clear care coordinator. NIDDK also notes avoiding smoking and lung irritants—which crack the pulmonary endothelial barrier and invite antibodies to lung collagen—without inventing any unrecorded trigger for this woman or tearing apart household drywall in DIY panic."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · CLEAR LUNGS NEVER CLEAR FAILING KIDNEYS",
+        "heading": "When Silent Renal Collapse Demands Urgent Care",
+        "bullets": [
+          "Seek immediate medical assessment for a sudden drop in urine output, unexplained leg or facial swelling, profound weakness, or black tarry stools—never wait for visible bloody urine or coughing up blood.",
+          "Never dismiss an acute functional crash in an older adult with chronic kidney disease as expected aging; bring prior baseline creatinine reports so ER teams immediately see the velocity of decline.",
+          "Accept urgent life-saving stabilization such as dialysis or transfusion before specialized antibody panels return, and never stop prescribed blood-pressure medications on your own.",
+          "If edematous or dialysis-dependent, ignore generic 'drink more water' advice—follow an individualized nephrology fluid plan, keep tests in their proper lanes, and avoid smoking or lung irritants."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Case",
+        "value": "Maia C, Rocha J, Cardoso H, Antunes T & Almeida JS (Dec 2024), Cureus (PMID 39867011 · PMC11767534) · 83-year-old woman with hypertension & CKD; baseline creatinine 8 mo prior 1.00–1.15 mg/dL (8-mo interval gap)"
+      },
+      {
+        "label": "Admission Crisis & Dual Pathology",
+        "value": "1-mo weakness/edema/cramps → 3-day oliguria & melena; Cr 24.8 mg/dL (ref 0.5–0.9), K⁺ 8.7 mEq/L (ref 3.5–5.3), arterial pH 7.13 (ref 7.35–7.45), Hb 6.6 g/dL (ref 12–16); endoscopy: Forrest IIc & III duodenal ulcers (anemia split unquantifiable; ulcers not proven anti-GBM-caused)"
+      },
+      {
+        "label": "Urine & Immunology",
+        "value": "Urine ACR 4,124 mg/g (ref <30), increased WBC/RBC without casts or dysmorphic RBCs; ZERO lung symptoms, hemoptysis, visible hematuria, or foamy urine; anti-GBM 333 U/mL (table prints UI/mL; ref <7); bystander ANA 1:640 & ENA (SSA, Ro-52)"
+      },
+      {
+        "label": "Biopsy & Course",
+        "value": "Linear IgG on IF; 21 glomeruli: 16 cellular crescents + fibrinoid necrosis (76.2%), 4 sclerosed, 1 preserved → 20/21 (95.2%) abnormal (sample snapshot, NOT a scar clock); >60% IFTA; individualized withholding of cyclophosphamide/PLEX (NOT a general rule); discharged stable on maintenance dialysis Day 20 (long-term outcome unreported)"
+      },
+      {
+        "label": "Historical Cohort (2001)",
+        "value": "Levy JB, Turner AN, Rees AJ & Pusey CD (2001), Ann Intern Med (PMID 11388816, abstract only): 25-yr single UK referral center, n = 71, ALL treated (PLEX + prednisolone + cyclophosphamide; no untreated control/RCT)"
+      },
+      {
+        "label": "Presentation Strata Gap",
+        "value": "19 Cr <500 µmol/L (1-yr renal survival 95%, patient 100%) vs 13 Cr ≥500 non-dialysis vs 39 dialysis-dependent (39/71 = 54.9% referral share; 1-yr renal survival 8%, patient 65%) → 87 percentage-point renal gap reflects arrival scarring, NOT treatment efficacy"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · LOW URINE, SWELLING OR BLACK STOOLS",
+      "subhead": "Lethal potassium and acid strike hours before antibody labs come back—stabilize the human first.",
+      "steps": [
+        {
+          "action": "GET URGENT EVALUATION WITHOUT WAITING",
+          "detail": "Sharply reduced urine output, unexplained swelling, sudden weakness, or black tarry stools demand prompt emergency assessment—do not wait for textbook bloody urine or lung symptoms."
+        },
+        {
+          "action": "HAND OVER BASELINE LABS & FULL MED LIST",
+          "detail": "Share prior kidney results (even months old), exact symptom dates, every prescription, and every OTC supplement so clinicians spot an acute cliff rather than assuming slow CKD drift."
+        },
+        {
+          "action": "PRIORITIZE STABILIZATION OVER EXOTIC LABELS",
+          "detail": "Let teams run urgent dialysis, transfusions, or endoscopy before autoimmune panels return—never demand an immediate biopsy first or quit blood-pressure medicines unilaterally."
+        },
+        {
+          "action": "DITCH GENERIC HYDRATION ADVICE AFTERWARD",
+          "detail": "If edematous or dialysis-dependent, follow an individualized fluid prescription, clarify one care coordinator, and avoid smoking or lung irritants rather than attempting DIY home detoxes."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Maia C, Rocha J, Cardoso H, Antunes T & Almeida JS (2024) — Rapidly Progressive Glomerulonephritis Associated With Anti-glomerular Basement Membrane Disease: A Rare Diagnosis (Cureus · PMID 39867011 · PMC11767534)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11767534/"
+      },
+      {
+        "type": "Historical Cohort Abstract",
+        "label": "Levy JB, Turner AN, Rees AJ & Pusey CD (2001) — Long-term outcome of anti-glomerular basement membrane antibody disease treated with plasma exchange and immunosuppression (Ann Intern Med · PMID 11388816)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11388816/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2756 Verbatim Transcript in Google Drive (9,699 words)",
+        "url": "https://drive.google.com/file/d/1OoZHN8RhFB4eM9xEPtRSnfH-ocbYiJUc/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2756 Audio Stream — The Antibody and the Scar (56:44)",
+        "url": "https://drive.google.com/file/d/1jsgE8iuOCgGFTlkoSE9hwFcAwe4B0L3w/view"
+      }
+    ],
+    "relatedSlugs": [
+      "vitamin-that-left-crystals-oxalate",
+      "potassium-that-rose-in-the-tube",
+      "antibody-test-stayed-negative-parasite"
+    ]
+  },
+  "hazard-along-winter-shore-dog": {
+    "slug": "hazard-along-winter-shore-dog",
+    "fileNo": "205",
+    "partId": "pets",
+    "partLabel": "Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat",
+    "title": "Crystal-Clear Water, Sub-Zero Freeze—and 974 Nanograms of Benthic Venom",
+    "deck": "How bottom-hugging cyanobacteria inflate themselves like sunken carpets, why caffeine calibrated a Texas neurotoxin test, and why 101 days on Lady Bird Lake is never a safe-return clock.",
+    "byline": "Compiled from Ep 2757 (PREV_1073) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Acute dihydroanatoxin-a (dhATX) neurotoxicosis following shoreline exposure to benthic cyanobacterial mats at Hudson Bend, Lake Travis, Texas",
+      "mechanism": "Persistent agonist binding to nicotinic acetylcholine receptors locking neuromuscular junctions into continuous firing, driving tremors, ataxia, paralysis, and respiratory collapse",
+      "manner": "Veterinary Forensic Case (Environmental Neurotoxicosis; CPR Attempted, Euthanized)",
+      "avoidability": "Uncertain (avoiding shoreline mats/scum/carcasses and checking advisories reduce risk; clear water masks benthic mats)",
+      "falseReassurance": "“It’s February right after a hard freeze, and the lake water is crystal clear with zero green pea soup—algae can’t survive winter.”"
+    },
+    "looksLike": "A sparkling, pea-soup-free winter lake shoreline after eight days of sub-zero temperatures",
+    "actuallyIs": "Detached benthic cyanobacterial mats carrying dihydroanatoxin-a (estimated 974.88 ng/g dry stomach contents)",
+    "sections": [
+      {
+        "heading": "The Sunken Carpet Beneath Crystal-Clear Winter Water",
+        "paragraphs": [
+          "Public safety loves a neon warning sign. Summer planktonic blooms—those warm-weather spills that turn reservoirs into glowing pea soup—practically beg you to leash the dog and turn around. Benthic cyanobacteria prefer ambush. Ancient photosynthetic bacteria rather than true plant-like algae, they weave dense felt carpets along rocky lake floors far out of sight. As they photosynthesize, oxygen bubbles lodge inside their tangled filaments until the carpet inflates its own flotation vest, rips loose into floating metaphyton, and washes quietly onto beaches where dogs sniff and chew—while open water stays postcard-clear.",
+          "In August 2023, Anthea Fredrickson, Aaron Richter, Katherine A. Perri, and Schonna R. Manning documented the first chemically confirmed canine death from dihydroanatoxin-a (dhATX) in Central Texas in Toxins. Case C1 was an approximately three-year-old, 51-pound male Golden Retriever who spent roughly three and a half hours swimming and exploring Hudson Bend on Lake Travis on February 20, 2021—immediately after eight straight days of historic freeze plunging between 3°C and −17°C starting February 11. During his routine post-lake rinse, C1 suddenly developed violent shaking, fasciculations, total loss of coordination, and vomiting. Rushed to a veterinarian within 20 minutes, he received attempted CPR before ultimately being euthanized—an unvarnished clinical outcome that forbids comforting rewrites.",
+          "Community reports also noted five other ill dogs and one unconfirmed canine death around Lake Travis across January and February, including illnesses predating the freeze. That timeline keeps causation honest: the storm may have churned bottom mats loose, but it did not conjure toxic bacteria from ice, and those other dogs lacked chemical tissue confirmation. Even the published paper wears real-world field smudges we preserve verbatim: prose dates the incident February 20 while Figure 4 marks February 21; text dates necropsy February 26 while Table 1 lists the duodenum on February 24; and a typo places a March 2021 community survey in March 2012."
+        ]
+      },
+      {
+        "heading": "Weighing Poison Next to Caffeine in a Dog’s Stomach",
+        "paragraphs": [
+          "At the Texas A&M Veterinary Medical Diagnostic Laboratory, necropsy ruled out insecticides, petroleum products, and botulism while stomach microscopy confirmed green algae, diatoms, and cyanobacteria—species unidentified because gastric acid chewed up diagnostic filaments, reminding us you can never copy-paste a lake-shore species list into a stomach report. Chemistry finished the case. High-performance liquid chromatography coupled to high-resolution mass spectrometry (HPLC-HRMS) caught dhATX within 0.5 parts per million of its theoretical 168.133 atomic mass units. Because no commercial pure dhATX reference standard existed, chemists calibrated against a known caffeine proxy—turning the results into rigorous estimates rather than absolute quantifications.",
+          "Across dehydrated dry-weight specimens—baking out variable water, with n = 2 denoting two analytical replicates of C1 rather than two dogs—labs estimated 974.88 nanograms per gram dry weight in stomach contents, 10.51 in duodenum, and 6.076 in jejunum (with trace anatoxin-a in stomach; saxitoxin, cylindrospermopsin, and microcystins were non-detects strictly in C1’s tested samples, while shoreline mats hit up to 12,047 nanograms per gram). Dry weight cannot convert backward into wet lake-water sips, absorbed bloodstream dose, or safe swimming minutes. Mechanistically, dhATX tapes its finger onto nicotinic acetylcholine receptors, locking muscles into relentless tremors before exhausting respiratory nerves. Imputed principal component analysis linked higher toxin levels with clearer Secchi-disk water, dissolved oxygen, lower dam inflows, and invasive zebra mussels driving benthification—vital ecological correlations, never single-factor proof.",
+          "C1 also closed a two-year forensic loop opened by Schonna R. Manning, Katherine A. Perri, and Brent J. Bellinger’s 2020 Data Brief on 2019 dog mortalities at Austin’s Lady Bird Lake. There, microscopy, ribosomal genetics, and chemistry proved dhATX sat in shoreline mats—showing the gun was loaded without canine necropsy tissue proving the bullet struck home. Those floating mats persisted from August 3 through November 12—101 elapsed days—strictly a persistence window, never a chemical half-life or a Day-102 all-clear. As a One Health sentinel, C1 prompted year-round benthic and planktonic monitoring at Lake Travis, without claiming human illness occurred there or condemning every winter lake."
+        ]
+      },
+      {
+        "heading": "Zero Antidote, Zero Home Emesis, Zero Sample Jars",
+        "paragraphs": [
+          "Because there is no specific chemical antidote for dhATX, speed to veterinary supportive care—seizure control, IV fluids, and ventilation—is the entire game. Following Cornell and CDC guidance, sudden shaking, stumbling, weakness, drooling, vomiting, collapse, seizures, or breathing distress after any shoreline contact demand immediate emergency veterinary transport without waiting for algal lab tests or leaving a sick dog to scoop lake water into a jar. Pull the animal away from water, prevent fur-licking while calling the clinic, and report the exact lake access point, timeline, and whether shoreline material was eaten.",
+          "Panic breeds fatal home remedies: never give human medications, never attempt unguided CPR, and never induce vomiting on your own—neurologically impaired dogs lose airway control and aspirate vomit straight into their lungs. Upstream, check dated local advisories, obey closures, remember clear water and quiet websites never certify safety, keep dogs off shoreline mats, foam, scum, and washed-up dead fish or birds (toxic vectors), and report suspect mats from a safe distance without bagging them into your car."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · CLEAR WATER CAN STILL CARRY NEUROTOXIN",
+        "heading": "When a Shoreline Outing Turns Into a 20-Minute Emergency",
+        "bullets": [
+          "Rush immediately to an emergency veterinarian if tremors, stumbling, weakness, drooling, vomiting, seizures, collapse, or labored breathing begin after lake contact—never wait for lab confirmation.",
+          "Pull the dog off the shore and prevent fur-licking while calling ahead with exact lake access, timing, and suspected mat ingestion—never delay care to bottle water or algae samples.",
+          "Never induce vomiting at home, dose human drugs, or attempt unguided CPR; compromised airway reflexes turn home emesis into fatal aspiration.",
+          "Treat clear winter water with the same caution as summer blooms: check dated advisories, keep pets away from shoreline mats, scum, foam, and dead wildlife, and report suspect mats from a safe distance."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Case",
+        "value": "Fredrickson A, Richter A, Perri KA & Manning SR (Aug 2023), Toxins (PMID 37624242 · PMC10467149) · Case C1: ~3-yr, 51-lb male Golden Retriever, 3.5 hrs at Hudson Bend, Lake Travis, TX, Feb 20, 2021 after 8-day freeze (3°C to −17°C starting Feb 11)"
+      },
+      {
+        "label": "Timeline & Outcome",
+        "value": "Acute tremors/fasciculations, ataxia/inability to walk & vomiting during post-lake rinse; emergency vet within 20 min; CPR attempted; euthanized (5 other ill dogs & 1 unconfirmed Jan–Feb death lacked chemical confirmation)"
+      },
+      {
+        "label": "Necropsy & HPLC-HRMS",
+        "value": "Texas A&M TVMDL excluded insecticides/petroleum/botulism; stomach microscopy found green algae, diatoms & cyanobacteria (species degraded by gastric acid); HPLC-HRMS matched dhATX within 0.5 ppm of 168.133 amu using caffeine proxy (estimates, not pure-standard quantification)"
+      },
+      {
+        "label": "Dry-Weight Estimates",
+        "value": "n = 2 lab replicates of C1 (NOT 2 dogs): stomach contents 974.88 ng/g DW, duodenum 10.51 ng/g DW, jejunum 6.076 ng/g DW (trace anatoxin-a in stomach; saxitoxin/cylindrospermopsin/microcystins non-detect in C1 only; shore mats up to 12,047 ng/g); no absorbed dose or safe-time threshold"
+      },
+      {
+        "label": "Preserved Record Quirks",
+        "value": "Prose incident Feb 20 vs Fig 4 Feb 21; necropsy Feb 26 vs Table 1 duodenum Feb 24; community survey typo 'March 2012' (for March 2021); PCA linked clarity, DO, zebra-mussel benthification & low inflows (correlation, not single-cause proof)"
+      },
+      {
+        "label": "Precursor Event (2019)",
+        "value": "Manning SR, Perri KA & Bellinger BJ (2020), Data Brief (PMID 33024803 · PMC7528197): Lady Bird Lake mats carried dhATX (microscopy + ribosomal genetics + chemistry, no dog tissue necropsy); persisted Aug 3–Nov 12 = 101 elapsed days (persistence window, NOT half-life or safe-return clock)"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · TREMORS AFTER LAKE SHORELINE PLAY",
+      "subhead": "No antidote exists for dihydroanatoxin-a—skip home emesis, stop fur-licking, and drive to an ER vet.",
+      "steps": [
+        {
+          "action": "REMOVE FROM WATER & BLOCK FUR-LICKING",
+          "detail": "Get your dog away from the shoreline immediately and stop them from licking wet paws or coat while calling an emergency veterinary clinic for instructions."
+        },
+        {
+          "action": "SKIP HOME VOMITING & SAMPLE JARS",
+          "detail": "Never induce vomiting in a shaking or stumbling dog (high risk of fatal aspiration), never give human medicines, and never delay transport to scoop algae samples."
+        },
+        {
+          "action": "GIVE LOCATION & INGESTION DETAILS",
+          "detail": "Tell the vet the exact lake and access point, timing of contact versus first symptoms, and whether you saw the dog chew shoreline mats, scum, or dead fish/birds."
+        },
+        {
+          "action": "UPSTREAM: DISTRUST CRYSTAL-CLEAR WINTER SHORES",
+          "detail": "Check current dated advisories, obey closures, steer dogs away from detached mats, foam, and carcasses year-round, and report suspect blooms safely from a distance."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Fredrickson A, Richter A, Perri KA & Manning SR (2023) — First Confirmed Case of Canine Mortality Due to Dihydroanatoxin-a in Central Texas, USA (Toxins · PMID 37624242 · PMC10467149)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10467149/"
+      },
+      {
+        "type": "Precursor Study",
+        "label": "Manning SR, Perri KA & Bellinger BJ (2020) — Bloom announcement: first reports of dog mortalities associated with neurotoxic filamentous cyanobacterial mats at recreational sites in Lady Bird Lake, Austin, Texas (Data Brief · PMID 33024803 · PMC7528197)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7528197/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2757 Verbatim Transcript in Google Drive (9,152 words)",
+        "url": "https://drive.google.com/file/d/1pTv9oiGYN_TbIM7CX5sT7OtewfVu_v0T/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2757 Audio Stream — The Hazard Along the Winter Shore (55:17)",
+        "url": "https://drive.google.com/file/d/1-Ir9hefjVMZFFFvH2zIbX1cUeSKr_OZs/view"
+      }
+    ],
+    "relatedSlugs": [
+      "plant-and-the-swollen-brain-sago-palm",
+      "illness-after-the-mushroom",
+      "discharge-not-ending-iron-edta-dog"
+    ]
+  },
+  "missing-spot-after-the-light-laser": {
+    "slug": "missing-spot-after-the-light-laser",
+    "fileNo": "206",
+    "partId": "garage",
+    "partLabel": "Part I · The Garage, Backyard & Hardware Store",
+    "title": "20/20 on the Wall Chart—and a Permanently Scorched Bullseye",
+    "deck": "Why a painless camera-sensor burn beats the human blink reflex, why an 80%-versus-20% pediatric steroid gap vanished at p = 0.37, and why a 5-mW sticker is just paper.",
+    "byline": "Compiled from Ep 2758 (PREV_1074) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Accidental direct exposure of the right eye to a red laser pointer (labeled 650 nm, 5 mW; unverified output) for ≤2 seconds",
+      "mechanism": "Cornea and lens optically converging collimated light onto the cone-dense fovea, inducing painless photochemical and photothermal outer-retinal disruption and RPE injury",
+      "manner": "Survivor Case (Accidental Consumer Optical Injury)",
+      "avoidability": "High (never aim lasers at people/animals/vehicles, keep away from children, and replace unnecessary physical pointers)",
+      "falseReassurance": "“It didn’t hurt at all, the eye isn’t red, the sticker says 5 milliwatts, and I can still read the 20/20 line on the eye chart.”"
+    },
+    "looksLike": "A painless two-second flash with clear cornea, normal 261-µm thickness map, and recovered 20/20 distance acuity",
+    "actuallyIs": "Photic maculopathy with disrupted photoreceptor IS/OS junction, subfoveal cavity, and persistent central scotoma",
+    "sections": [
+      {
+        "heading": "The Painless Burn Inside an Inward Magnifying Glass",
+        "paragraphs": [
+          "Drop one rogue eyelash onto your cornea and your nervous system stages a five-alarm opera—tears, redness, spasms, immediate surrender. Shine a coherent laser beam straight through that same clear front window and the surface alarms stay politely asleep. In October 2025, Gururaj Naral and colleagues in Cureus described a healthy man in his 20s standing outdoors during daytime conversation when a neighbor demonstrating a red laser pointer accidentally swept it into his right eye for no more than two seconds. Instantly, a dark blurry blotch appeared dead center in his right vision, derailing reading, face recognition, and fine tasks—with zero pain, zero redness, and zero watering.",
+          "Blame optical excellence turned traitor. Evolution built the cornea and lens to gather diffuse daylight and funnel it onto the fovea, the tiny cone-packed bullseye at the heart of the macula. Feed that same lens a collimated laser and the eye acts like a magnifying glass pointed inward, concentrating photochemical oxidative toxicity and photothermal heat directly onto photoreceptors that carry no pain nerves. Like a camera whose glass lens stays scratch-free while a beam fries central sensor pixels, his anterior exam (cornea, iris, lens) looked immaculate. Left vision stayed 20/20 distance and N6 near; right vision slipped to 20/30 distance and N8 near, with an Amsler grid confirming a central scotoma and fundus exam spotting a crisp yellowish foveal lesion.",
+          "Three imaging tools then interrogated three distinct layers of truth. Fundus photography gave 2D canopy coordinates without depth. Optical coherence tomography (OCT) sliced an infrared core sample revealing outer retinal hyperreflectivity, a broken IS/OS junction—severing photoreceptor mitochondrial engines from light-capturing discs—a subfoveal hyporeflective cavity, and a shallow localized neurosensory detachment (strictly a microscale burn blister, never to be confused with a giant sight-threatening peripheral retinal tear). Remarkably, central macular thickness measured 261 micrometers (0.261 mm)—classified normal overall, like an office tower whose roof height looks unchanged while two interior floors collapse. Short-wave fundus autofluorescence mapped retinal pigment epithelium stress—described in prose as a dark center ringed by brighter signal and in the caption as central hypofluorescence, signaling metabolic disruption without counting literal dead cells."
+        ]
+      },
+      {
+        "heading": "Aced the Eye Chart, Kept the Missing Hole",
+        "paragraphs": [
+          "Clinicians prescribed a two-week tapering course of oral prednisolone plus topical NSAID drops—a reasonable attempt to calm secondary inflammation, never proof that steroids unburn retinas while natural healing runs alongside. Six weeks later, the headline paradox arrived: right distance acuity rebounded from 20/30 (0.667) to a textbook 20/20 (1.0) and the yellow surface spot faded into subtle permanent RPE pigment change, yet near acuity stayed stuck at N8 and his central scotoma persisted—after which he was lost to follow-up, forbidding any invented happy ending. Eye charts only grade whether surviving high-contrast border cones can decode crisp black letters; they never audit the scorched crater sitting next door.",
+          "For long-term perspective, Niloofar Farassat and colleagues’ 2023 International Ophthalmology main-article retrospective combed 13 years (2007–2020) of records at Germany’s University Eye Center in Freiburg, confirming organic laser maculopathy in 8 children out of 12 suspected records (66.67%). That two-thirds figure is strictly specialty-archive selection bias—counting cracked windshields inside a glass shop—not population injury risk. Better yet, 8 children produced 11 injured eyes (3 bilateral, 5 unilateral), reminding analysts that paired eyes inside one skull share genetics, healing, and the exact same beam rather than acting as 11 independent trials; 7 children (10 eyes) returned for follow-up while 1 child (1 eye) was lost (missing data is never coded cured).",
+          "Then came the steroid statistical mirage. Four of five steroid-treated eyes (80%) improved acuity versus one of five untreated eyes (20%)—a seductive 60 percentage-point gulf built on tiny, correlated, non-random groups with mismatched baselines that crumbled to an interaction p-value of 0.37. That neither proves steroids work nor proves they do nothing; absence of proof is not proof of absence. What Freiburg unmistakably confirmed is the same dual reality: children achieved strong chart acuity years later while carrying stubborn scotomas and OCT scars."
+        ]
+      },
+      {
+        "heading": "Why Stickers, Sunglasses, and Blink Reflexes Fail Together",
+        "paragraphs": [
+          "The neighbor’s pointer bore a sticker reading 650 nanometers and 5 milliwatts—strictly proof of a printed sticker, never a laboratory photon check. As UK Health Security Agency guidance warns, cheap mass-produced pointers are notoriously mislabeled, cannot be power-tested safely at home, and should never be aimed at plastic, matches, or walls to check strength—specular reflections burn foveas too. Ordinary sunglasses and generic safety glasses filter broad sunlight, not coherent laser wavelengths, and no human blink reflex can outrun light; bystanders are never to blame for failing to dodge photons.",
+          "Following FDA immediate-assessment guidance—never inventing a wait-and-see afterimage rule, and remembering six weeks was a visit date rather than a waiting window—any suspected laser flash demands immediate professional eye evaluation even with zero pain or partial improvement. State which eye was hit, exact functional changes (black spot, wavy lines, trouble reading faces), and the laser exposure; skip self-driving, DIY printed-chart clearances, and borrowed steroid drops. Upstream, keep laser pointers completely away from children, never aim at people, animals, vehicles, or aircraft, lock away legitimate devices, and ask whether screen-based digital pointers make physical beams obsolete."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · PAINLESSNESS IS BIOLOGICAL FALSE COMFORT",
+        "heading": "When a Two-Second Flash Demands Immediate Ophthalmic Imaging",
+        "bullets": [
+          "Seek immediate professional eye assessment after any suspected laser exposure—even with zero pain, zero redness, or partial visual improvement—because the retina has no pain receptors.",
+          "Never clear yourself with a home-printed eye chart or Amsler grid, never drive with impaired central vision, and never borrow someone else’s steroid drops.",
+          "Tell the eye clinician three specifics: which eye(s) were affected, exact functional disruptions (central spot, wavy lines, difficulty reading faces), and the laser exposure—without waiting to verify wattage.",
+          "Never test a suspect pointer on dark plastic, matches, or walls, never trust cheap 5-mW labels or ordinary sunglasses, and keep laser pointers completely out of children’s reach."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Case",
+        "value": "Naral G, Shetty SB, Kamath S & Nayak M (Oct 2025), Cureus (PMID 41216082 · PMC12597123) · Healthy man in his 20s; accidental daytime right-eye sweep ≤2 s from neighbor’s red laser pointer labeled 650 nm / 5 mW (printed sticker only, unmeasured output)"
+      },
+      {
+        "label": "Initial Paradox",
+        "value": "Instant central black blurry spot impairing reading/faces/precision tasks with ZERO pain, redness, or tearing; unremarkable cornea/iris/lens; VA left 20/20 (N6), right 20/30 (N8); Amsler central scotoma; yellowish foveal lesion"
+      },
+      {
+        "label": "Multimodal Imaging",
+        "value": "OCT: outer retinal hyperreflectivity, focal IS/OS junction disruption, subfoveal hyporeflective cavity, shallow localized neurosensory detachment (micro-blister, NOT peripheral tear), yet NORMAL central macular thickness 261 µm (0.261 mm); SW-FAF: dark center + bright ring in prose / central hypofluorescence in caption (RPE stress pattern, not cell count)"
+      },
+      {
+        "label": "6-Week Split Outcome",
+        "value": "2-wk oral prednisolone taper + topical NSAIDs (unproven efficacy in n = 1); Week 6: right distance VA improved 20/30 → 20/20, yellow spot faded to RPE pigment change, BUT near VA remained N8 & central scotoma persisted; lost to follow-up thereafter"
+      },
+      {
+        "label": "Freiburg Cohort (2023)",
+        "value": "Farassat N et al. (2023), Int Ophthalmol (PMID 36670265 · PMC10313552, main text): 13-yr tertiary archive (2007–2020); 8/12 suspected confirmed = 66.67% (clinic selection rate, NOT population risk); 8 children = 11 eyes (3 bilateral, 5 unilateral—paired eyes non-independent); 7 kids/10 eyes followed, 1 lost"
+      },
+      {
+        "label": "Steroid Mirage",
+        "value": "4/5 (80%) steroid-treated eyes vs 1/5 (20%) untreated improved acuity (non-random, correlated, small n) → interaction p = 0.37 (absence of proof ≠ proof of equivalence); confirmed long-term coexistence of good chart acuity with scotomas & OCT scars"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · FLASHED IN THE EYE BY A LASER",
+      "subhead": "No pain and no redness never clear the fovea—arrange a ride and get OCT eyes on it now.",
+      "steps": [
+        {
+          "action": "DO NOT RE-FLASH OR TEST THE POINTER",
+          "detail": "Never point the laser at a wall, dark plastic, or match to gauge its strength, and never recreate the exposure to gather specs—specular reflections burn retinas too."
+        },
+        {
+          "action": "GET IMMEDIATE PROFESSIONAL EYE CARE",
+          "detail": "Follow FDA immediate-assessment guidance even if pain is zero or blur seems to ease; do not invent a waiting rule, do not self-drive with a central blind spot, and do not borrow steroid drops."
+        },
+        {
+          "action": "DELIVER THREE SPECIFICS AT TRIAGE",
+          "detail": "Specify which eye(s) were hit, describe real-world functional loss (central black spot, wavy lines, trouble reading faces), and report the laser exposure—asking what changes require urgent return."
+        },
+        {
+          "action": "LOCK DOWN OR RETIRE PHYSICAL POINTERS",
+          "detail": "Treat laser pointers strictly as non-toys stored away from children, never trust printed wattage stickers or ordinary sunglasses, and switch presentations to digital screen pointers."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Naral G, Shetty SB, Kamath S & Nayak M (2025) — Photic Maculopathy Caused by a Laser Pointer (Cureus · PMID 41216082 · PMC12597123)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12597123/"
+      },
+      {
+        "type": "Cohort Study",
+        "label": "Farassat N et al. (2023) — Incidence and long-term outcome of laser pointer maculopathy in children (Int Ophthalmol · PMID 36670265 · PMC10313552)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10313552/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2758 Verbatim Transcript in Google Drive (8,831 words)",
+        "url": "https://drive.google.com/file/d/1Gthq9DB968E59t6X6ggee-BVMzaAcyKk/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2758 Audio Stream — The Missing Spot After the Light (50:45)",
+        "url": "https://drive.google.com/file/d/1fy2ItDPC-Khi3izfbB2HlboIYE_mzI9E/view"
+      }
+    ],
+    "relatedSlugs": [
+      "flash-after-the-procedure-retina",
+      "hook-and-the-changed-pupil",
+      "air-beyond-the-eye-orbital-emphysema"
+    ]
+  },
+  "cataract-pointed-beyond-the-eye": {
+    "slug": "cataract-pointed-beyond-the-eye",
+    "fileNo": "207",
+    "partId": "hospital",
+    "partLabel": "Part V · “The First Test Looked Normal”",
+    "title": "68 Micromoles of Cholestanol—and the Childhood Diarrhea Nobody Mentioned",
+    "deck": "Why changing bald tires never fixes a bent chassis, why a toddler with 15.3 cholestanol was not a confirmed case, and how changing the denominator turns 1.76% into 18.75%.",
+    "byline": "Compiled from Ep 2759 (PREV_1075) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Cerebrotendinous xanthomatosis (CTX) caused by biallelic CYP27A1 deficiency impairing hepatic sterol 27-hydroxylase",
+      "mechanism": "Failed primary bile-acid synthesis causing childhood fat-malabsorption diarrhea while shunting sterol intermediates into toxic plasma cholestanol accumulating across lenses and nervous tissue",
+      "manner": "Survivor Case (Autosomal Recessive Metabolic / Screening Diagnosis)",
+      "avoidability": "Uncertain (inheritance cannot be prevented; connecting cross-specialty clues enables early bile-acid therapy)",
+      "falseReassurance": "“Her childhood diarrhea cleared up years ago, she has no major neurologic trouble, and standard cholesterol panels don’t flag anything unusual—just replace the cloudy lenses.”"
+    },
+    "looksLike": "Isolated early cataracts in a healthy 19-year-old whose childhood stomach trouble resolved years ago",
+    "actuallyIs": "Cerebrotendinous xanthomatosis (CYP27A1 bile-acid synthesis defect) with plasma cholestanol at 68 µmol/L",
+    "sections": [
+      {
+        "heading": "Replacing the Tires While the Chassis Bends",
+        "paragraphs": [
+          "Modern medicine slices the body into tidy departmental fiefdoms—eyes on floor four, guts on floor two, nerves across the street—and human biochemistry laughs right through the walls. Finding cloudy lenses in an 80-year-old is ordinary mileage; finding unexplained cataracts in both eyes of a teenager is uneven tire wear screaming that the chassis is out of alignment. Between January 2018 and January 2020, Gorka Fernández-Eulate and colleagues across seven French ophthalmology departments prospectively screened 30 patients diagnosed with unexplained bilateral cataracts between ages 1 and 20, publishing their findings in Orphanet Journal of Rare Diseases in December 2022.",
+          "One 19-year-old woman arrived with bilateral posterior cataracts dotted by distinctive cortical fleck-like opacities—scattered reflective specks rather than uniform age-related haze or the multicolored Christmas-tree crystals of myotonic dystrophy type 1 (still strictly a specialist slit-lamp observation requiring further study, never a smartphone-flashlight DIY check). Digging past her current intake form uncovered a buried pediatric clue: unexplained chronic diarrhea in childhood that had improved during adolescence. Symptoms that grow quieter do not erase the underlying broken assembly line; they merely move the spotlight. She had no reported neurodevelopmental disorder, no severe cognitive collapse, and no massive Achilles tendon lumps—yet a careful exam caught a fine postural tremor of her upper limbs.",
+          "Those three silos converged on cerebrotendinous xanthomatosis (CTX), an autosomal recessive mutation of the CYP27A1 gene encoding hepatic sterol 27-hydroxylase. Without that enzyme, the liver cannot make primary bile acids—the gut’s biological dish soap—explaining her childhood diarrhea, while blocked sterol traffic piles into side streets as toxic cholestanol. Notice the fatal spelling trap: cholestanol differs from routine cholesterol by a single double bond, meaning annual cholesterol checks are completely blind to it (her routine cholesterol wasn’t even reported). Separating chemical lookalikes by quantitative liquid chromatography–mass spectrometry (LC-MS), clinicians measured her plasma cholestanol at 68 micromoles per liter—nearly seven times the normal ceiling below 10."
+        ]
+      },
+      {
+        "heading": "Two Broken Manuals, One Uncertain Toddler, and Shifting Nets",
+        "paragraphs": [
+          "Her genetics confirmed two pathogenic heterozygous CYP27A1 mutations—though strict literature reading preserves what the paper left out: exact variant spelling changes, phasing confirmation that they sat on opposite parental copies, and parental testing were all unreported. Starting chenodeoxycholic acid (CDCA) replaced the missing bile acid, switching on hepatic negative feedback until her plasma cholestanol reportedly normalized at six months (exact repeat number unprinted). Biochemical normalization stops new overflow; it never magically unfrosts already-clouded eye lenses or guarantees lifelong cure, yet it intercepted a progressive disorder while neurologic signs remained subtle.",
+          "Association by proximity nearly fools readers on the cohort’s next five patients. Five of the remaining 29 cataract patients (17.2%) showed moderate cholestanol elevations from 10.3 to 16.5 micromoles per liter—including a 39-month-old toddler with bilateral cortical cataracts, chronic diarrhea, and repeat cholestanol rising from 12.4 to 15.3. Yet sequencing found only one heterozygous CYP27A1 variant of uncertain significance (a recipe typo nobody knows ruins the cake), urinary bile alcohols stayed normal, and four years of follow-up showed zero other CTX signs: strictly NOT confirmed CTX. The other four moderately elevated patients were never sequenced given normal cholestanol-to-cholesterol ratios and no diarrhea or family neurologic history. Compared with 286 older pediatric lab controls tested for other serious indications such as intellectual disability or leukodystrophy (12 of 286, or 4.2% elevated; age-adjusted p = 0.014), that gap is statistically unlikely by chance—without proving moderate cholestanol causes cataracts.",
+          "Denominator discipline also governs earlier U.S. screening led by Sharon F. Freedman and colleagues in JAMA Ophthalmology (2019 interim report, read via PubMed Central HTML): among 170 unexplained juvenile bilateral cataract patients (ages 2–21), 16 met biochemical testing criteria and 3 had confirmed CTX. Those exact 3 humans read as 1.76% of enrolled cataract patients (3/170) or 18.75% of the biochemically filtered subgroup (3/16)—casting a net in a river versus a trout hatchery, neither measuring test sensitivity nor general-population risk. Their 2023 final analysis expanded to 426 completers with 4 confirmed cases (about 0.9%)—never double-count 3 plus 4 into 7, since the 2019 patients sit inside 2023—just as France’s 1 in 30 (3.3%) is selected cohort yield, never community incidence."
+        ]
+      },
+      {
+        "heading": "Carrying the Baton Across Specialty Silos",
+        "paragraphs": [
+          "Before diagnosis, unexplained bilateral cataracts in a child or young adult demand asking the ophthalmologist not only how to restore sight, but whether a systemic or genetic evaluation fits. Patients and parents have to act as track coaches retrieving dropped batons between clinics: preserve the exact age at cataract diagnosis, volunteer years-old resolved childhood diarrhea even when intake boxes ask only about current bowel trouble, keep cholestanol and cholesterol distinct on every lab order, and confirm before leaving which clinician explicitly owns pending LC-MS or uncertain VUS genetic results so unfinished workups never harden into assumed negatives.",
+          "After confirmation—guided by NCBI GeneReviews (revised November 14, 2024) and MedlinePlus Genetics—the job shifts from solving a mystery to running a blueprint: coordinated metabolic care for bile-acid replacement and ongoing biochemical and neurologic surveillance, continued ophthalmology for lens care, and formal genetics-led evaluation of apparently well relatives rather than family symptom guesswork or DIY diet experiments."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · A RESOLVED SYMPTOM IS STILL EVIDENCE",
+        "heading": "Keeping Whole-Body Clues Connected Across Clinics",
+        "bullets": [
+          "When a child or young adult develops unexplained bilateral cataracts, follow through on the cause—not just lens surgery—and ask whether systemic or genetic screening applies.",
+          "Preserve exact age at cataract diagnosis and actively report past 'resolved' chronic childhood diarrhea or subtle tremors even when current intake forms only ask about today’s symptoms.",
+          "Maintain strict vocabulary discipline on labs: routine cholesterol never substitutes for specialized LC-MS plasma cholestanol, and every pending biochemical or VUS genetic result needs one named clinician owning follow-up.",
+          "Never attempt DIY flashlight eye exams or family recurrence guesswork—confirmed autosomal recessive CTX warrants coordinated metabolic, ophthalmic, and formal genetics-led family care."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Study",
+        "value": "Fernández-Eulate G et al. (Dec 2022), Orphanet J Rare Dis (PMID 36514115 · PMC9749289) · Prospective multicenter screening across 7 French ophthalmology departments (Jan 2018–Jan 2020); 30 patients with unexplained bilateral cataracts diagnosed ages 1–20 (1/30 = 3.3% selected cohort yield, NOT population incidence)"
+      },
+      {
+        "label": "Confirmed Case (Age 19)",
+        "value": "19-yr-old woman: bilateral posterior cataracts with cortical fleck-like opacities, adolescent-improved chronic childhood diarrhea, fine upper-limb postural tremor (no neurodevelopmental disorder); plasma cholestanol 68 µmol/L via LC-MS (ref <10; routine cholesterol unreported)"
+      },
+      {
+        "label": "Genetics, Omissions & CDCA",
+        "value": "Two pathogenic heterozygous CYP27A1 mutations confirming CTX (exact variant identities, phasing & parental testing unreported); started on CDCA → cholestanol 'normalized' at 6 mo (numeric repeat unprinted; stops overflow, does NOT unfrost lenses)"
+      },
+      {
+        "label": "Unresolved Moderate Group",
+        "value": "5/29 remaining patients (17.2%) had moderate cholestanol 10.3–16.5 µmol/L: 39-mo toddler (bilateral cataracts, chronic diarrhea, cholestanol 12.4 → 15.3) had ONLY 1 heterozygous CYP27A1 VUS, normal urinary bile alcohols, and zero new signs at 4-yr follow-up (NOT confirmed CTX); other 4 not sequenced"
+      },
+      {
+        "label": "Control Comparison",
+        "value": "12/286 older pediatric lab controls (4.2%, tested for other severe indications like intellectual disability/leukodystrophy) had elevated cholestanol; age-adjusted p = 0.014 vs 17.2% cataract share (statistical difference, NOT causal proof)"
+      },
+      {
+        "label": "U.S. Screening Denominators",
+        "value": "Freedman SF et al. (2019 JAMA Ophthalmol interim): 3 confirmed CTX / 170 enrolled (1.76%) vs 3 / 16 biochemically selected (18.75%); 2023 final analysis: 4 / 426 completers (~0.9%)—overlapping cohort, NEVER add 3 + 4 = 7"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · UNEXPLAINED JUVENILE CATARACTS",
+      "subhead": "Do not let specialty silos drop the baton—connect the childhood timeline before leaving the eye clinic.",
+      "steps": [
+        {
+          "action": "ASK ABOUT CAUSE, NOT JUST SURGERY",
+          "detail": "When bilateral cataracts appear in a child or young adult without trauma or clear cause, ask the ophthalmologist whether metabolic or genetic evaluation is warranted."
+        },
+        {
+          "action": "PASS THE FULL HISTORICAL BATON",
+          "detail": "Record exact age at cataract onset and volunteer past 'resolved' chronic childhood diarrhea or subtle tremors—even if current intake checkboxes accurately read 'no.'"
+        },
+        {
+          "action": "GUARD LAB NAMES & PENDING OWNERS",
+          "detail": "Verify specialized cholestanol (never routine cholesterol) when ordered, and ask before leaving which specific doctor will review pending LC-MS or uncertain VUS genetic results."
+        },
+        {
+          "action": "COORDINATE METABOLIC & FAMILY CARE",
+          "detail": "If CTX is confirmed, pair metabolic surveillance and prescribed pathway therapy with ongoing eye care and formal genetics-led counseling for apparently well relatives."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Fernández-Eulate G et al. (2022) — Prospective cholestanol screening of cerebrotendinous xanthomatosis among patients with juvenile-onset unexplained bilateral cataracts (Orphanet J Rare Dis · PMID 36514115 · PMC9749289)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9749289/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2759 Verbatim Transcript in Google Drive (8,894 words)",
+        "url": "https://drive.google.com/file/d/1gQS6emabTtRpsxbRQzGSVxxyodc_-E-K/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2759 Audio Stream — The Cataract That Pointed Beyond the Eye (53:04)",
+        "url": "https://drive.google.com/file/d/1WrpxVRkj6sC6QLJoT6dfIldMT1YKx_4A/view"
+      }
+    ],
+    "relatedSlugs": [
+      "eye-that-found-two-diabetics-guinea-pigs",
+      "liver-failure-falling-hemoglobin-wilson",
+      "family-behind-the-enzyme-g6pd"
+    ]
+  },
+  "worm-in-lungs-blood-supply-dog": {
+    "slug": "worm-in-lungs-blood-supply-dog",
+    "fileNo": "208",
+    "partId": "pets",
+    "partLabel": "Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat",
+    "title": "94.5 mmHg Inside the Right Heart—and Nine Swimmers in a Warm Funnel",
+    "deck": "How the simplified Bernoulli equation reads heart pressure by radar, why a four-week phone check never proves a cure, and why poisoning backyard snails trades one crisis for another.",
+    "byline": "Compiled from Ep 2760 (PREV_1076) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Canine cardiopulmonary Angiostrongylus vasorum infection superimposed on preexisting degenerative mitral valve disease and pulmonary hypertension",
+      "mechanism": "Adult nematodes in pulmonary arteries and migrating larvae in lung capillaries spiking pulmonary vascular resistance, overloading the thin-walled right ventricle while disrupting coagulation",
+      "manner": "Veterinary Forensic Case (Fatal Cardiopulmonary Parasitosis; No Necropsy in Focal Case)",
+      "avoidability": "Uncertain (veterinarian-led regional preventatives reduce infection risk; no universal single-pill guarantee)",
+      "falseReassurance": "“He already has a heart murmur, his routine heartworm test is negative, and he sounded better on the phone four weeks after treatment.”"
+    },
+    "looksLike": "Worsening degenerative mitral valve disease in a 10-year-old terrier with normal hematocrit and negative heartworm tests",
+    "actuallyIs": "Angiostrongylus vasorum clogging pulmonary arteries, driving a 94.5 mmHg tricuspid pressure gradient",
+    "sections": [
+      {
+        "heading": "A Low-Pressure Pump Pushing Through a Living Roadblock",
+        "paragraphs": [
+          "We like mechanical heart failure tidy: one worn valve, one tired pump, zero guests living inside the plumbing. In 2023, Marian Aurel Taulescu and colleagues in Frontiers in Veterinary Science profiled Case 1, a 10-year-old intact male Yorkshire terrier in Bucharest, Romania, arriving with a persistent cough, labored breathing, low exercise tolerance, and bluish cyanotic gums. His chart already carried degenerative mitral valve disease and pulmonary hypertension, and he lived near a lakeside city edge with no recent travel and no deworming in the previous year—environmental opportunity, never proof of a witnessed snail meal. Yet his acute collapse outran his old valve diagnosis.",
+          "Blood work yelled fire without naming the arsonist: white blood cells climbed to 18.57 thousand per microliter (reference 5.05–16.76) and platelets surged to 747 thousand per microliter (reference 148–484) as vascular walls suffered ongoing injury, while hematocrit stayed comfortably normal at 43% (reference 37.3–61.7%). Coagulation told a half-finished warning: prothrombin time stretched to 24.4 seconds (reference 14–20), while aPTT (120.1 s, reference 94–123) and D-dimer (0.27 µg/mL, reference 0.23–0.65) sat normal—enough to flag bleeding danger without independently proving full disseminated intravascular coagulation.",
+          "Chest X-rays showed hazy interstitial and peribronchial lung infiltration; echocardiography exposed a ballooning right heart. Normally the thin-walled right ventricle pushes blood gently through wide-open lung capillaries. Pack those arteries with adult Angiostrongylus vasorum—the gastropod-borne canine lungworm acquired via slugs, snails, or frog paratenic hosts, distinct from mosquito-borne Dirofilaria immitis and never caught by humans from a coughing dog—and vascular resistance skyrockets until the tricuspid valve leaks backward. Using Doppler like a highway radar gun, clinicians clocked that backward jet at 4.86 meters per second. Plugged into the simplified Bernoulli equation (4 × v²), 4.86 squared (23.6196) times 4 equals 94.4784—rounding to 94.5 millimeters of mercury. Per Carol Reinero and colleagues’ 2020 ACVIM consensus guidelines, that Doppler figure is a probe-angle-sensitive estimated pressure gradient, not a direct catheter reading or heart-function percentage."
+        ]
+      },
+      {
+        "heading": "Nine Swimmers, Three Postmortems, and a Lagging Heart",
+        "paragraphs": [
+          "Inside the right main pulmonary artery, ultrasound caught two bright parallel echogenic lines framing a dark hypoechoic core—the acoustic cross-section of a tubular worm cuticle, yet never species proof alone. Rapid antigen and blood PCR came back negative for standard mosquito heartworm (D. immitis). So clinicians deployed the Baermann funnel: suspending stool in gauze over warm water for 12 to 24 hours until live coughed-and-swallowed larvae swam out and sank by gravity. Nine larvae emerged matching A. vasorum morphology, confirmed by PCR (Ct 22.76)—definitive species identification, never a calibrated body-wide worm count or proof only nine existed.",
+          "After targeted antiparasitic treatment, a four-week telephone check reported him doing better—subjective reassurance that never proved parasite eradication or heart recovery. Six months post-diagnosis, he died in severe respiratory distress without an autopsy, leaving the exact terminal share among mitral disease, 94.5 mmHg hypertension, lung fibrosis, and infection forever undefined. Taulescu’s remaining lethal cases—an 8-year-old Caucasian shepherd, a 1.5-year-old poodle, and a 5-month-old mixed-breed puppy—showed the unseen interior at necropsy: dark-red liver-like consolidated lungs unable to trade oxygen, hemorrhage, and adult A. vasorum packing pulmonary arteries in Cases 2 and 4 (Case 3 lacked reported PCR and gross artery evaluation). Case 2 even harbored a dual infection—adult A. vasorum in pulmonary arteries alongside a single adult D. immitis inside the right ventricle—proving generic worm nicknames can kill.",
+          "Can a stretched right heart actually recover once the worms die? A foundational 2004 Irish Veterinary Journal series by Siobhan F. Brennan and colleagues tracked Case 3, a 23-month-old Jack Russell terrier without old valve disease presenting with cough, exercise intolerance, fainting (syncope—when exertion slams the right ventricle into a vascular wall and starves the brain), heart rate 192 beats per minute, and respiratory rate 88 breaths per minute. Unlike a phone check, serial echocardiograms proved right-heart enlargement shrank progressively after therapy—yet fainting continued initially after drugs began while dead worms and inflammation cleared slowly, and a later single negative Baermann test never guarantees lifelong clearance because shedding is intermittent. (Brennan’s note that blood tests were unavailable belongs strictly to 2004; rapid blood antigen tests exist widely today.)"
+        ]
+      },
+      {
+        "heading": "Never Film a Cough at a Sprint—and Skip the Snail Bait",
+        "paragraphs": [
+          "Under June 2025 ESCCAP and April 2020 PDSA UK guidance, persistent coughing, shrinking stamina, fainting, or unexplained bruising and bleeding—crucial to report before even routine dental cleanings—demand prompt veterinary evaluation, while acute labored breathing, collapse, or uncontrolled bleeding mean an immediate ER trip. Bring a functional history (what distance your dog ran last month versus today) plus exact boxes, doses, and dates of prior preventatives rather than saying he is wormed. Above all, never run a home exercise test to capture a cough video for the clinic: forcing exertion against choked pulmonary arteries can trigger syncope or sudden death.",
+          "Upstream, ask your veterinarian directly whether your licensed preventative actually covers A. vasorum based on local wildlife reservoirs, travel, and scavenging habits—there is no one-pill-fits-every-country schedule. Discourage eating slugs and snails without turning your garden into a toxicology ward: scattering chemical snail bait trades a parasite risk for acute fatal poisoning, and general hygiene beats baseless panic over human contagion."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · GENERIC 'WORMERS' SKIP PULMONARY NEMATODES",
+        "heading": "Protecting a Dog’s Lungs Without Creating a Second Emergency",
+        "bullets": [
+          "Seek immediate emergency veterinary care for labored breathing, blue gums, collapse, or uncontrolled bleeding—and prompt appointments for persistent coughing, falling stamina, fainting, or unexplained bruising (especially before any dental or surgical procedure).",
+          "Never force a coughing or exercise-intolerant dog to run in the yard to film symptoms for the vet; exertion against high pulmonary pressure can trigger collapse or sudden death.",
+          "Bring exact product names, doses, and dates of all preventatives—never assume an over-the-counter dewormer or standard mosquito-heartworm pill covers Angiostrongylus vasorum.",
+          "Discourage scavenging slugs and snails through supervision and vet-prescribed regional preventatives—never scatter chemical snail bait to eradicate yard gastropods."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Case",
+        "value": "Taulescu MA et al. (2023), Front Vet Sci (PMID 37275619 · PMC10232773) · Case 1: 10-yr intact male Yorkshire terrier, Bucharest, Romania (lakeside edge, no deworming past yr—opportunity, not witnessed snail ingestion); preexisting mitral valve disease & pulmonary hypertension"
+      },
+      {
+        "label": "Labs & Coagulation",
+        "value": "Cough, dyspnea, exercise intolerance, cyanosis; WBC 18.57 × 10³/µL (ref 5.05–16.76), Plt 747 × 10³/µL (ref 148–484), Hct 43% (ref 37.3–61.7%); PT prolonged 24.4 s (ref 14–20), aPTT normal 120.1 s (ref 94–123), D-dimer normal 0.27 µg/mL (ref 0.23–0.65) → bleeding alert, NOT standalone proof of DIC"
+      },
+      {
+        "label": "Echo & Bernoulli Math",
+        "value": "Right-heart enlargement; tricuspid regurgitant jet 4.86 m/s → 4 × (4.86)² = 4 × 23.6196 = 94.4784 ≈ 94.5 mmHg estimated gradient (Reinero et al. 2020 ACVIM, PMC7097566: angle-sensitive estimate, NOT direct catheter pressure); parallel echogenic/hypoechoic tubular image in right pulmonary artery"
+      },
+      {
+        "label": "Parasitology & Outcome",
+        "value": "Negative D. immitis antigen & blood PCR; Baermann funnel recovered 9 A. vasorum larvae confirmed by PCR (Ct 22.76; species proof, NOT calibrated total worm count); 4-wk phone check subjectively better (NOT cure); died 6 mo later in severe respiratory distress (NO autopsy)"
+      },
+      {
+        "label": "Necropsy Trio (Cases 2–4)",
+        "value": "8-yr Caucasian shepherd, 1.5-yr poodle, 5-mo mixed puppy: dark-red liver-like lung consolidation & hemorrhage; adult A. vasorum in pulmonary arteries (Cases 2 & 4) + dual D. immitis in right ventricle (Case 2); Case 3 lacked reported PCR/gross artery exam (selected deaths ≠ population mortality)"
+      },
+      {
+        "label": "Serial Recovery (2004)",
+        "value": "Brennan SF et al. (2004), Ir Vet J (PMID 21851655 · PMC3113816) · Case 3 (23-mo Jack Russell): cough, syncope, HR 192 bpm, RR 88/min; serial echoes proved right-heart shrinkage after treatment, though syncope lagged initially & 1 negative Baermann never guarantees lifelong clearance"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · COUGHING, FAINTING OR BLUE GUMS",
+      "subhead": "Keep a breathless dog strictly calm—skip home exercise tests and get cardiopulmonary vet care.",
+      "steps": [
+        {
+          "action": "KEEP CALM & SKIP EXERCISE CHALLENGES",
+          "detail": "Never jog or provoke a coughing dog to record a video for the vet—exertion against obstructed lung vessels can trigger syncope or sudden collapse. Go straight to an ER vet for dyspnea, collapse, or blue gums."
+        },
+        {
+          "action": "SHARE FUNCTIONAL CHANGES & BRUISING",
+          "detail": "Report concrete stamina drops (two miles last month vs half a block today), fainting spells, and any minor bruising or gum bleeding—especially prior to routine dental or surgical procedures."
+        },
+        {
+          "action": "BRING EXACT PREVENTATIVE BOXES & DATES",
+          "detail": "Skip vague 'he is wormed' summaries; hand clinicians exact product names, doses, dates, travel/import history, and prior heart records so they know whether A. vasorum was ever covered."
+        },
+        {
+          "action": "ASK FOR REGIONAL COVERAGE—NEVER SNAIL BAIT",
+          "detail": "Work with your vet on a licensed regional preventative matching local slug/fox epidemiology, keep records across caregivers, and never poison your yard with toxic chemical snail bait."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Taulescu MA et al. (2023) — Is the Angiostrongylus vasorum infection in domestic dogs underestimated or misdiagnosed? A comprehensive presentation of four lethal cases (Front Vet Sci · PMID 37275619 · PMC10232773)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10232773/"
+      },
+      {
+        "type": "Comparative Case Series",
+        "label": "Brennan SF, McCarthy G, McAllister H, Bassett H & Jones BR (2004) — Clinical signs, diagnosis and treatment of three dogs with angiostrongylosis in Ireland (Ir Vet J · PMID 21851655 · PMC3113816)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3113816/"
+      },
+      {
+        "type": "Consensus Guidelines",
+        "label": "Reinero C et al. (2020) — ACVIM consensus statement guidelines for the diagnosis, classification, treatment, and monitoring of pulmonary hypertension in dogs (J Vet Intern Med · PMID 32065428 · PMC7097566)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7097566/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2760 Verbatim Transcript in Google Drive (7,107 words)",
+        "url": "https://drive.google.com/file/d/1VjGSeyRxwgsjm5PjmooaZ2jDhGxHE_p6/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2760 Audio Stream — The Worm in the Lung’s Blood Supply (43:26)",
+        "url": "https://drive.google.com/file/d/1FzoFAX0FR_bFqfb9aW-Y8Ya4Erdhxy6P/view"
+      }
+    ],
+    "relatedSlugs": [
+      "hazard-along-winter-shore-dog",
+      "discharge-not-ending-iron-edta-dog",
+      "clot-before-thick-wall-kitten-ate"
+    ]
   }
 }
