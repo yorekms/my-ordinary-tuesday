@@ -254,6 +254,14 @@
 
     applyRate(savedRate);
 
+    function buildStudioUrl(base, c) {
+      const root = (base || 'https://yorekms.github.io/deep-dive-podcasts/resonance').replace(/\/+$/, '');
+      if (c && c.audioDriveId) {
+        return root + '/?view=listen&driveId=' + encodeURIComponent(c.audioDriveId) + '&hub=forensic-medicine&title=' + encodeURIComponent(c.episodeTitle || c.title || '') + '&autoplay=1';
+      }
+      return root + '/?view=listen&hub=forensic-medicine';
+    }
+
     return {
       playCase: function (c) {
         currentCase = c;
@@ -262,7 +270,7 @@
         titleEl.textContent = 'FILE № ' + c.fileNo + ' — ' + c.title + ' (' + c.ep + ')';
         transLink.href = c.transcriptUrl || '#';
         transLink.style.display = c.transcriptUrl ? 'inline-block' : 'none';
-        if (meta.transcriptStudioUrl) studioLink.href = meta.transcriptStudioUrl;
+        studioLink.href = buildStudioUrl(meta.transcriptStudioUrl, c);
         loadNative(c, false);
       }
     };
@@ -1037,7 +1045,11 @@
           '<div class="ot-btn-row">' +
             '<button type="button" class="ot-btn primary" id="story-play-audio">▶ Play Episode Audio</button>' +
             (catCase.transcriptUrl ? '<a class="ot-btn" href="' + esc(catCase.transcriptUrl) + '" target="_blank" rel="noopener">Full Transcript ↗</a>' : '') +
-            '<a class="ot-btn" href="' + esc(data.catalog.meta.transcriptStudioUrl) + '" target="_blank" rel="noopener">Sync Studio ↗</a>' +
+            '<a class="ot-btn" href="' + esc(
+              (data.catalog.meta.transcriptStudioUrl || 'https://yorekms.github.io/deep-dive-podcasts/resonance').replace(/\/+$/, '') +
+              '/?view=listen' + (catCase.audioDriveId ? '&driveId=' + encodeURIComponent(catCase.audioDriveId) : '') +
+              '&hub=forensic-medicine&title=' + encodeURIComponent(catCase.episodeTitle || catCase.title || '') + '&autoplay=1'
+            ) + '" target="_blank" rel="noopener" title="Open this episode in the Deep Dive Pocket App (Resonance) with offline downloads &amp; synced transcripts">Pocket App ↗</a>' +
           '</div>' +
         '</div>' +
       '</section>' +
