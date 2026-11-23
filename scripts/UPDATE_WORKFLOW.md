@@ -11,16 +11,18 @@ Discovers all newly recorded *How Not to Die* episodes not yet in `data/catalog.
 python3 scripts/fetch_new_episodes.py --all-new --out /tmp/next_wave
 ```
 
-## Step 2 — Harvest Commercial-Book-Safe `CC BY` Clinical Exhibits (`scripts/harvest_exhibits.py`)
-Enforces the Commercial Book Copyright Firewall across every newly staged episode (or any existing story missing exhibits):
-- **`CC BY 3.0` / `CC BY 4.0` / `CC0`:** Selects the highest-value dignified clinical figure (X-ray, CT, MRI, ECG, ultrasound, endoscopy, clinical photo), optimizes to `max 1080px` JPEG Q82 in `assets/exhibits/`, applies the opt-in `[ UNSEAL CLINICAL EXHIBIT ]` blur shield to graphic wounds/gross pathology, and records full citation + license metadata.
-- **`CC BY-NC` / `CC BY-NC-ND`:** Never downloaded locally; automatically generates an External Clinical Evidence Locker link-out bar pointing directly to PMC.
+## Step 2 — Harvest Commercial-Book-Safe Visual Exhibits (`scripts/harvest_exhibits.py` + `scripts/harvest_reference_exhibits.py`)
+Enforces the Commercial Book Copyright Firewall (**strictly allowed:** `CC BY 4.0`, `CC BY 3.0`, `CC BY 2.0`, `CC0 1.0`, `Public Domain` / US Gov; **hard-rejected:** `CC BY-NC`, `CC BY-ND`, `CC BY-SA`, GFDL, or unverified licenses):
+- **Tier 1 — Primary Case Report (`scripts/harvest_exhibits.py`):** Selects the highest-value dignified clinical figure from each story's cited `CC BY` / `CC0` PMC article, optimizes to `max 1080px` JPEG Q82 in `assets/exhibits/`, applies the opt-in `[ UNSEAL CLINICAL EXHIBIT ]` blur shield to graphic wounds/gross pathology/endoscopy/histology, and creates External Clinical Evidence Lockers for `CC BY-NC` / `NC-ND` primary papers.
+- **Tier 2 & 3 — Peer-Reviewed Reference & Hazard Field Photos (`scripts/harvest_reference_exhibits.py`):** Where a primary paper has no commercial-safe figure, searches Europe PMC OA `CC BY` cases (`tier: "reference"`, clearly labeled *"Illustrative — not the index patient"*) and Wikimedia Commons `PD`/`CC0`/`CC BY` photos (`tier: "hazard"`, clearly labeled *"Illustrative — not the index scene"*), rendering 4×4 contact sheets for visual review before merging.
 
 ```bash
-python3 scripts/harvest_exhibits.py --manifest /tmp/next_wave/manifest.json --out /tmp/next_wave/preharvest_exhibits.json
+python3 scripts/harvest_exhibits.py --manifest /tmp/next_wave/enriched_manifest.json --out /tmp/next_wave/preharvest_exhibits.json
+# Optional: fill any remaining visual gaps with visually-audited Tier 2/3 commercial-safe exhibits
+python3 scripts/harvest_reference_exhibits.py --out /tmp/next_wave/ref_staged.json --contact-sheets /tmp/next_wave/sheets
 ```
 
-*(Always audit the printed captions before publishing to confirm dignity and blur-shield settings.)*
+*(Always visually audit contact sheets before publishing to confirm subject accuracy, dignity, and blur-shield settings.)*
 
 ## Step 3 — Draft Chapters + Quizzes & Merge (`scripts/merge_wave.py`)
 Draft each episode into `{catalogEntry, storyEntry, quiz}` following `EDITORIAL_VOICE.md`, then validate and merge cleanly into `data/catalog.json`, `data/stories.json`, and `data/exhibits.json`:
@@ -38,11 +40,11 @@ This automatically:
 - Refreshes the **`🆕 Latest Studio Drops`** Starter Pack (`?pack=latest`) and expands the randomized Survival Exam pool
 - Clears newly ingested episodes from the Studio Watchlist
 
-## Step 4 — Build Book (Auto TOC + Sequential Chapters + Embedded SVG Diagrams + Illustrated PDF), Deploy, Backup & Sync Google Doc (`scripts/publish_release.py`)
-Runs `scripts/build_all.py --pdf` (embedding all verified `CC BY` clinical exhibits **and** all bespoke vector SVG infographics directly into the printable book), verifies JS syntax & exhibit integrity, commits and pushes to GitHub Pages (auto-updating `https://my-ordinary-tuesday.carrd.co/`), refreshes every Google Drive Vault file in-place (`--max 0`, zero duplicates), and optionally syncs your native Google Doc Master Lineup (`--sync-doc`):
+## Step 4 — Build Book + Image Stock Ledger + PDF, Publish GitHub Release, Backup Drive & Sync Google Doc (`scripts/publish_release.py`)
+Runs `scripts/build_all.py --pdf` (embedding all verified Tier 1/2/3 exhibits **and** all bespoke vector SVG infographics directly into the printable book, plus generating `assets/exhibits/IMAGE_STOCK_MANIFEST.csv` and `book/IMAGE_STOCK_LICENSE_LEDGER.md`), verifies JS syntax, exhibit integrity, and zero commercial-license violations, commits and pushes to GitHub Pages (auto-updating `https://my-ordinary-tuesday.carrd.co/`), updates the public GitHub Release `latest-book` (`Ordinary_Tuesday_Book_Draft_Latest.pdf`, `Ordinary_Tuesday_Images_Stock_All_Exhibits.zip`, `Ordinary_Tuesday_All_<N>_Chapters_MD.zip`), refreshes every Google Drive Vault file & browsable `Images_Stock_and_Exhibits/` folder in-place (`--max 0`, zero duplicates), and syncs your native Google Doc Master Lineup (`--sync-doc`):
 
 ```bash
-python3 scripts/publish_release.py --sync-doc --message "Wave 6: Add next chapters + clinical exhibits"
+python3 scripts/publish_release.py --sync-doc --message "Wave N: Add next chapters + clinical exhibits"
 ```
 
 ### How Book Positioning Works

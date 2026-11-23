@@ -242,8 +242,20 @@ def main():
     for sl in bespoke_ids:
         exhibits["stories"].setdefault(sl, {})["diagramId"] = sl
 
-    # Refresh Starter Packs & add/update ?pack=latest
-    exhibit_slugs = [c["slug"] for c in catalog["cases"] if exhibits["stories"].get(c["slug"], {}).get("clinicalFigures")]
+    # Refresh Starter Packs & add/update ?pack=latest + 3-tier exhibit counts
+    exhibit_slugs, primary_slugs, ref_slugs, haz_slugs = [], [], [], []
+    for c in catalog["cases"]:
+        sl = c["slug"]
+        figs = exhibits["stories"].get(sl, {}).get("clinicalFigures") or []
+        if figs:
+            exhibit_slugs.append(sl)
+            tiers_here = {f.get("tier", "primary") for f in figs}
+            if "primary" in tiers_here:
+                primary_slugs.append(sl)
+            elif "reference" in tiers_here:
+                ref_slugs.append(sl)
+            elif "hazard" in tiers_here:
+                haz_slugs.append(sl)
     pet_count = sum(1 for c in catalog["cases"] if c["part"] == "pets")
     packs = [p for p in exhibits.get("starterPacks", []) if p.get("id") != "latest"]
     packs.insert(0, {
@@ -254,9 +266,13 @@ def main():
     })
     for pk in packs:
         if pk["id"] == "visual-pilot":
-            pk["label"] = f"🩻 Real Clinical Exhibits ({len(exhibit_slugs)})"
-            pk["tagline"] = f"All {len(exhibit_slugs)} chapters featuring verified commercial-safe CC-BY X-rays, CTs, MRIs, ECGs, ultrasounds, and opt-in unsealable clinical photographs."
+            pk["label"] = f"🩻 All Verified Exhibits ({len(exhibit_slugs)})"
+            pk["tagline"] = f"All {len(exhibit_slugs)} chapters featuring commercial-cleared primary case imaging ({len(primary_slugs)}), peer-reviewed reference exhibits ({len(ref_slugs)}), and verified hazard field photos ({len(haz_slugs)})."
             pk["slugs"] = exhibit_slugs
+        elif pk["id"] == "primary-exhibits":
+            pk["label"] = f"🏥 Primary Case Exhibits ({len(primary_slugs)})"
+            pk["tagline"] = f"The {len(primary_slugs)} chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report."
+            pk["slugs"] = primary_slugs
         elif pk["id"] == "infographics":
             pk["label"] = f"📐 Signature Forensic Diagrams ({len(bespoke_ids)})"
             pk["tagline"] = f"All {len(bespoke_ids)} chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms."
@@ -274,6 +290,9 @@ def main():
         "totalStoriesEnriched": len(all_slugs),
         "ccByClinicalExhibitStories": len(exhibit_slugs),
         "ccByClinicalExhibitImages": img_count,
+        "primaryClinicalExhibitStories": len(primary_slugs),
+        "referenceClinicalExhibitStories": len(ref_slugs),
+        "hazardFieldPhotoStories": len(haz_slugs),
         "bespokeInfographics": len(bespoke_ids),
         "dynamicBlueprintStories": len(all_slugs) - len(bespoke_ids),
         "perStoryQuizzes": quiz_count,

@@ -294,6 +294,7 @@ def harvest_for_pmcs(slug, pmcids):
                         cap_clean = cap_clean[:277].rsplit(" ", 1)[0] + "…"
                     blur = should_blur(cap_clean)
                     return [{
+                        "tier": "primary",
                         "exhibitCode": classify_code(cap_clean),
                         "src": f"assets/exhibits/{dest_name}",
                         "caption": cap_clean,
@@ -301,7 +302,7 @@ def harvest_for_pmcs(slug, pmcids):
                         "blurredByDefault": blur,
                         "citation": f"{fig['label']} from {meta['author']} et al. ({meta['year']}), {meta['journal']} · {pmcid}",
                         "license": meta["license"],
-                        "licenseUrl": meta["licenseUrl"],
+                        "licenseUrl": meta["licenseUrl"].replace("http://", "https://"),
                         "sourceUrl": f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/",
                     }], []
                 else:

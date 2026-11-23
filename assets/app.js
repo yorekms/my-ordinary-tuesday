@@ -959,9 +959,11 @@
         ex.clinicalFigures.map(function (fig, fi) {
           const blur = !!fig.blurredByDefault;
           const tier = fig.tier || 'primary';
-          const headSuffix = tier === 'reference'
-            ? 'PEER-REVIEWED REFERENCE CASE'
-            : (tier === 'hazard' ? 'VERIFIED HAZARD PHOTO' : 'PRIMARY PEER-REVIEWED EVIDENCE');
+          const headText = tier === 'reference'
+            ? esc(fig.exhibitCode || ('REFERENCE EXHIBIT ' + (fi + 1))) + ' · PEER-REVIEWED REFERENCE CASE'
+            : (tier === 'hazard'
+              ? 'HAZARD REFERENCE · VERIFIED FIELD PHOTO'
+              : esc(fig.exhibitCode || ('EXHIBIT ' + (fi + 1))) + ' · PRIMARY PEER-REVIEWED EVIDENCE');
           const disclosureHtml = tier === 'reference'
             ? '<div class="ot-exhibit-disclosure"><strong>ILLUSTRATIVE REFERENCE EXHIBIT:</strong> Verified CC BY diagnostic imaging from a separate peer-reviewed publication showing the same clinical mechanism (not the index patient).</div>'
             : (tier === 'hazard'
@@ -975,7 +977,7 @@
           return (
             '<figure class="ot-exhibit-card tier-' + esc(tier) + '" data-exhibit-idx="' + fi + '">' +
               '<div class="ot-exhibit-head">' +
-                '<span>' + esc(fig.exhibitCode || ('EXHIBIT ' + (fi + 1))) + ' · ' + headSuffix + '</span>' +
+                '<span>' + headText + '</span>' +
                 '<span class="ot-exhibit-head-right">' +
                   '<button type="button" class="ot-zoom-btn ot-no-print" data-zoom-btn="' + fi + '" title="Inspect full-resolution exhibit">🔍 Zoom</button>' +
                   '<a class="ot-lic-pill" href="' + esc(fig.licenseUrl || '#') + '" target="_blank" rel="noopener">✓ ' + esc(fig.license || 'CC BY') + '</a>' +

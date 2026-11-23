@@ -1,17 +1,17 @@
 {
   "meta": {
-    "updated": "2026-11-22",
-    "totalStoriesEnriched": 208,
-    "ccByClinicalExhibitStories": 170,
-    "ccByClinicalExhibitImages": 174,
-    "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 178,
-    "perStoryQuizzes": 208,
-    "examPoolSize": 54,
-    "externalFigureLinkoutStories": 39,
-    "primaryClinicalExhibitStories": 95,
+    "updated": "2026-11-23",
+    "totalStoriesEnriched": 214,
+    "ccByClinicalExhibitStories": 176,
+    "ccByClinicalExhibitImages": 180,
+    "primaryClinicalExhibitStories": 101,
     "referenceClinicalExhibitStories": 48,
-    "hazardFieldPhotoStories": 27
+    "hazardFieldPhotoStories": 27,
+    "bespokeInfographics": 30,
+    "dynamicBlueprintStories": 184,
+    "perStoryQuizzes": 214,
+    "examPoolSize": 58,
+    "externalFigureLinkoutStories": 39
   },
   "stories": {
     "fractal-wood-burning": {
@@ -7371,6 +7371,222 @@
           "bytes": 311075
         }
       ]
+    },
+    "adhesive-behind-the-marrow-zinc": {
+      "quiz": {
+        "prompt": "A denture wearer whose plates have grown loose over the past few years notices persistent dizziness, pale skin, a pounding heartbeat, and new tingling in both feet—though a home pulse oximeter reads 98%. What is the safest action?",
+        "options": [
+          {
+            "label": "Stop using the denture adhesive, seek prompt medical evaluation (or emergency transport if palpitations persist or pair with chest pain, breathlessness, or faintness), bring the adhesive tube and all product lists, and never self-prescribe copper pills.",
+            "correct": true,
+            "feedback": "Survived Tuesday! A 98% pulse oximeter cannot detect catastrophic anemia, tingling extremities are an explicit FDA warning sign to halt adhesive use and see a physician, and full product disclosure plus monitored clinical care solve the crisis safely."
+          },
+          {
+            "label": "Reassure yourself with the 98% oxygen reading, switch to a slightly thinner layer of the same paste, and add over-the-counter copper tablets to rebalance your minerals at home.",
+            "correct": false,
+            "feedback": "Pulse oximetry measures hemoglobin saturation percentage—not total hemoglobin volume—and playing bathroom chemist with unmonitored copper pills risks swinging into a separate trace-metal toxicity."
+          },
+          {
+            "label": "Drive straight to a blood-draw lab to request an isolated serum ferritin test before calling a doctor, since normal ferritin rules out severe blood-production problems.",
+            "correct": false,
+            "feedback": "Never drive yourself when dizzy with severe palpitations—and ferritin is an acute-phase reactant that sat at a deceptively normal 47.7 ng/mL even while the primary patient’s hemoglobin was 4.5 g/dL."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · MARROW MICROSCOPY",
+          "src": "assets/exhibits/PMC7495772_ccr3-8-1666-g001.jpg",
+          "caption": "Bone marrow biopsy histopathology findings showing (A) ring sideroblast, (B) iron granules in plasma cell, (C) core biopsy with hypercellular marrow, and (D) vacuoles in erythroid and myeloid precursors",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "FIGURE 1 from Wahab et al. (2020), Clinical Case Reports · PMC7495772",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7495772/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "iron-beyond-the-age-label-hemochromatosis": {
+      "quiz": {
+        "prompt": "A 42-year-old adult develops unexplained amenorrhea, intense thirst, weight loss, and a mildly elevated ALT of 51 U/L (reference 5–40), followed later by confirmed HJV-related iron overload. Which clinical move reflects sound evidence?",
+        "options": [
+          {
+            "label": "Dismiss HJV hemochromatosis because ‘juvenile’ onset stops before age 30 and an ALT of 51 rules out heavy liver iron deposition.",
+            "correct": false,
+            "feedback": "‘Juvenile’ is historical shorthand rather than an age exclusion—both HJV sisters presented at ages 37 and 52 with identical ALTs of 51 despite massive biopsy-proven liver iron loading."
+          },
+          {
+            "label": "Connect the multi-system symptoms for coordinated specialist workup, pursue physician-directed phlebotomy with ongoing organ surveillance even after ferritin normalizes, and arrange formal genetics-led family evaluation.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Bridging endocrine and liver silos catches systemic iron overload, monitored phlebotomy halts ongoing oxidation without guaranteeing automatic organ reversal, and formal genetics cleanly distinguishes carriers from affected relatives."
+          },
+          {
+            "label": "Once phlebotomy drops serum ferritin below 50 ng/mL, discontinue endocrinology and cardiology follow-up and maintain iron control with regular community blood drives and green tea.",
+            "correct": false,
+            "feedback": "Dropping ferritin stops ongoing metal accumulation but does not automatically repair damaged pancreatic beta cells, liver scarring, or heart muscle—and DIY blood drives or green-tea protocols are never substitutes for medical management."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · GENETIC PEDIGREE & SEQUENCING",
+          "src": "assets/exhibits/PMC7465211_pharmaceuticals-13-00195-g001.jpg",
+          "caption": "The sequence analysis of HJV exon 4 of the proband (patient #1) and the family tree. The homozygous missense mutation c.842T > C, p.I281T (red arrow) is shown. (a). The proband (P: patient #1) and the elder sister (patient #2) developed hemochromatosis, while the other family…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Takami et al. (2020), Pharmaceuticals · PMC7465211",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7465211/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "newt-and-the-trading-network-bsal": {
+      "quiz": {
+        "prompt": "You buy a native-species newt at an amphibian expo; the breeder shows a plump, active animal and a negative Bsal qPCR lab report from three weeks ago. Two weeks after bringing it home, another salamander in your room develops skin erosions and stops moving normally. What is the right protocol?",
+        "options": [
+          {
+            "label": "Release the healthy-looking native newt into a nearby natural stream so it escapes the tank outbreak, then treat the sick salamander with an aquarium-forum chemical bath.",
+            "correct": false,
+            "feedback": "Never release any captive amphibian—even a native species carries global captive-trade exposure history and can ignite a wildlife catastrophe—and DIY forum baths risk harm while delaying diagnosis."
+          },
+          {
+            "label": "Walk straight into the nearest small-animal veterinary waiting room with the sick salamander while assuming the new acquisition is cleared by its three-week-old negative PCR.",
+            "correct": false,
+            "feedback": "Unannounced clinic entry risks contaminating waiting rooms with resilient spores, and a three-week-old negative PCR is only a past snapshot—not permanent clearance."
+          },
+          {
+            "label": "Call an amphibian-experienced veterinarian before transporting the animal, halt all transfers and tank shuffles, share exact species and movement records, follow local wildlife reporting rules, and secure professional disposal plans for tank water and materials.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Calling ahead enables clinic isolation, freezing movement contains network uncertainty, movement ledgers guide tracing, and keeping captive animals and untreated tank water away from wild ecosystems prevents ecological spillover."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · HISTOPATHOLOGY",
+          "src": "assets/exhibits/PMC6138723_41598_2018_31800_fig2_html.jpg",
+          "caption": "Section of hindlimb digit from a Lissotriton boscai euthanased on welfare grounds from Collection A (stained with haematoxylin and eosin). Black arrow indicates an epidermal erosion. Fungal zoosporangia (circled) are visible throughout the epidermis.",
+          "spoilerNote": "Contains real surgical, endoscopic, or pathology photography from the primary journal report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Figure 2 from Fitzpatrick et al. (2018), Scientific Reports · PMC6138723",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6138723/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "gate-between-farmer-and-cow-polytrauma": {
+      "quiz": {
+        "prompt": "While vaccinating a calf, a coworker is knocked beneath a metal gate and stomped by the mother cow. He pulls himself outside the fence fully alert, speaking clearly, and complains only of shortness of breath and soreness. What is the safest immediate response?",
+        "options": [
+          {
+            "label": "Call 911 immediately, clearly report the gate-and-cow crush mechanism alongside pasture access and animal location, keep bystanders out of the unsafe pen, and wait for EMS transport rather than driving him in a pickup.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Alertness (GCS 15) and an isolated breathing complaint can mask 13 broken rib levels, pneumothorax, and solid-organ lacerations; reporting the crush mechanism triggers proper trauma triage, and EMS can decompress a tension pneumothorax en route."
+          },
+          {
+            "label": "Load him into the passenger seat of a farm truck and drive rapidly to the nearest clinic because he is fully awake and waiting for an ambulance wastes precious minutes.",
+            "correct": false,
+            "feedback": "Driving a crush-trauma patient down bumpy rural roads risks turning a simple lung air leak into a fatal tension pneumothorax miles from emergency chest decompression."
+          },
+          {
+            "label": "Monitor him at the farmhouse for a few hours and call emergency services only if he starts coughing up blood or loses consciousness.",
+            "correct": false,
+            "feedback": "NHS rib-injury guidance stresses that serious accidents and worsening breathlessness warrant immediate emergency evaluation without waiting for multiple severe symptoms to stack up."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC12182214_cureus-0017-00000084497-i01.jpg",
+          "caption": "CT scan of the face showing a displaced left mandibular fracture (black arrow)",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Laxton et al. (2025), Cureus · PMC12182214",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12182214/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "parrot-and-four-different-records-psittacosis": {
+      "quiz": {
+        "prompt": "Two weeks after your household adopts a new parrot that dies without veterinary testing, one adult is hospitalized with confirmed Chlamydia psittaci pneumonia while a child’s initial cough improves and then returns worse than before. What should you do?",
+        "options": [
+          {
+            "label": "Assume the entire family has identical psittacosis from the parrot and dry-vacuum the bird’s cage thoroughly to clear any leftover droppings before calling a doctor.",
+            "correct": false,
+            "feedback": "Dry-vacuuming dried droppings aerosolizes C. psittaci into breathable dust, and shared household exposure does not guarantee identical diagnoses—in Shanghai, the child tested negative for C. psittaci and IgM-positive for Influenza B."
+          },
+          {
+            "label": "Have the child promptly reassessed by a clinician with the exact bird timeline and the adult’s confirmed record shared as context—keeping each person’s evaluation separate—and avoid disturbing dried droppings while coordinating veterinary and public health advice.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Rebounding respiratory symptoms warrant prompt independent evaluation, sharing bird dates and household context guides testing without flattening four people into one chart, and avoiding dried-dust disturbance protects lungs."
+          },
+          {
+            "label": "Wait at home until specialized PCR tests come back on the adult’s stored samples and confirm whether the family’s other birds look visibly sick first.",
+            "correct": false,
+            "feedback": "Never delay clinical assessment for rebounding illness while waiting on lab labels—and birds are prey animals that can actively shed C. psittaci while looking completely healthy."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC10548267_fcimb-13-1249225-g001.jpg",
+          "caption": "Chest CT indicates inflammation and other lesions in the lung of four patients. (A) Chest CT in case 1; (B) Chest CT in case 2; (C) Chest CT in case 3; (D) Chest CT in case 4.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Xu et al. (2023), Frontiers in Cellular and Infection Microbiology · PMC10548267",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10548267/",
+          "tier": "primary"
+        }
+      ]
+    },
+    "feeding-tool-became-foreign-body-pet": {
+      "quiz": {
+        "prompt": "While hand-feeding a young macaw, the silicone tube tip detaches from the syringe and disappears down her throat. Ten minutes later she is perched brightly, acting normal, and showing zero choking or vomiting. What is the safest move?",
+        "options": [
+          {
+            "label": "Offer a small syringe of warm formula as a ‘feeding trial’ to check whether liquid moves smoothly past the tube and wait 24 hours to see if she vomits.",
+            "correct": false,
+            "feedback": "Wait-and-see logic fails avian patients—Case 1 harbored a tube and steel hub for 7 symptom-free days—and feeding trials risk crop distension and fatal aspiration across an epiglottis-free glottis."
+          },
+          {
+            "label": "Gently restrain the bird on her back and use rounded household tweezers to feel for the silicone edge inside the crop before calling a clinic.",
+            "correct": false,
+            "feedback": "Blind home retrieval lacerates or punctures delicate crop mucosa, and flat-on-the-back dorsal restraint compresses abdominal air sacs."
+          },
+          {
+            "label": "Call an avian-capable veterinarian immediately, report the exact detached part and ingestion time, and text a photo of an identical intact syringe en route without delaying care.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Immediate specialist contact prevents waiting until necrosis or obstruction hits, confirms avian micro-instrumentation is ready, and a photo of an identical syringe helps clinicians select the right endoscope and forceps before arrival."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH & EXTRACTED DEVICE",
+          "src": "assets/exhibits/PMC10741034_primary_fig1.jpg",
+          "caption": "Images of the blue-and-yellow macaw (Ara ararauna) in Case 1. (a) X-ray image captured in the lateral view, clearly showing the presence of stainless steel foreign bodies (arrow). (b) Feeding tube removed under endoscopic guidance with the patient in ventral recumbency (Case 1-1). (c)…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Kim et al. (2023), Animals : an Open Access Journal from MDPI · PMC10741034",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10741034/"
+        }
+      ]
     }
   },
   "exam": [
@@ -8561,26 +8777,114 @@
           "why": "Ordinary sunglasses do not block coherent laser beams, and specular reflections off household surfaces can inflict a second permanent retinal burn."
         }
       ]
+    },
+    {
+      "q": "A denture wearer whose plates have grown loose over the past few years notices persistent dizziness, pale skin, a pounding heartbeat, and new tingling in both feet—though a home pulse oximeter reads 98%. What is the safest action?",
+      "caseSlug": "adhesive-behind-the-marrow-zinc",
+      "caseRef": "Case 209",
+      "options": [
+        {
+          "label": "Stop using the denture adhesive, seek prompt medical evaluation (or emergency transport if palpitations persist or pair with chest pain, breathlessness, or faintness), bring the adhesive tube and all product lists, and never self-prescribe copper pills.",
+          "ok": true,
+          "why": "Survived Tuesday! A 98% pulse oximeter cannot detect catastrophic anemia, tingling extremities are an explicit FDA warning sign to halt adhesive use and see a physician, and full product disclosure plus monitored clinical care solve the crisis safely."
+        },
+        {
+          "label": "Reassure yourself with the 98% oxygen reading, switch to a slightly thinner layer of the same paste, and add over-the-counter copper tablets to rebalance your minerals at home.",
+          "ok": false,
+          "why": "Pulse oximetry measures hemoglobin saturation percentage—not total hemoglobin volume—and playing bathroom chemist with unmonitored copper pills risks swinging into a separate trace-metal toxicity."
+        },
+        {
+          "label": "Drive straight to a blood-draw lab to request an isolated serum ferritin test before calling a doctor, since normal ferritin rules out severe blood-production problems.",
+          "ok": false,
+          "why": "Never drive yourself when dizzy with severe palpitations—and ferritin is an acute-phase reactant that sat at a deceptively normal 47.7 ng/mL even while the primary patient’s hemoglobin was 4.5 g/dL."
+        }
+      ]
+    },
+    {
+      "q": "A 42-year-old adult develops unexplained amenorrhea, intense thirst, weight loss, and a mildly elevated ALT of 51 U/L (reference 5–40), followed later by confirmed HJV-related iron overload. Which clinical move reflects sound evidence?",
+      "caseSlug": "iron-beyond-the-age-label-hemochromatosis",
+      "caseRef": "Case 210",
+      "options": [
+        {
+          "label": "Dismiss HJV hemochromatosis because ‘juvenile’ onset stops before age 30 and an ALT of 51 rules out heavy liver iron deposition.",
+          "ok": false,
+          "why": "‘Juvenile’ is historical shorthand rather than an age exclusion—both HJV sisters presented at ages 37 and 52 with identical ALTs of 51 despite massive biopsy-proven liver iron loading."
+        },
+        {
+          "label": "Connect the multi-system symptoms for coordinated specialist workup, pursue physician-directed phlebotomy with ongoing organ surveillance even after ferritin normalizes, and arrange formal genetics-led family evaluation.",
+          "ok": true,
+          "why": "Survived Tuesday! Bridging endocrine and liver silos catches systemic iron overload, monitored phlebotomy halts ongoing oxidation without guaranteeing automatic organ reversal, and formal genetics cleanly distinguishes carriers from affected relatives."
+        },
+        {
+          "label": "Once phlebotomy drops serum ferritin below 50 ng/mL, discontinue endocrinology and cardiology follow-up and maintain iron control with regular community blood drives and green tea.",
+          "ok": false,
+          "why": "Dropping ferritin stops ongoing metal accumulation but does not automatically repair damaged pancreatic beta cells, liver scarring, or heart muscle—and DIY blood drives or green-tea protocols are never substitutes for medical management."
+        }
+      ]
+    },
+    {
+      "q": "You buy a native-species newt at an amphibian expo; the breeder shows a plump, active animal and a negative Bsal qPCR lab report from three weeks ago. Two weeks after bringing it home, another salamander in your room develops skin erosions and stops moving normally. What is the right protocol?",
+      "caseSlug": "newt-and-the-trading-network-bsal",
+      "caseRef": "Case 211",
+      "options": [
+        {
+          "label": "Release the healthy-looking native newt into a nearby natural stream so it escapes the tank outbreak, then treat the sick salamander with an aquarium-forum chemical bath.",
+          "ok": false,
+          "why": "Never release any captive amphibian—even a native species carries global captive-trade exposure history and can ignite a wildlife catastrophe—and DIY forum baths risk harm while delaying diagnosis."
+        },
+        {
+          "label": "Walk straight into the nearest small-animal veterinary waiting room with the sick salamander while assuming the new acquisition is cleared by its three-week-old negative PCR.",
+          "ok": false,
+          "why": "Unannounced clinic entry risks contaminating waiting rooms with resilient spores, and a three-week-old negative PCR is only a past snapshot—not permanent clearance."
+        },
+        {
+          "label": "Call an amphibian-experienced veterinarian before transporting the animal, halt all transfers and tank shuffles, share exact species and movement records, follow local wildlife reporting rules, and secure professional disposal plans for tank water and materials.",
+          "ok": true,
+          "why": "Survived Tuesday! Calling ahead enables clinic isolation, freezing movement contains network uncertainty, movement ledgers guide tracing, and keeping captive animals and untreated tank water away from wild ecosystems prevents ecological spillover."
+        }
+      ]
+    },
+    {
+      "q": "While vaccinating a calf, a coworker is knocked beneath a metal gate and stomped by the mother cow. He pulls himself outside the fence fully alert, speaking clearly, and complains only of shortness of breath and soreness. What is the safest immediate response?",
+      "caseSlug": "gate-between-farmer-and-cow-polytrauma",
+      "caseRef": "Case 212",
+      "options": [
+        {
+          "label": "Call 911 immediately, clearly report the gate-and-cow crush mechanism alongside pasture access and animal location, keep bystanders out of the unsafe pen, and wait for EMS transport rather than driving him in a pickup.",
+          "ok": true,
+          "why": "Survived Tuesday! Alertness (GCS 15) and an isolated breathing complaint can mask 13 broken rib levels, pneumothorax, and solid-organ lacerations; reporting the crush mechanism triggers proper trauma triage, and EMS can decompress a tension pneumothorax en route."
+        },
+        {
+          "label": "Load him into the passenger seat of a farm truck and drive rapidly to the nearest clinic because he is fully awake and waiting for an ambulance wastes precious minutes.",
+          "ok": false,
+          "why": "Driving a crush-trauma patient down bumpy rural roads risks turning a simple lung air leak into a fatal tension pneumothorax miles from emergency chest decompression."
+        },
+        {
+          "label": "Monitor him at the farmhouse for a few hours and call emergency services only if he starts coughing up blood or loses consciousness.",
+          "ok": false,
+          "why": "NHS rib-injury guidance stresses that serious accidents and worsening breathlessness warrant immediate emergency evaluation without waiting for multiple severe symptoms to stack up."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 7 Drops (Ep 2755–2760) (6)",
-      "tagline": "Freshly added on 2026-11-22 — 6 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 8 Drops (Ep 2761–2766) (6)",
+      "tagline": "Freshly added on 2026-11-23 — 6 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "spleen-after-the-ascent-altitude",
-        "antibody-and-the-scar-kidney",
-        "hazard-along-winter-shore-dog",
-        "missing-spot-after-the-light-laser",
-        "cataract-pointed-beyond-the-eye",
-        "worm-in-lungs-blood-supply-dog"
+        "adhesive-behind-the-marrow-zinc",
+        "iron-beyond-the-age-label-hemochromatosis",
+        "newt-and-the-trading-network-bsal",
+        "gate-between-farmer-and-cow-polytrauma",
+        "parrot-and-four-different-records-psittacosis",
+        "feeding-tool-became-foreign-body-pet"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (170)",
-      "tagline": "All 170 chapters featuring commercial-cleared primary case imaging (95), peer-reviewed reference exhibits (48), and verified hazard field photos (27).",
+      "label": "🩻 All Verified Exhibits (176)",
+      "tagline": "All 176 chapters featuring commercial-cleared primary case imaging (101), peer-reviewed reference exhibits (48), and verified hazard field photos (27).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -8751,13 +9055,19 @@
         "antibody-and-the-scar-kidney",
         "hazard-along-winter-shore-dog",
         "missing-spot-after-the-light-laser",
-        "worm-in-lungs-blood-supply-dog"
+        "worm-in-lungs-blood-supply-dog",
+        "adhesive-behind-the-marrow-zinc",
+        "iron-beyond-the-age-label-hemochromatosis",
+        "newt-and-the-trading-network-bsal",
+        "gate-between-farmer-and-cow-polytrauma",
+        "parrot-and-four-different-records-psittacosis",
+        "feeding-tool-became-foreign-body-pet"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (95)",
-      "tagline": "The 95 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (101)",
+      "tagline": "The 101 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -8853,7 +9163,13 @@
         "sun-completed-the-exposure-phytophoto",
         "spleen-after-the-ascent-altitude",
         "antibody-and-the-scar-kidney",
-        "missing-spot-after-the-light-laser"
+        "missing-spot-after-the-light-laser",
+        "adhesive-behind-the-marrow-zinc",
+        "iron-beyond-the-age-label-hemochromatosis",
+        "newt-and-the-trading-network-bsal",
+        "gate-between-farmer-and-cow-polytrauma",
+        "parrot-and-four-different-records-psittacosis",
+        "feeding-tool-became-foreign-body-pet"
       ]
     },
     {
@@ -8861,36 +9177,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "battery-already-in-the-stomach",
-        "hair-treatment-reached-the-cat",
-        "small-hands-moving-treadmill-belt",
-        "super-rat-bait-and-vitamin-k-trap",
-        "boots-in-the-snow-and-heatstroke",
+        "room-not-safe-to-finish",
+        "wire-behind-the-pain",
+        "fractal-wood-burning",
+        "thyroid-that-changed-in-the-test-biotin",
+        "family-behind-the-enzyme-g6pd",
+        "dry-ice-riding-shotgun",
+        "tank-after-the-collapse-h2s",
+        "anesthetic-that-triggered-the-furnace",
+        "ring-and-unbroken-bone-avulsion",
+        "puppy-with-the-twisted-stomach-gdv",
+        "burn-looked-like-infection-wet-cement",
+        "charger-between-phone-and-wall",
         "aquarium-more-than-one-patient-palytoxin",
         "handlebar-and-hidden-pancreatic-duct",
-        "one-finger-varicose-vein",
-        "room-not-safe-to-finish",
-        "anesthetic-that-triggered-the-furnace",
         "driveway-ied-truck-tire",
-        "puppy-with-the-twisted-stomach-gdv",
+        "one-finger-varicose-vein",
+        "small-hands-moving-treadmill-belt",
         "spin-class-rhabdo",
-        "thyroid-that-changed-in-the-test-biotin",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "charger-between-phone-and-wall",
-        "thread-across-the-road-kite-string",
-        "burn-looked-like-infection-wet-cement",
-        "pool-had-another-hazard-drain-suction",
-        "wire-behind-the-pain",
-        "ring-and-unbroken-bone-avulsion",
-        "reheated-rice-and-botulism",
         "hot-baths-fentanyl-patches-deadly",
-        "chocolate-brown-blood",
+        "reheated-rice-and-botulism",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "van-that-was-not-empty",
+        "super-rat-bait-and-vitamin-k-trap",
+        "boots-in-the-snow-and-heatstroke",
         "potassium-that-rose-in-the-tube",
-        "fractal-wood-burning",
-        "family-behind-the-enzyme-g6pd",
-        "tank-after-the-collapse-h2s",
-        "dry-ice-riding-shotgun",
-        "van-that-was-not-empty"
+        "thread-across-the-road-kite-string",
+        "hair-treatment-reached-the-cat",
+        "pool-had-another-hazard-drain-suction",
+        "chocolate-brown-blood",
+        "battery-already-in-the-stomach"
       ]
     },
     {
@@ -8946,7 +9262,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 38",
+      "label": "🐾 Pet Owner’s Mandatory 41",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
