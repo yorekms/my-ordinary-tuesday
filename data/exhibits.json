@@ -1,17 +1,17 @@
 {
   "meta": {
     "updated": "2026-11-24",
-    "totalStoriesEnriched": 244,
-    "ccByClinicalExhibitStories": 202,
-    "ccByClinicalExhibitImages": 206,
-    "primaryClinicalExhibitStories": 118,
-    "referenceClinicalExhibitStories": 52,
+    "totalStoriesEnriched": 249,
+    "ccByClinicalExhibitStories": 207,
+    "ccByClinicalExhibitImages": 212,
+    "primaryClinicalExhibitStories": 122,
+    "referenceClinicalExhibitStories": 53,
     "hazardFieldPhotoStories": 32,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 214,
-    "perStoryQuizzes": 244,
-    "examPoolSize": 70,
-    "externalFigureLinkoutStories": 45
+    "dynamicBlueprintStories": 219,
+    "perStoryQuizzes": 249,
+    "examPoolSize": 75,
+    "externalFigureLinkoutStories": 46
   },
   "stories": {
     "fractal-wood-burning": {
@@ -8653,6 +8653,210 @@
           "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200917/"
         }
       ]
+    },
+    "biopsy-that-looked-like-celiac-olmesartan": {
+      "quiz": {
+        "prompt": "A 68-year-old relative who has taken an olmesartan blood pressure pill smoothly for four years develops weeks of severe diarrhea, vomiting, and weight loss; emergency IV fluids bring creatinine back to normal and blood albumin reads normal, yet bowel symptoms keep raging. What is the safest next step?",
+        "options": [
+          {
+            "label": "Ensure continued prompt clinical investigation with a full list of all long-term prescriptions and combination pills, recognize that normal albumin and improved kidney labs do not prove intestinal healing, and never stop or swap blood pressure medication without clinician oversight.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Kulai et al.’s 2016 case, normal albumin (40 g/L) and 5-day kidney recovery masked near-complete duodenal villous atrophy—resolving the root cause requires coordinated medical evaluation and supervised antihypertensive substitution, never unilateral pill stoppage."
+          },
+          {
+            "label": "Stop taking the olmesartan pill immediately on your own tonight and launch a self-directed heavy wheat-bread challenge at home to rule out celiac disease before calling the clinic.",
+            "correct": false,
+            "feedback": "Never abruptly quit blood pressure medication on your own—uncontrolled hypertension risks stroke, heart attack, and kidney failure—and DIY gluten experiments can derail legitimate clinical celiac workups."
+          },
+          {
+            "label": "Close the case and wait it out at home with ginger ale, since four trouble-free years clear a daily medication and five days of normalized kidney blood work prove the intestine has recovered.",
+            "correct": false,
+            "feedback": "Olmesartan enteropathy can emerge after years of uneventful use, and IV fluid resuscitation resets kidney filtration on a far faster clock than intestinal villi can regrow (14 weeks in Kulai’s patient)."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · DUODENAL BIOPSY (ON OLMESARTAN)",
+          "src": "assets/exhibits/PMC4904703_cjgh2016-6091571.001.jpg",
+          "caption": "(a) Duodenal biopsy reveals marked villous blunting and expanded lamina propria inflammation mimicking celiac disease (H&E, ×100). (b) Higher-power view shows increased intraepithelial lymphocytes (H&E, ×400).",
+          "spoilerNote": "Duodenal histology from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Kulai et al. (2016), Canadian Journal of Gastroenterology & Hepatology · PMC4904703",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4904703/"
+        },
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT B · FOLLOW-UP BIOPSY (14 WEEKS OFF OLMESARTAN)",
+          "src": "assets/exhibits/PMC4904703_cjgh2016-6091571.002.jpg",
+          "caption": "Follow-up duodenal biopsy 14 weeks after discontinuing olmesartan shows striking histological normalization, with restored normal villous architecture and no increase in intraepithelial lymphocytes (H&E, ×100).",
+          "spoilerNote": "Follow-up duodenal histology after stopping olmesartan from the primary case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Kulai et al. (2016), Canadian Journal of Gastroenterology & Hepatology · PMC4904703",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4904703/"
+        }
+      ]
+    },
+    "burn-marks-and-pellets-eagles": {
+      "quiz": {
+        "prompt": "While hiking public land, you spot a dead eagle with visibly singed feathers lying directly beneath a wooden power pole. Based on Thomason et al. (2023) and the 2024 USGS avian electrocution case definition, what is the safest and most accurate action?",
+        "options": [
+          {
+            "label": "Walk underneath the pole to flip the bird over for entrance wounds, collect a singed feather as evidence, and tell the utility company that electrocution is confirmed.",
+            "correct": false,
+            "feedback": "Approaching power infrastructure risks lethal arc or step-potential shock, handling remains or taking feathers violates the Migratory Bird Treaty Act, and external visuals cannot confirm electrocution or rule out gunshot."
+          },
+          {
+            "label": "Stay far clear of the electrical infrastructure and remains, contact the appropriate local or regional wildlife authority from a safe distance, and report exact location plus visual observations without declaring electrocution as a proven cause.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Keeping distance prevents electrical injury, hands-off reporting preserves legal custody, and under the 2024 USGS definition and Jordan Valley case, only laboratory radiography and pathology can distinguish electrocution from concealed gunshot."
+          },
+          {
+            "label": "Assume shooting is the guaranteed cause since 66.3% of all wild birds in the western United States are shot, and call an out-of-state federal reporting hotline.",
+            "correct": false,
+            "feedback": "The 66.3% figure (116/175) applies strictly to assigned causes along selected power-line corridors—not all wild U.S. birds (and 116/410 is 28.3% of total remains)—and reports must go to the correct local/regional authority without assuming a verdict."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · FORENSIC RADIOGRAPH & WING PHOTO",
+          "src": "assets/exhibits/PMC10440709_gr2.jpg",
+          "caption": "Bald eagle found dead beneath a power line near Jordan Valley, Oregon. Extensive feather singeing (left) initially suggested electrocution, but full-body radiography (right) revealed multiple embedded gunshot pellets (blue circles) tied to fresh wounds—proving the bird was shot before contacting the wires.",
+          "spoilerNote": "Forensic wildlife wing examination and radiograph from the primary peer-reviewed study.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Thomason et al. (2023), iScience · PMC10440709",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10440709/"
+        }
+      ]
+    },
+    "mass-that-was-made-of-gauze-gossypiboma": {
+      "quiz": {
+        "prompt": "Three years after an emergency abdominal surgery where the hospital discharge note recorded a correct sponge count, a patient develops worsening abdominal pain, cannot pass gas or stool, and feels a firm lump despite an earlier routine ultrasound calling it a benign cyst. What is the safest response?",
+        "options": [
+          {
+            "label": "Stay home and press firmly on the lump to check whether it feels fluid-filled, since three years is well past the two-year window and a recorded “correct” surgical count rules out retained material.",
+            "correct": false,
+            "feedback": "Never probe an abdominal mass at home, two years is one individual timeline rather than a safe expiration window (retained items can surface decades later), and 199 of 247 performed counts in retained-sponge sentinel events were recorded as “correct.”"
+          },
+          {
+            "label": "Drive yourself to a routine outpatient clinic next week to demand a specific blood panel that checks for woven cotton fibers.",
+            "correct": false,
+            "feedback": "Inability to pass gas or stool with worsening abdominal pain is an NHS emergency red flag for bowel obstruction requiring immediate emergency services (not self-driving or waiting), and standard blood panels cannot detect cotton textiles."
+          },
+          {
+            "label": "Call local emergency services immediately without driving yourself, share your full prior surgical history and approximate dates alongside the earlier ultrasound result, and let emergency clinicians reassess the evolving symptoms.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Inability to pass stool or gas with pain signals urgent bowel-obstruction risk requiring ambulance care, provisional ultrasound labels can evolve when adhesions shift, and clear surgical history equips clinicians to look past old paperwork."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · EXCISED SURGICAL SPECIMEN",
+          "src": "assets/exhibits/PMC11328475_13037_2024_407_fig1_html.jpg",
+          "caption": "Postoperative photograph of the encapsulated retained laparotomy sponge (gossypiboma) removed two years after Caesarean section after initially mimicking an ovarian cyst on ultrasound.",
+          "spoilerNote": "Contains real surgical specimen photography of the excised retained gauze mass from the primary case report. Breakfast optional.",
+          "blurredByDefault": true,
+          "citation": "Fig. 1 from Elamin et al. (2024), Patient Safety in Surgery · PMC11328475",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11328475/"
+        }
+      ]
+    },
+    "gene-that-was-not-diagnosis-allopurinol": {
+      "quiz": {
+        "prompt": "Three weeks after starting allopurinol—having skipped genetic testing—a patient develops a spreading measles-like body rash, fever, and diarrhea, but has zero mouth sores or skin blisters. An HLA-B*58:01 blood test was just ordered and will take days to return. What is the safest action?",
+        "options": [
+          {
+            "label": "Wait safely at home until the HLA-B*58:01 genetic report comes back, since the absence of mouth blisters rules out severe internal organ drug reactions like DRESS.",
+            "correct": false,
+            "feedback": "In Lucas & Droney’s 2022 case, the patient had zero mucosal lesions yet suffered acute kidney injury (creatinine 214 µmol/L) and liver injury (ALT/AST 224 U/L)—DRESS is a clinical diagnosis that never waits on DNA paperwork."
+          },
+          {
+            "label": "Seek immediate clinical evaluation right now based on the rash and systemic symptoms—with bloodwork to assess kidneys, liver, and blood cells—rather than waiting on pending HLA results or mouth sores.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Real-time symptoms and organ labs write the DRESS diagnosis while the house is on fire; HLA-B*58:01 explains genetic susceptibility but never substitutes for urgent clinical assessment."
+          },
+          {
+            "label": "Assume a consumer DNA ancestry kit taken two years ago clears them of severe allopurinol reactions, and restart a smaller test dose once the skin redness begins fading.",
+            "correct": false,
+            "feedback": "Consumer ancestry kits never replace validated clinical genotyping, skin often clears while internal liver injury still worsens, and culprit drugs must never be restarted or micro-dosed after suspected DRESS."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL DERMATOLOGY",
+          "src": "assets/exhibits/REF_PMC12483764_cureus-0017-00000091354-i02.jpg",
+          "caption": "Cutaneous eruption of allopurinol-induced DRESS syndrome (from a separate asymptomatic-hyperuricemia case): (A) right forearm and (B) lower legs showing diffuse erythematous-to-violaceous infiltrated eruption without blistering.",
+          "spoilerNote": "Illustrative clinical dermatology photo from a separate CC BY allopurinol-DRESS report (not the index patient in Lucas & Droney 2022). Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 2 from Ibrahim et al. (2025), Cureus · PMC12483764 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12483764/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Ko et al. (2015), The BMJ — HLA-B*58:01 prospective genotyping study figure on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4579807/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        },
+        {
+          "label": "Lucas & Droney (2022), Australian Prescriber — Primary allopurinol DRESS case report on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9427627/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "two-infections-same-intestine-raccoons": {
+      "quiz": {
+        "prompt": "A homeowner spots a strangely quiet, apathetic juvenile raccoon sitting motionless beside their backyard porch in broad daylight while their dog barks from the patio door. What is the safest response?",
+        "options": [
+          {
+            "label": "Put on gardening gloves, place the quiet raccoon in a cardboard box in the car, and drive it home or to a clinic yourself since there is no visible diarrhea or bleeding.",
+            "correct": false,
+            "feedback": "Prey-wired wildlife mask severe systemic illness until collapse—in Pütsch et al.’s 2025 report, both fatally co-infected sanctuary raccoons showed only brief apathy with zero observed diarrhea before sudden death, and CDC guidance strictly advises against handling or transporting sick wildlife."
+          },
+          {
+            "label": "Assume it is harmless because wildlife surveys find parvovirus DNA in healthy-looking hunted raccoons, leave food outside to help it recover, and let your vaccinated dog sniff it through the fence.",
+            "correct": false,
+            "feedback": "Feeding wildlife congregates animals and spreads disease, juvenile or imperfect immunity is never an excuse to allow wildlife contact, and while PCR detection in wild raccoons does not equal tissue disease, physical distance remains the primary One Health barrier."
+          },
+          {
+            "label": "Bring the dog indoors immediately, maintain strict physical distance without feeding or touching the raccoon, contact local animal control or authorized wildlife services, and keep pets current on veterinarian-managed core vaccines.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Physical distance protects both people and pets from potential zoonotic or cross-species pathogens while letting authorized wildlife professionals evaluate sick animals safely."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · HISTOPATHOLOGY & IHC",
+          "src": "assets/exhibits/PMC11852810_12917_2025_4560_fig1_html.jpg",
+          "caption": "Dual intestinal infection in a sanctuary raccoon: (A) severe fibrinous-necrotizing enteritis with villous fusion/atrophy and crypt abscesses (H&E); (B) abundant intralesional Gram-negative bacteria; (C) brown parvovirus antigen inside intestinal crypts (IHC); (D) depleted mesenteric lymph node follicles (H&E).",
+          "spoilerNote": "Histopathology and immunohistochemistry panel from the primary peer-reviewed veterinary report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Pütsch et al. (2025), BMC Veterinary Research · PMC11852810",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11852810/"
+        }
+      ]
     }
   },
   "exam": [
@@ -10195,32 +10399,135 @@
           "why": "Holding a turtle at surface pressure can worsen expanding vascular bubbles, prodding reflexes causes harm, and hyperbaric therapy in Spain was specialized n = 2 clinical care—never a DIY procedure."
         }
       ]
+    },
+    {
+      "q": "A 68-year-old relative who has taken an olmesartan blood pressure pill smoothly for four years develops weeks of severe diarrhea, vomiting, and weight loss; emergency IV fluids bring creatinine back to normal and blood albumin reads normal, yet bowel symptoms keep raging. What is the safest next step?",
+      "caseSlug": "biopsy-that-looked-like-celiac-olmesartan",
+      "caseRef": "Case 245",
+      "options": [
+        {
+          "label": "Ensure continued prompt clinical investigation with a full list of all long-term prescriptions and combination pills, recognize that normal albumin and improved kidney labs do not prove intestinal healing, and never stop or swap blood pressure medication without clinician oversight.",
+          "ok": true,
+          "why": "Survived Tuesday! In Kulai et al.’s 2016 case, normal albumin (40 g/L) and 5-day kidney recovery masked near-complete duodenal villous atrophy—resolving the root cause requires coordinated medical evaluation and supervised antihypertensive substitution, never unilateral pill stoppage."
+        },
+        {
+          "label": "Stop taking the olmesartan pill immediately on your own tonight and launch a self-directed heavy wheat-bread challenge at home to rule out celiac disease before calling the clinic.",
+          "ok": false,
+          "why": "Never abruptly quit blood pressure medication on your own—uncontrolled hypertension risks stroke, heart attack, and kidney failure—and DIY gluten experiments can derail legitimate clinical celiac workups."
+        },
+        {
+          "label": "Close the case and wait it out at home with ginger ale, since four trouble-free years clear a daily medication and five days of normalized kidney blood work prove the intestine has recovered.",
+          "ok": false,
+          "why": "Olmesartan enteropathy can emerge after years of uneventful use, and IV fluid resuscitation resets kidney filtration on a far faster clock than intestinal villi can regrow (14 weeks in Kulai’s patient)."
+        }
+      ]
+    },
+    {
+      "q": "While hiking public land, you spot a dead eagle with visibly singed feathers lying directly beneath a wooden power pole. Based on Thomason et al. (2023) and the 2024 USGS avian electrocution case definition, what is the safest and most accurate action?",
+      "caseSlug": "burn-marks-and-pellets-eagles",
+      "caseRef": "Case 246",
+      "options": [
+        {
+          "label": "Walk underneath the pole to flip the bird over for entrance wounds, collect a singed feather as evidence, and tell the utility company that electrocution is confirmed.",
+          "ok": false,
+          "why": "Approaching power infrastructure risks lethal arc or step-potential shock, handling remains or taking feathers violates the Migratory Bird Treaty Act, and external visuals cannot confirm electrocution or rule out gunshot."
+        },
+        {
+          "label": "Stay far clear of the electrical infrastructure and remains, contact the appropriate local or regional wildlife authority from a safe distance, and report exact location plus visual observations without declaring electrocution as a proven cause.",
+          "ok": true,
+          "why": "Survived Tuesday! Keeping distance prevents electrical injury, hands-off reporting preserves legal custody, and under the 2024 USGS definition and Jordan Valley case, only laboratory radiography and pathology can distinguish electrocution from concealed gunshot."
+        },
+        {
+          "label": "Assume shooting is the guaranteed cause since 66.3% of all wild birds in the western United States are shot, and call an out-of-state federal reporting hotline.",
+          "ok": false,
+          "why": "The 66.3% figure (116/175) applies strictly to assigned causes along selected power-line corridors—not all wild U.S. birds (and 116/410 is 28.3% of total remains)—and reports must go to the correct local/regional authority without assuming a verdict."
+        }
+      ]
+    },
+    {
+      "q": "Three years after an emergency abdominal surgery where the hospital discharge note recorded a correct sponge count, a patient develops worsening abdominal pain, cannot pass gas or stool, and feels a firm lump despite an earlier routine ultrasound calling it a benign cyst. What is the safest response?",
+      "caseSlug": "mass-that-was-made-of-gauze-gossypiboma",
+      "caseRef": "Case 247",
+      "options": [
+        {
+          "label": "Stay home and press firmly on the lump to check whether it feels fluid-filled, since three years is well past the two-year window and a recorded “correct” surgical count rules out retained material.",
+          "ok": false,
+          "why": "Never probe an abdominal mass at home, two years is one individual timeline rather than a safe expiration window (retained items can surface decades later), and 199 of 247 performed counts in retained-sponge sentinel events were recorded as “correct.”"
+        },
+        {
+          "label": "Drive yourself to a routine outpatient clinic next week to demand a specific blood panel that checks for woven cotton fibers.",
+          "ok": false,
+          "why": "Inability to pass gas or stool with worsening abdominal pain is an NHS emergency red flag for bowel obstruction requiring immediate emergency services (not self-driving or waiting), and standard blood panels cannot detect cotton textiles."
+        },
+        {
+          "label": "Call local emergency services immediately without driving yourself, share your full prior surgical history and approximate dates alongside the earlier ultrasound result, and let emergency clinicians reassess the evolving symptoms.",
+          "ok": true,
+          "why": "Survived Tuesday! Inability to pass stool or gas with pain signals urgent bowel-obstruction risk requiring ambulance care, provisional ultrasound labels can evolve when adhesions shift, and clear surgical history equips clinicians to look past old paperwork."
+        }
+      ]
+    },
+    {
+      "q": "A homeowner spots a strangely quiet, apathetic juvenile raccoon sitting motionless beside their backyard porch in broad daylight while their dog barks from the patio door. What is the safest response?",
+      "caseSlug": "two-infections-same-intestine-raccoons",
+      "caseRef": "Case 249",
+      "options": [
+        {
+          "label": "Put on gardening gloves, place the quiet raccoon in a cardboard box in the car, and drive it home or to a clinic yourself since there is no visible diarrhea or bleeding.",
+          "ok": false,
+          "why": "Prey-wired wildlife mask severe systemic illness until collapse—in Pütsch et al.’s 2025 report, both fatally co-infected sanctuary raccoons showed only brief apathy with zero observed diarrhea before sudden death, and CDC guidance strictly advises against handling or transporting sick wildlife."
+        },
+        {
+          "label": "Assume it is harmless because wildlife surveys find parvovirus DNA in healthy-looking hunted raccoons, leave food outside to help it recover, and let your vaccinated dog sniff it through the fence.",
+          "ok": false,
+          "why": "Feeding wildlife congregates animals and spreads disease, juvenile or imperfect immunity is never an excuse to allow wildlife contact, and while PCR detection in wild raccoons does not equal tissue disease, physical distance remains the primary One Health barrier."
+        },
+        {
+          "label": "Bring the dog indoors immediately, maintain strict physical distance without feeding or touching the raccoon, contact local animal control or authorized wildlife services, and keep pets current on veterinarian-managed core vaccines.",
+          "ok": true,
+          "why": "Survived Tuesday! Physical distance protects both people and pets from potential zoonotic or cross-species pathogens while letting authorized wildlife professionals evaluate sick animals safely."
+        }
+      ]
+    },
+    {
+      "q": "Three weeks after starting allopurinol—having skipped genetic testing—a patient develops a spreading measles-like body rash, fever, and diarrhea, but has zero mouth sores or skin blisters. An HLA-B*58:01 blood test was just ordered and will take days to return. What is the safest action?",
+      "caseSlug": "gene-that-was-not-diagnosis-allopurinol",
+      "caseRef": "Case 248",
+      "options": [
+        {
+          "label": "Wait safely at home until the HLA-B*58:01 genetic report comes back, since the absence of mouth blisters rules out severe internal organ drug reactions like DRESS.",
+          "ok": false,
+          "why": "In Lucas & Droney’s 2022 case, the patient had zero mucosal lesions yet suffered acute kidney injury (creatinine 214 µmol/L) and liver injury (ALT/AST 224 U/L)—DRESS is a clinical diagnosis that never waits on DNA paperwork."
+        },
+        {
+          "label": "Seek immediate clinical evaluation right now based on the rash and systemic symptoms—with bloodwork to assess kidneys, liver, and blood cells—rather than waiting on pending HLA results or mouth sores.",
+          "ok": true,
+          "why": "Survived Tuesday! Real-time symptoms and organ labs write the DRESS diagnosis while the house is on fire; HLA-B*58:01 explains genetic susceptibility but never substitutes for urgent clinical assessment."
+        },
+        {
+          "label": "Assume a consumer DNA ancestry kit taken two years ago clears them of severe allopurinol reactions, and restart a smaller test dose once the skin redness begins fading.",
+          "ok": false,
+          "why": "Consumer ancestry kits never replace validated clinical genotyping, skin often clears while internal liver injury still worsens, and culprit drugs must never be restarted or micro-dosed after suspected DRESS."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 11 Drops (Ep 2904–2915) (12)",
-      "tagline": "Freshly added on 2026-11-24 — 12 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 12 (Ep 2917–2921) (5)",
+      "tagline": "Freshly added on 2026-11-24 — 5 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "hemoglobin-behind-diabetes-label-wayne",
-        "air-sacs-could-not-clear-pap",
-        "iron-inside-the-liver-animal",
-        "acid-in-recycling-loop-pyroglutamic",
-        "threads-that-stayed-in-place-iud",
-        "water-system-behind-seizures-salt",
-        "variant-below-first-test-mosaic",
-        "breath-against-closed-airway-nppe",
-        "bubbles-after-the-net-turtles",
-        "urine-that-came-back-pseudo-aki",
-        "eye-chart-and-thinning-nerve-ethambutol",
-        "calcium-behind-the-seizures-serval"
+        "biopsy-that-looked-like-celiac-olmesartan",
+        "burn-marks-and-pellets-eagles",
+        "mass-that-was-made-of-gauze-gossypiboma",
+        "gene-that-was-not-diagnosis-allopurinol",
+        "two-infections-same-intestine-raccoons"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (202)",
-      "tagline": "All 202 chapters featuring commercial-cleared primary case imaging (118), peer-reviewed reference exhibits (52), and verified hazard field photos (32).",
+      "label": "🩻 All Verified Exhibits (207)",
+      "tagline": "All 207 chapters featuring commercial-cleared primary case imaging (122), peer-reviewed reference exhibits (53), and verified hazard field photos (32).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -10423,13 +10730,18 @@
         "breath-against-closed-airway-nppe",
         "bubbles-after-the-net-turtles",
         "urine-that-came-back-pseudo-aki",
-        "calcium-behind-the-seizures-serval"
+        "calcium-behind-the-seizures-serval",
+        "biopsy-that-looked-like-celiac-olmesartan",
+        "burn-marks-and-pellets-eagles",
+        "mass-that-was-made-of-gauze-gossypiboma",
+        "gene-that-was-not-diagnosis-allopurinol",
+        "two-infections-same-intestine-raccoons"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (118)",
-      "tagline": "The 118 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (122)",
+      "tagline": "The 122 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -10548,7 +10860,11 @@
         "variant-below-first-test-mosaic",
         "breath-against-closed-airway-nppe",
         "urine-that-came-back-pseudo-aki",
-        "calcium-behind-the-seizures-serval"
+        "calcium-behind-the-seizures-serval",
+        "biopsy-that-looked-like-celiac-olmesartan",
+        "burn-marks-and-pellets-eagles",
+        "mass-that-was-made-of-gauze-gossypiboma",
+        "two-infections-same-intestine-raccoons"
       ]
     },
     {
@@ -10556,36 +10872,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "handlebar-and-hidden-pancreatic-duct",
-        "aquarium-more-than-one-patient-palytoxin",
-        "reheated-rice-and-botulism",
-        "burn-looked-like-infection-wet-cement",
-        "thyroid-that-changed-in-the-test-biotin",
-        "fractal-wood-burning",
-        "family-behind-the-enzyme-g6pd",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "chocolate-brown-blood",
-        "potassium-that-rose-in-the-tube",
-        "thread-across-the-road-kite-string",
-        "pool-had-another-hazard-drain-suction",
-        "tank-after-the-collapse-h2s",
-        "dry-ice-riding-shotgun",
-        "hot-baths-fentanyl-patches-deadly",
-        "van-that-was-not-empty",
-        "anesthetic-that-triggered-the-furnace",
-        "room-not-safe-to-finish",
-        "spin-class-rhabdo",
-        "hair-treatment-reached-the-cat",
         "driveway-ied-truck-tire",
-        "charger-between-phone-and-wall",
+        "battery-already-in-the-stomach",
+        "family-behind-the-enzyme-g6pd",
+        "hot-baths-fentanyl-patches-deadly",
+        "anesthetic-that-triggered-the-furnace",
+        "handlebar-and-hidden-pancreatic-duct",
         "wire-behind-the-pain",
-        "ring-and-unbroken-bone-avulsion",
-        "small-hands-moving-treadmill-belt",
-        "one-finger-varicose-vein",
         "super-rat-bait-and-vitamin-k-trap",
-        "puppy-with-the-twisted-stomach-gdv",
+        "thyroid-that-changed-in-the-test-biotin",
+        "aquarium-more-than-one-patient-palytoxin",
+        "thread-across-the-road-kite-string",
+        "fractal-wood-burning",
+        "ring-and-unbroken-bone-avulsion",
+        "van-that-was-not-empty",
         "boots-in-the-snow-and-heatstroke",
-        "battery-already-in-the-stomach"
+        "room-not-safe-to-finish",
+        "small-hands-moving-treadmill-belt",
+        "reheated-rice-and-botulism",
+        "chocolate-brown-blood",
+        "burn-looked-like-infection-wet-cement",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "charger-between-phone-and-wall",
+        "spin-class-rhabdo",
+        "pool-had-another-hazard-drain-suction",
+        "puppy-with-the-twisted-stomach-gdv",
+        "hair-treatment-reached-the-cat",
+        "one-finger-varicose-vein",
+        "tank-after-the-collapse-h2s",
+        "potassium-that-rose-in-the-tube",
+        "dry-ice-riding-shotgun"
       ]
     },
     {
@@ -10641,7 +10957,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 49",
+      "label": "🐾 Pet Owner’s Mandatory 50",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }

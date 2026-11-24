@@ -175,7 +175,7 @@ def main():
         pe = pre_ex.get(sl) or {}
         if pe.get("clinicalFigures") and not ex_entry.get("clinicalFigures"):
             ex_entry["clinicalFigures"] = pe["clinicalFigures"]
-        elif pe.get("externalFigureLinks") and not ex_entry.get("clinicalFigures") and not ex_entry.get("externalFigureLinks"):
+        if pe.get("externalFigureLinks") and not ex_entry.get("externalFigureLinks"):
             ex_entry["externalFigureLinks"] = pe["externalFigureLinks"]
 
         added_slugs.append(sl)

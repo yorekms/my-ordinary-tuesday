@@ -31068,5 +31068,646 @@
       "seizure-between-normal-days-ferret",
       "paw-bore-weight-chinchilla-fracture"
     ]
+  },
+  "biopsy-that-looked-like-celiac-olmesartan": {
+    "slug": "biopsy-that-looked-like-celiac-olmesartan",
+    "fileNo": "245",
+    "partId": "medicine",
+    "partLabel": "Part III · Medicine Cabinet Roulette",
+    "title": "A Textbook Celiac Biopsy, Negative Antibodies—and the Four-Year Blood Pressure Pill Flattening His Gut",
+    "deck": "Why wet drywall looks identical whether the roof leaked or a pipe burst, why IV fluids rescuing your kidneys never regrow intestinal carpet, and why 22 out of 22 selected Mayo Clinic recoveries never equal a universal 100% cure rate.",
+    "byline": "Compiled from Ep 2917 (PREV_1114) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Olmesartan-associated severe spruelike enteropathy causing marked duodenal villous atrophy and dehydration-driven acute kidney injury",
+      "mechanism": "After years of stable blood pressure therapy, an unresolved localized immune-mediated mucosal injury flattens intestinal absorptive villi and kills regenerating crypt cells, triggering severe malabsorptive diarrhea, weight loss, and pre-renal hypovolemic kidney shutdown while sparing celiac-specific antibodies",
+      "manner": "Survivor Case (Delayed Medication-Associated Enteropathy Resolved After Clinician-Directed Withdrawal)",
+      "avoidability": "Uncertain (prompt urgent dehydration care, comprehensive multi-year medication reviews & clinician-supervised drug substitution protect organs; underlying molecular mechanism and individual triggers remain unresolved)",
+      "falseReassurance": "“I’ve taken that blood pressure pill for four years without a hiccup, my blood albumin came back normal, and five days of IV fluids fixed my kidneys—so my stomach must be fine.”"
+    },
+    "looksLike": "Classic autoimmune celiac disease under the microscope—or a reassured gut once IV fluids normalize kidney labs and blood albumin prints 40 g/L",
+    "actuallyIs": "Olmesartan-associated spruelike enteropathy causing near-complete duodenal villous atrophy despite negative anti-tTG antibodies on a normal IgA background",
+    "sections": [
+      {
+        "heading": "Wet Drywall Without a Leaky Roof—and Four Years of Innocence",
+        "paragraphs": [
+          "Spot an ugly water stain spreading across your living-room ceiling after a storm, and your brain indicts the roof before your coffee cools. Patch the shingles, come back tomorrow, and watch the plaster crumble anyway—because a burst plumbing pipe between the floors makes the exact same wet drywall as rain. Internal medicine pulls that trick professionally. In 2016, T. Kulai, T. Arnason, D. MacIntosh, and J. Igoe in the Canadian Journal of Gastroenterology and Hepatology documented a 68-year-old man who visited his family physician after five relentless weeks of non-bloody diarrhea, vomiting, and a 20-pound weight loss. His chart listed kidney stones, a bioprosthetic aortic valve replacement three years earlier, and a daily olmesartan combination blood pressure pill—an angiotensin II receptor blocker he had swallowed peacefully for three to four years. Human intuition expects a poison to strike by lunchtime on Day 1, not wait four calendar years to ambush the small intestine.",
+          "His referral blood work immediately rerouted him to the emergency department: creatinine sat at a blaring 474 µmol/L, signaling acute kidney injury presumed secondary to crushing volume depletion. Like a pristine water wheel stalled because the river ran dry, his kidneys perked right up when hospital IV drips refilled his circulation—dropping creatinine from 474 to a spotless 77 µmol/L in five days (though without direct renal blood-flow measurements, no one can mathematically prove 100% of that shutdown was purely pre-renal). Meanwhile, his hemoglobin read 120 g/L (normocytic anemia), individual electrolytes and lab reference intervals went unprinted, and his liver-made albumin printed an immaculate 40 g/L. That single normal protein number is a textbook diagnostic trap: normal albumin reflects liver synthesis and baseline reserves at one snapshot, NOT an intact digestive tract. Stool cultures, parasite exams, and Clostridium difficile assays all returned negative, forcing gastroenterologists to look directly inside."
+        ]
+      },
+      {
+        "heading": "A Flattened Shag Carpet, Missing Autoantibodies, and Four Separate Clocks",
+        "paragraphs": [
+          "A healthy distal duodenum resembles plush shag carpet: millions of finger-like villi expand surface area so water and calories soak in instead of sliding straight out. Upper endoscopy biopsies revealed his carpet shaved to bare linoleum—marked villous blunting with near-complete villous atrophy in places, swarming intraepithelial lymphocytes and surface neutrophils, and elevated crypt apoptosis (programmed cell death inside the base factories meant to rebuild fresh fibers). Under glass, it screamed celiac disease. Yet blood testing threw a wrench into the microscope: anti-tissue transglutaminase (anti-tTG) antibodies came back negative. Because selective IgA deficiency can blind standard IgA-based anti-tTG assays into false negatives, doctors prudently checked his total IgA and confirmed it was normal (exact numeric antibody titers and assay platform were not reported). That left an unmistakable contradiction: catastrophic physical tissue wreckage with zero celiac autoimmune broadcast—and remember, pathologists looking at a glass slide never see tiny olmesartan tags stamped onto dying cells. An injury pattern is never a signature of the weapon.",
+          "Instead of running a gluten-free trial or attempting an unethical, kidney-threatening drug re-challenge, clinicians reviewed his chart and stopped the olmesartan combination under supervision. What followed proved that biology refuses to sync its watches. Clock one: kidney creatinine normalized in 5 days of IV fluids, fixing circulation without touching intestinal histology. Clock two: five weeks of relentless diarrhea stopped completely within 2 weeks of withdrawal. Clock three: his 20 lost pounds took 3 months to rebuild. Clock four: repeat endoscopy at 14 weeks—rounded loosely to 4 months in the paper’s abstract, though the results text specifies 14 weeks—finally documented normal restored villi. Even an unsettling side plot obeyed strict evidence boundaries: he also developed severe right non-granulomatous anterior uveitis, treated by ophthalmology and resolved at 16 weeks, which was explicitly NOT proven to stem from olmesartan.",
+          "Doctors only knew to suspect a boring blood pressure pill because of Alberto Rubio-Tapia and colleagues’ watershed 2012 Mayo Clinic series in Mayo Clinic Proceedings. Hospitalized dehydrated patients routinely had their hypertension pills held for low blood pressure, mysteriously improved on the ward, went home, restarted olmesartan, and relapsed—an accidental real-world de-challenge and re-challenge. Reviewing 24 records and excluding 2 left 22 highly selected cases: 15 with total villous atrophy and 7 with partial atrophy (15 + 7 = 22; overlapping features like intraepithelial lymphocytes and subepithelial collagen occurred inside those same patients—never double-count them), and 14 of 22 required hospitalization for dehydration. Watch the denominator trap: 14/22 reflects referred severe cases, NEVER the general hospitalization rate among millions taking olmesartan safely, and because clinical improvement after withdrawal was a mandatory entry requirement, 22/22 improving reflects selection criteria—NOT an independent 100% cure rate. Follow-up biopsies occurred in 18 of 22 across wildly varying timelines (weeks to over a year): 17/18 recovered histologically, 1 improved clinically with focal residual atrophy, 4 had no repeat biopsy at all, there was no control group, the molecular pathway remains unresolved, and no class-wide claim indicts every blood pressure drug in the family."
+        ]
+      },
+      {
+        "heading": "Treat the Flood First—and Never Play Cardiologist With Your Pillbox",
+        "paragraphs": [
+          "Current NIDDK diarrhea guidance (reviewed September 2024) and celiac testing guidance (reviewed October 2020), alongside current FDA-approved DailyMed olmesartan labeling (updated October 23, 2026; internally revised September 2026), draw two bright, non-negotiable survival lines. First comes action before causation: severe persistent diarrhea accompanied by vomiting, major weight loss, dizziness, reduced urination, dehydration, severe abdominal pain, bleeding, or confusion requires prompt professional—and when severe, emergency—evaluation immediately. Do not treat a five-week survivor’s timeline as a safe waiting period, do not ride out volume collapse with DIY electrolyte recipes or over-the-counter anti-diarrheal guesswork, and never mistake normal blood albumin, negative stool panels, or rebounding ER kidney labs for a healed intestine.",
+          "Second, when unexplained intestinal injury persists after the acute fluid crisis settles, bring a complete medication inventory—including prescriptions taken uneventfully for years, combination products, over-the-counter items, and supplements—so clinicians can review alternatives while keeping hypertension tightly controlled. Never self-stop, swap, or restart prescribed blood pressure medication on your own: uncontrolled hypertension quietly causes strokes, heart attacks, and permanent kidney failure at rates vastly exceeding this rare enteropathy. Skip DIY gluten challenges (which can wreck legitimate celiac testing), ask directly what a biopsy proves versus leaves uncertain, nail down who owns follow-up labs and regulatory adverse-event reporting, and treat 14 weeks as one man’s healing calendar rather than a guaranteed schedule."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · A NORMAL ALBUMIN NEVER PROVES AN INTACT GUT",
+        "heading": "Navigating Severe Unexplained Diarrhea Without Ditching Heart Care",
+        "bullets": [
+          "Seek prompt or emergency medical care for persistent diarrhea with vomiting, major weight loss, reduced urination, dizziness, severe pain, bleeding, or confusion—never wait weeks or try DIY fluid and anti-diarrheal protocols.",
+          "Do not let one reassuring test halt an unresolved workup: normal albumin, negative stool infection screens, and improved creatinine after IV fluids never prove intestinal villi have healed.",
+          "Bring every long-term medication, combination pill, supplement, and OTC product to your evaluation—including prescriptions taken smoothly for years—but NEVER self-stop, swap, or restart blood pressure drugs without a clinician’s plan.",
+          "Avoid self-directed gluten challenges before formal evaluation, ask clinicians what pathology proves versus leaves uncertain, and confirm who owns long-term follow-up and adverse-effect reporting."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "2016 Index Case",
+        "value": "Kulai T, Arnason T, MacIntosh D & Igoe J (2016), Can J Gastroenterol Hepatol 2016:6091571 (PMID 27446852 · PMC4904703) · 68-yr-old man (prior kidney stones; bioprosthetic aortic valve 3 yr earlier; olmesartan combination pill for 3–4 yr) with 5 wk non-bloody diarrhea/vomiting & 20-lb weight loss"
+      },
+      {
+        "label": "Labs & Narrow Scopes",
+        "value": "Referral creatinine 474 µmol/L → 77 µmol/L after 5 days IV fluids (presumed pre-renal AKI; no direct renal blood-flow partition). Hemoglobin 120 g/L (normocytic anemia); albumin 40 g/L (normal—does NOT rule out severe gut injury); individual electrolytes/reference intervals unprinted; stool cultures, parasites & C. difficile negative"
+      },
+      {
+        "label": "Biopsy vs. Serology",
+        "value": "Distal duodenal biopsy: marked villous blunting, near-complete villous atrophy, increased intraepithelial lymphocytes, surface neutrophils & crypt apoptosis (celiac-like pattern, NOT direct chemical detection of drug). Anti-tTG negative with verified normal total IgA (ruling out selective IgA-deficiency false negative; numeric titers/assay unprinted)"
+      },
+      {
+        "label": "Four Distinct Clocks",
+        "value": "Post-withdrawal: creatinine normalized in 5 days of IV fluids; diarrhea resolved within 2 wk; 20-lb weight restored within 3 mo; follow-up endoscopy showed normal restored villi at 14 wk (abstract rounds to 4 mo; results specify 14 wk). Co-occurring severe right non-granulomatous anterior uveitis resolved at 16 wk (NOT proven olmesartan-caused). No drug re-challenge; no gluten-free trial"
+      },
+      {
+        "label": "2012 Mayo Discovery",
+        "value": "Rubio-Tapia A et al. (2012), Mayo Clin Proc 87(8):732–738 (PMID 22728033 · PMC3538487) · 24 records reviewed, 2 excluded → 22 selected cases (15 total + 7 partial villous atrophy = 22; overlapping collagen/lymphocytes not separate groups; 14/22 hospitalized for dehydration—referred subset, NOT general-user risk). Improvement after stopping was an INCLUSION RULE, so 22/22 is selection criteria, NOT 100% population efficacy"
+      },
+      {
+        "label": "Follow-Up & Limits",
+        "value": "18/22 had follow-up biopsies (weeks to >1 yr): 17/18 histologic recovery, 1 clinically improved with focal atrophy, 4/22 never re-biopsied; no control group; exact cellular pathway unresolved; no class-wide ARB claim. Current FDA DailyMed olmesartan labeling (updated Oct 23, 2026) flags spruelike enteropathy & clinician-guided alternative therapy"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · SEVERE UNEXPLAINED DIARRHEA ON LONG-TERM MEDS",
+      "subhead": "Stabilize dehydration first, audit multi-year prescriptions second, and never drop blood pressure pills solo.",
+      "steps": [
+        {
+          "action": "GET URGENT CARE BEFORE NAMING THE CAUSE",
+          "detail": "Persistent diarrhea with vomiting, weight loss, dizziness, low urine output, bleeding, or confusion demands prompt or emergency evaluation—never wait weeks or rely on DIY hydration recipes."
+        },
+        {
+          "action": "DON’T LET ONE GREEN LAB CLOSE THE CASE",
+          "detail": "Remember that normal blood albumin, negative stool screens, and improving creatinine after IV fluids never prove the microscopic lining of your intestine is unharmed."
+        },
+        {
+          "action": "AUDIT MULTI-YEAR PILLS—NEVER SELF-STOP",
+          "detail": "Bring every long-term prescription (even drugs taken smoothly for years), combination tablet, OTC, and supplement, and let clinicians swap hypertension therapy safely—never quit blood pressure pills alone."
+        },
+        {
+          "action": "SKIP DIY GLUTEN TESTS & TRACK OWNERSHIP",
+          "detail": "Do not launch home gluten experiments before formal workups; ask what pathology proves versus leaves uncertain, confirm who owns follow-up, and expect tissue healing to lag behind symptom relief."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Kulai T, Arnason T, MacIntosh D & Igoe J (2016) — Duodenal Villous Atrophy in a TTG-Negative Patient Taking Olmesartan: A Case Report and Review of the Literature (Can J Gastroenterol Hepatol 2016:6091571 · PMID 27446852 · PMC4904703 · doi: 10.1155/2016/6091571)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4904703/"
+      },
+      {
+        "type": "Companion Mayo Clinic Series",
+        "label": "Rubio-Tapia A, Herman ML, Ludvigsson JF, Kelly DG, Mangan TF, Wu TT & Murray JA (2012) — Severe spruelike enteropathy associated with olmesartan (Mayo Clin Proc 87(8):732–738 · PMID 22728033 · PMC3538487 · doi: 10.1016/j.mayocp.2012.06.003)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3538487/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2917 Verbatim Transcript in Google Drive (8,854 words)",
+        "url": "https://drive.google.com/file/d/1a4NHnfOEHGhs5QiF6oZKef36cV8OO5UG/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2917 Audio Stream — The Biopsy That Looked Like Celiac Disease (53:16)",
+        "url": "https://drive.google.com/file/d/1yUzqo2Rbso_Uc15TrzKJ-XjXYHOun0UJ/view"
+      }
+    ],
+    "relatedSlugs": [
+      "ten-year-prescription-airway",
+      "eye-chart-and-thinning-nerve-ethambutol",
+      "breathlessness-long-prescription"
+    ]
+  },
+  "burn-marks-and-pellets-eagles": {
+    "slug": "burn-marks-and-pellets-eagles",
+    "fileNo": "246",
+    "partId": "outdoors",
+    "partLabel": "Part IV · The Gym, Trail & Vacation",
+    "title": "Singed Feathers Under a Power Pole—and the Fresh Metal Pellets Hiding Inside the Burn",
+    "deck": "Why X-ray attenuation outvotes naked-eye burns, how one hundred and seventy-five eagles in two different papers became a statistical ambush, and why a brightly colored wire diverter never stops a rifle.",
+    "byline": "Compiled from Ep 2918 (PREV_1115) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Acute gunshot trauma in a bald eagle beneath power infrastructure, accompanied by feather singeing from inferred post-shot contact with energized lines",
+      "mechanism": "High-density lead or steel pellets produce acute hemorrhage and unhealed soft-tissue tracks invisible beneath exterior singed feathers until X-ray attenuation exposes opaque metallic signatures; compound trauma stacks sequentially without erasing either mark",
+      "manner": "Wildlife Forensic Case (Illegal Shooting Masquerading as Power-Line Electrocution)",
+      "avoidability": "Uncertain (strict human distance from energized lines, hands-off reporting & radiography-matched mitigation cut misallocation and injury; field scavenging and unobserved poaching limit certainty)",
+      "falseReassurance": "“The eagle has burned feathers right under a high-voltage pole—clearly electrocution. Hang some flight diverters and close the file.”"
+    },
+    "looksLike": "An open-and-shut power-line electrocution—a burned bald eagle lying directly beneath high-voltage wires",
+    "actuallyIs": "Primary acute gunshot mortality inferred to have struck energized wires while falling, exposing how compound injuries and naked-eye assumptions misdirect conservation",
+    "sections": [
+      {
+        "heading": "Putting Up a Stop Sign Because Someone Shot Out the Tires",
+        "paragraphs": [
+          "Walk across sagebrush beneath a towering wooden power pole in the western desert, find a dead bald eagle with blackened, melted feathers in the dirt, and your primate brain wraps the investigation in half a second: wires plus burns equal electrocution. That was exactly what happened near Jordan Valley, Oregon, in the focal case of E. C. Thomason and colleagues’ 2023 iScience study. Following established protocol, the utility company mobilized a crew, repaired the line, and installed high-visibility flight diverters—an expensive, technically competent engineering fix aimed squarely at collision and electrical risk. One problem: no plastic flapper on a wire stops a trigger.",
+          "When researchers carried the eagle into the lab and ran radiographs, electromagnetic physics wrecked the visual verdict. X-ray attenuation sorts matter by density: soft muscle and fat let photons pass (dark), calcium bone absorbs more (white), and dense lead or steel pellets stop the beam cold, flaring like stars on the digital plate. Hidden under those burned feathers sat numerous metal pellets—and crucially, not old, healed hunting pellets walled off inside fibrotic scar capsules from years prior. Pathologists documented fresh entrance wounds, unhealed muscle tracks, and acute hemorrhage. Without even needing lead-alloy chemistry or ballistics caliber reconstruction, fresh lethal projectile trauma shifted the primary cause of death to gunshot. Keep cause separate from sequence, though: nobody witnessed the shot, so the scenario that the eagle was shot first and contacted energized wires while plummeting remains a logical author inference—not an observed videotape. Nor did misreading one eagle prove the utility’s line repairs had zero benefit for other birds or establish a measured financial waste; diagnosing a past death and measuring whether diverters prevent future crashes are two completely different scientific questions."
+        ]
+      },
+      {
+        "heading": "Four Hundred Ten Desert Carcasses—and the Coincidental 175 Ambush",
+        "paragraphs": [
+          "Suspecting Jordan Valley was not an isolated fluke, Thomason’s team spent four years (2019–2022) surveying 196 kilometers of selected power-line corridors across five sites in Idaho, Oregon, Utah, and Wyoming. They collected 410 bird remains ranging from fresh carcasses to sun-baked jerky and coyote-scattered bleached bones, performing external checks and X-rays on every single specimen (reserving internal necropsies and toxicant assays for feasible tissue—an X-ray still reads a pellet lodged in a dry femur long after scavengers eat the bloodstream). Cause of death was assigned to 175 remains: 116 gunshot, 29 electrocution, and 30 blunt force trauma. That leaves 235 unknowns—over half the haul—and unknown NEVER means negative for shooting, because a clean pass-through rifle bullet vanishes once blowflies erase soft tissue. Analyzing strictly fresh carcasses still confirmed shooting’s prominence. Now watch the denominator trap: 116 ÷ 175 equals 66.3% of assigned causes, whereas 116 ÷ 410 equals 28.3% of all collected remains—and NEITHER number represents general U.S. wild-bird risk because surveys deliberately hugged power lines. Their statistical models separated species (raptors vs. corvids) and architecture (narrow-spaced distribution wires that big wings bridge vs. wide-spaced transmission towers favoring collisions) while excluding structurally ambiguous hybrid “under-build” poles carrying both.",
+          "Now change vantage point from dirt to orbit. In 2022, B. A. Millsap and colleagues in Ecological Applications analyzed 1997–2016 survival data from 512 satellite-transmitter-marked golden eagles plus banding records, feeding telemetry survival, nest chick counts, and aerial surveys into a Bayesian Integrated Population Model (IPM). Out of 512 tracked eagles, 175 dead transmitter-marked eagles were physically recovered; 126 received an assigned cause (49 unknown), and 16 of 126 (12.7%) were shootings. Freeze right there: BOTH papers contain the exact integer 175—175 mixed-species assigned causes under power lines in Thomason versus 175 recovered transmitter golden eagles across open landscapes in Millsap. They are NOT the same 175 birds, must NEVER be pooled, and you cannot subtract 12.7% from 66.3% to shout that eagle poaching quintupled across completely different years, species, geographies, and sampling methods. Even telemetry requires forensic skepticism: a stationary GPS dot might be a dead eagle OR a dead battery, fouled solar panel, snapped antenna, or shed Teflon harness—so Millsap’s team mathematically modeled the observation process itself. And remember, Bayesian IPM posterior estimates are probability outputs—not extra physical necropsies and not current federal legal take quotas—while proximate collision trauma can always hide degraded-tissue disease, lead, or rodenticide."
+        ]
+      },
+      {
+        "heading": "Step Potential Kills Humans Too—Keep Your Hands Off and Match the Fix",
+        "paragraphs": [
+          "If you stumble across an injured or dead raptor near a power pole, your job begins and ends with human survival and clean custody. Stay well clear of poles, transformers, substations, and downed wires: high voltage can arc across air gaps or electrify the dirt under your boots through step potential. Never attempt to capture an injured bird, handle remains, or pocket feathers or bones (illegal under the Migratory Bird Treaty Act). From a safe distance, call your local state fish-and-game office or regional federal wildlife authority—note that current U.S. Fish and Wildlife Service state reporting pages (such as North Dakota’s October 2026 page) are strictly regional illustrations, never a national dispatcher. Report exact coordinates, what you saw from afar, and honest uncertainty without declaring “electrocution” or “crime scene” through binoculars: the 2024 USGS avian electrocution case definition explicitly states that dying underneath a power line never proves electrocution without field, radiographic, and pathological integration.",
+          "Once professionals take custody, the rule is simple: match prevention to the diagnosed threat. As illustrated in the U.S. Fish and Wildlife Service power-line permit FAQ (version 1; contextual U.S. guidance, not universal legal or engineering mandates), electrocution demands wire spacing and conductor insulation, collision demands diverters, and illegal shooting demands law enforcement, game wardens, and public education (note Jordan Valley had no named suspect, arrest, or conviction). Above all, conservation programs must log specimen condition, unknowns, mitigation outcomes, and survey effort—because doubling the number of biologists walking a corridor doubles the dead birds found and invents a phantom mortality spike if search effort goes unrecorded."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · A BURN MARK NEVER ERASES A BULLET",
+        "heading": "Safe Wildlife Reporting and Threat-Matched Forensic Prevention",
+        "bullets": [
+          "Keep wide physical distance from power poles, substations, and downed lines—high voltage can arc or energize surrounding soil via step potential, so never approach energized infrastructure for a closer look or photo.",
+          "Never touch, move, or attempt to rescue injured raptors or collect feathers and bones (protected under the Migratory Bird Treaty Act); call the appropriate local state or regional federal wildlife office from a safe distance.",
+          "Report exact location, distant visual details, and honest uncertainty without self-diagnosing electrocution or shooting—under the 2024 USGS case definition, lying under a power line never by itself proves electrocution.",
+          "In conservation data and utility mitigation, never pool incompatible denominators (such as the two distinct 175 counts), always log search effort alongside unknowns, and match engineering versus law-enforcement actions to radiographic proof."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Jordan Valley Focal Case",
+        "value": "Thomason EC, Turley NJS, Belthoff JR, Conkling TJ & Katzner TE (2023), iScience 26(8):107274 (PMID 37609628 · PMC10440709) · Bald eagle found dead with extensively singed feathers under a power line near Jordan Valley, Oregon; utility repaired lines & installed flight diverters for presumed electrocution"
+      },
+      {
+        "label": "Radiographic Reversal",
+        "value": "X-ray attenuation exposed numerous dense metal pellets paired with fresh entrance wounds, unhealed muscle tracks & acute hemorrhage (distinguished from old fibrotic-capsule healed pellets). Primary cause reassigned to gunshot without needing alloy assay or ballistics reconstruction; shot-then-fell-onto-wire sequence is an author inference (unwitnessed; no named suspect/arrest)"
+      },
+      {
+        "label": "Four-State Corridor Math",
+        "value": "196 km of power-line routes across 5 sites in ID, OR, UT & WY (2019–2022) yielded 410 bird remains (all X-rayed; necropsy/toxicology where feasible). 175 assigned causes: 116 gunshot, 29 electrocution, 30 blunt trauma; 235 unknown (unknown ≠ gunshot-negative; fresh-carcass subset still showed shooting prominence). 116/175 = 66.3% assigned vs. 116/410 = 28.3% total—NEITHER is general U.S. wild-bird risk"
+      },
+      {
+        "label": "Line Physics & Under-Build",
+        "value": "Models distinguished species (raptors vs. corvids) and line types (narrow-spaced distribution lines enabling wing-bridged electrocution vs. wide-spaced transmission lines carrying lower electrocution/higher collision risk); structurally ambiguous hybrid under-build poles carrying both were excluded from main models"
+      },
+      {
+        "label": "2022 Telemetry Twin (175)",
+        "value": "Millsap BA et al. (2022), Ecol Appl 32(3):e2544 (PMID 35080801 · PMC9286660) · 1997–2016 survival analyses of 512 transmitter-marked golden eagles + banding + Bayesian IPM: 175 recovered dead, 126 assigned causes (49 unknown), 16/126 (12.7%) shot. Coincidental 175 count ≠ Thomason’s 175—NEVER pool or subtract 12.7% from 66.3% to claim a time trend"
+      },
+      {
+        "label": "Telemetry & Effort Limits",
+        "value": "Stationary GPS dots can reflect dead batteries, fouled solar panels, broken antennas, or shed Teflon harnesses (observation process modeled mathematically); IPM posterior estimates ≠ literal extra necropsies or current legal take quotas; unlogged survey effort doubles apparent mortality when search crews double"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · DEAD OR INJURED RAPTOR NEAR POWER LINES",
+      "subhead": "Protect yourself from high-voltage ground current first, keep hands off remains, and deliver clean coordinates.",
+      "steps": [
+        {
+          "action": "BACK AWAY FROM ALL ELECTRICAL HARDWARE",
+          "detail": "Stay far clear of power poles, transformers, substations, and wires—high voltage can jump air gaps or energize the ground beneath your feet via step potential."
+        },
+        {
+          "action": "DO NOT TOUCH BIRDS, FEATHERS, OR REMAINS",
+          "detail": "Never attempt DIY raptor rescue, handle carcasses, or pocket feathers or bones (illegal under the Migratory Bird Treaty Act and disruptive to forensic evidence)."
+        },
+        {
+          "action": "CALL LOCAL OR REGIONAL WILDLIFE AUTHORITIES",
+          "detail": "Contact your local state fish-and-game agency or regional federal wildlife office from a safe distance—use the correct local jurisdiction rather than an out-of-state reporting page."
+        },
+        {
+          "action": "REPORT FACTS AND UNCERTAINTY—NOT A VERDICT",
+          "detail": "Share exact coordinates and distant visual observations without declaring electrocution or shooting; let authorized labs pair radiography and pathology so mitigation targets the real threat."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Thomason EC, Turley NJS, Belthoff JR, Conkling TJ & Katzner TE (2023) — Illegal shooting is now a leading cause of death of birds along power lines in the western USA (iScience 26(8):107274 · PMID 37609628 · PMC10440709 · doi: 10.1016/j.isci.2023.107274)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10440709/"
+      },
+      {
+        "type": "Companion Telemetry Study",
+        "label": "Millsap BA, Zimmerman GS, Kendall WL et al. (2022) — Age-specific survival rates, causes of death, and allowable take of golden eagles in the western United States (Ecol Appl 32(3):e2544 · PMID 35080801 · PMC9286660 · doi: 10.1002/eap.2544)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9286660/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2918 Verbatim Transcript in Google Drive (8,043 words)",
+        "url": "https://drive.google.com/file/d/1s0o5-YnxMepH6qdoHFktpq7S8AYvSOUV/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2918 Audio Stream — The Burn Marks and the Pellets (47:28)",
+        "url": "https://drive.google.com/file/d/1HIM4o5ck4evrdTK1W0fQ0Fmfsx_LBrNB/view"
+      }
+    ],
+    "relatedSlugs": [
+      "bubbles-after-the-net-turtles",
+      "pattern-was-not-the-poison",
+      "newt-and-the-trading-network-bsal"
+    ]
+  },
+  "mass-that-was-made-of-gauze-gossypiboma": {
+    "slug": "mass-that-was-made-of-gauze-gossypiboma",
+    "fileNo": "247",
+    "partId": "hospital",
+    "partLabel": "Part V · “The First Test Looked Normal”",
+    "title": "A 10-Centimeter ‘Ovarian Cyst,’ Spotless Blood Work—and the Surgical Towel Walled Off for Two Years",
+    "deck": "Why sterile cotton is never biologically invisible, how ultrasound mistakes a glued neighbor for an ovary, and why 199 ‘correct’ surgical counts out of 247 never mean 80% of operations lose sponges.",
+    "byline": "Compiled from Ep 2919 (PREV_1116) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Unintentionally retained surgical laparotomy sponge (gossypiboma) following an emergency Cesarean delivery two years prior",
+      "mechanism": "Unable to phagocytose a large sterile cotton textile, macrophages and fibroblasts quarantine the non-self invader inside dense collagenous fibrous walls and serosal adhesions to adjacent ovary and jejunum—creating an acoustic cyst mimic that routine blood panels cannot detect",
+      "manner": "Survivor Case (Delayed Surgical Never Event Resolved by Laparotomy With Uncomplicated Day-5 Discharge)",
+      "avoidability": "Uncertain (patient surgical-history disclosure, emergency escalation for obstruction signs & shared OR reconciliation systems reduce harm; missing original operative count records prevent assigning specific root cause in the index case)",
+      "falseReassurance": "“My blood work is spotless, my stomach isn’t rigid, the ultrasound already called it an ovarian cyst—and my old C-section was two whole years ago anyway.”"
+    },
+    "looksLike": "A routine 10 × 10 cm ovarian cyst backed by steady vitals, a soft abdomen without guarding, and spotless preoperative blood work",
+    "actuallyIs": "A retained laparotomy sponge (gossypiboma) walled off by chronic immune fibrosis and glued to both ovary and jejunum two years after emergency Cesarean delivery",
+    "sections": [
+      {
+        "heading": "Steady Vitals, Spotless Blood, and the Oyster Inside the Pelvis",
+        "paragraphs": [
+          "Hollywood trains us to expect a forgotten surgical instrument to announce itself with sirens, fever spikes, and a hallway collapse. Real biology prefers quiet carpentry. In 2024, H. O. A. Elamin and colleagues in Patient Safety in Surgery reported a 37-year-old woman in Sudan arriving with one week of abdominal pain—two years after an emergency Cesarean delivery (her tenth pregnancy and delivery). On exam, she was clinically stable with steady vital signs, abdominal distension, mild generalized tenderness, and a palpable globular mass—crucially with zero guarding and zero board-like rigidity, telling surgeons there was no freely leaking peritonitis. Her preoperative labs looked delightfully boring: hemoglobin 14 g/dL and random blood glucose 100 mg/dL (no reference interval printed). That proved her engine could safely tolerate anesthesia, nothing more—standard blood panels search for cells and chemistry, never woven cellulose. Abdominal ultrasound mapped a 10 × 10 cm pelvic mass and called it an ovarian cyst (the report provided narrative interpretation only, without published ultrasound, CT, or MRI scans). Sound waves work like a satellite rooftop photo: they trace dimensions and boundaries, not chemical makeup.",
+          "Through a midline incision under general anesthesia, surgeons found out why the echoes lied. A pink, firm 10 × 10 cm mass had glued itself via serosal attachments to both the ovary and the jejunum—the middle small intestine—making physical proximity impersonate anatomical origin. After meticulous scissor dissection freed it from bowel and ovary, opening the specimen on the table revealed it packed wall-to-wall with medical gauze: a gossypiboma (from Latin gossypium, cotton, and Swahili boma, place of concealment). Autoclaved surgical sponges are sterile, yet sterility is NOT biological invisibility. Immune cells recognize non-self cotton immediately, realize macrophages cannot swallow a 10-centimeter towel, and switch tactics like an oyster coating irritating sand in nacre: fibroblasts lay down collagen and fibrous tissue until the body literally manufactures its own cyst-like fortress. Pathology confirmed a gauze-filled capsule ringed by mixed inflammatory cellular infiltration and—to immense relief after an ovarian-mass scare—no malignant features (gross photos appeared, though no microscopic histology slides or culture results were published). Treated with IV fluids and antibiotics, she sailed through an uncomplicated stay and went home on postoperative day 5 (no long-term follow-up reported)."
+        ]
+      },
+      {
+        "heading": "When the Paperwork Says ‘Correct’ 199 Times—and Still Leaves Cotton Behind",
+        "paragraphs": [
+          "Because the Sudan patient’s original emergency C-section chart, staffing log, and count sheet from two years earlier were completely missing, physical gauze proves retention—nothing more. Tempting as it is to mutter “emergency chaos” and blame a frantic scrub nurse, missing paperwork never identifies which circuit breaker tripped. To inspect the wider electrical panel, turn to V. M. Steelman, C. Shaw, L. Shine, and A. J. Hardy-Fairbanks’s 2018 Patient Safety in Surgery study of 319 Joint Commission Sentinel Event reports of unintentionally retained sponges from October 2012 through September 2017 (explicitly excluding deliberate planned hemorrhage packing, and distinct from the later 2024 Sudan case). Out of 319 reports, teams documented performing a manual count in 247—and wrote down that the count was “correct” in 199 of those 247, roughly 80.6%. Another 28 explicitly recorded no count, leaving an unclassified remainder of 44 events (319 − 247 − 28 = 44) where sparse paperwork cannot prove a count never happened.",
+          "Stop and guard the denominator before that 80.6% sets off the wrong alarm. That figure is a strict conditional probability—conditional on BOTH a sponge already being left inside AND a count being documented in a selected sentinel-event database, NEVER an all-operations failure rate or counting sensitivity across millions of uneventful surgeries. What 199 out of 247 proves is subtler and colder: when a sponge does stay behind, the paperwork silently certifies perfection four-fifths of the time. Across 318 sufficiently described events, investigators logged 1,430 contributing factors (layered Swiss-cheese failures—leadership, communication, fatigue, sudden status shifts—never 1,430 patients). Hoping radio-frequency wands or barcode scanners instantly erase human fallibility? Technology was mentioned in only 9 of the 319 reports (detecting the sponge in 8 of those 9)—far too tiny and uncontrolled to claim gadgets would have stopped 310 events, especially when tired humans facing alarm fatigue must still sweep the right anatomy and trust a beep over a “correct” tally."
+        ]
+      },
+      {
+        "heading": "Two Endings: History Continuity for Patients, Aligned Reality for Hospitals",
+        "paragraphs": [
+          "You cannot count sponges while asleep under propofol, so patient protection runs on continuity and escalation. Persistent or recurrent abdominal pain—or any palpable lump—deserves medical assessment, never home self-probing to guess whether a mass is tissue or textile. Follow NHS emergency abdominal guidance immediately (call local emergency services; do NOT drive yourself) for sudden severe abdominal pain, trouble breathing, vomiting blood, or inability to pass stool or gas with pain—the classic alarm of bowel obstruction from growing adhesions. Bring a crisp surgical history listing past procedures, approximate dates, and facilities even from years ago, note how symptoms evolved, bring prior results, and lock in how follow-up findings will reach you. Never feel obligated to self-diagnose gossypiboma, never treat a provisional “cyst” label as permanent stone if symptoms shift, and reject the timeline fallacy: two years was one woman’s calendar, not a safe window—retained items can surface weeks, months, or decades later.",
+          "The institutional ending belongs inside the operating room, guided by 2025 Agency for Healthcare Research and Quality (AHRQ) conceptual guidance. Hospitals must distinguish manual inventory counts from adjunct presence evidence (barcoding, radio-frequency wands, intraoperative X-rays)—treating gadgets as calibrated backups rather than magic substitutes for shared team communication. When a count diverges, closure stops until the room, drapes, trash, adjunct wands, and imaging reconcile reality; when trauma teams intentionally leave planned hemorrhage packing behind, explicit documentation must pair with a tracked, scheduled retrieval plan rather than memory. And when failures still happen, institutions owe patients honest care alongside non-punitive system learning—because firing one exhausted counter leaves the next nurse standing inside the exact same broken checklist."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · A ‘CORRECT’ COUNT NEVER OUTVOTES PHYSICAL REALITY",
+        "heading": "Protecting Yourself From Delayed Post-Surgical Mimics and Obstruction",
+        "bullets": [
+          "Call emergency services immediately (never drive yourself) for sudden severe abdominal pain, breathing difficulty, vomiting blood, or inability to pass stool or gas with pain—key red flags for acute bowel obstruction.",
+          "Bring a brief surgical timeline (procedures, approximate dates, facilities—even from years or decades earlier) and prior test records to any evaluation for persistent abdominal pain or a palpable mass.",
+          "Never probe your own abdomen at home, never treat a provisional “ovarian cyst” ultrasound label as unchangeable if symptoms evolve, and reject the timeline fallacy that passing two years clears old operations.",
+          "Inside surgical systems, pair disciplined manual inventory counts with adjunct presence tools (wands, X-rays), halt closure for any discrepancy, track intentional planned packing to removal, and fix workflows rather than scapegoating individuals."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "2024 Sudan Index Case",
+        "value": "Elamin HOA et al. (2024), Patient Saf Surg 18(1):26 (PMID 39152454 · PMC11328475) · 37-yr-old woman (10 prior pregnancies/deliveries; emergency C-section ~2 yr prior) presenting stable with 1 wk abdominal pain, distension, mild generalized tenderness, NO guarding/rigidity & palpable globular mass"
+      },
+      {
+        "label": "Blind Labs & Ultrasound",
+        "value": "Hemoglobin 14 g/dL & random blood glucose 100 mg/dL (no reference interval printed; cleared anesthesia, blind to cotton). Abdominal ultrasound read 10 × 10 cm “ovarian cyst” (narrative only—no ultrasound/CT/MRI images published); sound waves map geometry, not cotton cellulose"
+      },
+      {
+        "label": "Operative & Pathology",
+        "value": "Midline laparotomy: pink, firm 10 × 10 cm mass with serosal adhesions to both ovary & jejunum; scissor dissection removed intact mass packed with gauze (gossypiboma). Pathology: cyst-like gauze-filled wall with mixed inflammatory infiltration & NO malignant features (gross photos only; no histology slides or cultures). Uncomplicated discharge post-op Day 5; original C-section count/notes missing"
+      },
+      {
+        "label": "2018 Sentinel Event Math",
+        "value": "Steelman VM, Shaw C, Shine L & Hardy-Fairbanks AJ (2018), Patient Saf Surg 12:20 (PMID 29988638 · PMC6027759) · 319 Joint Commission retained-sponge sentinel events (Oct 2012–Sep 2017; planned packing excluded; selected U.S. subset, NOT all-operations denominator & excludes 2024 Sudan patient)"
+      },
+      {
+        "label": "The 80.6% Conditional Trap",
+        "value": "Counts performed in 247/319 → declared “correct” in 199/247 (80.6%—strictly conditional on retention + recorded count, NOT overall failure rate or test sensitivity). Explicit no-count: 28/319; unclassified remainder: 44/319 (319 − 247 − 28; missing paperwork ≠ proof no count occurred)"
+      },
+      {
+        "label": "Swiss Cheese & Adjunct Tech",
+        "value": "1,430 contributing factors across 318 sufficiently described events (layered causes, NOT 1,430 patients). Adjunct detection tech mentioned in only 9/319 reports (detected in 8/9—too tiny/uncontrolled for counterfactual prevention claims); AHRQ 2025 separates manual inventory counts from adjunct presence evidence & requires tracked retrieval for planned packing"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · PERSISTENT PAIN OR LUMP YEARS AFTER SURGERY",
+      "subhead": "Spot obstruction emergencies fast, carry your surgical timeline, and never let a provisional label stall reassessment.",
+      "steps": [
+        {
+          "action": "CALL EMERGENCY SERVICES FOR OBSTRUCTION SIGNS",
+          "detail": "Sudden severe abdominal pain, trouble breathing, vomiting blood, or inability to pass stool or gas with pain demands immediate ambulance transport—do not drive yourself."
+        },
+        {
+          "action": "DELIVER YOUR COMPLETE SURGICAL TIMELINE",
+          "detail": "Tell clinicians every past operation with approximate dates and facilities—even emergencies from two years or decades ago—alongside prior test results and how symptoms changed."
+        },
+        {
+          "action": "SKIP HOME PROBING & REJECT THE CALENDAR MYTH",
+          "detail": "Never press your own abdomen to guess what a lump is made of, never assume passing two or three years rules out delayed complications, and return promptly if a “cyst” worsens."
+        },
+        {
+          "action": "LOCK IN FOLLOW-UP BEFORE YOU LEAVE",
+          "detail": "Confirm exactly how and when new imaging or lab results will be communicated back to you—your job is clear history and follow-through, not proving a rare diagnosis solo."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Elamin HOA, Masoud MS, Mohamed Ali KSE, Fadl HAO, Hamza AHA, Basheer HAM & Alfaraja M (2024) — Unintentionally retained lap sponge mimicking an ovarian cyst two years after Caesarean section in a 37-year old patient: case report of a rare \"never event\" in Sudan (Patient Saf Surg 18(1):26 · PMID 39152454 · PMC11328475 · doi: 10.1186/s13037-024-00407-x)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11328475/"
+      },
+      {
+        "type": "Companion Sentinel-Event Review",
+        "label": "Steelman VM, Shaw C, Shine L & Hardy-Fairbanks AJ (2018) — Retained surgical sponges: a descriptive study of 319 occurrences and contributing factors from 2012 to 2017 (Patient Saf Surg 12:20 · PMID 29988638 · PMC6027759 · doi: 10.1186/s13037-018-0166-0)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6027759/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2919 Verbatim Transcript in Google Drive (6,266 words)",
+        "url": "https://drive.google.com/file/d/1W53SUg3pNsVcg5UrFye5vDbkrHYQKgr-/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2919 Audio Stream — The Mass That Was Made of Gauze (36:48)",
+        "url": "https://drive.google.com/file/d/1bTOocDz5-VmxKrmm4BSg1se3-L1Fv2sj/view"
+      }
+    ],
+    "relatedSlugs": [
+      "threads-that-stayed-in-place-iud",
+      "two-matching-labels-wrong-patient",
+      "missing-denture-faint-line-esophagus"
+    ]
+  },
+  "gene-that-was-not-diagnosis-allopurinol": {
+    "slug": "gene-that-was-not-diagnosis-allopurinol",
+    "fileNo": "248",
+    "partId": "medicine",
+    "partLabel": "Part III · Medicine Cabinet Roulette",
+    "title": "Zero Mouth Blisters, 3,340 Eosinophils—and the Gene That Was Never the Diagnosis",
+    "deck": "Why a ten-day delay exposes T-cell clonal expansion, why spotless lips and fading skin rashes still hide worsening liver injury, and why screening 2,910 people in Taiwan worked only because clinics actually intercepted the pill.",
+    "byline": "Compiled from Ep 2920 (PREV_1117) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Allopurinol-induced drug reaction with eosinophilia and systemic symptoms (DRESS) in a 72-year-old HLA-B*58:01 carrier",
+      "mechanism": "Allopurinol or its metabolite binds the polymorphic HLA-B*58:01 cellular display window, distorting self-peptide presentation so patrolling T cells mistake healthy tissue for a foreign threat and launch delayed clonal expansion attacking skin, kidneys, and liver",
+      "manner": "Survivor Case (Delayed T-Cell-Mediated Drug Hypersensitivity With Acute Kidney and Liver Injury)",
+      "avoidability": "Uncertain (prospective clinical HLA-B*58:01 screening wired into prescribing pathways, full medical handoffs & urgent rash evaluation sharply reduce SCAR risk; non-carriers can still suffer adverse reactions via other pathways)",
+      "falseReassurance": "“There aren’t any blisters in his mouth, his rash is already fading—and besides, a negative gene test or a consumer spit-tube kit should clear anyone automatically.”"
+    },
+    "looksLike": "An ordinary itchy tummy rash, a blister-free mouth signaling mild allergy—or an HLA genetic readout mistaken for the clinical diagnosis itself",
+    "actuallyIs": "Allopurinol-induced DRESS (drug reaction with eosinophilia and systemic symptoms) with acute kidney injury (creatinine 214 µmol/L), liver injury (ALT/AST 224 U/L), and day-5 eosinophilia (3,340 cells/µL) in an HLA-B*58:01 carrier",
+    "sections": [
+      {
+        "heading": "Ten Days of Quiet Clonal Expansion—and a Blister-Free Mouth Hiding Bruised Organs",
+        "paragraphs": [
+          "Nothing invites medical complacency quite like feeling completely fine while a routine blood panel politely flags one silent number out of range. In 2022, Grace Lucas and Luke Droney in Australian Prescriber reported a 72-year-old Vietnamese man—carrying a two-year background history of hypertension on olmesartan, strictly chart context rather than a second culprit—who started allopurinol four weeks before hospitalization for asymptomatic elevated uric acid. No throbbing gout toe, just a lab line to tidy up. Ten days after his first dose, an itchy red rash appeared on his abdomen. Unlike twenty-minute peanut anaphylaxis, a ten-day fuse is classic delayed T-cell immunity: the body needs days to process the drug, manufacture a clonal army of effector cells, and deploy them. He was initially advised to continue the pill—a bare historical note, not a room transcript, since benign rashes flood primary care daily and hindsight is cheap.",
+          "Four weeks in, the quiet simmer became a systemic alarm: he arrived febrile, hypotensive, and diarrheic, covered in a widespread morbilliform (measles-like) rash sparing palms and soles—with zero mucosal lesions. Drop the folklore that clean lips mean a mild reaction: unlike Stevens-Johnson syndrome, DRESS wrecks internal organs without raising a single mouth blister. Keep the record spotless too: zero numerical vital signs were published—no degrees, no systolic pressure—so inventing 104°F or 80/50 corrupts the chart when febrile and hypotensive already certify systemic inflammatory distress and circulatory compromise. Bloodwork revealed the real damage. Admission creatinine hit 214 µmol/L against a 130 µmol/L baseline drawn two years earlier—an insurance adjuster’s two-year-old roof photo before a hurricane, not an immediate pretreatment GFR for exact delta math. Liver enzymes ALT and AST both reached 224 U/L—spilled enzymes proving active hepatocyte injury (the building is on fire), NOT synthetic function like clotting proteins or bilirubin clearance. A blood film showed reactive lymphocytes and eosinophils peaking on hospital day 5 at 3.34 × 10⁹/L—or 3,340 cells/µL—strictly a day-5 highway snapshot after acute care began, neither the day-10 trigger nor a count of cells already burrowed inside liver and kidneys."
+        ]
+      },
+      {
+        "heading": "The Lock Built at Birth—and the Heavy Freight Train That Kept Rolling After Discharge",
+        "paragraphs": [
+          "Clinicians diagnosed DRESS at admission from symptoms, timeline, and organ labs—entirely before genetic testing returned. Emergency medicine cannot pause failing kidneys while waiting weeks for DNA paperwork. Discharged after five days with allopurinol permanently stopped, his rash improved, yet kidney recovery stayed slow and liver abnormalities initially worsened before reversing. That divergence is the deception of the skin: halting the pill cuts power to a heavy freight train, leaving internal organs to absorb lagging inflammatory momentum long after redness fades—and because the report prints no final normalized organ labs or long-term cure, we never invent a tidy normal-at-discharge ending.",
+          "Only because DRESS was suspected did HLA typing return HLA-B*58:01. Human leukocyte antigens act as cellular display windows presenting internal peptides to patrolling T cells. When allopurinol or its metabolite binds HLA-B*58:01, it distorts that display so immune guards mistake self for foreign invasion and trigger clonal attack. Do not confuse this with a metabolic plumbing jam—like allopurinol blocking an enzyme so azathioprine backs up into marrow toxicity; DRESS is a security-system panic, not a clogged drain. Draw a hard line between susceptibility and diagnosis: HLA-B*58:01 is the lock installed at birth and allopurinol is the key, yet finding a lock never proves a fire started on Tuesday. Zygosity, lab platform, and custom patient T-cell assays went unreported. And ancestry never equals genotype: HLA-B*58:01 is more prevalent in several Asian populations, yet heritage never guarantees carrying the allele—and testing negative never grants an ironclad shield."
+        ]
+      },
+      {
+        "heading": "Zero Severe Cases Across 2,173 Screened Patients—Because the Clinic Intercepted the Pill",
+        "paragraphs": [
+          "Why wait for organ failure to inspect the lock? In 2015, Tai-Ming Ko and colleagues in the BMJ reported Taiwan’s national prospective cohort across 15 medical centers, genotyping 2,910 Han Chinese patients eligible for allopurinol to prevent severe cutaneous adverse reactions (SCARs—DRESS, Stevens-Johnson syndrome, and toxic epidermal necrolysis). Watch every denominator. Exactly 571 of 2,910 (19.6%) carried HLA-B*58:01 and were steered toward alternative or prestudy regimens; 19.6% is strictly this Han Chinese cohort’s carrier share—NEVER a one-in-five disease risk (most carriers never develop SCAR) and NEVER global allele frequency. Among 2,339 negatives, subtracting 155 who never took allopurinol and 11 lost to follow-up left 2,173 exposed, monitored users: ZERO developed SCARs versus seven expected cases from 2001–2004 National Health Insurance historical rates (no randomized concurrent control, since knowingly dosing carriers is unethical). Yet 94 of 2,173 cleared recipients (4.3%) still had mild transient rashes or itching—proving no magic shield. Even landmark journals stay human: follow-up prints as two months in the abstract, three months in the flowchart caption, and nine months or more in the discussion, plus a stray discussion typo naming HLA-B*15:02 (the carbamazepine marker) instead of HLA-B*58:01.",
+          "Taiwan’s victory was never a bare lab printout—it was clinical wiring that intercepted prescriptions before swallow one. Grounded in DailyMed (updated September 22, 2025), NHS review (September 28, 2026; next review 2029), and RCPA indexing, carry two plans. Before starting: ask the exact indication and whether validated clinical HLA-B*58:01 screening fits your setting—use ancestry to start the discussion, never substitute consumer spit-tube kits for clinical labs, share full kidney and medication records, ensure results cross siloed portals to the prescriber, and get written urgent safety instructions even after a negative screen. After starting: never diagnose a new rash online, never wait for mouth blisters or pending DNA results when rash, fever, swelling, or diarrhea hits, and call emergency services for breathing trouble, collapse, or rapidly spreading systemic reactions. After DRESS, flag both the clinical organ-injury reaction and HLA status across charts, confirm who owns follow-up labs, and never restart allopurinol—or try tiny test doses or desensitization—outside strict specialist oversight."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · A GENETIC LOCK NEVER REPLACES CLINICAL ALARM BELLS",
+        "heading": "Navigating Pharmacogenetic Screening and Delayed Drug Reactions Safely",
+        "bullets": [
+          "Before starting allopurinol, ask the exact indication and whether validated clinical HLA-B*58:01 screening applies—never substitute ancestry assumptions or consumer DNA kits, and get written urgent safety instructions even after a negative screen.",
+          "Seek immediate medical advice for any new rash, fever, swelling, or diarrhea after starting a pill—never wait for mouth blisters or pending DNA printouts, and call emergency services for breathing trouble, collapse, or rapidly spreading systemic reactions.",
+          "Never mistake clearing skin for cleared organs: DRESS liver and kidney abnormalities can lag or initially worsen after drug withdrawal, demanding clinician-checked follow-up labs with named ownership.",
+          "Document both the clinical DRESS diagnosis with organ injury and any HLA-B*58:01 result across charts—never restart the culprit drug or attempt rechallenge or desensitization outside strict specialist control."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Primary Clinical Case",
+        "value": "Lucas G & Droney L (2022), Aust Prescr 45(4):130–131 (PMID 36110177 · PMC9427627) · 72-yr-old Vietnamese man (2-yr hypertension on olmesartan—background history only) started allopurinol 4 wk pre-admission for asymptomatic hyperuricemia; day-10 itchy abdominal rash (advised to continue—historical record, not exam transcript); admitted febrile, hypotensive, diarrheic with widespread morbilliform rash sparing palms/soles & zero mucosal lesions"
+      },
+      {
+        "label": "Organ Labs & Missing Vitals",
+        "value": "Zero numerical vital signs published (no temp/BP values—do not invent). Admission creatinine 214 µmol/L vs. 2-yr-old baseline 130 µmol/L (historical snapshot, NOT immediate pretreatment GFR delta); ALT 224 U/L & AST 224 U/L (hepatocellular injury, NOT complete synthetic function); blood film reactive lymphocytes & hospital day-5 peak eosinophils 3.34 × 10⁹/L = 3,340 cells/µL (circulating day-5 peak, NOT day-10 trigger or tissue infiltration)"
+      },
+      {
+        "label": "Clinical Diagnosis & Course",
+        "value": "Diagnosed clinically as DRESS at admission BEFORE genetic testing returned. Discharged day 5; allopurinol never resumed. Rash improved while kidney recovery stayed slow and liver abnormalities initially worsened before improving (lagging organ momentum; no final normalized discharge values or long-term cure reported)"
+      },
+      {
+        "label": "HLA-B*58:01 Susceptibility",
+        "value": "Post-admission HLA typing detected HLA-B*58:01—a congenital susceptibility lock enabling allopurinol/metabolite-altered peptide presentation and T-cell clonal expansion, NOT a standalone diagnosis. Zygosity, lab platform, and custom patient T-cell functional assay unreported; ancestry ≠ genotype; negative screen ≠ zero risk"
+      },
+      {
+        "label": "2015 Taiwan Prospective Cohort",
+        "value": "Ko TM et al. (2015), BMJ 351:h4848 (PMID 26399967 · PMC4579807) · 15 Taiwanese centers, Han Chinese cohort: 2,910 genotyped; 571/2,910 (19.6%) HLA-B*58:01 carriers (cohort carrier share, NOT disease risk or global allele frequency) steered off allopurinol. Of 2,339 negatives: −155 never took drug −11 lost to follow-up = 2,173 exposed & monitored → 0/2,173 SCARs (DRESS/SJS/TEN) vs. 7 expected from 2001–2004 NHI historical rates (no concurrent randomized control)"
+      },
+      {
+        "label": "Residual Risk & Paper Warts",
+        "value": "94/2,173 (4.3%) HLA-B*58:01-negative allopurinol recipients still developed mild transient rash/itching (proving no magic shield). Published warts preserved transparently: follow-up stated as 2 mo (abstract), 3 mo (flowchart caption), and ≥9 mo (discussion), plus 1 stray discussion typo printing HLA-B*15:02 (carbamazepine marker) instead of HLA-B*58:01"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · STARTING ALLOPURINOL OR SPOTTING A NEW DRUG RASH",
+      "subhead": "Screen before the first pill when indicated—and treat real-time symptoms, never pending DNA results, as the fire alarm.",
+      "steps": [
+        {
+          "action": "ASK BEFORE YOU FILL THE SCRIPT",
+          "detail": "Clarify the exact indication for allopurinol and ask whether validated clinical HLA-B*58:01 testing is appropriate—bring full kidney history and med lists, make sure results reach the prescriber, and get written urgent safety instructions even if negative."
+        },
+        {
+          "action": "ESCALATE RASH + SYSTEMIC SIGNS NOW",
+          "detail": "Never self-diagnose a rash online or wait for mouth blisters or pending genetic reports—seek immediate medical advice for new rash, fever, swelling, or diarrhea, and call emergency services immediately for breathing trouble, collapse, or rapidly spreading systemic skin reactions."
+        },
+        {
+          "action": "CHECK ORGANS EVEN AS SKIN CLEARS",
+          "detail": "Remember the deception of the skin: internal kidney and liver injury can lag or initially worsen after drug withdrawal, so confirm which clinician owns your follow-up bloodwork after discharge."
+        },
+        {
+          "action": "LOCK THE CHART & NEVER RESTART",
+          "detail": "Have both the clinical DRESS organ-injury reaction and HLA status flagged permanently across health records—never restart the culprit drug or attempt tiny test doses or desensitization outside strict specialist care."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Lucas G & Droney L (2022) — Severe adverse drug reaction to allopurinol (Aust Prescr 45(4):130–131 · PMID 36110177 · PMC9427627 · doi: 10.18773/austprescr.2022.032)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9427627/"
+      },
+      {
+        "type": "Companion National Screening Cohort",
+        "label": "Ko TM, Tsai CY, Chen SY, Chen KS, Yu KH et al. (2015) — Use of HLA-B*58:01 genotyping to prevent allopurinol induced severe cutaneous adverse reactions in Taiwan: national prospective cohort study (BMJ 351:h4848 · PMID 26399967 · PMC4579807 · doi: 10.1136/bmj.h4848)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4579807/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2920 Verbatim Transcript in Google Drive (8,777 words)",
+        "url": "https://drive.google.com/file/d/1ytLkxqktPLOqrPxny1GGJEMJMV9cvMmZ/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2920 Audio Stream — The Gene That Was Not the Diagnosis (50:55)",
+        "url": "https://drive.google.com/file/d/1iFiMQTRhDEZbB5Y52On6hpOvMG-uqMiE/view"
+      }
+    ],
+    "relatedSlugs": [
+      "family-behind-the-enzyme-g6pd",
+      "variant-below-first-test-mosaic",
+      "eye-chart-and-thinning-nerve-ethambutol"
+    ]
+  },
+  "two-infections-same-intestine-raccoons": {
+    "slug": "two-infections-same-intestine-raccoons",
+    "fileNo": "249",
+    "partId": "pets",
+    "partLabel": "Part VI · Bonus: How Not to Accidentally Off Your Dog or Cat",
+    "title": "Quarantined, Vaccinated, Silently Dead—and Two Different Pathogens Sharing the Same Ruined Gut",
+    "deck": "Why prey-species silence hides melted intestinal villi, how an S-phase virus hands molecular-syringe Salmonella an open castle gate, and why one-for-eight sequencing in hunted raccoons never proves a forest epidemic.",
+    "byline": "Compiled from Ep 2921 (PREV_1118) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Fatal concurrent enteritis associated with carnivore protoparvovirus type 1 (CPPV-1) and zoonotic Salmonella enterica (serovar Kottbus in Case 1; serovar Ferruch in Case 2) in two sanctuary juvenile raccoons",
+      "mechanism": "Single-stranded DNA parvovirus hijacks mitotically active S-phase cells in intestinal crypts, mesenteric lymph nodes, and bone marrow—shutting down gut-wall renewal and gut immunity—alongside invasive gram-negative Salmonella armed with Type III secretion syringes exploiting the collapsed mucosal barrier",
+      "manner": "Veterinary Forensic Case (Fatal Concurrent Viral-Bacterial Enteritis in Two Juvenile Sanctuary Raccoons)",
+      "avoidability": "Uncertain (maintaining wildlife distance, licensed veterinary vaccination and multi-pathogen diagnostics lower risk; maternal-antibody vaccine interference and unproven pathogen entry routes keep causality and prevention limits explicit)",
+      "falseReassurance": "“They cleared two-week quarantine and canine parvo shots, neither one even had diarrhea—and if a wild raccoon tests PCR-positive in the woods, it must mean an unstoppable dual-infection outbreak is sweeping the forest!”"
+    },
+    "looksLike": "Two quiet juvenile raccoons safeguarded by quarantine, disinfection, and canine parvovirus vaccines—or a single bacterial fecal hit explaining everything",
+    "actuallyIs": "Concurrent carnivore protoparvovirus type 1 (CPPV-1; FPV-typed in Case 2) and zoonotic Salmonella enterica (serovar Kottbus in Case 1; serovar Ferruch in Case 2) causing necrotizing enteritis and mesenteric lymphoid depletion",
+    "sections": [
+      {
+        "heading": "Three Sanctuary Walls, Zero Diarrhea—and Assassinated Stonemasons in the Gut Basement",
+        "paragraphs": [
+          "Humans adore tidy binary medicine: one broken bone, one polite germ, one neat vaccine check mark. Wildlife pathology rarely cooperates. In 2025, Kristin Pütsch, Ingo Spitzbarth, Regina Scheller, Kristin Heenemann, and Florian Hansmann in BMC Veterinary Research investigated two wild-born juvenile female raccoons (Procyon lotor), aged 14 and 18 weeks, at a German animal sanctuary running serious biosecurity: a strict two-week intake quarantine, regular hand and surface disinfection, and prior canine vaccination explicitly including canine parvovirus. Physical, chemical, and immunological walls all stood upright—and failed silently. Keep the clinical record starkly sparse: both juveniles showed only brief apathy before sudden death. There was no observed diarrhea, no documented fever, no observed dehydration, and zero antemortem bloodwork. Prey-wired wildlife hide frailty until compensation collapses, so enteritis was written on the necropsy table, never witnessed in the enclosure.",
+          "Under the microscope, the small intestine looked like a demolished castle wall. Normally, millions of villus towers absorb nutrients while short-lived surface enterocytes get continuously replaced by a cellular escalator rising from crypt stem-cell factories in the basement. Histology in both raccoons showed severe lymphohistioplasmacytic, partly fibrinous-necrotizing enteritis: villi melted and fused flat, crypts dilated and filled with abscesses, and basement stonemasons were wiped out amid chaotic regeneration. Swarming the rubble were dense intraluminal and intralesional pink gram-negative rods (alcohol strips their outer lipid membrane and washes crystal violet out of thin peptidoglycan, leaving pink safranin—a structural category, not a name tag). Selective agar cultures separated the two juveniles cleanly: Case 1 (14 weeks) grew Salmonella enterica subsp. enterica serovar Kottbus, while Case 2 (18 weeks) grew serovar Ferruch—two distinct serovars, not one uniform sanctuary cloud. Equipped with Type III secretion syringes that inject proteins hijacking host actin to pull bacteria inside cells, Salmonella barely needed to pick the lock once the crypt wall collapsed."
+        ]
+      },
+      {
+        "heading": "An S-Phase Virus, a 1,010-Base-Pair Lineage—and Why Wreckage Never Prints a Timestamp",
+        "paragraphs": [
+          "Proving the viral demolition crew took two independent locks. Immunohistochemistry—enzyme-tagged anti-parvovirus antibodies—lit up viral antigen densely inside intestinal crypt cells, moderately to severely depleted mesenteric lymph nodes (gut security outposts stripped bare), and scattered bone marrow cells. Carnivore protoparvovirus type 1 (CPPV-1) pulls off this double sabotage via stark minimalism: its tiny single-stranded DNA genome lacks DNA polymerase, forcing it to hijack host cells actively copying DNA in S-phase—targeting dividing crypt factories, lymphoid hubs, and marrow simultaneously. PCR confirmed CPPV-1 in both raccoons, and sequencing succeeded in Case 2 across 1,010 base pairs (GenBank PP756116) aligned against 16 GenBank reference sequences, clustering with feline panleukopenia virus (FPV). Dodge the molecular-epidemiology trap: matching 16 sequences defines an evolutionary FPV-like lineage, NEVER a chain of custody, home address, or backyard feral cat donor. Why did canine parvo shots fail? Maternal antibody interference: colostrum antibodies protect newborns yet neutralize live vaccines in juveniles, opening a classic susceptibility window right around 14 to 18 weeks as maternal titers fade.",
+          "Post-mortem pathology reads the crash wreckage after the fire is out—not the security tape. While viral immunosuppression plausibly rolled out the red carpet for Salmonella, fixed tissue cannot prove which pathogen landed first, quantify prior burden, or split lethality into percentages. Scavenged wild fowl and raw chicken eggs fed at the sanctuary remain plausible entry hypotheses without a matched environmental isolate. Mark three bright lines: zero documented human illness, zero documented bloodstream septicemia (bacteria stayed confined to gut and mesenteric nodes), and zero antimicrobial resistance panel tested. Afterward, the sanctuary vaccinated remaining juveniles with a feline parvovirus vaccine and launched German Veterinary Medicine Society (DVG) disinfection; no further parvovirus cases were reported—yet with no untreated control group and no stated follow-up window, triage stopped the losses while permanently entangling which measure deserves credit."
+        ]
+      },
+      {
+        "heading": "Footprints in the Forest Mud—and Fortifying Borders Without Sterilizing Nature",
+        "paragraphs": [
+          "Now step outside sanctuary walls with Nico P. Reinhardt and colleagues (2023, Pathogens), who surveyed 102 free-ranging raccoons in southwest Germany during 2019–2020: 100 hunted plus 2 found dead—a regional hunted sample, never a randomized continental census. Rigorous positive and negative qPCR controls certified clean thermal-cycler chemistry, NOT that 102 carcasses speak for every raccoon in Europe. Intestinal qPCR detected CPPV-1 DNA in 8 of 102 raccoons (7.8%, all urban), yet sequencing typed only 1 of 8 as FPV—meaning 12.5% typing coverage is strictly a lab sequencing yield, NEVER wild FPV prevalence, sensitivity, or mortality, and never proof the other seven weren’t FPV. Watch the primary record’s quirks too: prose prints 30 of 102 positive for any screened pathogen as 28.3% when 30 ÷ 102 equals 29.4%, and one weak Leptospira hit (Ct 40.1) failed secondary verification, barring inflated co-infection totals. Above all, separate detection (a mud footprint), characterization (boot size), and tissue injury (a burning house): Reinhardt’s eight PCR-positive wild raccoons had no typical gross intestinal lesions, and Salmonella wasn’t even tested—providing zero evidence of a dual-infection forest epidemic.",
+          "Practical protection lives at the boundary, anchored in CDC wildlife guidance (displayed June 15, 2026) and the Merck Veterinary Manual feline panleukopenia review (updated March 2026). If an oddly quiet, apathetic raccoon sits in your yard by daylight, kill the cardboard-box hero reflex: keep physical distance, never pet, feed, adopt, capture, or drive sick wildlife in your car, and call local animal control or authorized wildlife services. Supervise domestic pets outdoors, maintain core vaccines like parvovirus strictly through a licensed veterinarian—never DIY sanctuary protocols—wash hands reliably, and report any wildlife bite, scratch, or mucosal contact immediately with exact species and interaction details. In veterinary care, audit juvenile vaccine windows, never stop looking after one positive Salmonella culture when lesions scream viral immunosuppression, and never copy-paste domestic-cat Merck protocols onto raccoons without species-specific adaptation. Neither study documents a single human case: resilience comes from fortifying borders, not trying to sterilize the woods."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · ONE POSITIVE CULTURE NEVER CLEARS A DEMOLISHED GUT",
+        "heading": "Respecting Wildlife Borders, Vaccine Windows, and Dual-Pathogen Reality",
+        "bullets": [
+          "Keep physical distance from apathetic, daytime, or visibly ill wildlife—never pet, feed, adopt, or transport a sick raccoon yourself; call animal control or authorized wildlife services.",
+          "Supervise pets outdoors, maintain core vaccines like parvovirus exclusively through a licensed veterinarian, and report any wildlife bite, scratch, or mucosal exposure immediately with exact species details.",
+          "In sanctuary or veterinary workups, audit juvenile vaccination timing for maternal-antibody interference and never stop investigating after one positive Salmonella culture when lesions suggest concurrent viral immunosuppression.",
+          "Never confuse wild PCR DNA detection with active tissue disease, never read phylogenetic trees as proven transmission chains, and never copy-paste domestic-cat treatment charts blindly onto wildlife."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Sanctuary Dual-Fatal Cases",
+        "value": "Pütsch K, Spitzbarth I, Scheller R, Heenemann K & Hansmann F (2025), BMC Vet Res 21(1):91 (PMID 39994695 · PMC11852810) · Two wild-born juvenile female raccoons (14 & 18 wk) in a German sanctuary with 2-wk quarantine, hand/surface disinfection & prior canine parvovirus vaccination; brief apathy then sudden death—zero observed diarrhea, fever, dehydration, or antemortem bloodwork"
+      },
+      {
+        "label": "Histology & Dual Cultures",
+        "value": "Necropsy enteritis: villus fusion/atrophy, crypt necrosis/dilatation/abscesses, atypical regeneration, moderate-to-severe mesenteric lymph node depletion & intralesional gram-negative rods. Agar cultures isolated two distinct serovars: Salmonella enterica subsp. enterica serovar Kottbus (Case 1) and serovar Ferruch (Case 2)—localized to gut & mesenteric nodes (no bloodstream septicemia, no AMR panel, no human cases)"
+      },
+      {
+        "label": "IHC, PCR & FPV Lineage",
+        "value": "Parvovirus IHC stained intestinal crypt cells, depleted mesenteric lymph nodes & bone marrow (S-phase mitotic targeting). PCR confirmed CPPV-1 in both raccoons; sequencing succeeded ONLY in Case 2 (1,010 bp, GenBank PP756116 vs. 16 reference sequences) clustering with FPV—characterizing evolutionary lineage, NOT proving donor identity or transmission chain; maternal-antibody interference explains juvenile vaccine gap"
+      },
+      {
+        "label": "Unresolved Bounds & Response",
+        "value": "Post-mortem histology cannot prove pathogen arrival order, exact infectious burden, or causal split; wild fowl scavenging & raw sanctuary chicken eggs remain unproven hypotheses. Post-event feline parvovirus vaccination + DVG cleaning/disinfection saw no further parvovirus cases reported, but lacked an untreated control group and stated follow-up duration"
+      },
+      {
+        "label": "2023 Wild Germany Survey",
+        "value": "Reinhardt NP, Köster J, Thomas A, Arnold J, Fux R & Straubinger RK (2023), Pathogens 12(3):389 (PMID 36986312 · PMC10054312) · 102 free-ranging raccoons in Baden-Württemberg (2019–2020: 100 hunted + 2 found dead—convenience regional frame, NOT continental census). Intestinal qPCR: 8/102 (7.8%, all urban) CPPV-1 positive; 1/8 typed FPV (12.5% typing coverage = lab sequencing yield, NOT prevalence/sensitivity/mortality)"
+      },
+      {
+        "label": "Detection vs. Tissue Injury",
+        "value": "Reinhardt’s 8 PCR-positive wild raccoons had NO typical gross intestinal lesions at necropsy, and Salmonella was NOT tested—zero evidence of a wild dual-infection outbreak or human spillover. Primary-text warts noted: printed 30/102 overall positivity as 28.3% (actual math 30 ÷ 102 = 29.4%), and 1 weak Leptospira signal (Ct 40.1) failed secondary confirmation"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · ENCOUNTERING AN APATHETIC RACCOON OR WILDLIFE EXPOSURE",
+      "subhead": "Distance is your primary biological barrier—skip DIY wildlife rescue and keep pets behind licensed veterinary defenses.",
+      "steps": [
+        {
+          "action": "KEEP DISTANCE & CALL AUTHORIZED HELP",
+          "detail": "If you spot an oddly quiet, apathetic wild raccoon in daylight, stay well back—never touch, feed, capture, or box it into your car; call local animal control or licensed wildlife services."
+        },
+        {
+          "action": "PROTECT PETS & MAINTAIN VET VACCINES",
+          "detail": "Supervise dogs and cats outdoors to prevent wildlife contact, maintain core vaccinations like parvovirus strictly through a licensed veterinarian, and never improvise DIY sanctuary vaccine regimens."
+        },
+        {
+          "action": "REPORT EXPOSURES WITH EXACT CONTEXT",
+          "detail": "Wash hands thoroughly after outdoor/animal activity, and if any person or pet suffers a bite, scratch, or mucosal contact with wildlife, report it immediately to medical or veterinary professionals with exact species and interaction details."
+        },
+        {
+          "action": "THINK DUAL PATHOGENS IN CLINICAL CARE",
+          "detail": "In wildlife or shelter medicine, review intake records and juvenile maternal-antibody vaccine windows, never stop looking after one positive Salmonella culture if gut lesions suggest viral immunosuppression, and adapt domestic protocols specifically for wildlife species."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Pütsch K, Spitzbarth I, Scheller R, Heenemann K & Hansmann F (2025) — Enteritis in raccoons (Procyon lotor) caused by an infection with zoonotic Salmonella and carnivore parvovirus (BMC Vet Res 21(1):91 · PMID 39994695 · PMC11852810 · doi: 10.1186/s12917-025-04560-y)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11852810/"
+      },
+      {
+        "type": "Companion Wildlife Surveillance Study",
+        "label": "Reinhardt NP, Köster J, Thomas A, Arnold J, Fux R & Straubinger RK (2023) — Bacterial and Viral Pathogens with One Health Relevance in Invasive Raccoons (Procyon lotor, Linné 1758) in Southwest Germany (Pathogens 12(3):389 · PMID 36986312 · PMC10054312 · doi: 10.3390/pathogens12030389)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10054312/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 2921 Verbatim Transcript in Google Drive (7,115 words)",
+        "url": "https://drive.google.com/file/d/1SzXwLrWf-6OYeqHyOIPAIpWwHSkpI14C/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 2921 Audio Stream — The Two Infections in the Same Intestine (44:04)",
+        "url": "https://drive.google.com/file/d/1o5aA9vjQxs8b4hamJZ8VRXNxNVDuz7cq/view"
+      }
+    ],
+    "relatedSlugs": [
+      "door-closed-to-rabbit-rhdv2",
+      "newt-and-the-trading-network-bsal",
+      "parrot-and-four-different-records-psittacosis"
+    ]
   }
 }
