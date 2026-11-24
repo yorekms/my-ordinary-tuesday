@@ -16,6 +16,7 @@ import json
 import re
 import subprocess
 import sys
+import time
 import zipfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -40,11 +41,33 @@ GH_BOOK_TAG = "latest-book"
 
 
 def run(cmd, cwd=None, check=True):
-    print(f"  $ {' '.join(str(c) for c in cmd)}")
-    p = subprocess.run(cmd, cwd=cwd or REPO_ROOT, text=True)
-    if check and p.returncode != 0:
-        raise RuntimeError(f"Command exited {p.returncode}: {cmd}")
-    return p.returncode
+    is_gdrive = len(cmd) > 0 and str(cmd[0]) == "gdrive"
+    attempts = 5 if is_gdrive else 1
+    for attempt in range(attempts):
+        print(f"  $ {' '.join(str(c) for c in cmd)}")
+        if is_gdrive:
+            p = subprocess.run(cmd, cwd=cwd or REPO_ROOT, text=True, capture_output=True)
+            if p.stdout:
+                print(p.stdout, end="")
+            if p.returncode == 0:
+                return 0
+            err = (p.stderr or p.stdout or "")
+            if any(tok in err for tok in ("rateLimitExceeded", "RATE_LIMIT_EXCEEDED", "Error 403", "Error 429")):
+                wait = 8 * (attempt + 1)
+                print(f"  [backoff {wait}s] transient Google Drive rate limit — retrying ({attempt + 1}/{attempts})...")
+                time.sleep(wait)
+                continue
+            if p.stderr:
+                print(p.stderr, end="", file=sys.stderr)
+            if check:
+                raise RuntimeError(f"Command exited {p.returncode}: {cmd}")
+            return p.returncode
+        else:
+            p = subprocess.run(cmd, cwd=cwd or REPO_ROOT, text=True)
+            if check and p.returncode != 0:
+                raise RuntimeError(f"Command exited {p.returncode}: {cmd}")
+            return p.returncode
+    raise RuntimeError(f"Exhausted retries after transient Drive rate limits: {cmd}")
 
 
 def validate_repo():

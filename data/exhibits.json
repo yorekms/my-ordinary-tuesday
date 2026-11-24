@@ -1,17 +1,17 @@
 {
   "meta": {
     "updated": "2026-11-24",
-    "totalStoriesEnriched": 232,
-    "ccByClinicalExhibitStories": 192,
-    "ccByClinicalExhibitImages": 196,
-    "primaryClinicalExhibitStories": 110,
+    "totalStoriesEnriched": 244,
+    "ccByClinicalExhibitStories": 202,
+    "ccByClinicalExhibitImages": 206,
+    "primaryClinicalExhibitStories": 118,
     "referenceClinicalExhibitStories": 52,
-    "hazardFieldPhotoStories": 30,
+    "hazardFieldPhotoStories": 32,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 202,
-    "perStoryQuizzes": 232,
-    "examPoolSize": 66,
-    "externalFigureLinkoutStories": 42
+    "dynamicBlueprintStories": 214,
+    "perStoryQuizzes": 244,
+    "examPoolSize": 70,
+    "externalFigureLinkoutStories": 45
   },
   "stories": {
     "fractal-wood-burning": {
@@ -8228,6 +8228,431 @@
           "licenseNote": "CC BY-NC-ND (view directly on PMC)"
         }
       ]
+    },
+    "hemoglobin-behind-diabetes-label-wayne": {
+      "quiz": {
+        "prompt": "A lean patient with no diabetes symptoms gets a routine CE-HPLC HbA1c of 10.0%—and an automated portal alert displays an estimated average glucose of 240 mg/dL—yet recent fasting glucoses sit in the 80s and a post-breakfast glucose measured 89 mg/dL. What is the safest clinical next step?",
+        "options": [
+          {
+            "label": "Bring complete lab reports with explicit fasting versus post-meal context to the clinician, ask the laboratory to investigate hemoglobin-variant interference using a chemically distinct assay (such as an enzymatic method) plus alternative markers, and make no unilateral medication changes.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Mulpuri’s 2023 case, switching from charge-based CE-HPLC to an enzymatic assay dropped HbA1c from 9.9%–10.1% to 5.4% and unmasked silent Hemoglobin Wayne I—whereas repeating the same column or trusting ADAG’s eAG formula only recycles the illusion."
+          },
+          {
+            "label": "Order a second CE-HPLC HbA1c at the same hospital lab to see if the first draw was a clerical typo, and treat the automated 240 mg/dL estimated average glucose as independent mathematical confirmation.",
+            "correct": false,
+            "feedback": "Repeating the same vulnerable CE-HPLC column faithfully reproduces co-elution every time, and the 2008 ADAG eAG equation explicitly excluded hemoglobinopathies—it merely translates a false input into a 132-point phantom average."
+          },
+          {
+            "label": "Assume a confirmed silent hemoglobin variant permanently rules out diabetes for life, erase the erroneous 10.0% reading from the chart, and skip future glycemic monitoring unless overt symptoms appear.",
+            "correct": false,
+            "feedback": "A hemoglobin variant never immunizes anyone against developing true diabetes later in life, and erasing chart history invites future clinics—especially after analyzer upgrades—to repeat the exact same diagnostic trap."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · HEMOGLOBIN CHROMATOGRAM",
+          "src": "assets/exhibits/PMC10580435_luad043f1.jpg",
+          "caption": "Hemoglobin electrophoresis of hemoglobin Wayne.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1. from Mulpuri et al. (2023), JCEM Case Reports · PMC10580435",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10580435/"
+        }
+      ]
+    },
+    "air-sacs-could-not-clear-pap": {
+      "quiz": {
+        "prompt": "A lifelong nonsmoking distance runner develops two months of worsening dry cough and shortness of breath on easy jogs, yet her smartwatch and clinic resting pulse oximeter read 97% on room air. What is the safest interpretation?",
+        "options": [
+          {
+            "label": "Because 97% resting oxygen saturation proves alveolar gas exchange is healthy, she should run a self-directed home stair-sprint challenge and only seek care if resting saturation falls below 90%.",
+            "correct": false,
+            "feedback": "Resting saturation tests an unloaded system and completely missed severe diffusion impairment (54% predicted DLCO) in Acharya’s marathoner—while DIY exercise challenges delay proper specialist evaluation."
+          },
+          {
+            "label": "Recognize that normal resting oxygen does not exclude a severe exertional diffusion defect, schedule qualified medical evaluation with complete symptom and workplace context, and call emergency services immediately (never driving herself) if red flags like gasping, broken sentences, blue-gray lips, chest tightness, or confusion appear.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Autoimmune PAP can clog alveoli with surfactant while resting SpO₂ still prints 97%; respecting exertional symptoms and acting on NHS emergency red flags bridges the gap to real testing."
+          },
+          {
+            "label": "If she works in a water-damaged building, assume mold toxicity caused her symptoms, quit her job immediately as guaranteed prevention, and rely on a chest CT alone for a definitive chemical diagnosis.",
+            "correct": false,
+            "feedback": "In Acharya’s 2025 report, a mold-damaged workplace was strictly an unproved temporal association with zero fungal hyphae on biopsy, and CT ‘crazy paving’ reflects physical density—never chemical composition."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC12457922_cureus-0017-00000090921-i01.jpg",
+          "caption": "High-resolution axial CT of the chest at the basal level, demonstrating bilateral, predominantly peripheral ground-glass opacities with superimposed interlobular septal thickening (the classic “crazy-paving” pattern) consistent with pulmonary alveolar proteinosis.The diffuse…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Acharya et al. (2025), Cureus · PMC12457922",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12457922/"
+        }
+      ]
+    },
+    "iron-inside-the-liver-animal": {
+      "quiz": {
+        "prompt": "Your aging pet sugar glider starts skipping favorite foods and dragging his hind legs. An online husbandry group insists it is either calcium deficiency or iron overload and urges dosing calcium tonight while stripping all iron from his diet. What is the safest action?",
+        "options": [
+          {
+            "label": "Give over-the-counter calcium immediately and switch to an iron-free homemade diet derived from Taiwan’s 2022 ALT reference table before calling a clinic.",
+            "correct": false,
+            "feedback": "Unprescribed supplements risk toxicity and alter diagnostic clues, stripping essential iron risks fatal anemia, and Lin’s 2022 ALT range (24.9–189.4 U/L in adults ≤7 years) can never be converted into a safe dietary iron formula."
+          },
+          {
+            "label": "Demand an immediate liver biopsy and routine serum iron screening panel at the nearest general dog-and-cat clinic so you can confirm hemochromatosis tonight.",
+            "correct": false,
+            "feedback": "Living liver biopsies in a sick ~82-gram glider carry immense hemorrhage and anesthetic risk requiring specialist judgment, and routine serum iron panels lack validated living diagnostic cutoffs for sugar gliders."
+          },
+          {
+            "label": "Contact a qualified exotic veterinarian promptly (or immediately for collapse, seizures, or open-mouth breathing), withhold DIY supplements or panicked iron elimination, and bring complete logs of every food brand, treat, and powder for professional assessment.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Hind-limb weakness is a check-engine light with multiple possible causes—from metabolic bone disease and trauma to the swollen kidneys and multi-organ failure seen alongside liver hemochromatosis in Nojiri’s 14-year-old glider."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC9774594_animals-12-03583-g002.jpg",
+          "caption": "Two of the blood collection sites used in this study. (a) Median artery, using 0.3 mL insulin syringe; (b) cranial vena cava, using 1 mL syringe.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Lin et al. (2022), Animals : an Open Access Journal from MDPI · PMC9774594",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9774594/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "NOJIRI et al. (2022), The Journal of Veterinary Medical Science — 4 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10017282/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "acid-in-recycling-loop-pyroglutamic": {
+      "quiz": {
+        "prompt": "A frail hospitalized relative taking ordinary daily doses of paracetamol (acetaminophen) has eaten almost nothing for two weeks and suddenly develops deep, rapid breathing and marked drowsiness. What is the safest immediate step?",
+        "options": [
+          {
+            "label": "Alert the bedside medical team or emergency services immediately, provide the complete list of all prescription and OTC paracetamol/acetaminophen products plus the exact two-week nutritional decline, and avoid DIY acid-neutralizing fixes or unilateral medication experiments.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Eid’s 2024 case and 2024 EMA guidance, severe breathing changes or reduced responsiveness during therapeutic paracetamol plus malnutrition require immediate clinical evaluation—where doctors can check albumin-corrected anion gaps even if arterial pH still reads 7.40."
+          },
+          {
+            "label": "Reassure yourself because their total daily paracetamol stayed at 1–2 grams—far below acute overdose thresholds—and check whether their arterial pH is near 7.40 before escalating.",
+            "correct": false,
+            "feedback": "Pyroglutamic acidosis occurs at ordinary 1–2 g/day therapeutic doses when cysteine-depleted malnutrition breaks glutathione feedback, and Eid’s patient maintained a deceptive 7.40 pH while bicarbonate crashed to 13 mmol/L."
+          },
+          {
+            "label": "Wait to see if a specialized urine organic acid test comes back positive first, and once a repeat urine test later normalizes, automatically restart daily paracetamol at the rehabilitation facility.",
+            "correct": false,
+            "feedback": "Never delay emergency evaluation waiting on mass-spectrometry urine tests, and a normalized repeat urine profile only shows the loop paused—it never grants automatic clearance to restart paracetamol before whole-body nutritional recovery."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Eid et al. (2024), BMC Nephrology — 1 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11323620/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "threads-that-stayed-in-place-iud": {
+      "quiz": {
+        "prompt": "An older patient who had an IUD inserted decades ago experiences four years of recurring UTIs with different bacteria, burning, and visible blood in the urine, but zero vaginal leaking and visibly intact IUD strings on exam. What is the safest clinical takeaway?",
+        "options": [
+          {
+            "label": "Visible cervical strings prove the device remains safely inside the uterus, so simply pull it out gently at home or repeat oral antibiotics using over-the-counter urine dipsticks.",
+            "correct": false,
+            "feedback": "Never pull on IUD strings yourself—in the 2025 Ford case, strings stayed visibly intact for 50 years while the loop perforated three spots in the bladder wall, where tugging could tear the organ."
+          },
+          {
+            "label": "Disclose the full implant history to clinicians, escalate promptly for reassessment and specialist imaging rather than letting visible strings cancel persistent urinary symptoms, and treat sepsis flags like confusion as emergencies.",
+            "correct": true,
+            "feedback": "Survived Tuesday! A visible string proves only that the thread is at the cervix—never where the rest of the device sits—and persistent recurrent UTIs demand a structural explanation when standard therapy fails."
+          },
+          {
+            "label": "Assume every asymptomatic IUD user carries a 43.2% risk of silent organ perforation based on Kho & Chamsy (2014) and demand an annual pelvic MRI even with zero symptoms.",
+            "correct": false,
+            "feedback": "Base-rate fallacy! That 43.2% (16/37) came solely from women already undergoing abdominal surgery for severe perforation—not all IUD users—and CDC 2024 does not recommend routine scans in healthy asymptomatic users."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · MRI SCAN",
+          "src": "assets/exhibits/PMC12571523_criu2025-8941217.001.jpg",
+          "caption": "Preoperative MRI imaging demonstrating Lippes Loop IUD curls protruding into the bladder lumen in (a) coronal and (b) sagittal views (white arrows).",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Ford et al. (2025), Case Reports in Urology · PMC12571523",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12571523/"
+        }
+      ]
+    },
+    "water-system-behind-seizures-salt": {
+      "quiz": {
+        "prompt": "Two days after moving finishing pigs onto dry feed and piped salted cheese whey, staff discover fat-occluded lines and find pigs circling, pressing their heads into walls, and seizing. What is the safest immediate action?",
+        "options": [
+          {
+            "label": "Call a veterinarian urgently, withhold uncontrolled unlimited fresh-water flooding until professionally directed slow rehydration begins, and hand over exact affected pens plus the last known verified water-flow time without guessing.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Hypernatremic brains hoard idiogenic osmols—sudden unlimited water flips the osmotic gradient into fatal cerebral edema, so slow veterinary-guided correction and honest timelines are critical."
+          },
+          {
+            "label": "Flush the pipes and fill every trough to the brim with unlimited fresh water right away so dehydrated animals can drink rapidly until seizures stop on their own.",
+            "correct": false,
+            "feedback": "Fatal osmotic trap! Rapid blood dilution floods water across the blood-brain barrier into osmol-loaded cells inside a rigid skull, triggering lethal swelling, cortical laminar necrosis, and malacia."
+          },
+          {
+            "label": "Mix a homemade salt-and-electrolyte bucket for one test pen first, and if CSF sodium comes back marked ‘ND,’ conclude sodium was zero and rule out salt poisoning.",
+            "correct": false,
+            "feedback": "Never run DIY exposure trials or home salt mixes, and ‘ND’ on a pathology table means Not Determined (unassayed)—never zero sodium, which is biologically impossible."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Inkognito_Flickr_simon_berger_23a750.jpg",
+          "caption": "Domestic pig (Sus scrofa)—swine are uniquely vulnerable to acute sodium-ion toxicosis when drinking water is interrupted and then suddenly restored.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "simon from Austria · Wikimedia Commons (Inkognito. - Flickr - simon berger.jpg)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inkognito._-_Flickr_-_simon_berger.jpg"
+        }
+      ]
+    },
+    "variant-below-first-test-mosaic": {
+      "quiz": {
+        "prompt": "A patient survives a severe acute intermittent porphyria attack confirmed by massively elevated urinary ALA and PBG, but initial Sanger DNA sequencing and red-cell HMBS enzyme activity look normal; years later, nanopore sequencing finds a pathogenic HMBS variant at ~22% of blood reads while both parents’ blood tests negative. What is the most accurate clinical and family takeaway?",
+        "options": [
+          {
+            "label": "Cross porphyria off the emergency chart until liver biopsy proves liver involvement, and tell both parents their negative blood tests mathematically guarantee zero chance of passing the variant to another child.",
+            "correct": false,
+            "feedback": "Never let negative or delayed genetics override confirmed acute biochemistry—and GeneReviews warns negative parental white-cell blood DNA cannot exclude gonadal mosaicism."
+          },
+          {
+            "label": "Inform the patient that his future children face an exact 22% inheritance probability matching his blood reads, and rush to change medications whenever asymptomatic follow-up urine ALA/PBG stays above normal.",
+            "correct": false,
+            "feedback": "Sequence read fractions (22% of amplified blood fragments) never measure gonadal cells or offspring probability, and asymptomatic ‘high excreter’ labs do not equal an active acute crisis."
+          },
+          {
+            "label": "Keep care anchored to raw dated biochemical and clinical records rather than ‘DNA negative’ summaries, seek urgent care for acute red flags, and pursue qualified genetic counseling that treats offspring risk as possible yet mathematically unknown.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Preserving full raw lab context protects acute care, while honest mosaic counseling separates what blood sequencing proved from untested liver and reproductive cells."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CLINICAL CLASSIFICATION",
+          "src": "assets/exhibits/PMC10533070_life-13-01889-g001.jpg",
+          "caption": "Main clinical characteristics of the porphyrias. The porphyrias are classified as either hepatic or erythropoietic, depending on the main site of porphyrin accumulation. The subgroup of acute porphyrias (within the blue frame) is characterized by acute neurovisceral attacks…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Belosevic et al. (2023), Life · PMC10533070",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10533070/"
+        }
+      ]
+    },
+    "breath-against-closed-airway-nppe": {
+      "quiz": {
+        "prompt": "A teenager had a brief choking struggle and oxygen drop right after extubation following an appendectomy, quickly rebounded to 98% in the OR, and now seems breathless and starts coughing while groggy in recovery. What is the safest course of action?",
+        "options": [
+          {
+            "label": "Reassure them that the 98% OR rebound proved the airway crisis is over, wait for a consumer pulse oximeter or pink frothy sputum before bothering staff, and later tell future doctors they are ‘allergic to general anesthesia.’",
+            "correct": false,
+            "feedback": "Dangerous on all three counts! Earlier 98% readings never cancel delayed hydrostatic edema, waiting for froth wastes critical time, and false ‘anesthesia allergy’ labels degrade future airway care."
+          },
+          {
+            "label": "Alert recovery staff immediately on the sleepy patient’s behalf without waiting for pink froth, ensure the full airway struggle and follow-up care enter the discharge record, and report the exact prior mechanical difficulty—not a fake allergy—before future surgery.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Immediate escalation catches delayed post-obstructive edema (or other post-op threats like PE/aspiration), and preserving the full unvarnished airway history keeps future anesthesia safe."
+          },
+          {
+            "label": "Briefly remove their hospital oxygen mask to check whether room-air saturation stabilizes within six hours, since the 2026 teen case proved a universal six-hour recovery timeline.",
+            "correct": false,
+            "feedback": "Never remove prescribed oxygen for an unsupervised room-air test, and one monitored teenager’s six-hour recovery is strictly a single-case observation—never a universal safe waiting clock."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC13482065_cureus-0018-00000112936-i01.jpg",
+          "caption": "Initial portable post-operative chest radiograph: The radiograph demonstrates diffuse, bilateral ill-defined alveolar opacities without cardiomegaly, consistent with acute negative pressure pulmonary edema.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Mavridou et al. (2026), Cureus · PMC13482065",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13482065/"
+        }
+      ]
+    },
+    "bubbles-after-the-net-turtles": {
+      "quiz": {
+        "prompt": "A boater spots a loggerhead turtle floating sluggishly near shore with no visible shell damage or cuts, snapping abruptly whenever the boat drifts closer. Based on Parga’s 2020 study and NOAA public guidance, what is the safest response?",
+        "options": [
+          {
+            "label": "Keep a safe distance, never chase or prod the turtle, and immediately report exact coordinates and visual observations to authorized wildlife responders.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Scratch-free shells and snapping reflexes never rule out vascular gas embolism or aspiration—distance, exact observations, and trained authorized responders protect both animal and boater."
+          },
+          {
+            "label": "Assume the snapping proves vigorous health and herd the turtle toward deeper water so it can self-recompress any nitrogen bubbles.",
+            "correct": false,
+            "feedback": "Hyper-reactive snapping can be an agonizing pain response to expanding internal bubbles, NOAA strictly forbids chasing or corralling, and telemetry never proved self-recompression as a field rescue tactic."
+          },
+          {
+            "label": "Haul the turtle aboard to test its reflexes for two hours and improvise a pressurized recovery tank if it stays weak.",
+            "correct": false,
+            "feedback": "Holding a turtle at surface pressure can worsen expanding vascular bubbles, prodding reflexes causes harm, and hyperbaric therapy in Spain was specialized n = 2 clinical care—never a DIY procedure."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Loggerhead_turtle_reflection_bfde8c.jpg",
+          "caption": "A loggerhead sea turtle in the National Aquarium in Washington DC",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Bachrach44 · Wikimedia Commons (Loggerhead turtle reflection.jpg)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loggerhead_turtle_reflection.jpg"
+        }
+      ]
+    },
+    "urine-that-came-back-pseudo-aki": {
+      "quiz": {
+        "prompt": "An older relative with pelvic radiation therapy thirty years ago has not passed a drop of urine for 36 hours, has worsening lower abdominal pain and nausea, has no fever, and reads on a portal that an earlier kidney ultrasound showed no hydronephrosis. What is the safest immediate action?",
+        "options": [
+          {
+            "label": "Have them drink several tall glasses of water to flush the bladder and wait until a fever develops before heading to the emergency room.",
+            "correct": false,
+            "feedback": "Forcing fluids into acute urinary retention raises pressure and can worsen urinary ascites, pain, and bladder wall tearing—and the 85-year-old patient in Jiang’s report never had a fever at presentation."
+          },
+          {
+            "label": "Assume the absence of hydronephrosis rules out any serious urinary plumbing emergency and stop any over-the-counter or prescription medications on your own tonight.",
+            "correct": false,
+            "feedback": "A leaking bladder relieves upstream pressure so kidneys stay undilated even during catastrophic failure, and prescribed medications should never be abruptly self-stopped without clinical review."
+          },
+          {
+            "label": "Seek immediate emergency medical evaluation, avoid forcing fluids, and bring exact symptom onset times, full current prescription/OTC medication lists, and the 30-year-old pelvic radiation history as context.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Acute anuria with escalating abdominal pain demands immediate urgent evaluation regardless of fever or undilated kidneys—and thirty-year-old pelvic surgery/radiation history is crucial diagnostic terrain."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/PMC10441709_12882_2023_3289_fig1_html.jpg",
+          "caption": "The main results for the examinations in the patient. Note: The kidney ultrasound revealed the presence of ascites and the absence of hydronephrosis in emergency room (A). Further contrasted computed tomography scan confirmed no hydronephrosis (B) and the presence of urine in…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Jiang et al. (2023), BMC Nephrology · PMC10441709",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10441709/"
+        }
+      ]
+    },
+    "eye-chart-and-thinning-nerve-ethambutol": {
+      "quiz": {
+        "prompt": "A patient with mild macular degeneration who has taken ethambutol smoothly for three years notices sudden right-eye blurriness and washed-out red colors over five days. What is the safest course of action?",
+        "options": [
+          {
+            "label": "Stop taking ethambutol immediately on their own and wait until the next routine annual eye exam to check whether macular degeneration progressed.",
+            "correct": false,
+            "feedback": "Never stop antimicrobial therapy unilaterally without coordinating with the prescriber, and never wait out sudden visual or color changes—urgent evaluation is needed to rule out stroke, masses, and drug toxicity."
+          },
+          {
+            "label": "Seek urgent clinical evaluation immediately, report the three-year ethambutol regimen alongside pre-existing eye history, and let eye and infection clinicians coordinate any medication hold and follow-up.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Urgent evaluation rules out immediate neurological threats while ensuring multi-year “furniture” medications are evaluated and adjusted safely in coordination with infection care."
+          },
+          {
+            "label": "Skip urgent care if an initial OCT nerve thickness scan reads borderline normal, since healthy-looking nerve thickness rules out ethambutol optic neuropathy.",
+            "correct": false,
+            "feedback": "In Peterson & Hawy’s case, initial OCT read a borderline 79 µm right and 95 µm left even while the patient was down to finger-counting—early swelling can mask thinning that surfaces months later."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Peterson et al. (2022), American Journal of Ophthalmology Case Reports — 5 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9218146/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "calcium-behind-the-seizures-serval": {
+      "quiz": {
+        "prompt": "A rapidly growing large-breed puppy fed an unsupplemented boneless raw meat diet develops progressive leg weakness and pain, yet an initial routine blood panel prints a normal total serum calcium. What is the safest clinical conclusion?",
+        "options": [
+          {
+            "label": "Rule out calcium deficiency completely since total blood calcium is normal, and focus exclusively on testing the limbs by stretching them at home.",
+            "correct": false,
+            "feedback": "In Nowak’s 2024 series, all four puppies had normal total calcium (2.4–2.98 mmol/L) while parathyroid hormone dissolved their bones—and manipulating demineralized limbs risks folding fractures."
+          },
+          {
+            "label": "Sprinkle an over-the-counter calcium powder directly onto the raw meat bowl tonight and skip follow-up X-rays once the puppy seems more comfortable.",
+            "correct": false,
+            "feedback": "DIY mineral guesswork and bowl-sprinkled powders fail to ensure balanced life-stage ratios or actual ingestion, and blood or comfort levels can improve weeks before weakened bones stabilize."
+          },
+          {
+            "label": "Recognize that parathyroid bone resorption can keep blood calcium normal while the skeleton hollows out—pursue urgent veterinary evaluation connecting function, full diet history, chemistry, and skeletal imaging without DIY dosing or limb manipulation.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Homeostasis defends blood calcium at the skeleton’s expense—connecting physical function, chemistry, and radiographs under veterinary care catches silent bone debt before folding fractures strike."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · RADIOGRAPH",
+          "src": "assets/exhibits/PMC11200917_animals-14-01783-g001.jpg",
+          "caption": "Radiographic images of dog A and dog D. Radiographic image (latero-lateral view) of the lumbosacral area of dog A (a) shows a suspected general low radiodensity of the bones. Computed tomography image (dorsal view) of the T12–L2 area of dog D (b) reveals generalized…",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Nowak et al. (2024), Animals : an Open Access Journal from MDPI · PMC11200917",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200917/"
+        }
+      ]
     }
   },
   "exam": [
@@ -9682,38 +10107,120 @@
           "why": "Never wait out a stopped nosebleed, and never run DIY swallow or watery-feed experiments—if cranial nerves are impaired, forced feeding drives food straight into the lungs as fatal aspiration pneumonia."
         }
       ]
+    },
+    {
+      "q": "A lean patient with no diabetes symptoms gets a routine CE-HPLC HbA1c of 10.0%—and an automated portal alert displays an estimated average glucose of 240 mg/dL—yet recent fasting glucoses sit in the 80s and a post-breakfast glucose measured 89 mg/dL. What is the safest clinical next step?",
+      "caseSlug": "hemoglobin-behind-diabetes-label-wayne",
+      "caseRef": "Case 233",
+      "options": [
+        {
+          "label": "Bring complete lab reports with explicit fasting versus post-meal context to the clinician, ask the laboratory to investigate hemoglobin-variant interference using a chemically distinct assay (such as an enzymatic method) plus alternative markers, and make no unilateral medication changes.",
+          "ok": true,
+          "why": "Survived Tuesday! In Mulpuri’s 2023 case, switching from charge-based CE-HPLC to an enzymatic assay dropped HbA1c from 9.9%–10.1% to 5.4% and unmasked silent Hemoglobin Wayne I—whereas repeating the same column or trusting ADAG’s eAG formula only recycles the illusion."
+        },
+        {
+          "label": "Order a second CE-HPLC HbA1c at the same hospital lab to see if the first draw was a clerical typo, and treat the automated 240 mg/dL estimated average glucose as independent mathematical confirmation.",
+          "ok": false,
+          "why": "Repeating the same vulnerable CE-HPLC column faithfully reproduces co-elution every time, and the 2008 ADAG eAG equation explicitly excluded hemoglobinopathies—it merely translates a false input into a 132-point phantom average."
+        },
+        {
+          "label": "Assume a confirmed silent hemoglobin variant permanently rules out diabetes for life, erase the erroneous 10.0% reading from the chart, and skip future glycemic monitoring unless overt symptoms appear.",
+          "ok": false,
+          "why": "A hemoglobin variant never immunizes anyone against developing true diabetes later in life, and erasing chart history invites future clinics—especially after analyzer upgrades—to repeat the exact same diagnostic trap."
+        }
+      ]
+    },
+    {
+      "q": "Your aging pet sugar glider starts skipping favorite foods and dragging his hind legs. An online husbandry group insists it is either calcium deficiency or iron overload and urges dosing calcium tonight while stripping all iron from his diet. What is the safest action?",
+      "caseSlug": "iron-inside-the-liver-animal",
+      "caseRef": "Case 235",
+      "options": [
+        {
+          "label": "Give over-the-counter calcium immediately and switch to an iron-free homemade diet derived from Taiwan’s 2022 ALT reference table before calling a clinic.",
+          "ok": false,
+          "why": "Unprescribed supplements risk toxicity and alter diagnostic clues, stripping essential iron risks fatal anemia, and Lin’s 2022 ALT range (24.9–189.4 U/L in adults ≤7 years) can never be converted into a safe dietary iron formula."
+        },
+        {
+          "label": "Demand an immediate liver biopsy and routine serum iron screening panel at the nearest general dog-and-cat clinic so you can confirm hemochromatosis tonight.",
+          "ok": false,
+          "why": "Living liver biopsies in a sick ~82-gram glider carry immense hemorrhage and anesthetic risk requiring specialist judgment, and routine serum iron panels lack validated living diagnostic cutoffs for sugar gliders."
+        },
+        {
+          "label": "Contact a qualified exotic veterinarian promptly (or immediately for collapse, seizures, or open-mouth breathing), withhold DIY supplements or panicked iron elimination, and bring complete logs of every food brand, treat, and powder for professional assessment.",
+          "ok": true,
+          "why": "Survived Tuesday! Hind-limb weakness is a check-engine light with multiple possible causes—from metabolic bone disease and trauma to the swollen kidneys and multi-organ failure seen alongside liver hemochromatosis in Nojiri’s 14-year-old glider."
+        }
+      ]
+    },
+    {
+      "q": "A frail hospitalized relative taking ordinary daily doses of paracetamol (acetaminophen) has eaten almost nothing for two weeks and suddenly develops deep, rapid breathing and marked drowsiness. What is the safest immediate step?",
+      "caseSlug": "acid-in-recycling-loop-pyroglutamic",
+      "caseRef": "Case 236",
+      "options": [
+        {
+          "label": "Alert the bedside medical team or emergency services immediately, provide the complete list of all prescription and OTC paracetamol/acetaminophen products plus the exact two-week nutritional decline, and avoid DIY acid-neutralizing fixes or unilateral medication experiments.",
+          "ok": true,
+          "why": "Survived Tuesday! In Eid’s 2024 case and 2024 EMA guidance, severe breathing changes or reduced responsiveness during therapeutic paracetamol plus malnutrition require immediate clinical evaluation—where doctors can check albumin-corrected anion gaps even if arterial pH still reads 7.40."
+        },
+        {
+          "label": "Reassure yourself because their total daily paracetamol stayed at 1–2 grams—far below acute overdose thresholds—and check whether their arterial pH is near 7.40 before escalating.",
+          "ok": false,
+          "why": "Pyroglutamic acidosis occurs at ordinary 1–2 g/day therapeutic doses when cysteine-depleted malnutrition breaks glutathione feedback, and Eid’s patient maintained a deceptive 7.40 pH while bicarbonate crashed to 13 mmol/L."
+        },
+        {
+          "label": "Wait to see if a specialized urine organic acid test comes back positive first, and once a repeat urine test later normalizes, automatically restart daily paracetamol at the rehabilitation facility.",
+          "ok": false,
+          "why": "Never delay emergency evaluation waiting on mass-spectrometry urine tests, and a normalized repeat urine profile only shows the loop paused—it never grants automatic clearance to restart paracetamol before whole-body nutritional recovery."
+        }
+      ]
+    },
+    {
+      "q": "A boater spots a loggerhead turtle floating sluggishly near shore with no visible shell damage or cuts, snapping abruptly whenever the boat drifts closer. Based on Parga’s 2020 study and NOAA public guidance, what is the safest response?",
+      "caseSlug": "bubbles-after-the-net-turtles",
+      "caseRef": "Case 241",
+      "options": [
+        {
+          "label": "Keep a safe distance, never chase or prod the turtle, and immediately report exact coordinates and visual observations to authorized wildlife responders.",
+          "ok": true,
+          "why": "Survived Tuesday! Scratch-free shells and snapping reflexes never rule out vascular gas embolism or aspiration—distance, exact observations, and trained authorized responders protect both animal and boater."
+        },
+        {
+          "label": "Assume the snapping proves vigorous health and herd the turtle toward deeper water so it can self-recompress any nitrogen bubbles.",
+          "ok": false,
+          "why": "Hyper-reactive snapping can be an agonizing pain response to expanding internal bubbles, NOAA strictly forbids chasing or corralling, and telemetry never proved self-recompression as a field rescue tactic."
+        },
+        {
+          "label": "Haul the turtle aboard to test its reflexes for two hours and improvise a pressurized recovery tank if it stays weak.",
+          "ok": false,
+          "why": "Holding a turtle at surface pressure can worsen expanding vascular bubbles, prodding reflexes causes harm, and hyperbaric therapy in Spain was specialized n = 2 clinical care—never a DIY procedure."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Final Wave Drops (PREV_1083–1100) (18)",
-      "tagline": "Complete 18-episode final forensic wave (Ep 2767–2903 / PREV_1083–1100) with verified clinical & hazard exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 11 Drops (Ep 2904–2915) (12)",
+      "tagline": "Freshly added on 2026-11-24 — 12 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "leak-that-opened-second-door-csf",
-        "swelling-connected-twenty-years-hae",
-        "artery-in-the-other-hand-hammer",
-        "vessel-skipped-the-filter-pavm",
-        "antiseptic-beside-anesthetic-chlorhexidine",
-        "weakness-inside-spinal-cord-wnv",
-        "lead-and-cough-that-changed-dog",
-        "well-and-the-other-lactate-dlactate",
-        "fever-before-the-antibody-window",
-        "wire-beyond-stomach-wall-cattle",
-        "jaw-and-missing-protection-tetanus",
-        "potassium-changed-compartments-tpp",
-        "clerk-and-the-granulomas-beryllium",
-        "pressure-without-a-wave-achalasia",
-        "sand-that-stayed-behind-horse",
-        "needle-and-missing-safety-plan-vaccinia",
-        "nosebleed-beside-the-artery-horse",
-        "bite-and-rippling-muscles-rattlesnake"
+        "hemoglobin-behind-diabetes-label-wayne",
+        "air-sacs-could-not-clear-pap",
+        "iron-inside-the-liver-animal",
+        "acid-in-recycling-loop-pyroglutamic",
+        "threads-that-stayed-in-place-iud",
+        "water-system-behind-seizures-salt",
+        "variant-below-first-test-mosaic",
+        "breath-against-closed-airway-nppe",
+        "bubbles-after-the-net-turtles",
+        "urine-that-came-back-pseudo-aki",
+        "eye-chart-and-thinning-nerve-ethambutol",
+        "calcium-behind-the-seizures-serval"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (192)",
-      "tagline": "All 192 chapters featuring commercial-cleared primary case imaging (110), peer-reviewed reference exhibits (52), and verified hazard field photos (30).",
+      "label": "🩻 All Verified Exhibits (202)",
+      "tagline": "All 202 chapters featuring commercial-cleared primary case imaging (118), peer-reviewed reference exhibits (52), and verified hazard field photos (32).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -9906,13 +10413,23 @@
         "sand-that-stayed-behind-horse",
         "needle-and-missing-safety-plan-vaccinia",
         "nosebleed-beside-the-artery-horse",
-        "bite-and-rippling-muscles-rattlesnake"
+        "bite-and-rippling-muscles-rattlesnake",
+        "hemoglobin-behind-diabetes-label-wayne",
+        "air-sacs-could-not-clear-pap",
+        "iron-inside-the-liver-animal",
+        "threads-that-stayed-in-place-iud",
+        "water-system-behind-seizures-salt",
+        "variant-below-first-test-mosaic",
+        "breath-against-closed-airway-nppe",
+        "bubbles-after-the-net-turtles",
+        "urine-that-came-back-pseudo-aki",
+        "calcium-behind-the-seizures-serval"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (110)",
-      "tagline": "The 110 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (118)",
+      "tagline": "The 118 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -10023,7 +10540,15 @@
         "fever-before-the-antibody-window",
         "potassium-changed-compartments-tpp",
         "clerk-and-the-granulomas-beryllium",
-        "nosebleed-beside-the-artery-horse"
+        "nosebleed-beside-the-artery-horse",
+        "hemoglobin-behind-diabetes-label-wayne",
+        "air-sacs-could-not-clear-pap",
+        "iron-inside-the-liver-animal",
+        "threads-that-stayed-in-place-iud",
+        "variant-below-first-test-mosaic",
+        "breath-against-closed-airway-nppe",
+        "urine-that-came-back-pseudo-aki",
+        "calcium-behind-the-seizures-serval"
       ]
     },
     {
@@ -10031,36 +10556,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
+        "handlebar-and-hidden-pancreatic-duct",
+        "aquarium-more-than-one-patient-palytoxin",
+        "reheated-rice-and-botulism",
+        "burn-looked-like-infection-wet-cement",
+        "thyroid-that-changed-in-the-test-biotin",
         "fractal-wood-burning",
         "family-behind-the-enzyme-g6pd",
-        "battery-already-in-the-stomach",
-        "one-finger-varicose-vein",
-        "driveway-ied-truck-tire",
-        "anesthetic-that-triggered-the-furnace",
-        "spin-class-rhabdo",
-        "chocolate-brown-blood",
-        "super-rat-bait-and-vitamin-k-trap",
-        "boots-in-the-snow-and-heatstroke",
-        "wire-behind-the-pain",
-        "thyroid-that-changed-in-the-test-biotin",
-        "thread-across-the-road-kite-string",
-        "hot-baths-fentanyl-patches-deadly",
-        "burn-looked-like-infection-wet-cement",
-        "tank-after-the-collapse-h2s",
-        "room-not-safe-to-finish",
-        "dry-ice-riding-shotgun",
-        "ring-and-unbroken-bone-avulsion",
-        "aquarium-more-than-one-patient-palytoxin",
         "thread-beneath-the-swelling-hair-tourniquet",
-        "handlebar-and-hidden-pancreatic-duct",
-        "reheated-rice-and-botulism",
-        "hair-treatment-reached-the-cat",
-        "pool-had-another-hazard-drain-suction",
-        "puppy-with-the-twisted-stomach-gdv",
+        "chocolate-brown-blood",
         "potassium-that-rose-in-the-tube",
-        "charger-between-phone-and-wall",
+        "thread-across-the-road-kite-string",
+        "pool-had-another-hazard-drain-suction",
+        "tank-after-the-collapse-h2s",
+        "dry-ice-riding-shotgun",
+        "hot-baths-fentanyl-patches-deadly",
         "van-that-was-not-empty",
-        "small-hands-moving-treadmill-belt"
+        "anesthetic-that-triggered-the-furnace",
+        "room-not-safe-to-finish",
+        "spin-class-rhabdo",
+        "hair-treatment-reached-the-cat",
+        "driveway-ied-truck-tire",
+        "charger-between-phone-and-wall",
+        "wire-behind-the-pain",
+        "ring-and-unbroken-bone-avulsion",
+        "small-hands-moving-treadmill-belt",
+        "one-finger-varicose-vein",
+        "super-rat-bait-and-vitamin-k-trap",
+        "puppy-with-the-twisted-stomach-gdv",
+        "boots-in-the-snow-and-heatstroke",
+        "battery-already-in-the-stomach"
       ]
     },
     {
@@ -10116,7 +10641,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 46",
+      "label": "🐾 Pet Owner’s Mandatory 49",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
