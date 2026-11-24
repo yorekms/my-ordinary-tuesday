@@ -1,17 +1,17 @@
 {
   "meta": {
     "updated": "2026-11-24",
-    "totalStoriesEnriched": 249,
-    "ccByClinicalExhibitStories": 207,
-    "ccByClinicalExhibitImages": 212,
-    "primaryClinicalExhibitStories": 122,
-    "referenceClinicalExhibitStories": 53,
+    "totalStoriesEnriched": 253,
+    "ccByClinicalExhibitStories": 211,
+    "ccByClinicalExhibitImages": 216,
+    "primaryClinicalExhibitStories": 124,
+    "referenceClinicalExhibitStories": 55,
     "hazardFieldPhotoStories": 32,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 219,
-    "perStoryQuizzes": 249,
-    "examPoolSize": 75,
-    "externalFigureLinkoutStories": 46
+    "dynamicBlueprintStories": 223,
+    "perStoryQuizzes": 253,
+    "examPoolSize": 79,
+    "externalFigureLinkoutStories": 49
   },
   "stories": {
     "fractal-wood-burning": {
@@ -8857,6 +8857,171 @@
           "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11852810/"
         }
       ]
+    },
+    "gas-beyond-stomach-liquid-nitrogen": {
+      "quiz": {
+        "prompt": "Minutes after eating an amusement-park liquid nitrogen snack—having waited until the smoking vapor cloud disappeared—a teenager develops sudden severe abdominal pain, visible belly swelling, and shortness of breath, yet reports zero mouth burns or sore throat. What is the safest response?",
+        "options": [
+          {
+            "label": "Call emergency medical services immediately, give zero water, milk, food, or antacids, avoid touching or tasting the leftover snack, and report the suspected liquid nitrogen exposure with exact timing and any existing photo or receipt.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Kim’s 2018 case, a 13-year-old suffered a 4 cm stomach perforation with zero mouth or throat injury; immediate EMS without oral fluids protects the sterile peritoneal cavity while giving surgeons vital exposure history."
+          },
+          {
+            "label": "Offer a glass of milk to coat the stomach and wait to see if the gas passes, since the vapor cloud had already vanished and an unburned throat rules out deep cryogenic stomach injury.",
+            "correct": false,
+            "feedback": "Fading fog never proves safe internal temperature, a spotless throat never rules out a ruptured stomach, and pouring milk or water into a perforated organ floods the sterile abdominal cavity."
+          },
+          {
+            "label": "Delay calling EMS long enough to smell and taste the bottom of the snack cup for doctors, then call Poison Control first while massaging the swollen abdomen to help vent trapped nitrogen.",
+            "correct": false,
+            "feedback": "Never risk cryogenic self-injury playing detective, never massage an acute surgical abdomen, and never let Poison Control calls delay physical emergency care when severe pain, distension, or breathlessness hits."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ABDOMINAL CT (PNEUMOPERITONEUM)",
+          "src": "assets/exhibits/PMC12103062_cureus-0017-00000082897-i01.jpg",
+          "caption": "Coronal abdominal CT scan showing extensive pneumoperitoneum (yellow arrows)—free gas escaped beyond the stomach wall after rapid liquid-to-gas expansion following liquid nitrogen cocktail ingestion.",
+          "spoilerNote": "Abdominal CT scan from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Zaldo Arredondo et al. (2025), Cureus · PMC12103062",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12103062/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Kim (2018), Clinical Endoscopy — Companion liquid nitrogen snack gastric perforation CT & X-ray figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6078932/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
+    },
+    "obstruction-outside-lining-endometriosis": {
+      "quiz": {
+        "prompt": "A woman with a history of recurrent hydronephrosis and regular 28-day periods has her right ureteral double-J stent removed after a completely normal cystoscopy. Less than a day later, she produces zero urine and develops worsening right flank pain. What is the safest response?",
+        "options": [
+          {
+            "label": "Drink large glasses of water and cranberry juice to flush the blockage and wait a full 24 hours, since normal cystoscopy cleared the urinary lining and normal periods rule out endometriosis.",
+            "correct": false,
+            "feedback": "Forcing fluids into a clamped ureter spikes destructive hydrostatic pressure inside the kidney, cystoscopy cannot see extrinsic scar tissue outside the pipe, and normal 28-day cycles never rule out ureteral endometriosis."
+          },
+          {
+            "label": "Seek immediate emergency evaluation without forcing fluids, and tell triage the exact flank pain side, sudden anuria, prior hydronephrosis, and recent stent removal so clinicians can urgently scan and relieve any upstream blockage.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Al Ayoubi et al.’s 2025 case, complete anuria struck within 24 hours of stent removal with an empty bladder beneath a swollen right kidney—urgent assessment and decompression protect remaining renal function immediately."
+          },
+          {
+            "label": "Skip the emergency room and schedule a routine gynecology visit next month, because painless or regular periods mean the kidney back pressure is mild and reversible.",
+            "correct": false,
+            "feedback": "Pain and renal function do not move together—in Yang et al.’s 2021 surgical cohort, 19 of 40 patients (48%) with hydronephrosis were completely asymptomatic, and acute anuria requires immediate emergency decompression."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · MULTIMODAL CT / US / MRI",
+          "src": "assets/exhibits/REF_PMC5728068_13256_2017_1518_fig1_html.jpg",
+          "caption": "Reference imaging of extrinsic ureteral endometriosis causing recurrent hydronephrosis: CT and urography (A, B, D) showing kidney dilation from distal ureteral narrowing, ultrasound locating the deep infiltrating endometriosis nodule (F, DIE arrow), and pelvic MRI (G, H).",
+          "spoilerNote": "Illustrative peer-reviewed radiology from a separate CC BY ureteral endometriosis case (not the index patient in Al Ayoubi et al. 2025).",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Lee et al. (2017), Journal of Medical Case Reports · PMC5728068 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5728068/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Al Ayoubi et al. (2025), Research and Reports in Urology — Primary bilateral hydronephrosis CT & ureteral biopsy figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12506785/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
+    },
+    "storage-inside-heart-cell-hcq": {
+      "quiz": {
+        "prompt": "A patient with long-standing cardiomyopathy and active lupus on hydroxychloroquine has recently lost substantial weight and developed worsening kidney labs. Tonight she becomes severely breathless while lying flat, feels suddenly dizzy with a racing irregular heartbeat, and remembers her annual retinal eye exam was spotless two months ago. What is the safest action?",
+        "options": [
+          {
+            "label": "Trust the spotless annual eye exam as proof against hydroxychloroquine heart toxicity and skip her pills for four days at home to see if her breathing clears up.",
+            "correct": false,
+            "feedback": "A retinal exam inspects the back of the eye—not the myocardium—and abruptly self-stopping an immunomodulator as a home experiment risks triggering a dangerous lupus flare or lupus myocarditis without diagnosing the acute cardiac threat."
+          },
+          {
+            "label": "Assume the breathlessness is simply her familiar 11-year-old heart failure flaring up, sleep propped on extra pillows, and drive herself to an outpatient clinic next week.",
+            "correct": false,
+            "feedback": "A familiar diagnosis must never excuse sudden deterioration: NHS guidance flags lying-down breathlessness and Plaquenil warnings flag racing heartbeat and dizziness as immediate emergencies—and driving yourself while oxygen-starved or near-syncopal is dangerous."
+          },
+          {
+            "label": "Call emergency services immediately without driving herself, do not self-stop her immunomodulator as a home test, and give ER clinicians her complete medication, cardiac, weight-loss, and kidney history.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Lying-down breathlessness, dizziness, and racing irregular heartbeats demand urgent emergency evaluation for both mechanical pump failure and electrical QTc arrhythmia, while medication changes remain strictly clinician-directed across cardiology, nephrology, and rheumatology."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ELECTRON MICROSCOPY (ENDOMYOCARDIAL BIOPSY)",
+          "src": "assets/exhibits/PMC9529523_crirh2022-6503453.001.jpg",
+          "caption": "Endomyocardial biopsy electron microscopy showing hallmark hydroxychloroquine lysosomal cardiotoxicity: (a, 12,000×) elongated enlarged mitochondria (orange arrows), myelin figure (green arrow), and curvilinear body (red arrow); (b, 20,000×) myelin figure (yellow arrow).",
+          "spoilerNote": "Transmission electron microscopy of cardiac biopsy tissue from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Ramahi, Heider & Kahlenberg (2022), Case Reports in Rheumatology · PMC9529523",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9529523/"
+        }
+      ]
+    },
+    "hormone-behind-changed-behavior-cat": {
+      "quiz": {
+        "prompt": "An 11-year-old reportedly spayed cat has lost weight and sprayed pungent urine vertically on walls for months, and over the last three weeks she has begun acting like she is in heat and aggressively attacking anyone who reaches near her. Two routine urinalyses, a urine culture, and baseline CBC and chemistry panels have all come back normal. What is the safest next step?",
+        "options": [
+          {
+            "label": "Warn the veterinary clinic beforehand about her aggression so they can plan pre-visit anxiolytics or safe sedation, bring her full timeline and prior negative urinary workups, and pursue stepwise medical reassessment without ever punishing her.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Normal routine labs and a past spay record never rule out hidden endocrine drivers like a 6-mm ovarian remnant (or mimics like external estrogen exposure), and advance notice lets veterinary teams evaluate aggressive cats safely."
+          },
+          {
+            "label": "Accept that normal routine blood and urine tests prove a purely behavioral dominance issue, scold her firmly whenever she sprays, and hold her down at home to palpate her belly for lumps.",
+            "correct": false,
+            "feedback": "Cornell Feline Health Center guidance strictly warns against physical or verbal punishment—it escalates fear and stress without touching hidden biology—and forceful home restraint risks serious bites and injury to both owner and cat."
+          },
+          {
+            "label": "Assume an ovarian remnant is impossible because her adoption file says she was spayed ten years ago, and skip further imaging since hormone bloodwork alone can map the exact tissue and prove past surgical error.",
+            "correct": false,
+            "feedback": "A reported spay history is a map rather than a guarantee, hormone panels catch circulating signals without locating anatomy or proving past incompetence, and persistent signs demand linked imaging, endocrine, and tissue evaluation."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · FELINE CONTRAST CT",
+          "src": "assets/exhibits/REF_PMC13281160_vms3_fig2_ct.jpg",
+          "caption": "Reference contrast-enhanced abdominal CT of an ovarian remnant tumor (granulosa cell tumor) in a spayed cat across transverse (A, B), coronal (C), and sagittal (D) views—illustrating how residual ovarian tissue can drive hormonal syndromes long after spay (not the 6 mm remnant in Jones et al. 2019).",
+          "spoilerNote": "Illustrative veterinary CT from a separate CC BY feline ovarian remnant syndrome case (not the index cat in Jones et al. 2019).",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Shinoda et al. (2026), Veterinary Medicine and Science · PMC13281160 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13281160/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Jones, Owens & Birchard (2019), JFMS Open Reports — Primary 6 mm feline ovarian remnant ultrasound & surgery figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6856978/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
     }
   },
   "exam": [
@@ -10509,25 +10674,112 @@
           "why": "Consumer ancestry kits never replace validated clinical genotyping, skin often clears while internal liver injury still worsens, and culprit drugs must never be restarted or micro-dosed after suspected DRESS."
         }
       ]
+    },
+    {
+      "q": "Minutes after eating an amusement-park liquid nitrogen snack—having waited until the smoking vapor cloud disappeared—a teenager develops sudden severe abdominal pain, visible belly swelling, and shortness of breath, yet reports zero mouth burns or sore throat. What is the safest response?",
+      "caseSlug": "gas-beyond-stomach-liquid-nitrogen",
+      "caseRef": "Case 250",
+      "options": [
+        {
+          "label": "Call emergency medical services immediately, give zero water, milk, food, or antacids, avoid touching or tasting the leftover snack, and report the suspected liquid nitrogen exposure with exact timing and any existing photo or receipt.",
+          "ok": true,
+          "why": "Survived Tuesday! In Kim’s 2018 case, a 13-year-old suffered a 4 cm stomach perforation with zero mouth or throat injury; immediate EMS without oral fluids protects the sterile peritoneal cavity while giving surgeons vital exposure history."
+        },
+        {
+          "label": "Offer a glass of milk to coat the stomach and wait to see if the gas passes, since the vapor cloud had already vanished and an unburned throat rules out deep cryogenic stomach injury.",
+          "ok": false,
+          "why": "Fading fog never proves safe internal temperature, a spotless throat never rules out a ruptured stomach, and pouring milk or water into a perforated organ floods the sterile abdominal cavity."
+        },
+        {
+          "label": "Delay calling EMS long enough to smell and taste the bottom of the snack cup for doctors, then call Poison Control first while massaging the swollen abdomen to help vent trapped nitrogen.",
+          "ok": false,
+          "why": "Never risk cryogenic self-injury playing detective, never massage an acute surgical abdomen, and never let Poison Control calls delay physical emergency care when severe pain, distension, or breathlessness hits."
+        }
+      ]
+    },
+    {
+      "q": "A woman with a history of recurrent hydronephrosis and regular 28-day periods has her right ureteral double-J stent removed after a completely normal cystoscopy. Less than a day later, she produces zero urine and develops worsening right flank pain. What is the safest response?",
+      "caseSlug": "obstruction-outside-lining-endometriosis",
+      "caseRef": "Case 251",
+      "options": [
+        {
+          "label": "Drink large glasses of water and cranberry juice to flush the blockage and wait a full 24 hours, since normal cystoscopy cleared the urinary lining and normal periods rule out endometriosis.",
+          "ok": false,
+          "why": "Forcing fluids into a clamped ureter spikes destructive hydrostatic pressure inside the kidney, cystoscopy cannot see extrinsic scar tissue outside the pipe, and normal 28-day cycles never rule out ureteral endometriosis."
+        },
+        {
+          "label": "Seek immediate emergency evaluation without forcing fluids, and tell triage the exact flank pain side, sudden anuria, prior hydronephrosis, and recent stent removal so clinicians can urgently scan and relieve any upstream blockage.",
+          "ok": true,
+          "why": "Survived Tuesday! In Al Ayoubi et al.’s 2025 case, complete anuria struck within 24 hours of stent removal with an empty bladder beneath a swollen right kidney—urgent assessment and decompression protect remaining renal function immediately."
+        },
+        {
+          "label": "Skip the emergency room and schedule a routine gynecology visit next month, because painless or regular periods mean the kidney back pressure is mild and reversible.",
+          "ok": false,
+          "why": "Pain and renal function do not move together—in Yang et al.’s 2021 surgical cohort, 19 of 40 patients (48%) with hydronephrosis were completely asymptomatic, and acute anuria requires immediate emergency decompression."
+        }
+      ]
+    },
+    {
+      "q": "A patient with long-standing cardiomyopathy and active lupus on hydroxychloroquine has recently lost substantial weight and developed worsening kidney labs. Tonight she becomes severely breathless while lying flat, feels suddenly dizzy with a racing irregular heartbeat, and remembers her annual retinal eye exam was spotless two months ago. What is the safest action?",
+      "caseSlug": "storage-inside-heart-cell-hcq",
+      "caseRef": "Case 252",
+      "options": [
+        {
+          "label": "Trust the spotless annual eye exam as proof against hydroxychloroquine heart toxicity and skip her pills for four days at home to see if her breathing clears up.",
+          "ok": false,
+          "why": "A retinal exam inspects the back of the eye—not the myocardium—and abruptly self-stopping an immunomodulator as a home experiment risks triggering a dangerous lupus flare or lupus myocarditis without diagnosing the acute cardiac threat."
+        },
+        {
+          "label": "Assume the breathlessness is simply her familiar 11-year-old heart failure flaring up, sleep propped on extra pillows, and drive herself to an outpatient clinic next week.",
+          "ok": false,
+          "why": "A familiar diagnosis must never excuse sudden deterioration: NHS guidance flags lying-down breathlessness and Plaquenil warnings flag racing heartbeat and dizziness as immediate emergencies—and driving yourself while oxygen-starved or near-syncopal is dangerous."
+        },
+        {
+          "label": "Call emergency services immediately without driving herself, do not self-stop her immunomodulator as a home test, and give ER clinicians her complete medication, cardiac, weight-loss, and kidney history.",
+          "ok": true,
+          "why": "Survived Tuesday! Lying-down breathlessness, dizziness, and racing irregular heartbeats demand urgent emergency evaluation for both mechanical pump failure and electrical QTc arrhythmia, while medication changes remain strictly clinician-directed across cardiology, nephrology, and rheumatology."
+        }
+      ]
+    },
+    {
+      "q": "An 11-year-old reportedly spayed cat has lost weight and sprayed pungent urine vertically on walls for months, and over the last three weeks she has begun acting like she is in heat and aggressively attacking anyone who reaches near her. Two routine urinalyses, a urine culture, and baseline CBC and chemistry panels have all come back normal. What is the safest next step?",
+      "caseSlug": "hormone-behind-changed-behavior-cat",
+      "caseRef": "Case 253",
+      "options": [
+        {
+          "label": "Warn the veterinary clinic beforehand about her aggression so they can plan pre-visit anxiolytics or safe sedation, bring her full timeline and prior negative urinary workups, and pursue stepwise medical reassessment without ever punishing her.",
+          "ok": true,
+          "why": "Survived Tuesday! Normal routine labs and a past spay record never rule out hidden endocrine drivers like a 6-mm ovarian remnant (or mimics like external estrogen exposure), and advance notice lets veterinary teams evaluate aggressive cats safely."
+        },
+        {
+          "label": "Accept that normal routine blood and urine tests prove a purely behavioral dominance issue, scold her firmly whenever she sprays, and hold her down at home to palpate her belly for lumps.",
+          "ok": false,
+          "why": "Cornell Feline Health Center guidance strictly warns against physical or verbal punishment—it escalates fear and stress without touching hidden biology—and forceful home restraint risks serious bites and injury to both owner and cat."
+        },
+        {
+          "label": "Assume an ovarian remnant is impossible because her adoption file says she was spayed ten years ago, and skip further imaging since hormone bloodwork alone can map the exact tissue and prove past surgical error.",
+          "ok": false,
+          "why": "A reported spay history is a map rather than a guarantee, hormone panels catch circulating signals without locating anatomy or proving past incompetence, and persistent signs demand linked imaging, endocrine, and tissue evaluation."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 12 (Ep 2917–2921) (5)",
-      "tagline": "Freshly added on 2026-11-24 — 5 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 13 (Ep 2916, 2922–2924 · 250+ Milestone) (4)",
+      "tagline": "Freshly added on 2026-11-24 — 4 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "biopsy-that-looked-like-celiac-olmesartan",
-        "burn-marks-and-pellets-eagles",
-        "mass-that-was-made-of-gauze-gossypiboma",
-        "gene-that-was-not-diagnosis-allopurinol",
-        "two-infections-same-intestine-raccoons"
+        "gas-beyond-stomach-liquid-nitrogen",
+        "obstruction-outside-lining-endometriosis",
+        "storage-inside-heart-cell-hcq",
+        "hormone-behind-changed-behavior-cat"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (207)",
-      "tagline": "All 207 chapters featuring commercial-cleared primary case imaging (122), peer-reviewed reference exhibits (53), and verified hazard field photos (32).",
+      "label": "🩻 All Verified Exhibits (211)",
+      "tagline": "All 211 chapters featuring commercial-cleared primary case imaging (124), peer-reviewed reference exhibits (55), and verified hazard field photos (32).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -10735,13 +10987,17 @@
         "burn-marks-and-pellets-eagles",
         "mass-that-was-made-of-gauze-gossypiboma",
         "gene-that-was-not-diagnosis-allopurinol",
-        "two-infections-same-intestine-raccoons"
+        "two-infections-same-intestine-raccoons",
+        "gas-beyond-stomach-liquid-nitrogen",
+        "obstruction-outside-lining-endometriosis",
+        "storage-inside-heart-cell-hcq",
+        "hormone-behind-changed-behavior-cat"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (122)",
-      "tagline": "The 122 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (124)",
+      "tagline": "The 124 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -10864,7 +11120,9 @@
         "biopsy-that-looked-like-celiac-olmesartan",
         "burn-marks-and-pellets-eagles",
         "mass-that-was-made-of-gauze-gossypiboma",
-        "two-infections-same-intestine-raccoons"
+        "two-infections-same-intestine-raccoons",
+        "gas-beyond-stomach-liquid-nitrogen",
+        "storage-inside-heart-cell-hcq"
       ]
     },
     {
@@ -10872,36 +11130,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "driveway-ied-truck-tire",
-        "battery-already-in-the-stomach",
-        "family-behind-the-enzyme-g6pd",
-        "hot-baths-fentanyl-patches-deadly",
-        "anesthetic-that-triggered-the-furnace",
-        "handlebar-and-hidden-pancreatic-duct",
-        "wire-behind-the-pain",
-        "super-rat-bait-and-vitamin-k-trap",
-        "thyroid-that-changed-in-the-test-biotin",
-        "aquarium-more-than-one-patient-palytoxin",
-        "thread-across-the-road-kite-string",
-        "fractal-wood-burning",
-        "ring-and-unbroken-bone-avulsion",
-        "van-that-was-not-empty",
-        "boots-in-the-snow-and-heatstroke",
-        "room-not-safe-to-finish",
-        "small-hands-moving-treadmill-belt",
-        "reheated-rice-and-botulism",
-        "chocolate-brown-blood",
-        "burn-looked-like-infection-wet-cement",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "charger-between-phone-and-wall",
-        "spin-class-rhabdo",
-        "pool-had-another-hazard-drain-suction",
-        "puppy-with-the-twisted-stomach-gdv",
-        "hair-treatment-reached-the-cat",
-        "one-finger-varicose-vein",
-        "tank-after-the-collapse-h2s",
         "potassium-that-rose-in-the-tube",
-        "dry-ice-riding-shotgun"
+        "aquarium-more-than-one-patient-palytoxin",
+        "ring-and-unbroken-bone-avulsion",
+        "driveway-ied-truck-tire",
+        "one-finger-varicose-vein",
+        "hair-treatment-reached-the-cat",
+        "anesthetic-that-triggered-the-furnace",
+        "chocolate-brown-blood",
+        "thyroid-that-changed-in-the-test-biotin",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "van-that-was-not-empty",
+        "wire-behind-the-pain",
+        "spin-class-rhabdo",
+        "hot-baths-fentanyl-patches-deadly",
+        "small-hands-moving-treadmill-belt",
+        "battery-already-in-the-stomach",
+        "pool-had-another-hazard-drain-suction",
+        "room-not-safe-to-finish",
+        "thread-across-the-road-kite-string",
+        "boots-in-the-snow-and-heatstroke",
+        "super-rat-bait-and-vitamin-k-trap",
+        "tank-after-the-collapse-h2s",
+        "dry-ice-riding-shotgun",
+        "charger-between-phone-and-wall",
+        "fractal-wood-burning",
+        "burn-looked-like-infection-wet-cement",
+        "handlebar-and-hidden-pancreatic-duct",
+        "puppy-with-the-twisted-stomach-gdv",
+        "reheated-rice-and-botulism",
+        "family-behind-the-enzyme-g6pd"
       ]
     },
     {
@@ -10957,7 +11215,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 50",
+      "label": "🐾 Pet Owner’s Mandatory 51",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
