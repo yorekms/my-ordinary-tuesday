@@ -1,17 +1,17 @@
 {
   "meta": {
-    "updated": "2026-11-23",
-    "totalStoriesEnriched": 229,
-    "ccByClinicalExhibitStories": 189,
-    "ccByClinicalExhibitImages": 193,
-    "primaryClinicalExhibitStories": 109,
+    "updated": "2026-11-24",
+    "totalStoriesEnriched": 232,
+    "ccByClinicalExhibitStories": 192,
+    "ccByClinicalExhibitImages": 196,
+    "primaryClinicalExhibitStories": 110,
     "referenceClinicalExhibitStories": 52,
-    "hazardFieldPhotoStories": 28,
+    "hazardFieldPhotoStories": 30,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 199,
-    "perStoryQuizzes": 229,
-    "examPoolSize": 64,
-    "externalFigureLinkoutStories": 41
+    "dynamicBlueprintStories": 202,
+    "perStoryQuizzes": 232,
+    "examPoolSize": 66,
+    "externalFigureLinkoutStories": 42
   },
   "stories": {
     "fractal-wood-burning": {
@@ -8113,6 +8113,121 @@
           "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12674975/"
         }
       ]
+    },
+    "needle-and-missing-safety-plan-vaccinia": {
+      "quiz": {
+        "prompt": "A researcher working with live vaccinia accidentally pricks her finger through a glove during an evening bench session. Her puncture looks microscopic, and she worries an ER physician won’t recognize the strain. What is the safest immediate action?",
+        "options": [
+          {
+            "label": "Wash immediately, initiate the institution’s occupational exposure pathway (or go straight to emergency care for severe acute injury), explicitly report the exact agent and biosafety officer’s contact without bringing any vial or swab, and lock down contact precautions plus a 48-hour follow-up plan.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Bringing exact agent intelligence and biosafety contacts—never contaminated vials—steers clinicians past routine Staph algorithms while locking in contact precautions before viral replication escalates."
+          },
+          {
+            "label": "Seal the contaminated syringe in a Ziploc bag to hand straight to the ER triage nurse so clinicians can run PCR immediately, then wait six days—the historical CDC median—if the skin stays calm.",
+            "correct": false,
+            "feedback": "Never transport live pathogens into a public waiting room, and the CDC 2008 series’ 6-day median delay documented a dangerous access failure—never a safe waiting period."
+          },
+          {
+            "label": "Run a single surface swab on day two; if the lab returns ‘inconclusive,’ assume the wash removed all virus and return to normal duties without covering the finger.",
+            "correct": false,
+            "feedback": "Inconclusive swabs in the 2019 case lacked a human DNA adequacy signal—meaning the swab failed to capture enough cells to test—never ruling out replicating deep-tissue vaccinia."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Vaccinia_virus_PHIL_2143_lores_464c10.jpg",
+          "caption": "An electron micrograph of a Vaccinia virus. Vaccinia virus is normally confined to cattle, but is conveyed to humans through vaccination, thereby, imparting immunity to the smallpox virus.",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Photo Credit: Content Providers(s): CDC/Cynthia Goldsmith · Wikimedia Commons (Vaccinia virus PHIL 2143 lores.jpg)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vaccinia_virus_PHIL_2143_lores.jpg"
+        }
+      ]
+    },
+    "nosebleed-beside-the-artery-horse": {
+      "quiz": {
+        "prompt": "You walk into the barn at dusk and see a small trickle of blood from both nostrils of your gelding; within ten minutes the bleeding stops completely and he stands quietly. What is the safest action?",
+        "options": [
+          {
+            "label": "Load him immediately into your horse trailer and haul him rapidly over rural roads to the clinic while checking up his nostrils with a flashlight before departure.",
+            "correct": false,
+            "feedback": "Never probe a bleeding horse’s nose or trailer blindly without veterinary direction—loading stress, blood-pressure spikes, or disturbing a fragile pouch clot can trigger instant fatal carotid hemorrhage."
+          },
+          {
+            "label": "Keep the horse quiet, avoid probing or trailering blindly, and call an emergency equine veterinarian immediately to report the bleed, timing, and any subtle breathing or swallowing signs so the vet directs exam and transport decisions.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Even a self-stopping small bleed can be a sentinel event held back only by a fragile arterial clot—immediate veterinary escalation and letting professionals direct movement protect the dam."
+          },
+          {
+            "label": "Wait until morning since the bleeding stopped, and test his swallowing with watery soaked grain tonight to make sure his cranial nerves are unaffected.",
+            "correct": false,
+            "feedback": "Never wait out a stopped nosebleed, and never run DIY swallow or watery-feed experiments—if cranial nerves are impaired, forced feeding drives food straight into the lungs as fatal aspiration pneumonia."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ENDOSCOPY",
+          "src": "assets/exhibits/PMC8614901_animals-11-03329-g006.jpg",
+          "caption": "Endoscopic evaluation of Horse 6, right GP (guttural pouch): (A) at admission, macroscopic inflammatory lesions located on the stylohyoid bone (star) and the roof the medial compartment with regard to the ICA (internal carotid artery) (arrow); (B) after 9 days of TOT (topical…",
+          "spoilerNote": "Contains real equine guttural pouch endoscopy photography from the primary case report. Click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 6 from Lepage et al. (2021), Animals : an Open Access Journal from MDPI · PMC8614901",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8614901/"
+        }
+      ]
+    },
+    "bite-and-rippling-muscles-rattlesnake": {
+      "quiz": {
+        "prompt": "On a remote trail, your small dog darts into brush and yelps; you see two tiny punctures above her eye with zero bleeding, though she received a rattlesnake vaccine months ago. What is the safest protocol?",
+        "options": [
+          {
+            "label": "Snap a close-up photo of the snake so the ER knows which antivenom to pick, wrap a snug tourniquet above the neck or limb, and monitor for external bleeding before calling a vet.",
+            "correct": false,
+            "feedback": "Approaching a live snake risks biting you too, tourniquets worsen local hemotoxin damage, and the Florida dachshund’s blood completely lost clotting ability (>999 s ACT) without shedding a single drop of external blood."
+          },
+          {
+            "label": "Monitor her quietly at home for a few hours since her prior rattlesnake vaccine record covers mild-looking, non-bleeding punctures, and drive to a clinic only if her hind legs start rippling.",
+            "correct": false,
+            "feedback": "A prior vaccine record never clears a new bite—Leonard’s 2014 data had wide statistical uncertainty (CI 0.66–11.37, p = 0.1673)—and waiting for late systemic signs like myokymia wastes critical shock-and-clotting time."
+          },
+          {
+            "label": "Separate cleanly from the hazard without approaching the snake, skip all DIY field interventions, call ahead to an emergency veterinary hospital to confirm ICU and F(ab')₂ antivenom availability while reporting objective timing and vaccine history, and transport promptly.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Separating safely, skipping destructive DIY folklore, and phoning ahead so an antivenom-stocked ICU can prep IV fluids and F(ab')₂ before arrival give an envenomated dog the strongest shot at survival."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Crotalus_horridus_155851094_acb7d6.jpg",
+          "caption": "Timber Rattlesnake ( Crotalus horridus )",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "evangrimes · Wikimedia Commons (Crotalus horridus 155851094.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crotalus_horridus_155851094.jpg"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Woliver et al. (2023), Toxicon: X — 4 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10165130/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
     }
   },
   "exam": [
@@ -9523,13 +9638,57 @@
           "why": "Laryngeal attacks can turn fatal rapidly regardless of family history, and while ACE inhibitors require medical review and switching in HAE, airway compromise requires emergency care first."
         }
       ]
+    },
+    {
+      "q": "A researcher working with live vaccinia accidentally pricks her finger through a glove during an evening bench session. Her puncture looks microscopic, and she worries an ER physician won’t recognize the strain. What is the safest immediate action?",
+      "caseSlug": "needle-and-missing-safety-plan-vaccinia",
+      "caseRef": "Case 230",
+      "options": [
+        {
+          "label": "Wash immediately, initiate the institution’s occupational exposure pathway (or go straight to emergency care for severe acute injury), explicitly report the exact agent and biosafety officer’s contact without bringing any vial or swab, and lock down contact precautions plus a 48-hour follow-up plan.",
+          "ok": true,
+          "why": "Survived Tuesday! Bringing exact agent intelligence and biosafety contacts—never contaminated vials—steers clinicians past routine Staph algorithms while locking in contact precautions before viral replication escalates."
+        },
+        {
+          "label": "Seal the contaminated syringe in a Ziploc bag to hand straight to the ER triage nurse so clinicians can run PCR immediately, then wait six days—the historical CDC median—if the skin stays calm.",
+          "ok": false,
+          "why": "Never transport live pathogens into a public waiting room, and the CDC 2008 series’ 6-day median delay documented a dangerous access failure—never a safe waiting period."
+        },
+        {
+          "label": "Run a single surface swab on day two; if the lab returns ‘inconclusive,’ assume the wash removed all virus and return to normal duties without covering the finger.",
+          "ok": false,
+          "why": "Inconclusive swabs in the 2019 case lacked a human DNA adequacy signal—meaning the swab failed to capture enough cells to test—never ruling out replicating deep-tissue vaccinia."
+        }
+      ]
+    },
+    {
+      "q": "You walk into the barn at dusk and see a small trickle of blood from both nostrils of your gelding; within ten minutes the bleeding stops completely and he stands quietly. What is the safest action?",
+      "caseSlug": "nosebleed-beside-the-artery-horse",
+      "caseRef": "Case 231",
+      "options": [
+        {
+          "label": "Load him immediately into your horse trailer and haul him rapidly over rural roads to the clinic while checking up his nostrils with a flashlight before departure.",
+          "ok": false,
+          "why": "Never probe a bleeding horse’s nose or trailer blindly without veterinary direction—loading stress, blood-pressure spikes, or disturbing a fragile pouch clot can trigger instant fatal carotid hemorrhage."
+        },
+        {
+          "label": "Keep the horse quiet, avoid probing or trailering blindly, and call an emergency equine veterinarian immediately to report the bleed, timing, and any subtle breathing or swallowing signs so the vet directs exam and transport decisions.",
+          "ok": true,
+          "why": "Survived Tuesday! Even a self-stopping small bleed can be a sentinel event held back only by a fragile arterial clot—immediate veterinary escalation and letting professionals direct movement protect the dam."
+        },
+        {
+          "label": "Wait until morning since the bleeding stopped, and test his swallowing with watery soaked grain tonight to make sure his cranial nerves are unaffected.",
+          "ok": false,
+          "why": "Never wait out a stopped nosebleed, and never run DIY swallow or watery-feed experiments—if cranial nerves are impaired, forced feeding drives food straight into the lungs as fatal aspiration pneumonia."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 9 Final Drops (Ep 2768–2903) (15)",
-      "tagline": "Freshly added on 2026-11-23 — 15 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Final Wave Drops (PREV_1083–1100) (18)",
+      "tagline": "Complete 18-episode final forensic wave (Ep 2767–2903 / PREV_1083–1100) with verified clinical & hazard exhibits, diagrams, and custom quizzes.",
       "slugs": [
         "leak-that-opened-second-door-csf",
         "swelling-connected-twenty-years-hae",
@@ -9545,13 +9704,16 @@
         "potassium-changed-compartments-tpp",
         "clerk-and-the-granulomas-beryllium",
         "pressure-without-a-wave-achalasia",
-        "sand-that-stayed-behind-horse"
+        "sand-that-stayed-behind-horse",
+        "needle-and-missing-safety-plan-vaccinia",
+        "nosebleed-beside-the-artery-horse",
+        "bite-and-rippling-muscles-rattlesnake"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (189)",
-      "tagline": "All 189 chapters featuring commercial-cleared primary case imaging (109), peer-reviewed reference exhibits (52), and verified hazard field photos (28).",
+      "label": "🩻 All Verified Exhibits (192)",
+      "tagline": "All 192 chapters featuring commercial-cleared primary case imaging (110), peer-reviewed reference exhibits (52), and verified hazard field photos (30).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -9741,13 +9903,16 @@
         "jaw-and-missing-protection-tetanus",
         "potassium-changed-compartments-tpp",
         "clerk-and-the-granulomas-beryllium",
-        "sand-that-stayed-behind-horse"
+        "sand-that-stayed-behind-horse",
+        "needle-and-missing-safety-plan-vaccinia",
+        "nosebleed-beside-the-artery-horse",
+        "bite-and-rippling-muscles-rattlesnake"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (109)",
-      "tagline": "The 109 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (110)",
+      "tagline": "The 110 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -9857,7 +10022,8 @@
         "lead-and-cough-that-changed-dog",
         "fever-before-the-antibody-window",
         "potassium-changed-compartments-tpp",
-        "clerk-and-the-granulomas-beryllium"
+        "clerk-and-the-granulomas-beryllium",
+        "nosebleed-beside-the-artery-horse"
       ]
     },
     {
@@ -9865,36 +10031,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
+        "fractal-wood-burning",
         "family-behind-the-enzyme-g6pd",
+        "battery-already-in-the-stomach",
+        "one-finger-varicose-vein",
+        "driveway-ied-truck-tire",
+        "anesthetic-that-triggered-the-furnace",
         "spin-class-rhabdo",
-        "tank-after-the-collapse-h2s",
+        "chocolate-brown-blood",
+        "super-rat-bait-and-vitamin-k-trap",
+        "boots-in-the-snow-and-heatstroke",
+        "wire-behind-the-pain",
+        "thyroid-that-changed-in-the-test-biotin",
+        "thread-across-the-road-kite-string",
         "hot-baths-fentanyl-patches-deadly",
         "burn-looked-like-infection-wet-cement",
-        "hair-treatment-reached-the-cat",
-        "small-hands-moving-treadmill-belt",
-        "thyroid-that-changed-in-the-test-biotin",
-        "puppy-with-the-twisted-stomach-gdv",
-        "driveway-ied-truck-tire",
-        "one-finger-varicose-vein",
-        "van-that-was-not-empty",
-        "potassium-that-rose-in-the-tube",
-        "battery-already-in-the-stomach",
-        "anesthetic-that-triggered-the-furnace",
-        "reheated-rice-and-botulism",
-        "boots-in-the-snow-and-heatstroke",
-        "super-rat-bait-and-vitamin-k-trap",
-        "thread-across-the-road-kite-string",
-        "charger-between-phone-and-wall",
-        "pool-had-another-hazard-drain-suction",
-        "chocolate-brown-blood",
-        "handlebar-and-hidden-pancreatic-duct",
-        "wire-behind-the-pain",
-        "fractal-wood-burning",
-        "aquarium-more-than-one-patient-palytoxin",
+        "tank-after-the-collapse-h2s",
         "room-not-safe-to-finish",
-        "thread-beneath-the-swelling-hair-tourniquet",
         "dry-ice-riding-shotgun",
-        "ring-and-unbroken-bone-avulsion"
+        "ring-and-unbroken-bone-avulsion",
+        "aquarium-more-than-one-patient-palytoxin",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "handlebar-and-hidden-pancreatic-duct",
+        "reheated-rice-and-botulism",
+        "hair-treatment-reached-the-cat",
+        "pool-had-another-hazard-drain-suction",
+        "puppy-with-the-twisted-stomach-gdv",
+        "potassium-that-rose-in-the-tube",
+        "charger-between-phone-and-wall",
+        "van-that-was-not-empty",
+        "small-hands-moving-treadmill-belt"
       ]
     },
     {
@@ -9950,7 +10116,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 44",
+      "label": "🐾 Pet Owner’s Mandatory 46",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
