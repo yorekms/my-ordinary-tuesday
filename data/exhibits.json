@@ -1,17 +1,17 @@
 {
   "meta": {
     "updated": "2026-11-23",
-    "totalStoriesEnriched": 214,
-    "ccByClinicalExhibitStories": 176,
-    "ccByClinicalExhibitImages": 180,
-    "primaryClinicalExhibitStories": 101,
-    "referenceClinicalExhibitStories": 48,
-    "hazardFieldPhotoStories": 27,
+    "totalStoriesEnriched": 229,
+    "ccByClinicalExhibitStories": 189,
+    "ccByClinicalExhibitImages": 193,
+    "primaryClinicalExhibitStories": 109,
+    "referenceClinicalExhibitStories": 52,
+    "hazardFieldPhotoStories": 28,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 184,
-    "perStoryQuizzes": 214,
-    "examPoolSize": 58,
-    "externalFigureLinkoutStories": 39
+    "dynamicBlueprintStories": 199,
+    "perStoryQuizzes": 229,
+    "examPoolSize": 64,
+    "externalFigureLinkoutStories": 41
   },
   "stories": {
     "fractal-wood-burning": {
@@ -7587,6 +7587,532 @@
           "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10741034/"
         }
       ]
+    },
+    "leak-that-opened-second-door-csf": {
+      "quiz": {
+        "prompt": "Someone with months of clear watery drainage strictly from the left nostril and a headache that eases when lying flat suddenly develops fever, a stiff neck, and confusion—with no skin rash. What is the safest move?",
+        "options": [
+          {
+            "label": "Seek immediate emergency medical care for suspected meningitis without waiting for a rash or fluid testing, and disclose the months of unilateral watery drainage and positional headache.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Fever, neck stiffness, severe headache, and confusion are immediate meningitis red flags—bacterial meningitis frequently lacks a rash, and linking unilateral clear rhinorrhea alerts clinicians to an underlying skull-base breach."
+          },
+          {
+            "label": "Bear down firmly to collect a sample on a deep nasal swab and taste a drop for sweetness so the urgent-care clinic can confirm CSF before starting antibiotics.",
+            "correct": false,
+            "feedback": "Straining raises intracranial pressure, deep nasal probing shoves bacteria straight toward an open skull defect, and taste tests are useless internet mythology."
+          },
+          {
+            "label": "Take an extra dose of over-the-counter allergy medication and wait 24 hours to see whether a classic purple rash appears, since a prior sinus CT already read chronic sinusitis.",
+            "correct": false,
+            "feedback": "A prior routine sinus CT cannot exclude a subtle sphenoid skull-base defect or meningocele, and waiting for a rash during acute neurological deterioration can turn fatal."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC5551538_crim2017-9012579.001.jpg",
+          "caption": "T2 (a) and T1 (b) weighted images demonstrating a basilar skull defect with meningocele (arrow) and fluid accumulation in the left sphenoid sinus (asterisk).",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Ulrich et al. (2017), Case Reports in Medicine · PMC5551538",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5551538/"
+        }
+      ]
+    },
+    "swelling-connected-twenty-years-hae": {
+      "quiz": {
+        "prompt": "A patient with newly confirmed Type 1 hereditary angioedema wakes up with a swollen upper lip and feels their throat beginning to tighten. They have no itchy hives. What is the safest immediate response?",
+        "options": [
+          {
+            "label": "Take a double dose of antihistamine and drink a tall glass of water to test whether the airway is truly narrowing before deciding whether to drive to urgent care.",
+            "correct": false,
+            "feedback": "Waiting on antihistamines wastes precious airway minutes on a non-histamine bradykinin cascade, and a forced swallow test risks aspiration or complete laryngeal spasm."
+          },
+          {
+            "label": "Call emergency services immediately rather than driving, follow their specialist-prescribed HAE emergency plan, and present their bradykinin-mediated diagnosis and records at triage.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Upper-airway swelling is an immediate ambulance emergency because laryngeal edema progresses non-linearly, and clear upfront HAE documentation overrides ER allergy anchoring."
+          },
+          {
+            "label": "Assume it is harmless because they have no family history of throat attacks and stop taking their prescribed blood-pressure pills immediately while waiting two days for it to self-resolve.",
+            "correct": false,
+            "feedback": "Laryngeal attacks can turn fatal rapidly regardless of family history, and while ACE inhibitors require medical review and switching in HAE, airway compromise requires emergency care first."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/PMC12205570_cureus-0017-00000085019-i04.jpg",
+          "caption": "Edema of the colonic wall The white arrow depicts edema of the sigmoid colon. Photo taken four weeks prior, during the last episode.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 4 from Shrestha et al. (2025), Cureus · PMC12205570",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12205570/"
+        }
+      ]
+    },
+    "artery-in-the-other-hand-hammer": {
+      "quiz": {
+        "prompt": "A 48-year-old mechanic who often smacks stubborn fittings with the heel of his palm notices a firm lump on the pinky side of his right hand, and two months later his right ring finger turns pale, ice-cold, and numb while his left hand stays warm. What is the safest course?",
+        "options": [
+          {
+            "label": "Plunge both hands into ice water to record a video proving Raynaud’s phenomenon and wait until a routine appointment next month if he can still feel his wrist pulse.",
+            "correct": false,
+            "feedback": "Home cold provocation is unsafe, symmetric wrist pulses did not rule out bilateral ulnar aneurysms in the 2022 case, and new unilateral ischemia with numbness cannot wait weeks."
+          },
+          {
+            "label": "Reassure himself that the warm left hand proves his systemic circulation is fine, switch to thicker padded work gloves, and keep working until the lump shrinks.",
+            "correct": false,
+            "feedback": "A perfectly warm opposite hand can still hide a 7-millimeter silent aneurysm via collateral flow, and generic glove swaps cannot rescue an acutely starved fingertip."
+          },
+          {
+            "label": "Seek immediate emergency vascular assessment for suspected acute perfusion loss, report the exact onset time, palm lump, and tool-impact history, and stop using the palm as a striking tool.",
+            "correct": true,
+            "feedback": "Survived Tuesday! New unilateral pallor, coldness, and numbness starting after age 30 break benign Raynaud’s rules and fit acute perfusion red flags—demanding urgent care first and ergonomic review afterward."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · HAND MR ANGIOGRAPHY",
+          "src": "assets/exhibits/PMC9256417_primary_hammer.jpg",
+          "caption": "Angioresonance showing an aneurysm approximately 7 mm in diameter in the distal area of the ulnar artery, typical “corkscrew” image (red arrow).",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Estíbaliz et al. (2022), Case Reports in Vascular Medicine · PMC9256417",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9256417/"
+        }
+      ]
+    },
+    "vessel-skipped-the-filter-pavm": {
+      "quiz": {
+        "prompt": "An adult with known hereditary hemorrhagic telangiectasia and partially embolized pulmonary AVMs needs a routine dental scaling next month and develops sudden mouth tingling and right-sided facial droop today—though their home pulse oximeter reads 95% and they have no fever. What is the safest plan?",
+        "options": [
+          {
+            "label": "Seek immediate emergency care for the acute neurological signs while telling triage upfront about the PAVM right-to-left shunt—and once recovered, keep dental care on schedule with clinician-prescribed antibiotic prophylaxis rather than canceling dentistry.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Home oximetry and zero fever never exclude a shunted brain abscess, upfront PAVM disclosure connects neurology to chest anatomy, and continuing dentistry with specialist-tailored prophylaxis prevents worse daily gum bacteremia."
+          },
+          {
+            "label": "Skip the ER since 95% oxygen and a normal temperature rule out a shunt complication, cancel all future dental cleanings permanently, and stop taking prescribed oral iron supplements.",
+            "correct": false,
+            "feedback": "Finger oximeters cannot detect a cerebral abscess, abandoning dentistry increases uncontrolled gum bacteremia, and observational cohort associations never justify stopping prescribed iron."
+          },
+          {
+            "label": "Wait at home until their family gathers every printed CT binder from prior embolizations, assuming prior coil treatment dropped their shunt risk to zero.",
+            "correct": false,
+            "feedback": "Never delay emergency neurological care for printed paperwork—lead verbally with the shunt—and partial embolization never guarantees zero residual or reperfused shunt risk."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Sosa et al. (2023), The American Journal of Case Reports — 2 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9978536/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "antiseptic-beside-anesthetic-chlorhexidine": {
+      "quiz": {
+        "prompt": "After surviving a severe hive-free intraoperative collapse with an acute tryptase spike, a patient receives specialist confirmation of chlorhexidine allergy and must return for another procedure. What is the safest approach?",
+        "options": [
+          {
+            "label": "Test a drop of pharmacy chlorhexidine on their forearm for 35 minutes at home the night before surgery to confirm whether the allergy is still active.",
+            "correct": false,
+            "feedback": "Self-re-exposure at home is strictly dangerous because anaphylaxis is unpredictable and a mild past skin reaction can escalate into lethal airway or circulatory collapse; 35 minutes is also not a home-testing rule."
+          },
+          {
+            "label": "Bring the specialist allergy documentation directly to the pre-op huddle so clinicians and pharmacy can remove not only chlorhexidine skin prep, but also hidden exposures like coated catheters, dressings, and lubricants.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Disclosing confirmed specialist evidence lets surgical and pharmacy teams audit hidden chlorhexidine-coated devices while safely keeping tested, non-triggering anesthetics available."
+          },
+          {
+            "label": "Ask to be charted simply as “allergic to anesthesia” and refuse all surgical antiseptics altogether to eliminate infection-control allergens.",
+            "correct": false,
+            "feedback": "Vague “anesthesia allergy” labels lock patients out of safe, effective drugs while missing hidden antiseptics, and rejecting antiseptics altogether creates severe surgical-infection hazards when safe alternatives like povidone-iodine exist."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC12474793_40981_2025_816_fig2_html.jpg",
+          "caption": "Skin prick tests results. The black arrow indicates the wheal formed after the prick test with undiluted Acelio",
+          "spoilerNote": "Illustrative peer-reviewed clinical exhibit from a separate CC BY report showing the same mechanism (not the index patient). Contains graphic medical photography—click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Fig. 2 from Amano et al. (2025), JA Clinical Reports · PMC12474793 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12474793/"
+        }
+      ]
+    },
+    "weakness-inside-spinal-cord-wnv": {
+      "quiz": {
+        "prompt": "Five days after a mild summer fever and an evening hike, your partner wakes up dragging one leg with new back pain, though they have zero memory of a mosquito bite, can feel light touch on the foot clearly, and notice mild shortness of breath. What is the safest move?",
+        "options": [
+          {
+            "label": "Test their knee-jerk reflex with a kitchen spoon at home and wait until morning, since preserved foot sensation and no remembered bite point to a pulled hiking muscle.",
+            "correct": false,
+            "feedback": "Anterior horn spinal injury destroys motor neurons while leaving adjacent sensory pathways intact, most bites go unremembered, and amateur home reflex testing generates dangerous false reassurance."
+          },
+          {
+            "label": "Call emergency services immediately—reporting the exact fever, weakness, breathing change, and outdoor timeline—because ascending neuroinvasive weakness can threaten respiratory muscles fast.",
+            "correct": true,
+            "feedback": "Survived Tuesday! New unexplained weakness paired with any breathing change is a drop-everything emergency (12 of 32 paralyzed patients in Colorado needed ventilation), and concrete functional timelines guide urgent clinical localization."
+          },
+          {
+            "label": "Drive to an urgent-care clinic and ask only for a blood sugar and basic chemistry panel, since normal routine blood work and normal CSF glucose rule out viral spinal cord infection.",
+            "correct": false,
+            "feedback": "Routine blood summaries and CSF glucose (52 mg/dL) were completely normal in the 2024 case—viruses lack bacterial sugar metabolism, and acute weakness with breathing trouble belongs in an emergency department via EMS."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · MRI SCAN",
+          "src": "assets/exhibits/PMC11501500_cureus-0016-00000070107-i01.jpg",
+          "caption": "T2 weighted MRI of sagittal spine displaying gray matter lesion from T7 extending to conus medullaris. Arrows indicate involvement of the central gray matter",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Creswell et al. (2024), Cureus · PMC11501500",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11501500/"
+        }
+      ]
+    },
+    "lead-and-cough-that-changed-dog": {
+      "quiz": {
+        "prompt": "Your 10-year-old dog had a pacemaker placed three years ago for heart block and has thrived ever since. After two weeks of a new daily cough, she wakes at 2 a.m. breathing rapidly with her mouth open and bluish gums. What is the right immediate action?",
+        "options": [
+          {
+            "label": "Spend twenty minutes locating her original implant serial card and surgical printout before driving to the ER, since emergency vets cannot examine a paced dog without full device paperwork.",
+            "correct": false,
+            "feedback": "Never delay oxygen for paperwork—grab whatever records are handy, tell the ER she has a pacemaker when you call ahead from the road, and let clinicians stabilize her breathing first."
+          },
+          {
+            "label": "Gently press over the pacemaker generator under her neck skin to verify it is intact and start a low-dose blood thinner until her scheduled cardiology check in two weeks.",
+            "correct": false,
+            "feedback": "Never manipulate an implanted device or self-prescribe anticoagulants—and a flawlessly firing pacemaker still cannot prevent a pulmonary clot or stop active cyanosis."
+          },
+          {
+            "label": "Transport her immediately to an emergency veterinary hospital, calling ahead so an oxygen cage is ready and immediately notifying the team that she has a permanent pacemaker.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Per Cornell emergency guidance, open-mouth resting dyspnea and cyanotic gums are immediate life threats demanding urgent oxygen—and early disclosure of the implant steers both emergency stabilization and cardiology coordination."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/PMC11209049_vetsci-11-00237-g005.jpg",
+          "caption": "Two-dimensional gray-scale standard right parasternal 4-chamber long-axis echocardiographic image of a dog with a transvenous pacemaker lead shows a soft tissue mass of 2.36 × 3.70 cm (indicated by the calipers), which fills the right ventricular lumen completely.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 5 from Szatmári et al. (2024), Veterinary Sciences · PMC11209049",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11209049/"
+        }
+      ]
+    },
+    "well-and-the-other-lactate-dlactate": {
+      "quiz": {
+        "prompt": "A child with short bowel syndrome who drinks from a private home well wakes up slurring words and stumbling, though by arrival in the ER his exam looks calmer and both routine lactate and brain MRI return normal. What is the safest next step?",
+        "options": [
+          {
+            "label": "Advocate for full evaluation of his short-bowel history—asking specifically whether a separate D-lactate assay is being run—while keeping hydration strictly under specialist ORS guidance and having the private well tested at a state-certified laboratory.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Metabolic encephalopathy waxes and wanes, routine L-lactate assays are blind to bacterial D-lactate, plain water worsens SBS electrolyte loss, and state-certified well testing catches hidden environmental coliforms."
+          },
+          {
+            "label": "Take him home once a stool PCR flags norovirus, encourage extra glasses of clear well water to flush out stomach bugs, and add an over-the-counter Lactobacillus probiotic.",
+            "correct": false,
+            "feedback": "Norovirus does not explain acute ataxia, extra plain water osmotically strips electrolytes in short bowel syndrome, and unvetted Lactobacillus probiotics can literally manufacture more neurotoxic D-lactate."
+          },
+          {
+            "label": "Wait at home unless E. coli shows up on a hardware-store water test strip, since a normal routine lactate and ‘not detected’ E. coli prove both the child and the well are safe.",
+            "correct": false,
+            "feedback": "Routine lactate ignores D-lactate, hardware test strips cannot replace state-certified labs, and ‘not detected’ E. coli only means below the 1.0 MPN limit—this family’s well had ND E. coli alongside >200.5 MPN/100 mL total coliforms."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CT / IMAGING SCAN",
+          "src": "assets/exhibits/REF_PMC9240996_cureus-0014-00000025471-i01.jpg",
+          "caption": "CT scan of the abdomen and pelvis with and without intravenous contrast demonstrating non-occlusive thrombi (circle) within the IVC (a) and the right common iliac vein (b)CT: computed tomography; IVC: inferior vena cava",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Khrais et al. (2022), Cureus · PMC9240996 (Reference Case)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9240996/"
+        }
+      ]
+    },
+    "fever-before-the-antibody-window": {
+      "quiz": {
+        "prompt": "Two weeks after a possible HIV exposure, someone develops a persistent fever, sore throat, swollen neck glands, and an itchy chest rash. A pharmacy rapid self-test reads negative, and at an urgent clinic a 4th-generation combo screen is reactive while a supplemental antibody differentiation test is negative. What is the safest course of action?",
+        "options": [
+          {
+            "label": "Accept the negative pharmacy rapid test and negative supplemental antibody test as final proof that the reactive combo screen was a false alarm, and retest only if the rash lasts a month.",
+            "correct": false,
+            "feedback": "Pharmacy rapid tests and supplemental differentiation tests hunt mature antibodies—in CDC STOP data, 55 of 99 discordant reactive-screen / negative-antibody panels (55.6%) were acutely infected on RNA PCR."
+          },
+          {
+            "label": "Pause any prescribed prevention medications for ten days to see if antibodies show up cleanly on a repeat pharmacy test at home.",
+            "correct": false,
+            "feedback": "Never stop prescribed prevention or treatment medications to experiment with test results, and never use a single case’s ten-day seroconversion gap as a universal home countdown clock."
+          },
+          {
+            "label": "Ensure a molecular HIV-1 RNA viral load test is completed to break the tie, confirm exactly which clinician owns the pending result and contact plan, and stay linked to clinical care.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Discordant combo-reactive and antibody-negative results require viral RNA PCR to resolve genuine biological uncertainty—catching acute surges (like 8.7 million copies/mL) before antibodies arrive while preventing false diagnoses in the 44.4% who are uninfected."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · DIAGNOSTIC ALGORITHM",
+          "src": "assets/exhibits/PMC4604890_489-494f1.jpg",
+          "caption": "New HIV diagnostic testing algorithm evaluated — United States, 2011–2013Abbreviation: HIV = human immunodeficiency virus.* Additional testing required to rule out dual infection with HIV-1 and HIV-2.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "FIGURE 1 from Geren et al. (2013), Morbidity and Mortality Weekly Report · PMC4604890",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604890/"
+        }
+      ]
+    },
+    "wire-beyond-stomach-wall-cattle": {
+      "quiz": {
+        "prompt": "A five-year-old dairy cow that received a prophylactic stomach magnet last year suddenly stops eating her concentrate, drops sharply in milk yield, and stands with an arched back. Her temperature is 38.6°C and an initial blood draw shows a normal white blood cell count. What is the safest action?",
+        "options": [
+          {
+            "label": "Pinch her withers firmly to check for a pain grunt and wait several days, since a normal white count and an existing stomach magnet rule out perforating hardware.",
+            "correct": false,
+            "feedback": "Over half of 501 hospitalized hardware-disease cattle lacked elevated WBCs, magnets cannot capture non-magnetic copper or sediment-trapped/fibrin-walled steel, and caretaker withers pinching risks worsening perforation."
+          },
+          {
+            "label": "Contact a veterinarian for full clinical reassessment—sharing exact dates and her known magnet history without running home pain tests—and log feed/debris observations for systemic review.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Persistent appetite/milk drops and arched-back splinting demand veterinary reassessment even with a prior magnet and normal WBC (just like Cow 2 at 38.6°C), while avoiding harmful home manipulation."
+          },
+          {
+            "label": "Drop a second heavy magnet down her throat yourself immediately and blame the feed supplier for a contaminated batch before any imaging or veterinary exam is done.",
+            "correct": false,
+            "feedback": "Never perform DIY device administration or declare an unproven feed batch guilty—if the culprit is copper wire or fibrin-anchored metal, a second magnet fails just like the first."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CLINICAL EVIDENCE",
+          "src": "assets/exhibits/REF_PMC7840216_vms3-7-136-g002.jpg",
+          "caption": "Gross findings, Holstein bull. (A) Circular transmural perforation with dark edges in the reticulum (arrow). Close views: Left—metallic foreign bodies found within reticulum; Right—fibrosis and yellow suppurative material at the abscess site (head arrow) in the liver (L), fibrin…",
+          "spoilerNote": "Illustrative peer-reviewed clinical exhibit from a separate CC BY report showing the same mechanism (not the index patient). Contains graphic medical photography—click to unseal.",
+          "blurredByDefault": true,
+          "citation": "FIGURE 2 from de Souza et al. (2020), Veterinary Medicine and Science · PMC7840216 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7840216/"
+        }
+      ]
+    },
+    "jaw-and-missing-protection-tetanus": {
+      "quiz": {
+        "prompt": "Ten days after scraping your shin on garden edging, you are taking prescribed antibiotics for mild redness when your jaw grows steadily harder to open and your neck stiffens—with no fever, and you cannot find your childhood vaccine card. What is the safest move?",
+        "options": [
+          {
+            "label": "Seek immediate emergency medical care without waiting to hunt for shot records, tell clinicians about the scrape and your exact uncertainty on vaccination history, and never try to pry your jaw open.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Progressive trismus and rigidity require immediate clinical diagnosis regardless of fever or antibiotics, saying ‘I don’t know’ guides safer prophylaxis protocols, and forcing a locked jaw risks injury and generalized spasms."
+          },
+          {
+            "label": "Finish your prescribed antibiotic course first while spending the afternoon locating your pediatric vaccination paperwork so the clinic has exact dates before evaluating you.",
+            "correct": false,
+            "feedback": "Antibiotics are a raincoat against ordinary wound bacteria—they do not neutralize unbound tetanospasmin already attacking nerves—and searching for paperwork must never delay emergency care."
+          },
+          {
+            "label": "Order an urgent home wound swab and antibody test to confirm Clostridium tetani before heading to the ER, since a normal white blood cell count and lack of fever argue against tetanus.",
+            "correct": false,
+            "feedback": "Tetanus is a clinical diagnosis whose swab cultures are notoriously insensitive, and the 2026 adolescent case had zero fever alongside a normal WBC of 5.08 × 10³/µL."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Clostridium_tetani_01_ffca88.jpg",
+          "caption": "This micrograph depicts a group of Clostridium tetani bacteria, responsible for causing tetanus in humans. Tetanus is an acute, often fatal, disease caused by an exotoxin produced by C. tetani. It is characterized by generalized rigidity and convulsive…",
+          "spoilerNote": "Verified real-world reference photograph of the hazard or organism (illustrative; not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Content Providers(s): CDC · Wikimedia Commons (Clostridium tetani 01.png)",
+          "license": "Public Domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clostridium_tetani_01.png"
+        }
+      ]
+    },
+    "potassium-changed-compartments-tpp": {
+      "quiz": {
+        "prompt": "After emergency IV potassium rapidly restores leg strength and normalizes the ECG in a young adult with newly discovered thyrotoxic periodic paralysis (TPP), which plan reflects safe clinical science?",
+        "options": [
+          {
+            "label": "Discharge the patient once leg strength and serum potassium normalize around hour 12, instructing them to avoid carbohydrates completely because carbs reliably trigger every TPP episode.",
+            "correct": false,
+            "feedback": "Hour-12 normalization hid a dangerous hour-36 rebound to 6.0 mEq/L as intracellular potassium flooded back out—and 65.9% of Chang’s 135 patients had no identified trigger at all."
+          },
+          {
+            "label": "Confirm the trigger safely at home with a high-sugar meal challenge after discharge, keeping over-the-counter potassium pills nearby in case weakness starts.",
+            "correct": false,
+            "feedback": "Deliberately inducing hypokalemia is life-threatening—even the hospital-monitored research glucose load carried strict clinical oversight and yielded paralysis in only 18.2%—and unmonitored potassium dosing risks fatal rebound hyperkalemia."
+          },
+          {
+            "label": "Continue supervised electrolyte, cardiac rhythm, and clinical monitoring past initial strength recovery to catch silent rebound hyperkalemia, then transition to ongoing clinician-directed thyroid management.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Feeling strong never proves compartments have finished shifting—silent K⁺ of 6.0 mEq/L still threatens cardiac rhythm—and durable control requires supervised endocrine care."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · MECHANISM DIAGRAM",
+          "src": "assets/exhibits/PMC11509281_medicina-60-01685-g001.jpg",
+          "caption": "Mechanisms of hypokalemia.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Florescu et al. (2024), Medicina · PMC11509281",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11509281/"
+        }
+      ]
+    },
+    "clerk-and-the-granulomas-beryllium": {
+      "quiz": {
+        "prompt": "An administrative worker at a precision-metal shop who regularly walks the production floor is diagnosed with lung ‘sarcoidosis’ from non-necrotizing granulomas, then relapses with blurred vision and slurred speech as steroids taper. What is the strongest evidence-based next step?",
+        "options": [
+          {
+            "label": "Bag up shop-floor dust yourself for home testing and install a stronger personal dust mask before changing anything medically, since a biopsy already proved sarcoidosis.",
+            "correct": false,
+            "feedback": "A non-necrotizing granuloma is a shared tissue pattern—not a material ID—and DIY dust baggies or guessed respirators never replace specialist testing or qualified engineering source control."
+          },
+          {
+            "label": "Give clinicians the full physical history of production-floor proximity and alloys used, discuss specialist immune testing (such as BeLPT) alongside individualized organ evaluation, and involve qualified occupational safety teams for source control.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Real physical proximity overrides misleading job titles, BeLPT separates beryllium-driven granulomas from idiopathic sarcoidosis, and qualified source control protects both the patient and coworkers."
+          },
+          {
+            "label": "Reassure yourself that administrative staff cannot inhale toxic doses and assume blood beryllium-level testing will rule out chronic beryllium disease.",
+            "correct": false,
+            "feedback": "Airborne dust ignores job titles, and CBD is an immune hypersensitivity reaction diagnosed via cellular proliferation memory (BeLPT)—not by measuring blood metal concentration."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · OCCUPATIONAL RISK CHART",
+          "src": "assets/exhibits/PMC12831088_gr2.jpg",
+          "caption": "ORs for the association of a field of occupation with CBD vs sarcoidosis presented as forest plots. Precision mechanics excluded (only 2 individuals, both in the CBD group). CBD = chronic beryllium disease.",
+          "spoilerNote": "Medical imaging / diagnostic exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Jouanjan et al. (2025), Chest · PMC12831088",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12831088/"
+        }
+      ]
+    },
+    "pressure-without-a-wave-achalasia": {
+      "quiz": {
+        "prompt": "Over several months, a patient’s trouble swallowing progresses from dry solid foods to water alongside mild weight loss, undigested regurgitation, and a wet-sounding voice after meals—despite normal blood panels and an endoscopy showing healthy pink esophageal lining. What is the right clinical takeaway?",
+        "options": [
+          {
+            "label": "Seek prompt specialist follow-up for functional motility evaluation (such as high-resolution manometry), because clean blood work and normal-looking lining cannot rule out failed peristalsis or a non-relaxing sphincter.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Structural scopes rule out tumors or inflammation, not failing myenteric pressure waves—and progressive solid-to-liquid dysphagia plus a wet post-meal voice demand timely functional workup."
+          },
+          {
+            "label": "Treat it as stubborn acid reflux using over-the-counter antacids and store-bought liquid thickeners at home, since a normal endoscopy excludes serious swallowing disorders.",
+            "correct": false,
+            "feedback": "Familiar ‘heartburn’ must never disguise progressive dysphagia, a normal mucosal lining does not test esophageal motility, and thickeners or diet changes should never be self-prescribed without formal diagnosis."
+          },
+          {
+            "label": "Rely on a single barium swallow alone; if liquid barium clears on time with no bird-beak sign, achalasia is ruled out.",
+            "correct": false,
+            "feedback": "In the 2026 Mirabadi case, timed barium clearing looked normal with no bird-beak sign—yet high-resolution manometry revealed Type II achalasia with 10 of 10 failed protocol swallows."
+          }
+        ]
+      },
+      "externalFigureLinks": [
+        {
+          "label": "Mirabadi et al. (2026), ACG Case Reports Journal — 3 clinical figure(s) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13263091/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "sand-that-stayed-behind-horse": {
+      "quiz": {
+        "prompt": "Four days into hospital treatment for equine sand colic, a horse’s follow-up abdominal radiograph drops into the ‘clearance’ bracket—yet the horse remains sweaty, stops eating, and keeps looking back at its flank. What is the right evidence-based interpretation?",
+        "options": [
+          {
+            "label": "Discharge the horse home with a barn-aisle exercise routine and a daily scoop of supplement powder, since radiographic clearance proves the colic cause is resolved.",
+            "correct": false,
+            "feedback": "Radiographic clearance neither guarantees zero residual sand nor cures non-sand mechanical problems—and DIY exercise or supplement regimens never replace veterinary reassessment of active pain."
+          },
+          {
+            "label": "Assume the pain is harmless soreness from passing sand and wait another four days before repeating radiographs, since the German clinic protocol ran on a four-day timetable.",
+            "correct": false,
+            "feedback": "Never treat a study’s four-day recheck window as a universal waiting rule—delaying reassessment of active pain risks missing surgical emergencies."
+          },
+          {
+            "label": "Prioritize immediate veterinary reassessment of the living horse—including ultrasound and surgical triage if needed—because an improved X-ray never excuses persistent abdominal pain.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In the 2026 Lousberg study, a horse that achieved radiographic sand clearance still suffered severe colic requiring surgery for a right dorsal colon displacement—trust the terrain over the map."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · RADIOGRAPH",
+          "src": "assets/exhibits/REF_PMC12674975_avj-103-890-g001.jpg",
+          "caption": "Left lateral radiograph of the cranioventral abdomen of a control horse showing one of the larger sand accumulations present in this group. Cranial is to the left. The sand area is 99.7cm2 as calculated using the pencil tool on Osirix, or 16 cm2 per 100 kg, which is below the…",
+          "spoilerNote": "Illustrative peer-reviewed imaging/diagnostic exhibit from a separate CC BY report showing the same mechanism (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Entwisle et al. (2025), Australian Veterinary Journal · PMC12674975 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12674975/"
+        }
+      ]
     }
   },
   "exam": [
@@ -8865,26 +9391,167 @@
           "why": "NHS rib-injury guidance stresses that serious accidents and worsening breathlessness warrant immediate emergency evaluation without waiting for multiple severe symptoms to stack up."
         }
       ]
+    },
+    {
+      "q": "Someone with months of clear watery drainage strictly from the left nostril and a headache that eases when lying flat suddenly develops fever, a stiff neck, and confusion—with no skin rash. What is the safest move?",
+      "caseSlug": "leak-that-opened-second-door-csf",
+      "caseRef": "Case 215",
+      "options": [
+        {
+          "label": "Seek immediate emergency medical care for suspected meningitis without waiting for a rash or fluid testing, and disclose the months of unilateral watery drainage and positional headache.",
+          "ok": true,
+          "why": "Survived Tuesday! Fever, neck stiffness, severe headache, and confusion are immediate meningitis red flags—bacterial meningitis frequently lacks a rash, and linking unilateral clear rhinorrhea alerts clinicians to an underlying skull-base breach."
+        },
+        {
+          "label": "Bear down firmly to collect a sample on a deep nasal swab and taste a drop for sweetness so the urgent-care clinic can confirm CSF before starting antibiotics.",
+          "ok": false,
+          "why": "Straining raises intracranial pressure, deep nasal probing shoves bacteria straight toward an open skull defect, and taste tests are useless internet mythology."
+        },
+        {
+          "label": "Take an extra dose of over-the-counter allergy medication and wait 24 hours to see whether a classic purple rash appears, since a prior sinus CT already read chronic sinusitis.",
+          "ok": false,
+          "why": "A prior routine sinus CT cannot exclude a subtle sphenoid skull-base defect or meningocele, and waiting for a rash during acute neurological deterioration can turn fatal."
+        }
+      ]
+    },
+    {
+      "q": "A 48-year-old mechanic who often smacks stubborn fittings with the heel of his palm notices a firm lump on the pinky side of his right hand, and two months later his right ring finger turns pale, ice-cold, and numb while his left hand stays warm. What is the safest course?",
+      "caseSlug": "artery-in-the-other-hand-hammer",
+      "caseRef": "Case 217",
+      "options": [
+        {
+          "label": "Plunge both hands into ice water to record a video proving Raynaud’s phenomenon and wait until a routine appointment next month if he can still feel his wrist pulse.",
+          "ok": false,
+          "why": "Home cold provocation is unsafe, symmetric wrist pulses did not rule out bilateral ulnar aneurysms in the 2022 case, and new unilateral ischemia with numbness cannot wait weeks."
+        },
+        {
+          "label": "Reassure himself that the warm left hand proves his systemic circulation is fine, switch to thicker padded work gloves, and keep working until the lump shrinks.",
+          "ok": false,
+          "why": "A perfectly warm opposite hand can still hide a 7-millimeter silent aneurysm via collateral flow, and generic glove swaps cannot rescue an acutely starved fingertip."
+        },
+        {
+          "label": "Seek immediate emergency vascular assessment for suspected acute perfusion loss, report the exact onset time, palm lump, and tool-impact history, and stop using the palm as a striking tool.",
+          "ok": true,
+          "why": "Survived Tuesday! New unilateral pallor, coldness, and numbness starting after age 30 break benign Raynaud’s rules and fit acute perfusion red flags—demanding urgent care first and ergonomic review afterward."
+        }
+      ]
+    },
+    {
+      "q": "Five days after a mild summer fever and an evening hike, your partner wakes up dragging one leg with new back pain, though they have zero memory of a mosquito bite, can feel light touch on the foot clearly, and notice mild shortness of breath. What is the safest move?",
+      "caseSlug": "weakness-inside-spinal-cord-wnv",
+      "caseRef": "Case 220",
+      "options": [
+        {
+          "label": "Test their knee-jerk reflex with a kitchen spoon at home and wait until morning, since preserved foot sensation and no remembered bite point to a pulled hiking muscle.",
+          "ok": false,
+          "why": "Anterior horn spinal injury destroys motor neurons while leaving adjacent sensory pathways intact, most bites go unremembered, and amateur home reflex testing generates dangerous false reassurance."
+        },
+        {
+          "label": "Call emergency services immediately—reporting the exact fever, weakness, breathing change, and outdoor timeline—because ascending neuroinvasive weakness can threaten respiratory muscles fast.",
+          "ok": true,
+          "why": "Survived Tuesday! New unexplained weakness paired with any breathing change is a drop-everything emergency (12 of 32 paralyzed patients in Colorado needed ventilation), and concrete functional timelines guide urgent clinical localization."
+        },
+        {
+          "label": "Drive to an urgent-care clinic and ask only for a blood sugar and basic chemistry panel, since normal routine blood work and normal CSF glucose rule out viral spinal cord infection.",
+          "ok": false,
+          "why": "Routine blood summaries and CSF glucose (52 mg/dL) were completely normal in the 2024 case—viruses lack bacterial sugar metabolism, and acute weakness with breathing trouble belongs in an emergency department via EMS."
+        }
+      ]
+    },
+    {
+      "q": "Your 10-year-old dog had a pacemaker placed three years ago for heart block and has thrived ever since. After two weeks of a new daily cough, she wakes at 2 a.m. breathing rapidly with her mouth open and bluish gums. What is the right immediate action?",
+      "caseSlug": "lead-and-cough-that-changed-dog",
+      "caseRef": "Case 221",
+      "options": [
+        {
+          "label": "Spend twenty minutes locating her original implant serial card and surgical printout before driving to the ER, since emergency vets cannot examine a paced dog without full device paperwork.",
+          "ok": false,
+          "why": "Never delay oxygen for paperwork—grab whatever records are handy, tell the ER she has a pacemaker when you call ahead from the road, and let clinicians stabilize her breathing first."
+        },
+        {
+          "label": "Gently press over the pacemaker generator under her neck skin to verify it is intact and start a low-dose blood thinner until her scheduled cardiology check in two weeks.",
+          "ok": false,
+          "why": "Never manipulate an implanted device or self-prescribe anticoagulants—and a flawlessly firing pacemaker still cannot prevent a pulmonary clot or stop active cyanosis."
+        },
+        {
+          "label": "Transport her immediately to an emergency veterinary hospital, calling ahead so an oxygen cage is ready and immediately notifying the team that she has a permanent pacemaker.",
+          "ok": true,
+          "why": "Survived Tuesday! Per Cornell emergency guidance, open-mouth resting dyspnea and cyanotic gums are immediate life threats demanding urgent oxygen—and early disclosure of the implant steers both emergency stabilization and cardiology coordination."
+        }
+      ]
+    },
+    {
+      "q": "A child with short bowel syndrome who drinks from a private home well wakes up slurring words and stumbling, though by arrival in the ER his exam looks calmer and both routine lactate and brain MRI return normal. What is the safest next step?",
+      "caseSlug": "well-and-the-other-lactate-dlactate",
+      "caseRef": "Case 222",
+      "options": [
+        {
+          "label": "Advocate for full evaluation of his short-bowel history—asking specifically whether a separate D-lactate assay is being run—while keeping hydration strictly under specialist ORS guidance and having the private well tested at a state-certified laboratory.",
+          "ok": true,
+          "why": "Survived Tuesday! Metabolic encephalopathy waxes and wanes, routine L-lactate assays are blind to bacterial D-lactate, plain water worsens SBS electrolyte loss, and state-certified well testing catches hidden environmental coliforms."
+        },
+        {
+          "label": "Take him home once a stool PCR flags norovirus, encourage extra glasses of clear well water to flush out stomach bugs, and add an over-the-counter Lactobacillus probiotic.",
+          "ok": false,
+          "why": "Norovirus does not explain acute ataxia, extra plain water osmotically strips electrolytes in short bowel syndrome, and unvetted Lactobacillus probiotics can literally manufacture more neurotoxic D-lactate."
+        },
+        {
+          "label": "Wait at home unless E. coli shows up on a hardware-store water test strip, since a normal routine lactate and ‘not detected’ E. coli prove both the child and the well are safe.",
+          "ok": false,
+          "why": "Routine lactate ignores D-lactate, hardware test strips cannot replace state-certified labs, and ‘not detected’ E. coli only means below the 1.0 MPN limit—this family’s well had ND E. coli alongside >200.5 MPN/100 mL total coliforms."
+        }
+      ]
+    },
+    {
+      "q": "A patient with newly confirmed Type 1 hereditary angioedema wakes up with a swollen upper lip and feels their throat beginning to tighten. They have no itchy hives. What is the safest immediate response?",
+      "caseSlug": "swelling-connected-twenty-years-hae",
+      "caseRef": "Case 216",
+      "options": [
+        {
+          "label": "Take a double dose of antihistamine and drink a tall glass of water to test whether the airway is truly narrowing before deciding whether to drive to urgent care.",
+          "ok": false,
+          "why": "Waiting on antihistamines wastes precious airway minutes on a non-histamine bradykinin cascade, and a forced swallow test risks aspiration or complete laryngeal spasm."
+        },
+        {
+          "label": "Call emergency services immediately rather than driving, follow their specialist-prescribed HAE emergency plan, and present their bradykinin-mediated diagnosis and records at triage.",
+          "ok": true,
+          "why": "Survived Tuesday! Upper-airway swelling is an immediate ambulance emergency because laryngeal edema progresses non-linearly, and clear upfront HAE documentation overrides ER allergy anchoring."
+        },
+        {
+          "label": "Assume it is harmless because they have no family history of throat attacks and stop taking their prescribed blood-pressure pills immediately while waiting two days for it to self-resolve.",
+          "ok": false,
+          "why": "Laryngeal attacks can turn fatal rapidly regardless of family history, and while ACE inhibitors require medical review and switching in HAE, airway compromise requires emergency care first."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 8 Drops (Ep 2761–2766) (6)",
-      "tagline": "Freshly added on 2026-11-23 — 6 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 9 Final Drops (Ep 2768–2903) (15)",
+      "tagline": "Freshly added on 2026-11-23 — 15 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "adhesive-behind-the-marrow-zinc",
-        "iron-beyond-the-age-label-hemochromatosis",
-        "newt-and-the-trading-network-bsal",
-        "gate-between-farmer-and-cow-polytrauma",
-        "parrot-and-four-different-records-psittacosis",
-        "feeding-tool-became-foreign-body-pet"
+        "leak-that-opened-second-door-csf",
+        "swelling-connected-twenty-years-hae",
+        "artery-in-the-other-hand-hammer",
+        "vessel-skipped-the-filter-pavm",
+        "antiseptic-beside-anesthetic-chlorhexidine",
+        "weakness-inside-spinal-cord-wnv",
+        "lead-and-cough-that-changed-dog",
+        "well-and-the-other-lactate-dlactate",
+        "fever-before-the-antibody-window",
+        "wire-beyond-stomach-wall-cattle",
+        "jaw-and-missing-protection-tetanus",
+        "potassium-changed-compartments-tpp",
+        "clerk-and-the-granulomas-beryllium",
+        "pressure-without-a-wave-achalasia",
+        "sand-that-stayed-behind-horse"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (176)",
-      "tagline": "All 176 chapters featuring commercial-cleared primary case imaging (101), peer-reviewed reference exhibits (48), and verified hazard field photos (27).",
+      "label": "🩻 All Verified Exhibits (189)",
+      "tagline": "All 189 chapters featuring commercial-cleared primary case imaging (109), peer-reviewed reference exhibits (52), and verified hazard field photos (28).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -9061,13 +9728,26 @@
         "newt-and-the-trading-network-bsal",
         "gate-between-farmer-and-cow-polytrauma",
         "parrot-and-four-different-records-psittacosis",
-        "feeding-tool-became-foreign-body-pet"
+        "feeding-tool-became-foreign-body-pet",
+        "leak-that-opened-second-door-csf",
+        "swelling-connected-twenty-years-hae",
+        "artery-in-the-other-hand-hammer",
+        "antiseptic-beside-anesthetic-chlorhexidine",
+        "weakness-inside-spinal-cord-wnv",
+        "lead-and-cough-that-changed-dog",
+        "well-and-the-other-lactate-dlactate",
+        "fever-before-the-antibody-window",
+        "wire-beyond-stomach-wall-cattle",
+        "jaw-and-missing-protection-tetanus",
+        "potassium-changed-compartments-tpp",
+        "clerk-and-the-granulomas-beryllium",
+        "sand-that-stayed-behind-horse"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (101)",
-      "tagline": "The 101 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (109)",
+      "tagline": "The 109 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -9169,7 +9849,15 @@
         "newt-and-the-trading-network-bsal",
         "gate-between-farmer-and-cow-polytrauma",
         "parrot-and-four-different-records-psittacosis",
-        "feeding-tool-became-foreign-body-pet"
+        "feeding-tool-became-foreign-body-pet",
+        "leak-that-opened-second-door-csf",
+        "swelling-connected-twenty-years-hae",
+        "artery-in-the-other-hand-hammer",
+        "weakness-inside-spinal-cord-wnv",
+        "lead-and-cough-that-changed-dog",
+        "fever-before-the-antibody-window",
+        "potassium-changed-compartments-tpp",
+        "clerk-and-the-granulomas-beryllium"
       ]
     },
     {
@@ -9177,36 +9865,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "room-not-safe-to-finish",
-        "wire-behind-the-pain",
-        "fractal-wood-burning",
-        "thyroid-that-changed-in-the-test-biotin",
         "family-behind-the-enzyme-g6pd",
-        "dry-ice-riding-shotgun",
+        "spin-class-rhabdo",
         "tank-after-the-collapse-h2s",
-        "anesthetic-that-triggered-the-furnace",
-        "ring-and-unbroken-bone-avulsion",
-        "puppy-with-the-twisted-stomach-gdv",
+        "hot-baths-fentanyl-patches-deadly",
         "burn-looked-like-infection-wet-cement",
-        "charger-between-phone-and-wall",
-        "aquarium-more-than-one-patient-palytoxin",
-        "handlebar-and-hidden-pancreatic-duct",
+        "hair-treatment-reached-the-cat",
+        "small-hands-moving-treadmill-belt",
+        "thyroid-that-changed-in-the-test-biotin",
+        "puppy-with-the-twisted-stomach-gdv",
         "driveway-ied-truck-tire",
         "one-finger-varicose-vein",
-        "small-hands-moving-treadmill-belt",
-        "spin-class-rhabdo",
-        "hot-baths-fentanyl-patches-deadly",
-        "reheated-rice-and-botulism",
-        "thread-beneath-the-swelling-hair-tourniquet",
         "van-that-was-not-empty",
-        "super-rat-bait-and-vitamin-k-trap",
-        "boots-in-the-snow-and-heatstroke",
         "potassium-that-rose-in-the-tube",
+        "battery-already-in-the-stomach",
+        "anesthetic-that-triggered-the-furnace",
+        "reheated-rice-and-botulism",
+        "boots-in-the-snow-and-heatstroke",
+        "super-rat-bait-and-vitamin-k-trap",
         "thread-across-the-road-kite-string",
-        "hair-treatment-reached-the-cat",
+        "charger-between-phone-and-wall",
         "pool-had-another-hazard-drain-suction",
         "chocolate-brown-blood",
-        "battery-already-in-the-stomach"
+        "handlebar-and-hidden-pancreatic-duct",
+        "wire-behind-the-pain",
+        "fractal-wood-burning",
+        "aquarium-more-than-one-patient-palytoxin",
+        "room-not-safe-to-finish",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "dry-ice-riding-shotgun",
+        "ring-and-unbroken-bone-avulsion"
       ]
     },
     {
@@ -9262,7 +9950,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 41",
+      "label": "🐾 Pet Owner’s Mandatory 44",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
