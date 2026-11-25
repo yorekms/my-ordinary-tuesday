@@ -1,17 +1,17 @@
 {
   "meta": {
     "updated": "2026-11-24",
-    "totalStoriesEnriched": 253,
-    "ccByClinicalExhibitStories": 211,
-    "ccByClinicalExhibitImages": 216,
-    "primaryClinicalExhibitStories": 124,
-    "referenceClinicalExhibitStories": 55,
-    "hazardFieldPhotoStories": 32,
+    "totalStoriesEnriched": 264,
+    "ccByClinicalExhibitStories": 222,
+    "ccByClinicalExhibitImages": 229,
+    "primaryClinicalExhibitStories": 131,
+    "referenceClinicalExhibitStories": 58,
+    "hazardFieldPhotoStories": 33,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 223,
-    "perStoryQuizzes": 253,
-    "examPoolSize": 79,
-    "externalFigureLinkoutStories": 49
+    "dynamicBlueprintStories": 234,
+    "perStoryQuizzes": 264,
+    "examPoolSize": 90,
+    "externalFigureLinkoutStories": 53
   },
   "stories": {
     "fractal-wood-burning": {
@@ -9022,6 +9022,464 @@
           "licenseNote": "CC BY-NC (view directly on PMC)"
         }
       ]
+    },
+    "signal-from-the-foot-tio": {
+      "quiz": {
+        "prompt": "After a minor household stair stumble and months of thigh ache and his leg giving out, a 59-year-old man is found to have two distinct femoral stress fractures. His serum calcium (9.4 mg/dL), intact PTH (50 pg/mL), alkaline phosphatase (135 U/L), creatinine (1.0 mg/dL), and 24-hour urine phosphate (0.821 g/24 hr; printed normal 0.3–1 g/day) all sit inside printed normal ranges, while his serum phosphate is 1.5 mg/dL (normal 2.5–4.8) and vitamin D is 22 ng/mL. What is the most accurate clinical takeaway?",
+        "options": [
+          {
+            "label": "Prioritize orthopedic stabilization first, recognize that excreting 0.821 g/24 hr of urinary phosphate during severe hypophosphatemia signals inappropriate renal phosphate wasting requiring metabolic workup, and track any specialized hormone labs with exact original units intact.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Printed urine reference ranges never establish physiological appropriateness when blood phosphate is critically low (1.5 mg/dL)—fixing the acute fracture comes first, followed by systematic metabolic investigation and strict unit tracking (RU/mL vs. pg/mL)."
+          },
+          {
+            "label": "Reassure him that normal calcium, normal PTH, normal creatinine, and a mid-range 24-hour urine phosphate rule out metabolic bone disease, and treat his mild vitamin D of 22 ng/mL with over-the-counter supplements alone.",
+            "correct": false,
+            "feedback": "Normal calcium, PTH, and creatinine do not exclude severe osteomalacia, mild vitamin D deficiency alone does not account for bilateral femoral stress fractures without secondary PTH elevation, and normal-looking urine phosphate during hypophosphatemia is active renal wasting."
+          },
+          {
+            "label": "Delay urgent orthopedic fracture stabilization to demand an immediate whole-body 68Ga-DOTATATE PET/CT, because receptor scans achieve 100% localization across every patient and eliminate any need for biopsy.",
+            "correct": false,
+            "feedback": "Acute fracture stabilization always comes first; El-Maouche et al.’s 2016 NIH cohort localized tumors in only 6/11 (54.5%) total referrals (100% applied only to the 6 localized cases), false positives occur across modalities, and imaging is a compass requiring histologic proof."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · BILATERAL FEMUR RADIOGRAPHS",
+          "src": "assets/exhibits/PMC5618748_crirh2017-3191673.001.jpg",
+          "caption": "Radiographs of both femurs showing bilateral insufficiency fracture lines (blue arrows)—caused by chronic FGF23-driven phosphate wasting from a tiny occult tumor three feet away.",
+          "spoilerNote": "Femur radiographs from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Beygi, Denio & Sharma (2017), Case Reports in Rheumatology · PMC5618748",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5618748/"
+        },
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT B · LOWER-EXTREMITY FDG-PET",
+          "src": "assets/exhibits/PMC5618748_crirh2017-3191673.004.jpg",
+          "caption": "Lower-extremity FDG-PET scan pinpointing the hypermetabolic culprit: an occult phosphaturic mesenchymal tumor buried on the plantar sole of the left foot (blue arrow).",
+          "spoilerNote": "PET imaging from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 4 from Beygi, Denio & Sharma (2017), Case Reports in Rheumatology · PMC5618748",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5618748/"
+        }
+      ]
+    },
+    "pressure-in-spinal-veins-sdavf": {
+      "quiz": {
+        "prompt": "A 76-year-old man wakes with numbness in both legs, low back pain, and difficulty passing urine, rapidly losing the ability to walk over four days. His initial thoracic MRI shows cord swelling and enhancement, and his lumbar puncture shows normal opening pressure (100 mm H2O) with mild lymphocytes—yet five days of IVIG and dexamethasone produce zero improvement. What is the safest clinical understanding and next step?",
+        "options": [
+          {
+            "label": "Assume a spinal dural arteriovenous fistula is impossible because the collapse took four days instead of months and his lumbar puncture opening pressure was normal, so wait 48 hours and test his strength by walking down the hallway.",
+            "correct": false,
+            "feedback": "Rapid progression never excludes diseases typically described as slow, CSF opening pressure measures fluid outside the cord rather than pressurized spinal veins, and DIY walking tests or 48-hour waiting deals risk serious falls and lost neurologic reserve."
+          },
+          {
+            "label": "Treat zero response to immunotherapy and ongoing neurologic loss as an urgent reassessment trigger, transfer actual prior scan images alongside written reports to an experienced vascular spinal team, and remember that sealing a fistula stops damage without guaranteeing full walking recovery.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Lack of improvement after steroids/IVIG is critical pivot data, raw scan pixels let specialists catch vascular flow shadows and incomplete prior vessel coverage (including pelvic iliac branches), and realistic follow-up separates vascular closure from nerve regeneration."
+          },
+          {
+            "label": "Conclude that the lumbar puncture and steroids caused his paralysis, demand an immediate invasive spinal angiogram on arrival at triage, and avoid sleeping on his stomach afterward to guarantee the fistula cannot recur.",
+            "correct": false,
+            "feedback": "Untreated venous congestion—not the diagnostic tap or steroids—drove the cord injury; specialist vascular teams decide when invasive angiography is warranted, and prone sleeping in Su et al. (2025) was strictly an unproven single-case hypothesis."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · THORACIC SPINE MRI",
+          "src": "assets/exhibits/PMC12330131_13256_2025_5454_fig1_html.jpg",
+          "caption": "Contrast-enhanced thoracic spine MRI (A–D: T2, STIR, contrast-enhanced, and axial views) demonstrating spinal cord edema and abnormal perimedullary vascular flow shadows (red arrows) mimicking transverse myelitis.",
+          "spoilerNote": "Spinal MRI from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Su et al. (2025), Journal of Medical Case Reports · PMC12330131",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12330131/"
+        },
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT B · SPINAL MR ANGIOGRAPHY (CEMRA)",
+          "src": "assets/exhibits/PMC12330131_13256_2025_5454_fig2_html.jpg",
+          "caption": "Contrast-enhanced spinal MR angiography exposing the true culprit: engorged, varicose spinal veins (red arrows) pressurized by an occult dural arteriovenous fistula.",
+          "spoilerNote": "Spinal MR angiography from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Su et al. (2025), Journal of Medical Case Reports · PMC12330131",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12330131/"
+        }
+      ]
+    },
+    "protein-leaving-stomach-menetrier": {
+      "quiz": {
+        "prompt": "A 41-year-old woman with antiphospholipid syndrome has suffered four weeks of dizziness, nausea, and vomiting. A head CT and leg-vein ultrasound two weeks earlier were clear, and vertigo was suspected—but today she has thumb-indenting ankle swelling, unintended weight loss, and a serum albumin of 18.1 g/L (normal >36.0 g/L). A different lab later reports an albumin of 1.81 g/dL. What is the safest clinical interpretation and next step?",
+        "options": [
+          {
+            "label": "Treat 1.81 g/dL as a catastrophic tenfold drop from 18.1 g/L, start daily high-protein whey shakes at home, and schedule a separate podiatry visit for her ankles so her vertigo clinic can stay focused on her ears.",
+            "correct": false,
+            "feedback": "18.1 g/L and 1.81 g/dL are the exact same physical concentration (10 deciliters per liter), whey shakes cannot fix a systemic protein leak, and splitting ankle edema from vomiting hides the connected biology."
+          },
+          {
+            "label": "Accept that her earlier negative clot scans rule out urgent illness, demand immediate off-label cetuximab as a guaranteed permanent cure that prevents gastric cancer, and reject any repeat endoscopy as proof the first test was botched.",
+            "correct": false,
+            "feedback": "Off-label cetuximab is a severe-case individualized choice with major toxicities (rash, skin fissures, hypomagnesemia) and unproved cancer prevention, repeat deeper biopsies reflect diagnostic sampling science rather than error, and sudden worsening swelling with breathlessness or chest symptoms demands emergency triage."
+          },
+          {
+            "label": "Recognize that 18.1 g/L and 1.81 g/dL represent identical severe hypoalbuminemia requiring one unified whole-body workup—not protein shakes—while escalating urgently for sudden red/hot painful swelling or immediately for breathlessness, chest symptoms, faintness, or vomiting blood.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Always verify g/L vs. g/dL units first, link persistent vomiting, weight loss, and pitting edema into one clinical investigation to find the true source of protein loss, and act immediately on NHS cardiopulmonary or GI-bleeding red flags."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ABDOMINAL CT ANGIOGRAPHY",
+          "src": "assets/exhibits/PMC6885025_12328_2019_994_fig2_html.jpg",
+          "caption": "Coronal CT revealing massive, hyperemic hypertrophic gastric rugal folds in the body of the stomach (A, star)—the hallmark Ménétrier gastropathy leaking blood protein into the gut—alongside edematous bowel wall thickening (B, arrow).",
+          "spoilerNote": "Abdominal CT from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Carlsen et al. (2019), Clinical Journal of Gastroenterology · PMC6885025",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6885025/"
+        }
+      ]
+    },
+    "hip-in-metabolic-investigation-metallosis": {
+      "quiz": {
+        "prompt": "A 58-year-old patient with a revised metal-on-polyethylene hip replacement has developed worsening breathlessness, numbness in both feet, and fading hearing alongside new right groin pain and a limp. One mitochondrial DNA screen came back negative. What is the safest next step?",
+        "options": [
+          {
+            "label": "Climb stairs carrying heavy boxes to test whether the hip grinds reliably, order a private online heavy-metal blood test first so you arrive with proof, and pause coronary follow-up until cobalt results return.",
+            "correct": false,
+            "feedback": "Home load or grinding provocation risks fresh mechanical damage and debris release, no private direct-to-consumer assay is required before calling a doctor, and suspected metal toxicity never cancels competing cardiac or endocrine disease."
+          },
+          {
+            "label": "Contact your medical and orthopedic teams promptly without provoking the hip or waiting on private labs, bring your exact operative implant report across specialties, and keep competing heart and thyroid evaluations running in parallel.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Even non-MoM revised metal-on-polyethylene hips can shed cobalt and chromium from metal junctions, prompt clinical contact beats home provocation, and bridging orthopedic records never replaces parallel care for concurrent conditions like coronary stenosis."
+          },
+          {
+            "label": "Rule out hip involvement because the bearing is metal-on-polyethylene rather than a recalled metal-on-metal resurfacing—and if an older plasma cobalt value is lower than a newer whole-blood number, demand immediate removal surgery.",
+            "correct": false,
+            "feedback": "Stepien et al.’s catastrophic metallosis occurred with a revised metal-on-polyethylene hip, plasma and whole blood are non-interchangeable matrices that cannot be compared raw, and neither a recall nor an isolated number automatically mandates revision surgery."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · HIP METALLOSIS X-RAY & MRI",
+          "src": "assets/exhibits/REF_PMC8941771_13256_2022_3340_fig1_html.jpg",
+          "caption": "Reference imaging of prosthetic hip metallosis: (A) baseline right total hip arthroplasty; (B) pre-revision radiograph showing soft-tissue metallic clouding/mineralization around the implant (white arrow); (C, D) pelvic MRI outlining massive lobulated metallosis pseudotumors (white arrows).",
+          "spoilerNote": "Illustrative peer-reviewed radiology from a separate CC BY prosthetic hip metallosis case (not the index patient in Stepien et al. 2018).",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Mastel et al. (2022), Journal of Medical Case Reports · PMC8941771 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8941771/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Langton et al. (2013), BMJ Open — Companion metal-on-metal hip cobalt concentration & implant survival figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3612810/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
+    },
+    "collapse-and-two-copies-dnm1-dog": {
+      "quiz": {
+        "prompt": "A two-year-old yellow Labrador known from a prior cheek swab to carry two copies of the DNM1 c.767G>T mutation suddenly develops wobbly hind legs and cannot walk twenty minutes into intense retrieving—yet he stays fully conscious, bright, and wagging his tail. What is the safest immediate response?",
+        "options": [
+          {
+            "label": "Let him rest five minutes until his wagging tail convinces you the crisis passed, then toss a few short retrieves to test his limit and record clear video for the vet.",
+            "correct": false,
+            "feedback": "An eager, tail-wagging demeanor never proves physiological safety in high-drive retrievers—some dogs die during collapse episodes—and you must never provoke a repeat collapse or delay care to film."
+          },
+          {
+            "label": "Skip the emergency clinic because his existing EE genetic printout already explains the wobble, douse him in ice water to cool him fast, and squirt sugar paste into his mouth.",
+            "correct": false,
+            "feedback": "Carrying two DNM1 copies never immunizes a dog against lethal lookalikes like cardiac arrhythmias, heatstroke, or acute metabolic crises; ice water risks shock, and forcing oral pastes into a weak dog risks aspiration."
+          },
+          {
+            "label": "Stop all activity at the first sign of incoordination and go straight for professional veterinary evaluation, reporting exact activity observations alongside his genetic record.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Sudden weakness or inability to walk is an immediate veterinary emergency regardless of alertness or prior DNA printouts—treat the living crisis first, then build an individualized vet activity plan."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED FIELD PHOTO",
+          "src": "assets/exhibits/HAZ_labrador_retriever_cc0.jpg",
+          "caption": "An alert, athletic Labrador Retriever—the breed most frequently affected by autosomal recessive DNM1 exercise-induced collapse (EIC), in which hind-limb motor control fails during intense excitement while the dog stays fully awake and eager to play (not the index dog in Basso et al. 2014).",
+          "spoilerNote": "Illustrative breed reference photo (CC0 1.0 Public Domain — not the index dog).",
+          "blurredByDefault": false,
+          "citation": "Photo by Dktue via Wikimedia Commons (Portrait of a labrador retriever.jpg)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_labrador_retriever.jpg"
+        }
+      ]
+    },
+    "wounds-and-failing-circulation-sporotrichosis": {
+      "quiz": {
+        "prompt": "In a region where feline sporotrichosis is emerging, an indoor-outdoor cat develops weeks of expanding, oozing ulcers on the face and paws along with a visibly swollen nose and high-pitched noisy breathing. Two days later, the owner notices a persistent sore on their own wrist despite not recalling a deep bite. What is the safest course of action?",
+        "options": [
+          {
+            "label": "Call the veterinary clinic ahead so they can prepare isolation for the cat, follow their handling and pet-separation plan instead of improvising wound care, and have a physician evaluate the wrist lesion with explicit disclosure of sick-cat contact.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Expanding ulcers with nasal deformity and stridor warrant prompt, pre-notified veterinary assessment, while a human caregiver’s new skin lesion requires medical review with explicit animal-contact disclosure—even without a remembered scratch—because fungal sporotrichosis will not respond to routine bacterial antibiotics."
+          },
+          {
+            "label": "Clean the cat’s necrotic scabs at home with dish gloves and leftover dog antibiotics, and skip seeing a human doctor for the wrist sore since you do not remember being bitten or scratched.",
+            "correct": false,
+            "feedback": "Improvised home debridement and leftover antibacterial prescriptions endanger both the cat and the caregiver—antibiotics target bacteria, not fungi—and Schubach et al.’s Rio cohort showed 137 of 421 cat-exposed human cases recalled no bite or scratch at all."
+          },
+          {
+            "label": "Release the cat outdoors immediately to keep the household safe, because the Rio de Janeiro data proved petting an infected cat carries an 84.7% transmission rate and a 10% infection prevalence across all domestic cats.",
+            "correct": false,
+            "feedback": "Abandoning a sick cat worsens community spread and welfare without solving exposure, 84.7% (421/497) was the proportion of already-confirmed clinic patients reporting cat contact rather than a petting-risk probability, and 10/101 came from selected close-contact cats—not general population prevalence."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CYTOLOGY & HISTOPATHOLOGY",
+          "src": "assets/exhibits/PMC12067789_fvets-12-1573924-g002.jpg",
+          "caption": "Cytological smear and skin histopathology from the cat with Sporothrix brasiliensis sepsis (A–D), revealing severe mixed inflammatory infiltrate packed with abundant intracellular and extracellular oval fungal yeasts invading deep dermal tissue.",
+          "spoilerNote": "Cytology and histopathology microscopy from the primary peer-reviewed veterinary case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 2 from Cartes et al. (2025), Frontiers in Veterinary Science · PMC12067789",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12067789/"
+        }
+      ]
+    },
+    "growth-behind-snoring-acromegaly": {
+      "quiz": {
+        "prompt": "A 40-year-old patient previously treated for a growth hormone-secreting pituitary macroadenoma logs into a patient portal and sees that their latest IGF-1 blood level has finally entered the normal reference range. They also feel well enough to ignore persistent loud snoring and elevated blood pressure. What is the safest interpretation and next step?",
+        "options": [
+          {
+            "label": "Cut their monthly endocrine injection dose in half immediately so hormones do not drop too low, and cancel blood-pressure, sleep, heart, and colon follow-ups now that the hormone ratio is normal.",
+            "correct": false,
+            "feedback": "Self-adjusting endocrine therapy off a patient portal is dangerous, and Arosio et al.’s nationwide cohort showed excess mortality persisted (SMR 1.3; 88 vs. 66 deaths) even in patients controlled at their last IGF-1 visit because prior hormone exposure leaves cardiovascular, metabolic, airway, and colonic legacy risks."
+          },
+          {
+            "label": "Keep all prescribed doses unchanged pending specialist review, and ask the coordinating endocrinology team how blood pressure, glucose, sleep quality, cardiac structure, bowel-polyp screening, and remaining pituitary axes will be monitored long-term.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Normalizing IGF-1 stops active hormonal flooding—like fixing a burst pipe—but NIDDK and NHS guidance stress that holistic whole-body follow-up and monitoring of remaining pituitary hormones remain essential under clinician direction."
+          },
+          {
+            "label": "Conclude that because the Italian cohort reported an overall SMR of 1.7, modern treatment has a 70% fatality rate regardless of control, so additional surgical or medical follow-up is pointless.",
+            "correct": false,
+            "feedback": "An SMR of 1.7 (153 observed vs. 90 expected deaths across 811 patients diagnosed in 1980–2002) is a historical aggregate ratio—not a 70% fatality rate or a forecast for modern care—and treating it with fatalism sacrifices effective, life-preserving comorbidity management."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · PITUITARY MRI",
+          "src": "assets/exhibits/PMC12743162_cureus-0017-00000097829-i03.jpg",
+          "caption": "Gadolinium-enhanced T1-weighted MRI of the sella turcica pinpointing a 17 × 23 × 17 mm growth-hormone-secreting pituitary macroadenoma (white arrow) silently driving years of acromegaly and snoring.",
+          "spoilerNote": "Brain/pituitary MRI from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 3 from Lopo et al. (2025), Cureus · PMC12743162",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743162/"
+        }
+      ]
+    },
+    "pill-that-dissolved-airway-iron": {
+      "quiz": {
+        "prompt": "A healthy 48-year-old accidentally inhales a daily ferrous sulfate iron tablet while swallowing. After a hard coughing spell she spits out what looks like the intact pill, but two hours later she develops relentless blood-flecked coughing fits, pain behind her breastbone, and shortness of breath while sitting still. What is the safest action?",
+        "options": [
+          {
+            "label": "Drink a large glass of water and eat dense bread to flush any leftover iron residue down, and stay home since spitting out the intact tablet proves the danger passed.",
+            "correct": false,
+            "feedback": "Water and bread travel down the esophagus rather than the trachea—and aspirating water risks washing caustic iron deeper into smaller airways—while Caterino et al.’s Case 1 proved coughing up an intact iron pill can still leave a progressive chemical burn ending in surgical bilobectomy."
+          },
+          {
+            "label": "Drive herself to an urgent care clinic once the coughing eases, and plan to crush all future iron tablets into water at home so they cannot get stuck again.",
+            "correct": false,
+            "feedback": "Driving yourself with resting breathlessness and potential severe hypoxia risks sudden confusion or collapse behind the wheel, and self-crushing or dissolving engineered tablets at home can destroy release profiles or burn the mouth and esophagus."
+          },
+          {
+            "label": "Call local emergency services immediately without driving herself, tell responders it was a ferrous sulfate tablet with the exact timeline and formulation, skip swallow challenges, and arrange specialist follow-up for delayed airway scarring plus a formal swallow and formulation review.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Iron pill aspiration is a chemical mucosal emergency whose burn persists even if a tablet is coughed out, requiring urgent professional airway care, longitudinal post-discharge monitoring, and clinician-guided swallow/formulation planning rather than DIY fixes."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · PRUSSIAN BLUE BRONCHIAL BIOPSY",
+          "src": "assets/exhibits/REF_PMC6029738_cureus-0010-00000002571-i05.jpg",
+          "caption": "Reference Prussian blue bronchial biopsy stain from an iron pill aspiration case showing intense blue iron deposition (green arrow) etched deep into eroded airway mucosa after an aspirated ferrous sulfate tablet dissolved in place.",
+          "spoilerNote": "Illustrative bronchial biopsy histopathology from a separate CC BY iron pill aspiration case (not the index patient in Sedhai et al. 2023).",
+          "blurredByDefault": false,
+          "citation": "Figure 5 from Chu et al. (2018), Cureus · PMC6029738 (Reference Case)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6029738/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Sedhai et al. (2023), Respiratory Medicine Case Reports — Primary iron pill aspiration bronchoscopy figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10440560/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        },
+        {
+          "label": "Caterino et al. (2015), Respiratory Medicine Case Reports — Companion iron pill inhalation CT & stenosis figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4501451/",
+          "licenseNote": "CC BY-NC-ND (view directly on PMC)"
+        }
+      ]
+    },
+    "livers-unexpected-outlet-shunt-cat": {
+      "quiz": {
+        "prompt": "A nine-year-old cat develops new appetite loss and excessive drooling, is diagnosed with a congenital extrahepatic portosystemic shunt, and undergoes surgical attenuation. After hospital discharge, her post-operative bile acids come back completely normal—then one evening she suddenly becomes unsteady and has a brief seizure. What is the safest interpretation and action?",
+        "options": [
+          {
+            "label": "Seek urgent veterinary neurological reassessment immediately and keep her exact vascular map and surgical history with her chart—normalized post-op bile acids do not rule out late post-operative seizures or residual shunt flow.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Valiente et al.’s 34-cat cohort, roughly 23.5% developed post-op seizures—including three seizing cats with completely normal bile acids and one with normal ammonia. Biochemical labs and neurological status are two separate dashboard dials."
+          },
+          {
+            "label": "Trust the normalized post-operative bile acids as proof that the shunt is 100% cured, run an at-home fasting-and-meal test tomorrow, and try to capture a second seizure on video before calling the clinic.",
+            "correct": false,
+            "feedback": "Normalized bile acids never guarantee a seizure-free brain or zero residual flow, home fasting or meal challenges are unsafe for a sick animal, and waiting to provoke or film a repeat neurological episode delays urgent care."
+          },
+          {
+            "label": "Assume a nine-year-old cat cannot have a true congenital shunt—meaning it must be an acquired shunt—and ask a new clinic to tie off any remaining small vessels immediately without reviewing her prior vascular map.",
+            "correct": false,
+            "feedback": "Congenital shunts can remain compensated for nine years before diagnosis, and confusing congenital with acquired physiology is perilous—closing an acquired pressure-relief shunt around a diseased liver can be rapidly fatal, so the exact prior vascular map is mandatory."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · 3D CT ANGIOGRAPHY",
+          "src": "assets/exhibits/PMC9826224_jsap-63-843-g001.jpg",
+          "caption": "3D color-coded CT angiography of the feline congenital portopulmonary shunt (A, ventral; B, lateral): the abnormal shunt vessel (green, white arrow) routes unfiltered portal blood (purple) straight past the liver into the left pulmonary circulation (red).",
+          "spoilerNote": "3D CT angiography reconstruction from the primary peer-reviewed veterinary case report.",
+          "blurredByDefault": false,
+          "citation": "FIG 1 from Terai et al. (2022), Journal of Small Animal Practice · PMC9826224",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9826224/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Valiente et al. (2020), J Vet Intern Med — Companion 34-cat extrahepatic portosystemic shunt outcome figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6979105/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
+    },
+    "parasite-and-antibody-babesiosis": {
+      "quiz": {
+        "prompt": "After completing antimicrobial treatment for confirmed Babesia microti infection, an older adult with an intact spleen feels well and receives one negative follow-up PCR test—though his antibody serology remains positive. He plans to donate blood soon and assumes his intact spleen guarantees he could never suffer severe hemolytic relapse. What is the safest, scientifically accurate course?",
+        "options": [
+          {
+            "label": "Go ahead and donate blood since a single negative PCR proves the parasite is permanently gone, and treat the lingering positive antibody test as proof that antibiotics failed and must be restarted immediately.",
+            "correct": false,
+            "feedback": "Leiby et al.’s donor study showed Babesia parasitemia is intermittent and can dip below PCR detection limits while antibodies persist for months or years as immune memory—so one negative PCR never self-clears blood donation, and a persistent antibody alone does not prove treatment failure."
+          },
+          {
+            "label": "Proactively disclose his prior babesiosis diagnosis, testing, and treatment to the blood service so modern eligibility rules govern—never self-clearing off one negative PCR—and seek prompt re-evaluation if fatigue, pallor, or jaundice ever return.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Because Babesia survives refrigeration and surfaces intermittently while IgG immune memory and DAT autoantibodies can outlast active infection—even with an intact spleen—blood-bank disclosure is mandatory and clinical symptom changes always warrant reassessment."
+          },
+          {
+            "label": "Rely on his intact spleen as biological protection against severe hemolysis, skip telling the blood bank since 97.7% inter-lab PCR agreement means negative tests never miss hiding parasites, and watch only for a visible tick bite next summer.",
+            "correct": false,
+            "feedback": "An intact spleen did not prevent transfusion-requiring wAIHA in Bleik and Matubia’s 75-year-old patient, 97.7% agreement measures lab reproducibility rather than omniscient detection below threshold, and poppy-seed tick nymphs routinely transmit infection without being seen."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · PERIPHERAL BLOOD SMEAR",
+          "src": "assets/exhibits/PMC10776895_cureus-0015-00000050294-i01.jpg",
+          "caption": "Peripheral blood smear capturing both halves of the double hit: intracellular Babesia microti merozoites inside red cells (black arrows) alongside dense, round autoimmune spherocytes (green arrows) produced by secondary warm autoimmune hemolytic anemia.",
+          "spoilerNote": "Peripheral blood smear microscopy from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Bleik & Matubia (2023), Cureus · PMC10776895",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10776895/"
+        }
+      ]
+    },
+    "deposit-between-injection-blood-amyloid": {
+      "quiz": {
+        "prompt": "After decades of daily abdominal insulin injections, a patient’s HbA1c stays stubbornly elevated despite repeated dose increases. Her lower abdomen feels softly swollen and rubbery with no distinct hard lump, so she suspects trapped absorption—and plans to move tomorrow morning’s full high dose over to a fresh, untouched side of her belly on her own. What is the safest course?",
+        "options": [
+          {
+            "label": "Move her full usual dose to the untouched abdominal site tomorrow morning since there is no hard palpable lump to worry about, and keep juice on hand to pour into her mouth if she passes out.",
+            "correct": false,
+            "feedback": "Nagase et al. proved insulin-derived amyloidosis can exist with zero palpable mass, abruptly switching a barrier-calibrated dose to healthy skin risks severe hypoglycemic coma, and pouring juice into an unconscious person’s mouth risks fatal airway aspiration."
+          },
+          {
+            "label": "Keep injecting into the swollen patch but multiply her dose by 2.5× to overcome the ~40% absorption ratio reported in Nagase et al.’s Case 1 until her next routine visit.",
+            "correct": false,
+            "feedback": "Case 1’s ~40% AUC ratio is a single-patient experimental snapshot—never a universal bioavailability rule or home dosing multiplier—and self-multiplying insulin doses creates a life-threatening overdose hazard."
+          },
+          {
+            "label": "Contact her diabetes clinician before changing her injection site, bring her glucose logs and insulin devices for hands-on site palpation, and transition only under a clinician-guided dose reduction and monitoring plan.",
+            "correct": true,
+            "feedback": "Survived Tuesday! UK MHRA guidance explicitly warns patients to contact a doctor before moving injections away from altered tissue—even without a hard mass—so doses can be lowered proactively to prevent a sudden absorption floodgate."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · SUBCUTANEOUS MRI",
+          "src": "assets/exhibits/REF_PMC11288637_cureus-0016-00000063525-i01.jpg",
+          "caption": "Reference MRI demonstrating a localized subcutaneous insulin-derived amyloid deposit (insulin ball) trapped inside the injection plane—where repeated injections bind to amyloid fibrils instead of entering the bloodstream.",
+          "spoilerNote": "Illustrative MRI from a separate CC BY insulin-derived amyloidosis case (not the index patients in Nagase et al. 2020).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Duong et al. (2024), Cureus · PMC11288637 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11288637/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Nagase et al. (2020), J Diabetes Investig — Primary non-palpable insulin-derived amyloidosis MRI, ultrasound & absorption curves on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7378411/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        },
+        {
+          "label": "Shiba & Kitazawa (2016), Case Reports Plast Surg Hand Surg — Companion progressive insulin-derived amyloidosis figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5095519/",
+          "licenseNote": "CC BY-NC (view directly on PMC)"
+        }
+      ]
     }
   },
   "exam": [
@@ -10762,24 +11220,273 @@
           "why": "A reported spay history is a map rather than a guarantee, hormone panels catch circulating signals without locating anatomy or proving past incompetence, and persistent signs demand linked imaging, endocrine, and tissue evaluation."
         }
       ]
+    },
+    {
+      "q": "After a minor household stair stumble and months of thigh ache and his leg giving out, a 59-year-old man is found to have two distinct femoral stress fractures. His serum calcium (9.4 mg/dL), intact PTH (50 pg/mL), alkaline phosphatase (135 U/L), creatinine (1.0 mg/dL), and 24-hour urine phosphate (0.821 g/24 hr; printed normal 0.3–1 g/day) all sit inside printed normal ranges, while his serum phosphate is 1.5 mg/dL (normal 2.5–4.8) and vitamin D is 22 ng/mL. What is the most accurate clinical takeaway?",
+      "caseSlug": "signal-from-the-foot-tio",
+      "caseRef": "Case 254",
+      "options": [
+        {
+          "label": "Prioritize orthopedic stabilization first, recognize that excreting 0.821 g/24 hr of urinary phosphate during severe hypophosphatemia signals inappropriate renal phosphate wasting requiring metabolic workup, and track any specialized hormone labs with exact original units intact.",
+          "ok": true,
+          "why": "Survived Tuesday! Printed urine reference ranges never establish physiological appropriateness when blood phosphate is critically low (1.5 mg/dL)—fixing the acute fracture comes first, followed by systematic metabolic investigation and strict unit tracking (RU/mL vs. pg/mL)."
+        },
+        {
+          "label": "Reassure him that normal calcium, normal PTH, normal creatinine, and a mid-range 24-hour urine phosphate rule out metabolic bone disease, and treat his mild vitamin D of 22 ng/mL with over-the-counter supplements alone.",
+          "ok": false,
+          "why": "Normal calcium, PTH, and creatinine do not exclude severe osteomalacia, mild vitamin D deficiency alone does not account for bilateral femoral stress fractures without secondary PTH elevation, and normal-looking urine phosphate during hypophosphatemia is active renal wasting."
+        },
+        {
+          "label": "Delay urgent orthopedic fracture stabilization to demand an immediate whole-body 68Ga-DOTATATE PET/CT, because receptor scans achieve 100% localization across every patient and eliminate any need for biopsy.",
+          "ok": false,
+          "why": "Acute fracture stabilization always comes first; El-Maouche et al.’s 2016 NIH cohort localized tumors in only 6/11 (54.5%) total referrals (100% applied only to the 6 localized cases), false positives occur across modalities, and imaging is a compass requiring histologic proof."
+        }
+      ]
+    },
+    {
+      "q": "A two-year-old yellow Labrador known from a prior cheek swab to carry two copies of the DNM1 c.767G>T mutation suddenly develops wobbly hind legs and cannot walk twenty minutes into intense retrieving—yet he stays fully conscious, bright, and wagging his tail. What is the safest immediate response?",
+      "caseSlug": "collapse-and-two-copies-dnm1-dog",
+      "caseRef": "Case 258",
+      "options": [
+        {
+          "label": "Let him rest five minutes until his wagging tail convinces you the crisis passed, then toss a few short retrieves to test his limit and record clear video for the vet.",
+          "ok": false,
+          "why": "An eager, tail-wagging demeanor never proves physiological safety in high-drive retrievers—some dogs die during collapse episodes—and you must never provoke a repeat collapse or delay care to film."
+        },
+        {
+          "label": "Skip the emergency clinic because his existing EE genetic printout already explains the wobble, douse him in ice water to cool him fast, and squirt sugar paste into his mouth.",
+          "ok": false,
+          "why": "Carrying two DNM1 copies never immunizes a dog against lethal lookalikes like cardiac arrhythmias, heatstroke, or acute metabolic crises; ice water risks shock, and forcing oral pastes into a weak dog risks aspiration."
+        },
+        {
+          "label": "Stop all activity at the first sign of incoordination and go straight for professional veterinary evaluation, reporting exact activity observations alongside his genetic record.",
+          "ok": true,
+          "why": "Survived Tuesday! Sudden weakness or inability to walk is an immediate veterinary emergency regardless of alertness or prior DNA printouts—treat the living crisis first, then build an individualized vet activity plan."
+        }
+      ]
+    },
+    {
+      "q": "A healthy 48-year-old accidentally inhales a daily ferrous sulfate iron tablet while swallowing. After a hard coughing spell she spits out what looks like the intact pill, but two hours later she develops relentless blood-flecked coughing fits, pain behind her breastbone, and shortness of breath while sitting still. What is the safest action?",
+      "caseSlug": "pill-that-dissolved-airway-iron",
+      "caseRef": "Case 261",
+      "options": [
+        {
+          "label": "Drink a large glass of water and eat dense bread to flush any leftover iron residue down, and stay home since spitting out the intact tablet proves the danger passed.",
+          "ok": false,
+          "why": "Water and bread travel down the esophagus rather than the trachea—and aspirating water risks washing caustic iron deeper into smaller airways—while Caterino et al.’s Case 1 proved coughing up an intact iron pill can still leave a progressive chemical burn ending in surgical bilobectomy."
+        },
+        {
+          "label": "Drive herself to an urgent care clinic once the coughing eases, and plan to crush all future iron tablets into water at home so they cannot get stuck again.",
+          "ok": false,
+          "why": "Driving yourself with resting breathlessness and potential severe hypoxia risks sudden confusion or collapse behind the wheel, and self-crushing or dissolving engineered tablets at home can destroy release profiles or burn the mouth and esophagus."
+        },
+        {
+          "label": "Call local emergency services immediately without driving herself, tell responders it was a ferrous sulfate tablet with the exact timeline and formulation, skip swallow challenges, and arrange specialist follow-up for delayed airway scarring plus a formal swallow and formulation review.",
+          "ok": true,
+          "why": "Survived Tuesday! Iron pill aspiration is a chemical mucosal emergency whose burn persists even if a tablet is coughed out, requiring urgent professional airway care, longitudinal post-discharge monitoring, and clinician-guided swallow/formulation planning rather than DIY fixes."
+        }
+      ]
+    },
+    {
+      "q": "After completing antimicrobial treatment for confirmed Babesia microti infection, an older adult with an intact spleen feels well and receives one negative follow-up PCR test—though his antibody serology remains positive. He plans to donate blood soon and assumes his intact spleen guarantees he could never suffer severe hemolytic relapse. What is the safest, scientifically accurate course?",
+      "caseSlug": "parasite-and-antibody-babesiosis",
+      "caseRef": "Case 263",
+      "options": [
+        {
+          "label": "Go ahead and donate blood since a single negative PCR proves the parasite is permanently gone, and treat the lingering positive antibody test as proof that antibiotics failed and must be restarted immediately.",
+          "ok": false,
+          "why": "Leiby et al.’s donor study showed Babesia parasitemia is intermittent and can dip below PCR detection limits while antibodies persist for months or years as immune memory—so one negative PCR never self-clears blood donation, and a persistent antibody alone does not prove treatment failure."
+        },
+        {
+          "label": "Proactively disclose his prior babesiosis diagnosis, testing, and treatment to the blood service so modern eligibility rules govern—never self-clearing off one negative PCR—and seek prompt re-evaluation if fatigue, pallor, or jaundice ever return.",
+          "ok": true,
+          "why": "Survived Tuesday! Because Babesia survives refrigeration and surfaces intermittently while IgG immune memory and DAT autoantibodies can outlast active infection—even with an intact spleen—blood-bank disclosure is mandatory and clinical symptom changes always warrant reassessment."
+        },
+        {
+          "label": "Rely on his intact spleen as biological protection against severe hemolysis, skip telling the blood bank since 97.7% inter-lab PCR agreement means negative tests never miss hiding parasites, and watch only for a visible tick bite next summer.",
+          "ok": false,
+          "why": "An intact spleen did not prevent transfusion-requiring wAIHA in Bleik and Matubia’s 75-year-old patient, 97.7% agreement measures lab reproducibility rather than omniscient detection below threshold, and poppy-seed tick nymphs routinely transmit infection without being seen."
+        }
+      ]
+    },
+    {
+      "q": "A 76-year-old man wakes with numbness in both legs, low back pain, and difficulty passing urine, rapidly losing the ability to walk over four days. His initial thoracic MRI shows cord swelling and enhancement, and his lumbar puncture shows normal opening pressure (100 mm H2O) with mild lymphocytes—yet five days of IVIG and dexamethasone produce zero improvement. What is the safest clinical understanding and next step?",
+      "caseSlug": "pressure-in-spinal-veins-sdavf",
+      "caseRef": "Case 255",
+      "options": [
+        {
+          "label": "Assume a spinal dural arteriovenous fistula is impossible because the collapse took four days instead of months and his lumbar puncture opening pressure was normal, so wait 48 hours and test his strength by walking down the hallway.",
+          "ok": false,
+          "why": "Rapid progression never excludes diseases typically described as slow, CSF opening pressure measures fluid outside the cord rather than pressurized spinal veins, and DIY walking tests or 48-hour waiting deals risk serious falls and lost neurologic reserve."
+        },
+        {
+          "label": "Treat zero response to immunotherapy and ongoing neurologic loss as an urgent reassessment trigger, transfer actual prior scan images alongside written reports to an experienced vascular spinal team, and remember that sealing a fistula stops damage without guaranteeing full walking recovery.",
+          "ok": true,
+          "why": "Survived Tuesday! Lack of improvement after steroids/IVIG is critical pivot data, raw scan pixels let specialists catch vascular flow shadows and incomplete prior vessel coverage (including pelvic iliac branches), and realistic follow-up separates vascular closure from nerve regeneration."
+        },
+        {
+          "label": "Conclude that the lumbar puncture and steroids caused his paralysis, demand an immediate invasive spinal angiogram on arrival at triage, and avoid sleeping on his stomach afterward to guarantee the fistula cannot recur.",
+          "ok": false,
+          "why": "Untreated venous congestion—not the diagnostic tap or steroids—drove the cord injury; specialist vascular teams decide when invasive angiography is warranted, and prone sleeping in Su et al. (2025) was strictly an unproven single-case hypothesis."
+        }
+      ]
+    },
+    {
+      "q": "In a region where feline sporotrichosis is emerging, an indoor-outdoor cat develops weeks of expanding, oozing ulcers on the face and paws along with a visibly swollen nose and high-pitched noisy breathing. Two days later, the owner notices a persistent sore on their own wrist despite not recalling a deep bite. What is the safest course of action?",
+      "caseSlug": "wounds-and-failing-circulation-sporotrichosis",
+      "caseRef": "Case 259",
+      "options": [
+        {
+          "label": "Call the veterinary clinic ahead so they can prepare isolation for the cat, follow their handling and pet-separation plan instead of improvising wound care, and have a physician evaluate the wrist lesion with explicit disclosure of sick-cat contact.",
+          "ok": true,
+          "why": "Survived Tuesday! Expanding ulcers with nasal deformity and stridor warrant prompt, pre-notified veterinary assessment, while a human caregiver’s new skin lesion requires medical review with explicit animal-contact disclosure—even without a remembered scratch—because fungal sporotrichosis will not respond to routine bacterial antibiotics."
+        },
+        {
+          "label": "Clean the cat’s necrotic scabs at home with dish gloves and leftover dog antibiotics, and skip seeing a human doctor for the wrist sore since you do not remember being bitten or scratched.",
+          "ok": false,
+          "why": "Improvised home debridement and leftover antibacterial prescriptions endanger both the cat and the caregiver—antibiotics target bacteria, not fungi—and Schubach et al.’s Rio cohort showed 137 of 421 cat-exposed human cases recalled no bite or scratch at all."
+        },
+        {
+          "label": "Release the cat outdoors immediately to keep the household safe, because the Rio de Janeiro data proved petting an infected cat carries an 84.7% transmission rate and a 10% infection prevalence across all domestic cats.",
+          "ok": false,
+          "why": "Abandoning a sick cat worsens community spread and welfare without solving exposure, 84.7% (421/497) was the proportion of already-confirmed clinic patients reporting cat contact rather than a petting-risk probability, and 10/101 came from selected close-contact cats—not general population prevalence."
+        }
+      ]
+    },
+    {
+      "q": "After decades of daily abdominal insulin injections, a patient’s HbA1c stays stubbornly elevated despite repeated dose increases. Her lower abdomen feels softly swollen and rubbery with no distinct hard lump, so she suspects trapped absorption—and plans to move tomorrow morning’s full high dose over to a fresh, untouched side of her belly on her own. What is the safest course?",
+      "caseSlug": "deposit-between-injection-blood-amyloid",
+      "caseRef": "Case 264",
+      "options": [
+        {
+          "label": "Move her full usual dose to the untouched abdominal site tomorrow morning since there is no hard palpable lump to worry about, and keep juice on hand to pour into her mouth if she passes out.",
+          "ok": false,
+          "why": "Nagase et al. proved insulin-derived amyloidosis can exist with zero palpable mass, abruptly switching a barrier-calibrated dose to healthy skin risks severe hypoglycemic coma, and pouring juice into an unconscious person’s mouth risks fatal airway aspiration."
+        },
+        {
+          "label": "Keep injecting into the swollen patch but multiply her dose by 2.5× to overcome the ~40% absorption ratio reported in Nagase et al.’s Case 1 until her next routine visit.",
+          "ok": false,
+          "why": "Case 1’s ~40% AUC ratio is a single-patient experimental snapshot—never a universal bioavailability rule or home dosing multiplier—and self-multiplying insulin doses creates a life-threatening overdose hazard."
+        },
+        {
+          "label": "Contact her diabetes clinician before changing her injection site, bring her glucose logs and insulin devices for hands-on site palpation, and transition only under a clinician-guided dose reduction and monitoring plan.",
+          "ok": true,
+          "why": "Survived Tuesday! UK MHRA guidance explicitly warns patients to contact a doctor before moving injections away from altered tissue—even without a hard mass—so doses can be lowered proactively to prevent a sudden absorption floodgate."
+        }
+      ]
+    },
+    {
+      "q": "A 41-year-old woman with antiphospholipid syndrome has suffered four weeks of dizziness, nausea, and vomiting. A head CT and leg-vein ultrasound two weeks earlier were clear, and vertigo was suspected—but today she has thumb-indenting ankle swelling, unintended weight loss, and a serum albumin of 18.1 g/L (normal >36.0 g/L). A different lab later reports an albumin of 1.81 g/dL. What is the safest clinical interpretation and next step?",
+      "caseSlug": "protein-leaving-stomach-menetrier",
+      "caseRef": "Case 256",
+      "options": [
+        {
+          "label": "Treat 1.81 g/dL as a catastrophic tenfold drop from 18.1 g/L, start daily high-protein whey shakes at home, and schedule a separate podiatry visit for her ankles so her vertigo clinic can stay focused on her ears.",
+          "ok": false,
+          "why": "18.1 g/L and 1.81 g/dL are the exact same physical concentration (10 deciliters per liter), whey shakes cannot fix a systemic protein leak, and splitting ankle edema from vomiting hides the connected biology."
+        },
+        {
+          "label": "Accept that her earlier negative clot scans rule out urgent illness, demand immediate off-label cetuximab as a guaranteed permanent cure that prevents gastric cancer, and reject any repeat endoscopy as proof the first test was botched.",
+          "ok": false,
+          "why": "Off-label cetuximab is a severe-case individualized choice with major toxicities (rash, skin fissures, hypomagnesemia) and unproved cancer prevention, repeat deeper biopsies reflect diagnostic sampling science rather than error, and sudden worsening swelling with breathlessness or chest symptoms demands emergency triage."
+        },
+        {
+          "label": "Recognize that 18.1 g/L and 1.81 g/dL represent identical severe hypoalbuminemia requiring one unified whole-body workup—not protein shakes—while escalating urgently for sudden red/hot painful swelling or immediately for breathlessness, chest symptoms, faintness, or vomiting blood.",
+          "ok": true,
+          "why": "Survived Tuesday! Always verify g/L vs. g/dL units first, link persistent vomiting, weight loss, and pitting edema into one clinical investigation to find the true source of protein loss, and act immediately on NHS cardiopulmonary or GI-bleeding red flags."
+        }
+      ]
+    },
+    {
+      "q": "A nine-year-old cat develops new appetite loss and excessive drooling, is diagnosed with a congenital extrahepatic portosystemic shunt, and undergoes surgical attenuation. After hospital discharge, her post-operative bile acids come back completely normal—then one evening she suddenly becomes unsteady and has a brief seizure. What is the safest interpretation and action?",
+      "caseSlug": "livers-unexpected-outlet-shunt-cat",
+      "caseRef": "Case 262",
+      "options": [
+        {
+          "label": "Seek urgent veterinary neurological reassessment immediately and keep her exact vascular map and surgical history with her chart—normalized post-op bile acids do not rule out late post-operative seizures or residual shunt flow.",
+          "ok": true,
+          "why": "Survived Tuesday! In Valiente et al.’s 34-cat cohort, roughly 23.5% developed post-op seizures—including three seizing cats with completely normal bile acids and one with normal ammonia. Biochemical labs and neurological status are two separate dashboard dials."
+        },
+        {
+          "label": "Trust the normalized post-operative bile acids as proof that the shunt is 100% cured, run an at-home fasting-and-meal test tomorrow, and try to capture a second seizure on video before calling the clinic.",
+          "ok": false,
+          "why": "Normalized bile acids never guarantee a seizure-free brain or zero residual flow, home fasting or meal challenges are unsafe for a sick animal, and waiting to provoke or film a repeat neurological episode delays urgent care."
+        },
+        {
+          "label": "Assume a nine-year-old cat cannot have a true congenital shunt—meaning it must be an acquired shunt—and ask a new clinic to tie off any remaining small vessels immediately without reviewing her prior vascular map.",
+          "ok": false,
+          "why": "Congenital shunts can remain compensated for nine years before diagnosis, and confusing congenital with acquired physiology is perilous—closing an acquired pressure-relief shunt around a diseased liver can be rapidly fatal, so the exact prior vascular map is mandatory."
+        }
+      ]
+    },
+    {
+      "q": "A 58-year-old patient with a revised metal-on-polyethylene hip replacement has developed worsening breathlessness, numbness in both feet, and fading hearing alongside new right groin pain and a limp. One mitochondrial DNA screen came back negative. What is the safest next step?",
+      "caseSlug": "hip-in-metabolic-investigation-metallosis",
+      "caseRef": "Case 257",
+      "options": [
+        {
+          "label": "Climb stairs carrying heavy boxes to test whether the hip grinds reliably, order a private online heavy-metal blood test first so you arrive with proof, and pause coronary follow-up until cobalt results return.",
+          "ok": false,
+          "why": "Home load or grinding provocation risks fresh mechanical damage and debris release, no private direct-to-consumer assay is required before calling a doctor, and suspected metal toxicity never cancels competing cardiac or endocrine disease."
+        },
+        {
+          "label": "Contact your medical and orthopedic teams promptly without provoking the hip or waiting on private labs, bring your exact operative implant report across specialties, and keep competing heart and thyroid evaluations running in parallel.",
+          "ok": true,
+          "why": "Survived Tuesday! Even non-MoM revised metal-on-polyethylene hips can shed cobalt and chromium from metal junctions, prompt clinical contact beats home provocation, and bridging orthopedic records never replaces parallel care for concurrent conditions like coronary stenosis."
+        },
+        {
+          "label": "Rule out hip involvement because the bearing is metal-on-polyethylene rather than a recalled metal-on-metal resurfacing—and if an older plasma cobalt value is lower than a newer whole-blood number, demand immediate removal surgery.",
+          "ok": false,
+          "why": "Stepien et al.’s catastrophic metallosis occurred with a revised metal-on-polyethylene hip, plasma and whole blood are non-interchangeable matrices that cannot be compared raw, and neither a recall nor an isolated number automatically mandates revision surgery."
+        }
+      ]
+    },
+    {
+      "q": "A 40-year-old patient previously treated for a growth hormone-secreting pituitary macroadenoma logs into a patient portal and sees that their latest IGF-1 blood level has finally entered the normal reference range. They also feel well enough to ignore persistent loud snoring and elevated blood pressure. What is the safest interpretation and next step?",
+      "caseSlug": "growth-behind-snoring-acromegaly",
+      "caseRef": "Case 260",
+      "options": [
+        {
+          "label": "Cut their monthly endocrine injection dose in half immediately so hormones do not drop too low, and cancel blood-pressure, sleep, heart, and colon follow-ups now that the hormone ratio is normal.",
+          "ok": false,
+          "why": "Self-adjusting endocrine therapy off a patient portal is dangerous, and Arosio et al.’s nationwide cohort showed excess mortality persisted (SMR 1.3; 88 vs. 66 deaths) even in patients controlled at their last IGF-1 visit because prior hormone exposure leaves cardiovascular, metabolic, airway, and colonic legacy risks."
+        },
+        {
+          "label": "Keep all prescribed doses unchanged pending specialist review, and ask the coordinating endocrinology team how blood pressure, glucose, sleep quality, cardiac structure, bowel-polyp screening, and remaining pituitary axes will be monitored long-term.",
+          "ok": true,
+          "why": "Survived Tuesday! Normalizing IGF-1 stops active hormonal flooding—like fixing a burst pipe—but NIDDK and NHS guidance stress that holistic whole-body follow-up and monitoring of remaining pituitary hormones remain essential under clinician direction."
+        },
+        {
+          "label": "Conclude that because the Italian cohort reported an overall SMR of 1.7, modern treatment has a 70% fatality rate regardless of control, so additional surgical or medical follow-up is pointless.",
+          "ok": false,
+          "why": "An SMR of 1.7 (153 observed vs. 90 expected deaths across 811 patients diagnosed in 1980–2002) is a historical aggregate ratio—not a 70% fatality rate or a forecast for modern care—and treating it with fatalism sacrifices effective, life-preserving comorbidity management."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 13 (Ep 2916, 2922–2924 · 250+ Milestone) (4)",
-      "tagline": "Freshly added on 2026-11-24 — 4 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 14 (Ep 3000–3010 · 11 New Chapters) (11)",
+      "tagline": "Freshly added on 2026-11-24 — 11 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "gas-beyond-stomach-liquid-nitrogen",
-        "obstruction-outside-lining-endometriosis",
-        "storage-inside-heart-cell-hcq",
-        "hormone-behind-changed-behavior-cat"
+        "signal-from-the-foot-tio",
+        "pressure-in-spinal-veins-sdavf",
+        "protein-leaving-stomach-menetrier",
+        "hip-in-metabolic-investigation-metallosis",
+        "collapse-and-two-copies-dnm1-dog",
+        "wounds-and-failing-circulation-sporotrichosis",
+        "growth-behind-snoring-acromegaly",
+        "pill-that-dissolved-airway-iron",
+        "livers-unexpected-outlet-shunt-cat",
+        "parasite-and-antibody-babesiosis",
+        "deposit-between-injection-blood-amyloid"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (211)",
-      "tagline": "All 211 chapters featuring commercial-cleared primary case imaging (124), peer-reviewed reference exhibits (55), and verified hazard field photos (32).",
+      "label": "🩻 All Verified Exhibits (222)",
+      "tagline": "All 222 chapters featuring commercial-cleared primary case imaging (131), peer-reviewed reference exhibits (58), and verified hazard field photos (33).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -10991,13 +11698,24 @@
         "gas-beyond-stomach-liquid-nitrogen",
         "obstruction-outside-lining-endometriosis",
         "storage-inside-heart-cell-hcq",
-        "hormone-behind-changed-behavior-cat"
+        "hormone-behind-changed-behavior-cat",
+        "signal-from-the-foot-tio",
+        "pressure-in-spinal-veins-sdavf",
+        "protein-leaving-stomach-menetrier",
+        "hip-in-metabolic-investigation-metallosis",
+        "collapse-and-two-copies-dnm1-dog",
+        "wounds-and-failing-circulation-sporotrichosis",
+        "growth-behind-snoring-acromegaly",
+        "pill-that-dissolved-airway-iron",
+        "livers-unexpected-outlet-shunt-cat",
+        "parasite-and-antibody-babesiosis",
+        "deposit-between-injection-blood-amyloid"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (124)",
-      "tagline": "The 124 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (131)",
+      "tagline": "The 131 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -11122,7 +11840,14 @@
         "mass-that-was-made-of-gauze-gossypiboma",
         "two-infections-same-intestine-raccoons",
         "gas-beyond-stomach-liquid-nitrogen",
-        "storage-inside-heart-cell-hcq"
+        "storage-inside-heart-cell-hcq",
+        "signal-from-the-foot-tio",
+        "pressure-in-spinal-veins-sdavf",
+        "protein-leaving-stomach-menetrier",
+        "wounds-and-failing-circulation-sporotrichosis",
+        "growth-behind-snoring-acromegaly",
+        "livers-unexpected-outlet-shunt-cat",
+        "parasite-and-antibody-babesiosis"
       ]
     },
     {
@@ -11130,36 +11855,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "potassium-that-rose-in-the-tube",
-        "aquarium-more-than-one-patient-palytoxin",
         "ring-and-unbroken-bone-avulsion",
-        "driveway-ied-truck-tire",
-        "one-finger-varicose-vein",
-        "hair-treatment-reached-the-cat",
-        "anesthetic-that-triggered-the-furnace",
-        "chocolate-brown-blood",
-        "thyroid-that-changed-in-the-test-biotin",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "van-that-was-not-empty",
-        "wire-behind-the-pain",
-        "spin-class-rhabdo",
-        "hot-baths-fentanyl-patches-deadly",
-        "small-hands-moving-treadmill-belt",
-        "battery-already-in-the-stomach",
         "pool-had-another-hazard-drain-suction",
-        "room-not-safe-to-finish",
+        "fractal-wood-burning",
+        "spin-class-rhabdo",
+        "puppy-with-the-twisted-stomach-gdv",
+        "potassium-that-rose-in-the-tube",
+        "wire-behind-the-pain",
+        "reheated-rice-and-botulism",
+        "family-behind-the-enzyme-g6pd",
+        "aquarium-more-than-one-patient-palytoxin",
+        "thyroid-that-changed-in-the-test-biotin",
+        "van-that-was-not-empty",
+        "driveway-ied-truck-tire",
+        "hair-treatment-reached-the-cat",
+        "chocolate-brown-blood",
+        "charger-between-phone-and-wall",
+        "super-rat-bait-and-vitamin-k-trap",
+        "handlebar-and-hidden-pancreatic-duct",
+        "tank-after-the-collapse-h2s",
+        "hot-baths-fentanyl-patches-deadly",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "one-finger-varicose-vein",
+        "anesthetic-that-triggered-the-furnace",
+        "burn-looked-like-infection-wet-cement",
+        "battery-already-in-the-stomach",
         "thread-across-the-road-kite-string",
         "boots-in-the-snow-and-heatstroke",
-        "super-rat-bait-and-vitamin-k-trap",
-        "tank-after-the-collapse-h2s",
+        "room-not-safe-to-finish",
         "dry-ice-riding-shotgun",
-        "charger-between-phone-and-wall",
-        "fractal-wood-burning",
-        "burn-looked-like-infection-wet-cement",
-        "handlebar-and-hidden-pancreatic-duct",
-        "puppy-with-the-twisted-stomach-gdv",
-        "reheated-rice-and-botulism",
-        "family-behind-the-enzyme-g6pd"
+        "small-hands-moving-treadmill-belt"
       ]
     },
     {
@@ -11215,7 +11940,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 51",
+      "label": "🐾 Pet Owner’s Mandatory 54",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
