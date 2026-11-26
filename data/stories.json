@@ -33785,5 +33785,818 @@
       "two-infections-same-intestine-raccoons",
       "fractures-that-began-in-the-kidney"
     ]
+  },
+  "mushroom-that-outlasted-boiling-bongkrekic": {
+    "slug": "mushroom-that-outlasted-boiling-bongkrekic",
+    "fileNo": "266",
+    "partId": "kitchen",
+    "partLabel": "Part II · The Kitchen & Dining Table",
+    "title": "The Bowl on the Counter, the Boiling Pot—and the Toxin That Locked the Mitochondria",
+    "deck": "Why rolling heat executes the bacterial chef while sparing its odorless tricarboxylic poison, how jamming a single inner-membrane doorway starves oxygenated organs, and why safety ends days before the burner clicks on.",
+    "byline": "Compiled from Ep 3012 (PREV_1134) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Fulminant multi-organ failure, severe lactic acidosis, recurrent hypoglycemia, coagulopathy, and cardiac arrest from preformed bongkrekic acid in ~5-day rehydrated Auricularia auricula (black fungus)",
+      "mechanism": "Heat-stable tricarboxylic toxin from Burkholderia gladioli pathovar cocovenenans locks the inner-mitochondrial adenine nucleotide translocator (ANT), halting ADP/ATP exchange, exhausting glycogen via glycolysis, and recycling through bile",
+      "manner": "Fatal",
+      "avoidability": "High (short refrigerated soaking; discard warm multi-day soaks)",
+      "falseReassurance": "“The mushrooms looked and smelled completely normal, we boiled them thoroughly, and her first hospital kidney and clotting panels came back right inside the normal range.”"
+    },
+    "looksLike": "Ordinary foodborne gastroenteritis—or recovering liver injury once ALT and AST dip after plasma exchange—following a thoroughly boiled, normal-tasting wood-ear mushroom meal",
+    "actuallyIs": "Heat-stable bongkrekic acid poisoning (plasma 1,470 ng/mL, initial glucose 0.3 mmol/L, peak AST 12,489 U/L, PT >120 s) locking inner-mitochondrial ANT and driving irreversible multi-organ failure",
+    "sections": [
+      {
+        "heading": "Five Days in a Mixing Bowl—and the Calm First Lab Sheet Behind a 0.3 Glucose Crash",
+        "paragraphs": [
+          "Humanity has a touching, almost religious faith in boiling water: whatever biological sins occurred on the kitchen counter, we assume a rolling pot at 100°C grants full absolution. Dried wood-ear mushrooms—Auricularia auricula, or black fungus—keep safely in pantries because desiccation halts microbial growth, and cooks rehydrate them safely in twenty minutes every night. Leave that bowl out for five July days, however, and prep turns into an unmonitored bioreactor. In Mengdi Shi, Mei Zeng, and colleagues’ December 2024 BMC Complementary Medicine and Therapies report from Shandong Province, a 77-year-old woman with hypertension reached a local hospital at 5:00 a.m. on July 15, 2023, after four hours of sweating and unconsciousness (with nausea and vomiting noted in the abstract). At noon the day before, she had eaten Auricularia auricula soaked roughly five days. Her 5:00 a.m. arterial blood gas read like a cellular blackout: pH 7.14, PaCO2 82 mmHg, PaO2 48 mmHg, lactate 8.6 mmol/L, and blood glucose zeroed out at 0.3 mmol/L before rescue rebounded it to 12.2 mmol/L.",
+          "Yet skimming only her initial July 15 organ panel offered a dangerous mirage. While white blood cells hit 14.76 × 10^9/L (neutrophils 82.40%), D-dimer 1.52 µg/mL, and potassium 3.49 mmol/L, liver enzymes showed only a modest early bump—ALT 166 U/L (0–35), AST 241 U/L (14–36), and direct bilirubin 8.99 µmol/L alongside normal indirect bilirubin (13.78 µmol/L)—and kidney and clotting tests sat cleanly inside normal limits: creatinine 62 µmol/L, BUN 5.94 mmol/L, prothrombin time 14.40 seconds, APTT 29.30 seconds, and fibrinogen 2.28 g/L. Twenty-one hours later, at 2:00 a.m. on July 16, the drywall gave way: ALT vaulted 47.8-fold to 7,940 U/L, AST reached 8,305 U/L, PT stretched to 45.70 seconds, fibrinogen fell to 0.94 g/L, and interleukin-6 hit 195 pg/mL (0–7). Transferred to Qilu Hospital at 3:00 p.m. unconscious and jaundiced, she posted ALT 8,890 U/L, AST 12,489 U/L, ammonia 105 µmol/L, potassium 6.57 mmol/L, creatinine 119 µmol/L, and PT beyond the analyzer ceiling at >120 seconds."
+        ]
+      },
+      {
+        "heading": "Jamming the Revolving Doorway—and Why Falling Liver Enzymes Did Not Mean Healing",
+        "paragraphs": [
+          "Day-two post-transfer HPLC-MS/MS named what outlasted the stove: bongkrekic acid at 1,470 ng/mL in plasma, 869 ng/mL in serum, and 128 ng/mL in urine. Because plasma retains clotting proteins removed from serum, 1,470 and 869 reflect distinct biological matrices rather than rapid clearance or lab error; and while they proved heavy systemic exposure, no leftover home fungus was tested, no kitchen Burkholderia gladioli pathovar cocovenenans (Burkholderia cocovenenans subspecies) isolate was cultured, and ingested milligram dose could not be reconstructed. Table 1 adds two crucial chart rules: early NA entries (ammonia, antithrombin-III) mean not tested rather than normal, and >120 s PT, >180.00 s APTT, and >240.00 s thrombin time mark machine assay ceilings.",
+          "Unlike cyanide’s direct electron-transport blockade, bongkrekic acid—colorless, odorless, tasteless, and heat-stable—locks the inner-mitochondrial adenine nucleotide translocator (ANT), halting ADP import and ATP export. Even with supplemental oxygen, liver, heart, kidney, and brain cells starve beside a locked pantry and burn stored glycogen via glycolysis—driving lactic acidosis and recurrent hypoglycemia (2.4 and 2.3 mmol/L on July 19)—while biliary hepatoenteric recirculation re-injures hepatocytes. With no antidote available, plasmapheresis nudged July 18 ALT down to 7,997 IU/L and AST to 7,426 IU/L. That drop was enzyme-bilirubin dissociation, not recovery: plasma exchange washes protein out while necrotic liver cells run out of enzyme left to leak, even as indirect bilirubin climbed from 51 to 81 µmol/L (total 73 to 97 µmol/L), antithrombin-III sank to 29.00%, creatinine hit 290 µmol/L, and CK-MB reached 24.7 ng/mL. Four days post-transfer, ST-T changes preceded cardiac arrest; CPR restored a pulse amid recurrent acidosis and hypoglycemia before family-elected discharge, and she died at home three hours later."
+        ]
+      },
+      {
+        "heading": "The 52-Person Dinner Party That Skewed National Math—and Stopping the Toxin Before Heat",
+        "paragraphs": [
+          "Hexiang Zhang, Yunchang Guo, Ping Fu, and colleagues’ 2023 PLOS ONE study of China’s CNFDOSS registry (2010–2020) logged 19 confirmed outbreaks (15/19 = 79.0% in homes; 95% May–October, July peak), 146 illnesses, 139 hospitalizations (95.2%), and 43 deaths (29.5%, vs 301/667 = 45.1% in 1985–1994). Disaggregating Table 1 shows why 29.5% flatters a killer: homemade fermented corn flour killed 33/65 (50.8%), wet rice noodles 7/21 (33.3%), and Auricularia auricula—tracked from 2018—killed 3/5 (60%, small five-case denominator). One 2012 Shandong Tremella fuciformis family dinner sickened 52 people (35.6% of national cases) with zero deaths (plus 0/3 starch jelly); across the other 94 patients, 43 died (45.7%), matching 1980s lethality. Across 134 symptom charts in Table 2 (misreferenced as Table 3 in prose), vomiting hit 87.3% (117/134), nausea 64.2%, vertigo 60.4%, weakness 49.3%, and unconsciousness 29.1%, while grave/fatal blood levels carried a 335 µg/L median (70–879, equal to ng/mL, vs 8.8 µg/L mild)—placing her 869 ng/mL serum at the fatal ceiling and 1,470 ng/mL plasma above it.",
+          "Paired with Hong Kong Centre for Food Safety Issue 213, two rules govern survival. First, contaminated mushrooms, corn dough, and wet rice noodles look, smell, and taste normal—even when excess sodium dehydroacetate hid mold in commercial noodles while bacteria made toxin—so if GI or neurological symptoms follow long-soaked fungi, unrefrigerated wet rice noodles, or home-fermented corn or coconut, rush to an ER, report exact soaking hours and all co-diners (20-minute to 38-hour incubation), isolate leftovers untouched, and never put sugar water into an unconscious mouth. Second, stop Burkholderia beforehand (growth 30–37°C; toxin synthesis 22–30°C): soak dried fungi briefly in clean bowls, refrigerate covered overnight soaks, discard ambient warm-weather or >24-hour soaks even when normal-smelling (plus slimy or off-odor fungi), refrigerate fresh wet rice noodles, and skip home ambient corn or coconut fermentation."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · BOILING KILLS THE BACTERIA AND LEAVES THE TOXIN INTACT",
+        "heading": "Outsmarting an Odorless, Heat-Proof Mitochondrial Lock Before and After Dinner",
+        "bullets": [
+          "Never trust the sniff test or the wok: Preformed bongkrekic acid is colorless, odorless, tasteless, and survives rolling boiling, steaming, stir-frying, and pressure-cooking intact.",
+          "Refrigerate every extended soak—or toss it: Rehydrate only what you need right before cooking; keep any overnight soak covered in the fridge, and discard ambient >24-hour or warm-weather soaks even when they look fine.",
+          "Guard wet starch noodles and skip ambient grain ferments: Refrigerate fresh wet rice noodles for same-day cooking and avoid homemade ambient soaking-and-fermenting of corn flour or coconut pulp.",
+          "Escalate before day-one labs fool anyone: If vomiting, vertigo, sweating, or drowsiness follows a suspect dish, get to an ER immediately with the exact soaking timeline and co-diner list, and never give oral fluids to an unconscious person."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Index Case & Early Mirage (Shi 2024)",
+        "value": "Shi M, Zeng M et al. (2024), BMC Complement Med Ther 24:419 (PMID 39707296 · PMC11661036 · doi: 10.1186/s12906-024-04726-5) · 77-yo woman ate Auricularia auricula soaked ~5 d (noon Jul 14, 2023); 5:00 a.m. Jul 15 unconscious/sweating 4 h: ABG pH 7.14, PaCO2 82 mmHg, PaO2 48 mmHg, glucose 0.3 mmol/L (rebounded to 12.2), lactate 8.6 mmol/L; yet initial Cr 62 µmol/L, BUN 5.94 mmol/L, PT 14.40 s, APTT 29.30 s, fibrinogen 2.28 g/L were normal & ALT 166 / AST 241 U/L modestly elevated"
+      },
+      {
+        "label": "21-Hour Fulminant Surge & Ceilings",
+        "value": "2:00 a.m. Jul 16: ALT jumped 47.83-fold to 7,940 U/L, AST 8,305 U/L, PT 45.70 s, IL-6 195 pg/mL (0–7). Transfer to Qilu Hospital (3:00 p.m. Jul 16): ALT 8,890 U/L, AST 12,489 U/L, ammonia 105 µmol/L (9–33), K+ 6.57 mmol/L, Cr 119 µmol/L, AT-III 41.00%, PT >120 s, D-dimer >20.00 µg/mL, FDP >150.00 µg/mL. Table 1 NA = not tested (NOT normal); > values = analyzer assay ceilings"
+      },
+      {
+        "label": "HPLC-MS/MS & Matrix Boundaries",
+        "value": "Day 2 post-transfer HPLC-MS/MS detected bongkrekic acid at 1,470 ng/mL (plasma), 869 ng/mL (serum), and 128 ng/mL (urine)—distinct specimen matrices (clotting-protein difference, NOT clearance timeline). Proves heavy systemic exposure; NO household leftover fungus tested, NO kitchen Burkholderia isolate cultured, and ingested mg dose uncalculable"
+      },
+      {
+        "label": "ANT Gate Lock & Enzyme Dissociation",
+        "value": "Inhibits inner-mitochondrial adenine nucleotide translocator (ANT)—halting ADP/ATP exchange (distinct from cyanide ETC blockade), depleting glycogen (glucose dips 2.4 & 2.3 mmol/L Jul 19), and recirculating in bile. Post-plasmapheresis Jul 18 ALT (7,997) & AST (7,426 IU/L) fell while IBIL rose 51 -> 81 µmol/L (total 73 -> 97), AT-III hit 29.00%, APTT >180.00 s, TT >240.00 s, Cr 290 µmol/L, CK-MB 24.7 ng/mL; day-4 arrest -> ROSC -> died at home 3 h post-discharge"
+      },
+      {
+        "label": "11-Year Surveillance Math (Zhang 2023)",
+        "value": "Zhang H et al. (2023), PLOS ONE 18(1):e0279957 (PMID 36630445 · PMC9833544 · doi: 10.1371/journal.pone.0279957) · China CNFDOSS 2010–2020: 19 outbreaks (15/19 = 79.0% home; 95% May–Oct, July peak), 146 illnesses, 139 hospitalized (95.2%), 43 deaths (29.5% vs 301/667 = 45.1% in 1985–1994). Vehicles: homemade fermented corn 33/65 (50.8%), wet rice noodles 7/21 (33.3%), Auricularia 3/5 (60%, small N=5), vs one 52-case Tremella dinner with 0 deaths (outside 0-death clusters: 43/94 = 45.7%)"
+      },
+      {
+        "label": "Symptom N=134 & HK CFS Prevention",
+        "value": "Excluding 12 missing charts gives N=134 in Table 2 (misreferenced as Table 3 in prose): vomiting 117/134 (87.3%), nausea 64.2%, vertigo 60.4%, weakness 49.3%, unconsciousness 29.1%; grave/fatal blood median 335 µg/L (70–879) vs 8.8 µg/L mild. HK CFS Issue 213 (rev. Jun 21, 2024): bacterial growth 30–37°C, toxin synthesis 22–30°C, heat-stable & unmasked by preservatives (sodium dehydroacetate); refrigerate overnight soaks & discard questionable batches"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · SOAKING DRIED FUNGI OR ILLNESS AFTER SOAKED/FERMENTED STARCHES",
+      "subhead": "Boiling cannot destroy preformed bongkrekic acid—control the soak before heat, and escalate immediately if symptoms start.",
+      "steps": [
+        {
+          "action": "DISCARD LONG AMBIENT SOAKS UNTASTED",
+          "detail": "Throw away wood-ear or snow fungus left soaking at room temperature past a day or overnight in warm weather—even if it looks and smells completely normal—plus any slimy, sticky, or off-smelling batch."
+        },
+        {
+          "action": "KEEP NECESSARY SOAKS SHORT & COLD",
+          "detail": "Rehydrate only the portion needed right before cooking in clean water and bowls; if soaking must run overnight, cover and store inside the refrigerator, and refrigerate fresh wet rice noodles immediately."
+        },
+        {
+          "action": "HEAD STRAIGHT TO AN ER WITH THE TIMELINE",
+          "detail": "If vomiting, dizziness, weakness, or sweating follows soaked fungi, unrefrigerated wet rice noodles, or home-fermented corn/coconut, seek urgent hospital care and report the exact soaking hours and temperature."
+        },
+        {
+          "action": "PROTECT AIRWAYS & IDENTIFY CO-DINERS",
+          "detail": "Never put sugar water or drinks into a drowsy or unconscious person’s mouth; alert everyone who shared the meal (incubation spans ~20 min to 38 h) and isolate untouched kitchen leftovers for officials."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Shi M, Zeng M et al. (2024) — Severe bongkrekic acid poisoning caused by eating spoiled Auricularia auricula: a case report (BMC Complementary Medicine and Therapies 24:419 · PMID 39707296 · PMC11661036 · doi: 10.1186/s12906-024-04726-5)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11661036/"
+      },
+      {
+        "type": "Surveillance Investigation",
+        "label": "Zhang H, Guo Y, Chen L et al. (2023) — Epidemiology of foodborne bongkrekic acid poisoning outbreaks in China, 2010 to 2020 (PLOS ONE 18(1):e0279957 · PMID 36630445 · PMC9833544 · doi: 10.1371/journal.pone.0279957)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9833544/"
+      },
+      {
+        "type": "Food Safety Guidance",
+        "label": "Hong Kong Centre for Food Safety — Bongkrekic Acid: Uncommon but Fatal Toxin in Certain Foods (Food Safety Focus Issue 213, rev. June 21, 2024)",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_213_01.html"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 3012 Verbatim Transcript in Google Drive (7,129 words)",
+        "url": "https://drive.google.com/file/d/1TcqrpPZnFwmxt4iLgSoBADrXZCoMmhim/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 3012 Audio Stream — The Mushroom That Outlasted the Boiling (43:40)",
+        "url": "https://drive.google.com/file/d/1md1P-p83AKQjRfRHwt70zQRgpEMCQTjZ/view"
+      }
+    ],
+    "relatedSlugs": [
+      "toxin-reheating-could-not-undo-cereulide",
+      "reheated-rice-and-botulism",
+      "wild-garlic-deadly-twin"
+    ]
+  },
+  "bitter-remedy-in-gourd-colocynth": {
+    "slug": "bitter-remedy-in-gourd-colocynth",
+    "fileNo": "267",
+    "partId": "medicine",
+    "partLabel": "Part III · Medicine Cabinet Roulette",
+    "title": "60/40 Shock After the Vomiting Stopped—and the Desert Gourd’s Chemical Trap",
+    "deck": "Why stationary desert vines synthesize boil-proof triterpenoids under stress, how plasma depletion makes a bleeding patient’s red-cell count look deceptively robust, and why unexpected bitterness is an instant culinary eject button.",
+    "byline": "Compiled from Ep 3013 (PREV_1135) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Uncompensated hypotensive shock, gastrointestinal hemorrhage, encephalopathy, acute kidney injury, hepatitis, and coagulopathy after ingesting Citrullus colocynthis (colocynth / bitter apple) fruit for constipation",
+      "mechanism": "Cytotoxic tetracyclic triterpenoids (cucurbitacins) strip gut mucosa, increase capillary leak, and deplete intravascular plasma faster than red cells escape—masking hemorrhage via hemoconcentration while hypoperfusion and toxicity hit liver and kidneys",
+      "manner": "Survivor Case",
+      "avoidability": "High (stop at cucurbit bitterness & skip wild colocynth purgatives)",
+      "falseReassurance": "“The bitter taste just proves the herbal remedy is strong, his active vomiting finally stopped today, and look—his hemoglobin is a rock-solid 16.8.”"
+    },
+    "looksLike": "Recovering stomach flu once active vomiting stops—backed by a reassuringly ‘robust’ 16.8 g/dL hemoglobin—or a bitter gourd whose medicinal kick will mellow in the cooking pot",
+    "actuallyIs": "Acute cucurbitacin multi-organ shock (BP 60/40 mmHg, GCS 10, lymphocytes 28/µL, AST 426 U/L, Cr 2.5 mg/dL) where plasma loss hemoconcentrated the blood and drought-inducible triterpenoids resist cooking heat",
+    "sections": [
+      {
+        "heading": "Two Hours to Bloody Vomiting—and the Silent 48-Hour Pause That Masked Collapse",
+        "paragraphs": [
+          "Plants cannot outrun grazing teeth or a scorching dry season, so they argue with organic chemistry. In Natan Muluberhan Alemseged, Mubarak Ahmed Ibrahim, and Mohamed Ahmed Sheikabdullahi’s October 2025 Journal of Medical Case Reports dispatch from Hargeisa Group Hospital—the first reported colocynth poisoning from Eastern Africa—a 64-year-old rural Somali farmer swallowed an unspecified amount of wild Citrullus colocynthis fruit (colocynth, bitter apple, or desert gourd) for constipation. His record demands forensic clarity and zero condescension: low income, limited schooling, and untreated depression—or chart notes about irregular handwashing and no refrigerator—had nothing to do with bacterial spoilage and warrant no blame; he took a familiar local purgative with an unmarked cliff between relief and shock. Roughly two hours after eating the fruit, profuse bloody diarrhea, hematemesis, and confusion began, yet he reached the ER 48 hours later after vomiting stopped and diarrhea slowed—exposing the household illusion that a quieted gut means recovery.",
+          "One hour into admission (Table 1), his tank wasn’t healing; it was empty. Glasgow Coma Scale stood at 10, blood pressure cratered to 60/40 mmHg, and pulse raced at 120/min (respirations 18/min, room-air SpO2 95%, random glucose 142 mg/dL, urine 65 mL/h, normal abdominal ultrasound). Table 2 labs showed white blood cells at 28.6 × 10^3/µL (granulocytes 27.2 × 10^3/µL) with profound stress lymphopenia at 0.028 × 10^3/µL—28 lymphocytes/µL—plus creatinine 2.5 mg/dL, BUN 72 mg/dL, AST 426 U/L, ALT 391 U/L, ALP 289 U/L, total bilirubin 1.8 mg/dL (direct 0.6 mg/dL), and INR 1.6 (PT 16.7 s; normal electrolytes; platelets 182 × 10^3/µL despite a Table 2 reference misprint of 150–450 × 10/µL). Strangest of all, after two days of GI bleeding, hemoglobin read a robust 16.8 g/dL with a 48.2% hematocrit."
+        ]
+      },
+      {
+        "heading": "The Muddy-River Illusion, Bedside Boundaries, and Two Liters of Normal Saline",
+        "paragraphs": [
+          "That 16.8 g/dL hemoglobin was hemoconcentration: diarrheal and capillary leak drained liquid plasma faster than red cells escaped, concentrating blood like silt in a shrinking riverbed. Respecting epistemic boundaries matters just as much: no blood, urine, or fruit assay quantified cucurbitacins, fruit weight stayed unknown (general 600–1,000 mg toxic and >=2 g potentially lethal figures come from phytotherapy literature, not his dose), and no endoscopy was performed—keeping his clinical diagnosis distinct from Sabir Hussain and colleagues’ 2023 Cureus cases in Jodhpur, India, where two men poisoned by bitter bottle-gourd juice (Hb 20.7 g/dL / HCT 60.6% vs Hb 11.2 g/dL / HCT 36%) had endoscopic confirmation of mucosal burns. Likewise, Day-2 dashes in Table 2 mark unrepeated chemistry tests rather than normal results, whereas his 12-hour glucose dip to 74 mg/dL flagged genuine hepatic stress.",
+          "Two-hour onset plus negative hepatitis B, hepatitis C, retroviral, and stool ova/parasite screens excluded infectious dysentery and pointed to cucurbitacins—cytotoxic tetracyclic triterpenoids stripping gut mucosa, widening capillary leak, and driving a 28.8 BUN-to-creatinine ratio (72 ÷ 2.5) of prerenal hypoperfusion alongside possible tubular injury. Infusing 2,000 mL of 0.9% normal saline (plus empiric hospital antibiotics) reversed shock rapidly: blood pressure climbed from 60/40 (1 h) to 90/60 (3 h), 100/60 (12 h), and 120/78 mmHg (96 h) as urine rose to 88–102 mL/h, while rehydration unmasked hemoconcentration—stepping hemoglobin down to 14.8 g/dL (44.2%) at 48 hours and 14.2 g/dL (43%) at discharge. Oriented by day three, he went home day five with normalized labs (WBC 7.2 × 10^3/µL, lymphocytes 1.5 × 10^3/µL, creatinine 1.0 mg/dL, BUN 18 mg/dL, AST 36 U/L, ALT 42 U/L, INR 1.2) and confirmed one-month recovery."
+        ]
+      },
+      {
+        "heading": "How Drought Flips the Cucurbitacin Switch—and Why Bitterness Means Spit, Not Stew",
+        "paragraphs": [
+          "Wild colocynth stays bitter, yet edible cucurbits—bottle gourd, zucchini, cucumber, loofah—can re-arm the same pathway under drought. In Phumzile Mkhize, Hussein Shimelis, and Jacob Mashilo’s October 2023 Plants study in South Africa, 12 bottle gourd (Lagenaria siceraria) accessions—11 Limpopo landraces plus retail cultivar GC—grew at ~40% moisture versus 7-, 14-, and 21-day water withholding (to ~0–5% moisture). By 230 nm LC-UV, cucurbitacin E stayed 0/12 everywhere, and well-watered leaves showed 0/12 (0%) cucurbitacin B or I (with 0.03 mg/g root cucurbitacin B in 1/12, BG-31). Drought switched synthesis on—and comparing prose against Table 1 shows why primary tables matter: prose names 6/12 (50.0%) drought-positive accessions, whereas Table 1 records 3/12 in leaves (25.0%: BG-48, BG-81, GC) and 7/12 in roots (58.3%, adding BG-58). From mild to severe drought, root cucurbitacin B doubled 2.0-fold in BG-81 (0.04 to 0.08 mg/g) and retail GC (0.03 to 0.06 mg/g; GC root cucurbitacin I +75%, 0.04 to 0.07 mg/g), while BG-48 preserves a 2.0-fold doubling across a decimal discrepancy between prose (0.3, 0.5, 0.6 mg/g) and Table 1 (0.03, 0.05, 0.06 mg/g). In vitro DPPH/FRAP scavenging defends parched plants—never human consumers—and pot leaf/root data do not set safe fruit doses.",
+          "Poison Control and Hong Kong Centre for Food Safety (Issue 172) guidance turn botany into two clear actions. First, unexpected bitterness in squash, bottle gourd, loofah, or zucchini is an instant stop sign: spit it out and discard the whole pot—never run raw-tasting challenges on wild gourds, never mask bitterness with sugar or spices, and never expect cooking to destroy heat-stable cucurbitacins. If cramps, vomiting, bloody stool, or confusion follow colocynth or bitter gourd, seek immediate ER IV saline assessment even if vomiting stops, without forcing drinks into a drowsy patient. Second, replace unstandardized wild colocynth purgatives with clinician- or pharmacist-guided care, skip unverified bottle-gourd juices, buy reputable seed instead of cross-pollinated saved or volunteer gourds, and water consistently during dry spells."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · IF THE SQUASH IS BITTER, THE STOVE CANNOT FIX IT",
+        "heading": "Stopping Heat-Stable Plant Triterpenoids in the Kitchen, Garden, and Medicine Chest",
+        "bullets": [
+          "Spit out unexpected bitterness immediately: Edible zucchini, bottle gourd, cucumber, and loofah should never taste sharply bitter; cooking will not break down cucurbitacins (and never taste-test wild gourds on purpose).",
+          "Never mistake halted vomiting for recovery: Vomiting can cease simply because intravascular volume is depleted—seek urgent IV resuscitation and never pour fluids into a drowsy person’s mouth.",
+          "Swap wild colocynth remedies for standardized care: Experimental cell-line studies are not dosing guides; replace raw Citrullus colocynthis purgatives and mystery gourd shots with clinician or pharmacist options.",
+          "Protect seed lineage and soil moisture: Avoid volunteer gourds or seed saved near wild/ornamental cucurbits, and water food vines consistently during hot dry spells."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Index Case & Vitals (Alemseged 2025)",
+        "value": "Alemseged NM, Ibrahim MA, Sheikabdullahi MA (2025), J Med Case Rep 19:506 (PMID 41088384 · PMC12522648 · doi: 10.1186/s13256-025-05542-2) · 64-yo rural Somali farmer took unspecified Citrullus colocynthis fruit for constipation; 2 h bloody diarrhea, hematemesis & confusion; arrived 48 h later after vomiting ceased in shock: GCS 10, BP 60/40 mmHg, HR 120/min, RR 18/min, SpO2 95%, glucose 142 mg/dL (12 h dip to 74 mg/dL), urine 65 mL/h, normal abdominal US"
+      },
+      {
+        "label": "Hemoconcentration & Table 2 Labs",
+        "value": "Admission Hb 16.8 g/dL & HCT 48.2% masked 48 h GI bleeding via plasma depletion (falling to 14.8 g/dL / 44.2% at 48 h & 14.2 g/dL / 43% at discharge after IV fluids). WBC 28.6 × 10^3/µL, granulocytes 27.2 × 10^3/µL, stress lymphopenia 0.028 × 10^3/µL (28 cells/µL); Cr 2.5 mg/dL, BUN 72 mg/dL (BUN/Cr = 28.8), AST 426 U/L, ALT 391 U/L, ALP 289 U/L, Tbil 1.8 / Dbil 0.6 mg/dL, PT 16.7 s, INR 1.6; platelets 182 × 10^3/µL (Table 2 ref range misprints 10/µL)"
+      },
+      {
+        "label": "Diagnostic Limits & Case Separation",
+        "value": "NO cucurbitacin assay, fruit weight, or endoscopy performed (general 600–1,000 mg toxic / >=2 g lethal figures are literature citations; Day-2 Table 2 dashes = untested)—kept strictly separate from Hussain et al. (2023, Cureus 15:e40886, PMC10364191) Jodhpur bottle-gourd juice cases with endoscopic mucosal confirmation. Negative HBsAg, HCV, retroviral & stool O&P excluded infectious mimics"
+      },
+      {
+        "label": "Saline Turnaround & 5-Day Recovery",
+        "value": "After 2,000 mL 0.9% normal saline (+ empiric hospital antibiotics), BP rose 60/40 (1 h) -> 90/60 (3 h) -> 100/60 (12 h) -> 120/78 mmHg (96 h) & urine rose to 88–102 mL/h. Oriented day 3; discharged day 5 with normalized WBC 7.2 × 10^3/µL, lymphocytes 1.5 × 10^3/µL, Cr 1.0 mg/dL, BUN 18 mg/dL, AST 36 U/L, ALT 42 U/L, INR 1.2; full recovery confirmed at 1 month"
+      },
+      {
+        "label": "Drought Induction Trial (Mkhize 2023)",
+        "value": "Mkhize P, Shimelis H, Mashilo J (2023), Plants 12(19):3492 (PMID 37836232 · PMC10574769 · doi: 10.3390/plants12193492) · 12 Lagenaria siceraria accessions (11 Limpopo landraces + retail GC, 3 reps) at ~40% moisture vs 7/14/21-d drought (to ~0–5%). 230 nm LC-UV: 0/12 Cuc E; non-stressed leaves 0/12 (0%) Cuc B/I. Drought: prose cites 6/12 (50%), whereas Table 1 prints 3/12 (25%) leaves & 7/12 (58.3%) roots"
+      },
+      {
+        "label": "2.0x Root Doubling & Scope Limits",
+        "value": "Root Cuc B doubled 2.0-fold from mild to severe drought in BG-81 (0.04 -> 0.05 -> 0.08 mg/g) & retail GC (0.03 -> 0.04 -> 0.06 mg/g; GC root Cuc I +75%, 0.04 -> 0.07); BG-48 prints 0.3/0.5/0.6 in prose vs 0.03/0.05/0.06 mg/g in Table 1 (both 2.0-fold). DPPH/FRAP scavenging = plant oxidative defense, NOT human safety; pot leaf/root data != safe fruit threshold. Poison Control (2026) & HK CFS Issue 172: stop at bitterness; heat-stable"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · UNEXPECTED BITTER GOURD OR POST-PURGATIVE BLEEDING/WEAKNESS",
+      "subhead": "Bitterness means heat-stable cucurbitacins—discard immediately, and never mistake halted vomiting for recovery.",
+      "steps": [
+        {
+          "action": "SPIT OUT & DISCARD BITTER BATCHES",
+          "detail": "If any squash, bottle gourd, zucchini, loofah, or gourd juice tastes sharply or unusually bitter during ordinary meal prep or eating, stop immediately and throw out the entire dish—cooking will not neutralize cucurbitacins."
+        },
+        {
+          "action": "GET URGENT IV CARE EVEN IF VOMITING STOPS",
+          "detail": "Seek emergency hospital assessment immediately for abdominal cramps, bloody vomit or diarrhea, dizziness, or confusion after colocynth or bitter gourd—a quiet stomach after heavy fluid loss can hide 60/40 shock."
+        },
+        {
+          "action": "PROTECT AIRWAYS & BRING VISUAL ID ONLY",
+          "detail": "Never force oral fluids or salt mixes into a drowsy or confused person; bring the plant name or leftover fruit safely for visual identification—never run household taste tests on wild or suspect gourds."
+        },
+        {
+          "action": "SWAP WILD PURGATIVES & GUARD GARDEN SEEDS",
+          "detail": "Replace unstandardized Citrullus colocynthis remedies with clinician- or pharmacist-guided options, skip unverified bitter gourd juices, plant reputable seed away from wild/ornamental gourds, and water consistently."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Alemseged NM, Ibrahim MA, Sheikabdullahi MA (2025) — Colocynth induced multiorgan toxicity: a case report (Journal of Medical Case Reports 19:506 · PMID 41088384 · PMC12522648 · doi: 10.1186/s13256-025-05542-2)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12522648/"
+      },
+      {
+        "type": "Controlled Botanical Study",
+        "label": "Mkhize P, Shimelis H, Mashilo J (2023) — Cucurbitacins B, E and I Concentrations and Relationship with Drought Tolerance in Bottle Gourd [Lagenaria siceraria] (Plants 12(19):3492 · PMID 37836232 · PMC10574769 · doi: 10.3390/plants12193492)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10574769/"
+      },
+      {
+        "type": "Poison Control & Food Safety Guidance",
+        "label": "National Capital Poison Center — Toxic Squash Syndrome: If It’s Bitter, It’s Not Dinner (updated Sept 15, 2026) · Hong Kong CFS Issue 172",
+        "url": "https://www.poison.org/articles/toxic-squash-syndrome-if-it-s-bitter-it-s-not-dinner"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 3013 Verbatim Transcript in Google Drive (7,382 words)",
+        "url": "https://drive.google.com/file/d/13x-eG1IUi-M2yZbbED8gbfKe2Yzp_kR8/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 3013 Audio Stream — The Bitter Remedy in the Gourd (43:18)",
+        "url": "https://drive.google.com/file/d/1DSzaOOhmpEzgqIWOfRFm39cLWBpmUNlb/view"
+      }
+    ],
+    "relatedSlugs": [
+      "monkshood-aconitine-channel-lock",
+      "licorice-tea-paralysis",
+      "black-sea-mad-honey-bradycardia"
+    ]
+  },
+  "harness-and-sudden-drop-suspension": {
+    "slug": "harness-and-sudden-drop-suspension",
+    "fileNo": "268",
+    "partId": "outdoors",
+    "partLabel": "Part IV · The Gym, Trail & Vacation",
+    "title": "Unbroken Skin, Sliced Viscera—and the Sudden Vagal Cliff in a Safe Harness",
+    "deck": "Two separate ways a vertical line turns lethal—blunt internal shear beneath intact skin without a harness, and a three-minute vagal plunge when you hang still inside a good one—plus why propping rescued climbers upright had physiology backward for fifty years.",
+    "byline": "Compiled from Ep 3014 (PREV_1136) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Two distinct rope injuries: (1) blunt abdominal-wall and bowel transection under intact skin from sudden waist-rope pull; (2) vagally mediated circulatory collapse (suspension syndrome) during passive motionless hanging in an intact harness",
+      "mechanism": "Narrow waist ropes focus kinetic shear through non-elastic muscle and gut while compliant skin stretches; in proper sit harnesses, calf venous pooling plus groin/sciatic strap pain triggers an abrupt cardioinhibitory/vasodepressive vagal reflex while upright suspension prevents horizontal recovery",
+      "manner": "Crossover Trial & Survivor Case",
+      "avoidability": "High (certified hang-tested harness, active legs & flat supine rescue)",
+      "falseReassurance": "“His skin isn’t even broken—and once you’re clipped into a real sit harness, you can safely dangle motionless as long as rescuers prop you upright afterward so blood doesn’t rush your heart.”"
+    },
+    "looksLike": "A harmless superficial rope burn when abdominal skin stays unbroken—or a completely safe rest once a certified sit harness catches a climber cleanly, followed by a casualty who must be propped upright after lowering",
+    "actuallyIs": "Two distinct rope traps: blunt flank-and-bowel transection beneath intact skin from a waist rope, and abrupt 3-minute vagal pre-syncope (30.0% of motionless hangs; HR -14.1 bpm, SBP -40.9 mmHg) reversed within seconds by lying flat",
+    "sections": [
+      {
+        "heading": "The Rope Around the Waist—and the Second Trap Waiting Inside a Certified Harness",
+        "paragraphs": [
+          "Gravity offers two completely different ways to lose an argument with a rope, and confusing mechanical shear with autonomic physiology gets people hurt at both ends. In Awaneesh Katiyar and colleagues’ December 2019 Trauma Case Reports account from India, a 28-year-old man clearing cliffside brush tied a rope around his abdomen and anchored the other end to a parked vehicle without telling the driver. When the unaware driver sped off, dragging him violently upward in reverse suspension trauma, his elastic skin stayed completely intact—showing only a patterned rope abrasion below the navel across both flanks—yet ultrasound and contrast CT revealed free abdominal air and fluid. Beneath unbroken skin, laparotomy exposed complete muscular flank-wall transection, multiple complete small-bowel transections, and colon seromuscular tears with nonviable mucosa (sparing aorta, vena cava, ureters, and spine), requiring layered repair, bowel anastomoses, protective ileostomy, skin grafting, and 2-month ileostomy reversal. That blunt-blade physics is why U.S. OSHA (29 CFR 1926.502(d)) banned waist body belts in fall arrest effective January 1, 1998.",
+          "Yet retiring the waist belt uncovered a quieter hazard: suspension syndrome. Even when a fitted sit harness spreads force cleanly across pelvis and thighs without scratching an organ, hanging motionless upright can trigger sudden syncope and death. In Bolzano, Italy, Simon Rauch and colleagues ran a randomized crossover trial (European Journal of Applied Physiology, 2019; NCT02726776) enrolling 20 healthy ASA class 1 male climbers (mean age 31.1 years, range 21–46) across 40 indoor sit-harness hangs 50 centimeters off the floor for up to 60 minutes—once rested, once after 10 minutes of moderate climbing—with legs held still for ultrasound. Twelve of 40 hangs (30.0%) ended early in sudden pre-syncope at 44.7 ± 13.3 minutes, striking unpredictably between 13.4 and 59.7 minutes (rounded to 59 in Discussion; 7/12 post-climbing, 5/12 rested)."
+        ]
+      },
+      {
+        "heading": "Busting the ‘Empty-Beating Heart’—and the Three-Minute Vagal Plunge",
+        "paragraphs": [
+          "For fifty years, textbooks blamed an ‘empty-beating heart’: harness straps supposedly tourniqueted thighs or gravity drained progressive blood volumes into the legs until preload collapsed like hidden hemorrhage. Rauch’s multimodal probes dismantled that script. Harness loops never compressed femoral arterial inflow, and while the right superficial femoral vein widened from 6.4 ± 1.6 mm supine to 9.9 ± 1.8 mm standing and 10.2 ± 2.1 mm at hang start, it maxed out immediately without widening further during suspension. Calf near-infrared oxygenation drifted from 70.1% supine and 56.4% standing to 52.6% at minute five and 48.7% three minutes pre-end with visibly blue feet (while localized calf bioimpedance resistance stayed flat at 192.3 to 190.7, an unvalidated rheology metric without pre-syncope differences). Crucially, echocardiography proved the left ventricle never progressively emptied: end-diastolic diameter stepped from 44.0 ± 4.2 mm supine to 40.7 ± 3.8 mm standing and held at 39.3 ± 3.6 mm pre-end, with modest stroke-volume reduction (80.1 to 69.7 mL) and no compensatory tachycardia.",
+          "Instead, the 12 pre-syncopal hangs hit an autonomic cliff in the final three minutes: heart rate slowed abruptly from 96.3 ± 22.4 to 82.2 ± 19.4 bpm (-14.1 bpm, P = 0.043) while systolic pressure plunged 40.9 mmHg from 142.5 ± 18.6 to 101.6 ± 17.4 mmHg (P = 0.001; non-syncopal 144.1 vs 141.7 mmHg), with zero warning on forehead cerebral oxygenation (73.0% vs 69.1%) or baroreceptor sensitivity (39/40 tests; 1 missing-data exclusion). That mixed vagal reflex tracked unrelenting groin and sciatic strap pain: pain >=3/10 hit 60.0% (24/40) overall and 75.0% (9/12) of pre-syncopal hangs (GLM 8.0 vs 2.9, P = 0.003), alongside numbness (45.0%) and palsy (30.0%). Fainting on flat ground topples you horizontal; pinned upright in a harness, gravity traps blood below while a slumped neck threatens the airway. Laid immediately horizontal supine, every climber recovered within seconds as left-ventricular diameter rose from 39.3 to 41.9 ± 4.2 mm—still 2.1 mm below supine baseline, with no septal shift (though hanging acoustic windows prevented direct right-ventricular sizing)."
+        ]
+      },
+      {
+        "heading": "1972 Innsbruck Dogma vs. 5.8 Million Industrial Hours—and Laying Rescued Casualties Flat",
+        "paragraphs": [
+          "In December 2023, Rauch, Raimund Lechner, Giacomo Strapazzon, Hermann Brugger, Mathieu Pasquier, Peter Paal, and colleagues synthesized 23 original studies (from 121 records) for ICAR MedCom, contrasting three denominators. In 1972 in Innsbruck, Gerhard Flora reported 10 deaths among 23 untraumatized alpine climbers caught on ropes (43.5%)—using rib-crushing chest harnesses and waist belts causing brachial plexus palsy in 10–20 minutes and muscle necrosis/kidney failure after >2 hours—while Stuehlinger’s 1972 ten-volunteer chest-harness test misread benign post-hang horizontal sinus arrhythmia and extrasystoles as fatal ‘right-ventricular overload,’ inspiring 50 years of dangerous upright-positioning dogma. Contrast Flora’s 43.5% deaths and Rauch’s 30.0% motionless lab pre-syncope against Paul Seddon’s 2002 UK IRATA survey: across 5,800,000 industrial on-rope hours, syncopal or fatal events totaled zero—because technicians never work alone, rehearse rapid partner rescue despite steeper dorsal attachments, and keep pumping their legs.",
+          "ICAR MedCom 2023 and OSHA 29 CFR 1926.502(d) establish two survival rulesets. First, treat any passive hang where self-rescue stalls as urgent even without symptoms: protect rescuers, lower rapidly (lifting legs toward horizontal if delayed), place the casualty immediately horizontal supine with standard ALS—retiring the 1972 semi-sitting myth—and for hangs >2 hours, transport to a dialysis-capable center monitoring ECG, core temperature, potassium, and creatine kinase for rhabdomyolysis and hyperkalemia (avoiding succinylcholine), while adding FAST ultrasound and contrast CT after any violent waist-rope jerk despite intact skin. Second, upstream, replace waist ropes and vehicle anchors with inspected, hang-tested harnesses matched to partner-haul gear, never go on rope alone, and continuously bicycle your legs or step into foot loops while awaiting lowering."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · INTACT SKIN CAN HIDE TORN BOWEL, AND SITTING RESCUES STARVE THE BRAIN",
+        "heading": "Defeating Both Mechanical Rope Shear and Sudden Vagal Suspension Collapse",
+        "bullets": [
+          "Never trust unbroken skin after a waist-rope yank: Elastic skin can show only a friction mark while deeper muscle walls and bowel loops are transected—ban waist ropes/belts and get trauma imaging after any violent pull.",
+          "Motionless hanging is a roulette wheel: Even in a fitted sit harness, 30.0% of motionless hangs hit abrupt vagal pre-syncope between 13.4 and 59.7 minutes without forehead oximetry warning—never go on rope alone.",
+          "Pump the legs while hanging, lay flat on the ground: Bicycle your legs and step into foot loops to cut strap pain while awaiting lowering; once down, lay casualties immediately horizontal supine rather than upright.",
+          "Respect the two-hour rhabdomyolysis clock: Hangs >2 hours risk muscle necrosis, hyperkalemic arrhythmias, hypothermia, and kidney injury—requiring continuous ECG, potassium/CK checks, no succinylcholine, and dialysis-capable hospital care."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Waist-Rope Shear Case (Katiyar 2019)",
+        "value": "Katiyar A, Kherwal N, Kumar A, Azam Q, Rattan A (2019), Trauma Case Rep 24:100264 (PMID 31872028 · PMC6911898 · doi: 10.1016/j.tcr.2019.100264) · 28-yo man tied waist rope to parked vehicle that drove off; intact skin with infraumbilical/flank rope abrasion, FAST+ & CECT pneumoperitoneum; laparotomy showed complete flank parietal-wall & multiple small-bowel transections + colon seromuscular tears/nonviable mucosa (aorta/IVC/ureters/spine spared); repair, anastomoses, ileostomy reversed at 2 mo"
+      },
+      {
+        "label": "Bolzano Crossover Trial (Rauch 2019)",
+        "value": "Rauch S, Schenk K, Strapazzon G et al. (2019), Eur J Appl Physiol 119(6):1353–1365 (PMID 30895459 · PMC6517360 · doi: 10.1007/s00421-019-04126-5; NCT02726776; funding correction PMC6517343) · 20 healthy ASA 1 male climbers (mean 31.1 y, 21–46) × 2 motionless 50-cm sit-harness hangs up to 60 min (+/- 10 min climbing) = 40 tests. Pre-syncope stopped 12/40 (30.0%) at 44.7 ± 13.3 min (range 13.4–59.7 min; Discussion rounds max to 59)"
+      },
+      {
+        "label": "Vein & Echo Proof vs ‘Empty Heart’",
+        "value": "Right superficial femoral vein rose 6.4 ± 1.6 mm supine -> 9.9 ± 1.8 mm standing -> 10.2 ± 2.1 mm at hang start with NO further suspension widening & NO femoral artery strap compression; calf NIRS StO2 fell 70.1% -> 56.4% -> 48.7% pre-end with foot cyanosis (calf BIA resistance flat 192.3 -> 190.7, unvalidated). Echo LVEDD stepped 44.0 -> 40.7 mm standing and held at 39.3 mm pre-end (SV 80.1 -> 69.7 mL) with NO progressive tachycardia"
+      },
+      {
+        "label": "Final 3-Min Vagal Drop & Supine Fix",
+        "value": "In final 3 min before pre-syncope, HR fell 96.3 ± 22.4 -> 82.2 ± 19.4 bpm (-14.1 bpm, P=0.043) & SBP plunged 142.5 ± 18.6 -> 101.6 ± 17.4 mmHg (-40.9 mmHg, P=0.001) with NO advance ScO2 drop (73.0% vs 69.1%) or BRS shift (39/40; 1 missing). Pain >=3/10 in 9/12 (75.0%; GLM 8.0 vs 2.9, P=0.003). Immediate horizontal supine resolved symptoms in seconds; LVEDD rose 39.3 -> 41.9 mm (still 2.1 mm below 44.0 mm baseline; RV acoustic window limited, no septal shift)"
+      },
+      {
+        "label": "Three Denominators (ICAR MedCom 2023)",
+        "value": "Rauch S, Lechner R, Strapazzon G et al. (2023), Scand J Trauma Resusc Emerg Med 31:95 (PMID 38071341 · PMC10710713 · doi: 10.1186/s13049-023-01164-z; 23 studies from 121 records) · Contrasts Flora 1972 alpine hangs (10/23 = 43.5% deaths in chest/belt harnesses; Stuehlinger 1972 n=10 benign horizontal arrhythmia misread as ‘rescue death’) vs Rauch 2019 motionless lab (12/40 = 30.0% pre-syncope) vs Seddon 2002 UK IRATA industrial rope access (0 events in 5,800,000 rope hours)"
+      },
+      {
+        "label": "OSHA 1926.502(d) & Rescue Rules",
+        "value": "US OSHA 29 CFR 1926.502(d) banned waist body belts in fall arrest Jan 1, 1998 (dorsal attachment, pre-use check, post-impact retirement, prompt rescue). ICAR MedCom 2023: rapid extrication (1B), immediate horizontal supine + ALS (1A), >2 h hang transport to dialysis-capable center for rhabdomyolysis/hyperkalemia/no succinylcholine (2C), never on rope alone + hang-tested harness (1C), active leg pumping/foot loops (2B/2C)"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · STRANDED ON A ROPE OR PLANNING WORK/CLIMBING AT HEIGHT",
+      "subhead": "Keep the leg pump moving while suspended, extricate fast, and lay rescued casualties flat—never propped upright.",
+      "steps": [
+        {
+          "action": "PUMP YOUR LEGS & RELIEVE STRAP PAIN",
+          "detail": "If stranded in a harness awaiting lowering, never hang motionless: bicycle and push your legs continuously and step into foot loops or broad slings to drive venous return and cut vagal groin/sciatic pain."
+        },
+        {
+          "action": "LOWER FAST & PLACE HORIZONTAL SUPINE",
+          "detail": "Treat any passive non-self-extricating hang as urgent; ensure rescuer fall protection, lower rapidly (lifting legs toward horizontal if delayed), and lay the casualty flat on their back immediately with standard ALS."
+        },
+        {
+          "action": "SCREEN >2-HOUR HANGS & VIOLENT BELT JERKS",
+          "detail": "Transport >2-hour hangs to dialysis-capable care with continuous ECG, temperature, potassium, and CK checks (avoiding succinylcholine), and run trauma ultrasound/CT after any waist-rope yank even if skin is intact."
+        },
+        {
+          "action": "DITCH WAIST ROPES, HANG-TEST & PAIR UP",
+          "detail": "Never tie waist ropes, use body belts for fall arrest, or anchor to unisolated vehicles; pre-hang-test harnesses in real gear, match rescue tackle to dorsal vs. ventral attachments, and never go on rope alone."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Experimental Trial",
+        "label": "Rauch S, Schenk K, Strapazzon G et al. (2019) — Suspension syndrome: a potentially fatal vagally mediated circulatory collapse—an experimental randomized crossover trial (Eur J Appl Physiol 119(6):1353–1365 · PMID 30895459 · PMC6517360 · doi: 10.1007/s00421-019-04126-5)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6517360/"
+      },
+      {
+        "type": "Companion Trauma Case Report",
+        "label": "Katiyar A, Kherwal N, Kumar A, Azam Q, Rattan A (2019) — Reverse suspension syndrome: First report of a novel mechanism of severe trauma (Trauma Case Reports 24:100264 · PMID 31872028 · PMC6911898 · doi: 10.1016/j.tcr.2019.100264)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6911898/"
+      },
+      {
+        "type": "ICAR MedCom Scoping Review & Guidelines",
+        "label": "Rauch S, Lechner R, Strapazzon G et al. (2023) — Suspension syndrome: a scoping review and recommendations from ICAR MEDCOM (Scand J Trauma Resusc Emerg Med 31:95 · PMID 38071341 · PMC10710713 · doi: 10.1186/s13049-023-01164-z)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10710713/"
+      },
+      {
+        "type": "Occupational Fall-Protection Standard",
+        "label": "U.S. OSHA 29 CFR 1926.502(d) — Personal Fall Arrest Systems (Prohibiting Body Belts Effective Jan 1, 1998)",
+        "url": "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1926/subpart-M/section-1926.502"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 3014 Verbatim Transcript in Google Drive (8,443 words)",
+        "url": "https://drive.google.com/file/d/1B0opa_uMXnWxPDcLi5XBMgGlSyjhb5i4/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 3014 Audio Stream — The Harness and the Sudden Drop (48:39)",
+        "url": "https://drive.google.com/file/d/1Gima2ogJnhGolmDBiB37DZ0FAmeutp6M/view"
+      }
+    ],
+    "relatedSlugs": [
+      "seatbelt-geometry-helmet-rings",
+      "foam-was-not-neck-safeguard-trampoline",
+      "hammock-that-tightened"
+    ]
+  },
+  "three-spoonfuls-same-table-hemlock": {
+    "slug": "three-spoonfuls-same-table-hemlock",
+    "fileNo": "269",
+    "partId": "kitchen",
+    "partLabel": "Part II · The Kitchen & Dining Table",
+    "title": "One Skillet of Wild Greens, Three Spoonfuls, and the Forty-Hour Ventilator Split",
+    "deck": "Why sautéing wild hemlock in oil and tomato paste disarmed human taste buds instead of plant alkaloids, how bedside physiology beat missing lab tests, and why accidental foragers survive 32 times more mild mistakes until a recipe masks the bitterness.",
+    "byline": "Compiled from Ep 3015 (PREV_1137) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Acute shared-meal Conium maculatum (poison hemlock) poisoning causing hypercapnic neuromuscular ventilatory failure in a 71-year-old man and subacute lower-limb weakness in his 68-year-old wife",
+      "mechanism": "Heat-stable piperidine alkaloids (principally coniine and gamma-coniceine) survive sautéing, stimulate autonomic and skeletal nicotinic acetylcholine receptors, and then lock the neuromuscular junction into depolarizing-like blockade—paralyzing the chest bellows while cooking oil and tomato paste mask bitter taste warnings",
+      "manner": "Survivor Case Pair & 22-Year Poison-Center Cohort",
+      "avoidability": "High (botanical certainty, shared-meal triage & early airway support)",
+      "falseReassurance": "“We sautéed the greens thoroughly, the stem didn’t have obvious purple spots, and my spouse only had three spoonfuls and is talking fine on room air.”"
+    },
+    "looksLike": "A harmless plate of sautéed wild greens—or an acute stroke, pesticide exposure, or benign stomach bug where a diner who ate only three spoonfuls feels nearly fine and can head home",
+    "actuallyIs": "Biphasic nicotinic neuromuscular blockade from heat-stable Conium maculatum piperidine alkaloids (pH 7.03, PaCO2 82 mmHg in the husband vs. 4/5 leg weakness after three spoonfuls in his wife)",
+    "sections": [
+      {
+        "heading": "One Kilogram in the Pan, Ten Minutes on the Clock, and Two Divergent Hospital Beds",
+        "paragraphs": [
+          "Modern grocery shoppers harbor a touching romantic delusion that anything plucked free from a roadside ditch is an artisanal gift from Mother Nature, forgetting that rooted plants cannot outrun herbivores and therefore spent millions of years inventing targeted neurotoxins so mammals would stop chewing on them. In Asli Bahar Ucar’s 2026 International Journal of Emergency Medicine report from Istanbul, relatives gathered roughly 1 kg of wild greens and sautéed them with cooking oil and tomato paste. A 71-year-old man with chronic obstructive pulmonary disease (COPD) and hypertension sat down with his 68-year-old wife to share the skillet. Within 10 minutes, rapidly progressive dyspnea, generalized muscle weakness, and mental clouding set in; despite 8 L/min of supplemental oxygen en route, he reached Marmara University Pendik Training and Research Hospital at ~30 minutes with SpO2 76%, BP 140/100 mmHg, pulse 138 beats/min, respiratory rate 30 breaths/min, GCS 8 (E2 V2 M4), marked hypersalivation and tearing, generalized non-focal weakness, and mildly dilated pupils with intact light reflexes.",
+          "A finger pulse oximeter tells you blood is starving for oxygen without revealing whether alveoli are flooded or the chest bellows have stalled. Arterial blood gas analysis solved the mechanical crime immediately: arterial pH had plunged to 7.03, PaCO2 had climbed to 82 mmHg, bicarbonate stood at 20.7 mmol/L, and lactate hit 5.9 mmol/L—proving severe hypercapnic respiratory acidosis and carbon dioxide narcosis while brain, chest, and abdomen CT scans showed zero structural pathology. Acting on failing physiology before anyone had named the leaf, clinicians intubated him immediately; he was extubated cleanly after 40 hours in intensive care. Roughly ten minutes behind him (~40 minutes post-meal), his 68-year-old wife walked in after eating just three spoonfuls with headache, dizziness, blurred vision, nausea, and mild limb weakness. She looked serene on paper—GCS 15, BP 125/85 mmHg, pulse 92/min, respiratory rate 20/min, SpO2 95% on room air, pH 7.38, PaCO2 39 mmHg, bicarbonate 23.4 mmol/L, and lactate printed qualitatively as normal—yet neurological exam caught symmetric 4/5 leg weakness with intact cranial nerves, earning 24-hour ICU observation while relatives brought raw remnants identified with Türkiye’s National Poison Center as Conium maculatum (poison hemlock)."
+        ]
+      },
+      {
+        "heading": "Why Nicotinic Receptors Jammed, Mimics Fell Away, and Activated Charcoal Stayed on the Shelf",
+        "paragraphs": [
+          "Socrates’ executioner needed no fancy chemistry set because every part of Conium maculatum—leaves, roots, seeds, and hollow stems—packs piperidine alkaloids, principally coniine and gamma-coniceine, that hijack nicotinic acetylcholine receptors in two phases. Brief initial stimulation across autonomic ganglia and motor endplates drove his 138/min pulse, profuse drooling, tearing, and reactive dilated pupils; sustained depolarizing-like blockade at the neuromuscular junction then disconnected frantic phrenic and intercostal nerve impulses from the diaphragm and rib cage. Clean bedside semiology ruled out emergency mimics without serum coniine or leaf-alkaloid assays (neither existed at the hospital): agricultural organophosphate pesticides also paralyze breathing after field-gathered meals, but muscarinic flooding produces bradycardia, drowning bronchorrhea, and pinpoint miosis rather than tachycardia and dilated reactive pupils, while a 10-minute shared onset excluded autoimmune myasthenic crisis and slower-evolving botulism.",
+          "Equally instructive is what clinicians refused to overclaim—or pour down a failing throat. Eating from a 1-kg batch versus stopping at three spoonfuls strongly supports a dose-related split in neurotoxicity, yet baseline physiology was never identical: at age 71 with COPD and hypertension, the husband carried far thinner ventilatory reserve than his 68-year-old wife, meaning dose and host vulnerability acted together. And although lay folklore treats activated charcoal like a universal magic eraser, clinicians deliberately withheld single-dose charcoal from both spouses: clinical benefit in hemlock poisoning is unestablished, pre-intubation oral slurry at GCS 8 risked catastrophic aspiration, post-intubation toxins had already cleared the gut into neuromuscular synapses, and the wife’s mild, resolving weakness offered minimal upside."
+        ]
+      },
+      {
+        "heading": "2,197 French Foraging Mistakes—and How Tomato Paste Defeated Evolution’s Bitter Shield",
+        "paragraphs": [
+          "Twenty-two years of poison-center math shows why most accidental plant mix-ups stay mild—and exactly how a frying pan closes the lethal gap. Whereas Turkish national surveillance (2014–2020) linked wild plants to ~0.85% of reported poisonings, Romain Torrents and colleagues audited 2002–2023 records at Southeastern France’s Marseille Poison Control Center across 513,750 total calls, isolating 2,197 accidental edible-versus-poisonous food confusions (0.43%; mean age 34 ± 26 years; 60.6% female, excluding young-child exploratory mouthing). Although 1,178 diners (53.6%) turned symptomatic—led by nausea/vomiting (627), abdominal pain (269), and diarrhea (193), plus rarer tachycardia (31), bradycardia (22), hypotension (22), coma (6), or seizures (6)—with 190 (8.6%) hospitalized and 9 (0.4%) in ICU, only 11 cases (0.50%, including 1 Conium maculatum) reached grade-3 severe toxicity, 2 received antidotes (hydroxocobalamin for bitter Prunus amygdalus almonds; physostigmine for Datura), and 1 died (0.046%, printed 0.05%, after mistaking Aconitum napellus monkshood for Molopospermum peloponnesiacum). Against 262 deliberate plant suicide attempts (16% severe), food confusions ran 8.39 times more frequent yet ~32 times less severe—noting transparently that Table 2’s 289 Nerium oleander plus 1,898 others sums 10 short of 2,197 while subgroup percentages match 1,908, and Table 1’s species rows sum to 2,226.",
+          "Two biological guardrails explain that 32-fold mercy: accidental foragers wandered across 331 species (oleander mistaken for bay laurel in 13.1%, bitter squashes in 73 cases, autumn crocus mistaken for wild garlic in 72) versus 43 species in self-harm (71% cardiotoxic oleander), and bitter alkaloids normally make diners spit out the first bites—just like three spoonfuls in Istanbul. Cooking sabotages that evolutionary alarm: sautéing softens tough wild greens without breaking heat-stable piperidine rings while rich oil and tomato paste disguise hemlock’s unpleasant mousy bitterness. Paired with USDA Poisonous Plant Research Laboratory guidance, never harvest sweeping wild handfuls, trust juvenile spring rosettes lacking mature 2–3 m purple-spotted hollow stems (which mimic Chenopodium album lamb’s quarters, flat-leaf parsley, wild parsnip, wild carrot, and anise), or let children carve hollow-stem whistles—and after any shared wild dish, evaluate every taster, bring intact plant remnants, and intubate failing ventilation early."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · THE FRYING PAN MASKS BITTERNESS WITHOUT BREAKING ALKALOIDS",
+        "heading": "Two Survival Clocks: From the Roadside Margin to the Shared Dinner Table",
+        "bullets": [
+          "Audit every diner at the table—even the three-spoonful taster: Call EMS and Poison Control immediately for post-meal weakness, dizziness, or dyspnea, and examine everyone who sampled the pan rather than trusting normal room-air SpO2 or another diner’s mild course.",
+          "Bring intact plant remnants, never home emetics: Send raw stems, leaves, roots, seeds, or pan leftovers to the ED for poison-center botany without delaying transport, and never force vomiting, saltwater, or home charcoal into failing swallow reflexes.",
+          "Retire the ‘purple spots and hot skillet’ myths: Juvenile spring Conium maculatum rosettes often lack mature purple-blotched hollow stems while mimicking lamb’s quarters, parsley, or parsnip—and cooking spares coniine alkaloids while hiding bitter taste warnings.",
+          "Ban sweeping handfuls and hollow-stem whistles: Identify every individual plant part with 100% botanical certainty, keep wild weeds strictly separated from garden herbs, and warn children never to put wild hollow stalks to their mouths."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Shared-Skillet Index Pair (Ucar 2026)",
+        "value": "Ucar AB (2026), Int J Emerg Med 19:83 (PMID 41922968 · PMC13047759 · doi: 10.1186/s12245-026-01159-4) · Istanbul couple shared ~1 kg wild greens sautéed in oil & tomato paste, identified via intact remnants + National Poison Center as Conium maculatum. Husband (71, COPD & HTN) hit dyspnea, weakness & altered mental status in 10 min; arrived ~30 min at SpO2 76% on 8 L/min O2, BP 140/100, HR 138, RR 30, GCS 8 (E2V2M4), hypersalivation/lacrimation, mildly dilated reactive pupils"
+      },
+      {
+        "label": "Blood-Gas Split & Airway Rescue",
+        "value": "Husband ABG: pH 7.03, PaCO2 82 mmHg, HCO3- 20.7 mmol/L, lactate 5.9 mmol/L; brain/chest/abdomen CT unremarkable -> immediate endotracheal intubation before plant ID, extubated at 40 h without sequelae. Wife (68) ate 3 spoonfuls; arrived ~40 min alert (GCS 15, BP 125/85, HR 92, RR 20, SpO2 95% room air, pH 7.38, PaCO2 39, HCO3- 23.4, lactate printed qualitatively as 'Normal') with 4/5 bilateral leg weakness -> 24 h ICU observation, full recovery"
+      },
+      {
+        "label": "Nicotinic Blockade & Charcoal Logic",
+        "value": "Heat-stable piperidine alkaloids (coniine, gamma-coniceine) cause biphasic nicotinic stimulation then neuromuscular junction blockade; HR 138 & reactive mildly dilated pupils argued against muscarinic organophosphate crisis. No serum/leaf alkaloid assay existed; dose (~1 kg batch vs. 3 spoonfuls) & host reserve (age 71 + COPD) coexisted. Single-dose activated charcoal withheld in both: unestablished benefit + GCS 8 aspiration risk/established paralysis in Case 1, minimal benefit in resolving Case 2"
+      },
+      {
+        "label": "22-Year Marseille Cohort (Torrents 2024)",
+        "value": "Torrents R et al. (2024), Toxins 16(12):552 (PMID 39728810 · PMC11679472 · doi: 10.3390/toxins16120552) · 2,197 edible-vs-poisonous plant food confusions / 513,750 Marseille PCC calls (2002–2023; 0.43%; mean age 34 ± 26 y; 60.6% female, toddler mouthing excluded): 1,178 (53.6%) symptomatic, 190 (8.6%) hospitalized, 9 (0.4%) ICU, 11 (0.50%) PSS grade-3 severe (including 1 Conium maculatum), 2 antidotes, 1 Aconitum napellus death (0.046%)"
+      },
+      {
+        "label": "Intent Gap & Table Discrepancies",
+        "value": "Food confusions were 8.39x more frequent than Marseille’s 262 intentional plant self-poisonings (2,197/262) yet ~32x less severe (0.50% vs. 16%), reflecting wider species spread (331 vs. 43 species; Nerium oleander 13.1% [289] vs. 71%) and bitter-taste self-limitation unless masked by cooking. Transparent audit: Table 2 sums 289 + 1,898 = 2,187 (10 short of 2,197, though subgroup %s match 1,908); Table 1 species rows sum to 2,226 while severe column sums cleanly to 11"
+      },
+      {
+        "label": "Botanical Mimics & Culinary Trap",
+        "value": "USDA ARS Poisonous Plant Research Lab (Conium maculatum) & Ucar 2026: all plant parts carry coniine/gamma-coniceine (including hollow-stem whistles); mimics Chenopodium album (lamb’s quarters) and Apiaceae herbs/roots (parsley, wild parsnip, wild carrot, anise); juvenile rosettes may lack 2–3 m purple-spotted hollow stems, and sautéing/boiling fails to neutralize alkaloids"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · SUSPECTED WILD-PLANT OR FORAGED-GREENS POISONING",
+      "subhead": "Treat the entire dinner table as exposed, protect the airway early, and hand botanists the physical leaf.",
+      "steps": [
+        {
+          "action": "CALL EMS AT THE FIRST NEUROLOGIC OR BREATHING SHIFT",
+          "detail": "Activate emergency services and Poison Control immediately—Conium maculatum drove arterial pH down to 7.03 within 30 minutes of dinner, long before any lab test could identify a toxin."
+        },
+        {
+          "action": "EVALUATE EVERY DINER WHO TASTED EVEN THREE SPOONFULS",
+          "detail": "Bring every person who sampled the dish for clinical neuro-respiratory assessment; normal room-air SpO2 (95%) and full alertness hid real 4/5 bilateral leg weakness requiring 24-hour ICU monitoring."
+        },
+        {
+          "action": "SEND INTACT PLANT REMNANTS TO THE HOSPITAL",
+          "detail": "Have a relative or responder safely bag unwashed raw stems, leaves, roots, seeds, or cooked pan remnants (plus photos) without delaying ambulance transport so poison-center specialists can identify the species."
+        },
+        {
+          "action": "SKIP VOMITING TRICKS AND HOME CHARCOAL",
+          "detail": "Never induce vomiting with gagging or saltwater or give unsupervised oral charcoal; early bulbar and respiratory muscle weakness turns forced oral liquids into a lethal aspiration hazard."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Ucar AB (2026) — Divergent clinical outcomes after shared poison hemlock ingestion: evidence suggesting a dose-related effect (Int J Emerg Med 19:83 · PMID 41922968 · PMC13047759 · doi: 10.1186/s12245-026-01159-4)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13047759/"
+      },
+      {
+        "type": "Companion Poison-Center Cohort",
+        "label": "Torrents R et al. (2024) — Food Confusion Between Edible and Poisonous Plants: A 22-Year Retrospective of the Southeastern France Poison Control Center (Toxins 16(12):552 · PMID 39728810 · PMC11679472 · doi: 10.3390/toxins16120552)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11679472/"
+      },
+      {
+        "type": "Botanical Toxicology Reference",
+        "label": "USDA Agricultural Research Service, Poisonous Plant Research Laboratory — Poison Hemlock (Conium maculatum)",
+        "url": "https://www.ars.usda.gov/pacific-west-area/logan-ut/poisonous-plant-research/docs/poison-hemlock-conium-maculatum/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 3015 Verbatim Transcript in Google Drive (9,488 words)",
+        "url": "https://drive.google.com/file/d/15qk47FvgN2sZpudfX1avNW-EGT3VPHhh/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 3015 Audio Stream — Three Spoonfuls at the Same Table (57:51)",
+        "url": "https://drive.google.com/file/d/1X-omE9JCgn7wnxUzZAVZNfDjsJ9YVBY1/view"
+      }
+    ],
+    "relatedSlugs": [
+      "wild-garlic-deadly-twin",
+      "monkshood-aconitine-channel-lock",
+      "sun-completed-the-exposure-phytophoto"
+    ]
+  },
+  "eight-hours-after-cough-nitric-acid": {
+    "slug": "eight-hours-after-cough-nitric-acid",
+    "fileNo": "270",
+    "partId": "garage",
+    "partLabel": "Part I · The Garage, Backyard & Hardware Store",
+    "title": "97% Oxygen on Paper, Unswollen Throat—and the Eight-Hour Acid Fuse in the Alveoli",
+    "deck": "How low-water-solubility nitrogen oxides sneak past upper-airway pain sensors, why static CT comparison missed a day-three ARDS dive while B-lines climbed, and what 240 Copenhagen dyspnea scans prove about acoustic density meters.",
+    "byline": "Compiled from Ep 3016 (PREV_1138) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Delayed severe non-cardiogenic pulmonary edema (day-3 P/F ratio 105 mmHg) secondary to occupational nitric acid fume inhalation in a 52-year-old chemical-plant worker",
+      "mechanism": "Volatile nitric acid releases low-water-solubility nitrogen oxides (prominently NO2) that bypass upper-airway mucosal dissolution and react slowly with distal alveolar-capillary water to form nitric/nitrous acids and lipid-oxidizing free radicals, unleashing protein-rich alveolar exudation hours after a transient cough",
+      "manner": "Survivor Case & Blinded Diagnostic Cohort",
+      "avoidability": "High (source exhaust, 24–48h post-fume observation & airway follow-up)",
+      "falseReassurance": "“I only coughed once when the fumes hit, my throat isn’t even sore or swollen, and the ER finger clip says 97% oxygen.”"
+    },
+    "looksLike": "A harmless brief workplace cough with an unswollen throat—or acute hypertensive heart failure when BP hits 188/99 mmHg and pulse oximetry still reads a comforting 97% on nasal oxygen",
+    "actuallyIs": "Delayed non-cardiogenic pulmonary edema from low-solubility nitrogen oxides (P/F plunging 62.1% from 277 to 105 mmHg on day 3 while visual CT lagged, LUS rose from 3 to 5 B-lines, and echo/NT-proBNP cleared the heart)",
+    "sections": [
+      {
+        "heading": "Why Ammonia Screams at the Front Gate While Nitric Acid Rusts the Basement Eight Hours Later",
+        "paragraphs": [
+          "Human survival instincts suffer from an embarrassing blind spot: we assume that any chemical vapor wicked enough to drown us by midnight will at least have the courtesy to sting our throat at two in the afternoon. In Zhenqing Zhao, Yinbing Jin, Huaibao Ma, and Mingfeng Lu’s July 2025 BMC Pulmonary Medicine report, a 52-year-old woman working at a chemical plant accidentally inhaled nitric acid fumes during her shift. Nothing cinematic happened on the shop floor—no collapse, no stridor, just a brief, mild cough. Eight hours later, her lungs were filling with liquid. She reached the emergency room with chest tightness, shortness of breath, nausea, and yellow foamy sputum. Anyone shining a penlight at the back of her throat saw pink lips and completely non-edematous pharyngeal mucosa, yet a stethoscope over both lungs caught unmistakable bilateral moist rales. Even her admission vitals carried twin traps: blood pressure roared at 188/99 mmHg (pulse 90/min, respiratory rate 22/min), and her pulse oximeter glowed at a reassuring 97%—only because a nasal cannula was already feeding her 5 L/min of oxygen, masking an impaired PaO2/FiO2 (P/F) ratio of 277 mmHg alongside diffuse bilateral CT exudation and 3 anterolateral lung ultrasound B-lines.",
+          "Water solubility explains the eight-hour ambush. Concentrated nitric acid off-gases nitrogen oxides—prominently nitrogen dioxide—especially upon meeting air, metals, or organic matter. Highly water-soluble gases like ammonia dissolve instantly in wet eye, nose, and throat mucosa, igniting searing pain that forces you out of the room while absorbing most of the vapor above the vocal cords. Low-solubility nitrogen oxides glide straight past an unswollen pharynx into terminal bronchioles and alveoli, slowly reacting with lining moisture to form nitric and nitrous acids locally while free radicals oxidize cell-membrane lipids and proteins. Her frothy yellow sputum was leaking plasma exudate rather than proven pus, though clinicians prudently started empirical cefotaxime sodium alongside bronchodilator and corticosteroid support while awaiting cultures."
+        ]
+      },
+      {
+        "heading": "The Day-Three 62.1% Crash, Static CT Lag, and Proving What Five B-Lines Did Not Mean",
+        "paragraphs": [
+          "Even inside the hospital, distal capillary injury kept gathering momentum. On day three, her wheezing and rales worsened, respiratory rate climbed to 30 breaths/min, lowest nasal-cannula SpO2 sank to 82%, and her P/F ratio cratered from 277 down to 105 mmHg—a loss of 172 mmHg, or 62.1% (172 ÷ 277), squarely inside moderate acute respiratory distress syndrome criteria. Yet when clinicians wheeled her back into the CT scanner, day-three slices looked visually almost unchanged from the eight-hour scan. Bedside anterolateral lung ultrasound caught what static visual CT comparison missed: comet-tail B-lines had climbed from 3 to 5, tracking rising subpleural lung water in real time (without pretending one case proves ultrasound universally beats quantitative CT).",
+          "Crucially, five B-lines are a physical water alarm, not an etiology badge—and an admission blood pressure of 188/99 mmHg put hypertensive left-ventricular backup squarely on the suspect list. So clinicians interrogated her heart directly on day three: bedside echocardiography showed a crisp 65% left ventricular ejection fraction with normal segmental wall motion, serum NT-proBNP measured 164 pg/mL (inside the normal 20–300 pg/mL reference interval), and exam showed zero jugular venous distension or ankle edema. None of those assays measured tissue nitrates, yet pairing occupational history with cardiac exclusion locked in non-cardiogenic chemical edema. Intolerant of tight mask ventilation, she moved onto high-flow nasal cannula oxygen (50 L/min at 30% FiO2) with physician-adjusted intravenous corticosteroids; by day five, negative sputum cultures ended antibiotics, CT exudates cleared, B-lines fell to 2, and her P/F ratio rebounded to 572 mmHg—leaving only occasional nocturnal chest tightness back at the plant six months later."
+        ]
+      },
+      {
+        "heading": "240 Breathless Copenhagen Patients, Bayes’ Theorem, and Two Clocks That Beat Olfactory Fatigue",
+        "paragraphs": [
+          "To see why B-lines always demand clinical context, travel to Copenhagen University Hospital, where Kristina Cecilia Miger and colleagues (Diagnostics, November 2025) enrolled 240 non-critical adults aged 50 and older presenting with acute dyspnea across 216 random weekdays (completing exam, bloods, blinded 8-zone LUS, chest X-ray, low-dose CT, and echocardiography in a median 4 hours). Blinded cardiologists adjudicated strict acute heart failure in 66 of 240 patients—an exact pre-test probability of 27.5% (pre-test odds 66 ÷ 174 = 0.379). Scored on B-lines alone (Method 1), ultrasound caught just 31 of 66 heart failure cases: 47% sensitivity, 86% specificity (150/174), and a verified Table 2 positive likelihood ratio of 3.41 (setting aside a transposed 4.31 in prose), largely because pleural effusions—present in 82% (54/66) of heart failure cases and bilaterally in 67% (44/66)—compressed lung bases and acoustically hid B-lines. Adding bilateral pleural effusion (Method 2) boosted sensitivity to 80% (53/66) at 84% specificity (PLR 5.18), lifting post-test odds to 1.965 and post-test probability to 66.3% (1.965 ÷ 2.965)—still leaving 27 false positives among 80 positive scans (one-third!) in an older cohort rich in COPD (52.5%) and lung scarring where chest X-ray (PLR 7.91, PPV 75%) actually outperformed LUS overall.",
+          "Copenhagen’s chronic lung comorbidities and Yangzhou’s acid plume converge on one law: ultrasound measures subpleural density, while history and physiology save lives across two distinct clocks. Across the first 24 to 48 hours after inhaling nitric acid or nitrogen-oxide fumes, ATSDR and MedlinePlus guidelines insist on active medical observation even after a brief cough vanishes—never unarmed hot-zone rescues (SCBA only), home nebulizers, or going home to lie flat in bed when the 3-to-30-hour capillary leak peaks. Across the months that follow, OSHA hierarchy rules retire the nose as a gas detector (nitric oxide is odorless and nitrogen dioxide dulls smell), requiring acid-resistant enclosures, local exhaust ventilation, strict separation from metals and organics, fit-tested NIOSH gas/vapor or supplied-air respirators (dust masks stop zero NO2), and pulmonary follow-up if reactive airways or bronchiolitis obliterans tighten the chest at night."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · A QUIET THROAT AND A DUST MASK STOP ZERO NITROGEN DIOXIDE",
+        "heading": "Guarding the Latent Window and Engineering Fumes Out of the Breathing Zone",
+        "bullets": [
+          "Never sleep off a ‘brief cough’ at shift’s end: Low-solubility nitrogen oxides routinely leave a 3-to-30-hour quiet interval before alveolar flooding; seek prompt medical evaluation and 24–48 hour observation with chemical/time details rather than trusting an unswollen throat.",
+          "Read SpO2 beside oxygen flow and serial lungs: A 97% pulse-oximeter readout on 5 L/min oxygen masked a 277 mmHg P/F ratio before a 62.1% day-three drop—leave oxygen, imaging, cardiac exclusion, and steroids strictly to inpatient clinicians, never home inhalers or neutralizers.",
+          "Respect SCBA rescue and respirator physics: Move to fresh air safely and flush liquid acid skin spills with copious water, never enter unventilated fume zones without positive-pressure SCBA, and never wear surgical or N95 dust masks against gases.",
+          "Engineer the line and track nighttime tightness: Enclose nitric acid baths with corrosion-resistant local exhaust, segregate metals/organics/combustibles, and get formal pulmonary follow-up if nocturnal chest tightness or exertional dyspnea appears months after recovery."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Delayed Edema Index Case (Zhao 2025)",
+        "value": "Zhao Z, Jin Y, Ma H, Lu M (2025), BMC Pulm Med 25:298 (PMID 40604786 · PMC12224870 · doi: 10.1186/s12890-025-03758-y) · 52-yo female chemical-plant worker had ONLY a mild initial cough after nitric acid fume inhalation; presented ~8 h later with chest tightness, dyspnea, nausea & yellow foamy sputum; conscious, non-edematous pharynx, bilateral moist rales, BP 188/99, HR 90, RR 22, SpO2 97% on 5 L/min O2, P/F 277 mmHg, diffuse bilateral CT exudation & 3 LUS B-lines"
+      },
+      {
+        "label": "Day-3 Crash, CT Lag & Cardiac Proof",
+        "value": "Day 3: lowest SpO2 dropped to 82%, RR 30, P/F plunged from 277 to 105 mmHg (-172 mmHg = 62.1% decline, moderate ARDS range). Repeat chest CT looked visually similar to 8-h scan, whereas anterolateral LUS rose from 3 to 5 B-lines; echo LVEF 65% (normal wall motion), NT-proBNP 164 pg/mL (normal 20–300), and absent JVD/edema excluded cardiogenic edema"
+      },
+      {
+        "label": "Day-5 Recovery & 6-Month Clue",
+        "value": "Managed inpatient with HFNC O2 (50 L/min, 30% FiO2) & physician-adjusted IV steroids; day-5 negative sputum cultures ended empirical cefotaxime, CT exudate absorbed, B-lines fell to 2, and P/F hit 572 mmHg. At 6 mo she worked normal shifts but reported occasional nocturnal chest tightness (cause unspecified; zero follow-up spirometry invented)"
+      },
+      {
+        "label": "Copenhagen Dyspnea Cohort (Miger 2025)",
+        "value": "Miger KC et al. (2025), Diagnostics 15(23):3047 (PMID 41374428 · PMC12691748 · doi: 10.3390/diagnostics15233047) · 240 non-critical adults >=50 y with acute dyspnea (median 4 h to blinded exam/labs/LUS/CXR/LDCT/echo): 66/240 (27.5% exact, printed 28%) strict adjudicated AHF vs. 174 non-AHF. LUS Method 1 (B-lines alone): sens 47% (31/66), spec 86% (150/174), Table 2 PLR 3.41 (setting aside p52 '4.31' typo) as pleural effusion (82% any, 67% bilateral) obscured basal B-lines"
+      },
+      {
+        "label": "Bayesian Math & Modality Context",
+        "value": "LUS Method 2 (B-lines and/or bilateral effusion): sens 80% (53/66), spec 84% (147/174; 27 false positives), PLR 5.18 -> pre-test odds 0.3793 x 5.18 = 1.965 post-test odds = 66.3% post-test probability (1/3 positive scans non-AHF in cohort with 52.5% COPD); same-day CXR (n=238) reached sens 68%, spec 91%, PLR 7.91, PPV 75% (conditional OR 2.07 vs. M1, 1.51 vs. M2). Proves B-lines measure physical lung density, NOT cardiac vs. toxic cause"
+      },
+      {
+        "label": "ATSDR, MedlinePlus & OSHA Controls",
+        "value": "ATSDR Nitrogen Oxides MMG, NIH MedlinePlus (reviewed Jan 8, 2025) & US OSHA Nitric Acid (#627): immediate safe fresh-air egress (SCBA only in hot zones), water flush for liquid skin spills, 24–48 h medical observation across the 3–30 h latent window, acid-resistant enclosure/LEV, metal/organic segregation, fit-tested NIOSH gas/vapor or supplied-air respirators, and clinical follow-up for RADS or bronchiolitis obliterans"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · NITRIC ACID OR NITROGEN-OXIDE FUME INHALATION",
+      "subhead": "Clear the air safely, refuse to trust a quiet throat, and stay under 24–48 hour medical watch.",
+      "steps": [
+        {
+          "action": "GET TO FRESH AIR WITHOUT UNPROTECTED RESCUE",
+          "detail": "Move immediately into clean air and flush any liquid acid on skin or clothing with copious water so off-gassing stops; never let coworkers enter an unventilated fume release without positive-pressure SCBA."
+        },
+        {
+          "action": "DO NOT GO HOME TO SLEEP OFF A BRIEF COUGH",
+          "detail": "Contact emergency services or Poison Control promptly and arrange 24–48 hours of clinical observation—nitrogen oxides bypass throat pain to trigger life-threatening alveolar flooding 3 to 30 hours later."
+        },
+        {
+          "action": "HAND CLINICIANS THE EXACT EXPOSURE CLOCK",
+          "detail": "Report the acid concentration, yellowish/reddish-brown fume color, exact inhalation time and duration, room enclosure, and any metal or organic reaction (sending an SDS only if reachable without re-entry)."
+        },
+        {
+          "action": "AUDIT VENTILATION AND NIGHTTIME BREATHING LATER",
+          "detail": "Verify corrosion-resistant local exhaust, chemical segregation, and fit-tested gas/vapor respirators (never dust masks) before return to work, and schedule pulmonary testing if nocturnal chest tightness develops."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Zhao Z, Jin Y, Ma H, Lu M (2025) — Pulmonary ultrasound-guided management of delayed pulmonary edema secondary to nitric acid fumes inhalation: a case report (BMC Pulm Med 25:298 · PMID 40604786 · PMC12224870 · doi: 10.1186/s12890-025-03758-y)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12224870/"
+      },
+      {
+        "type": "Companion Diagnostic Cohort",
+        "label": "Miger KC et al. (2025) — Lung Ultrasound Versus Chest Radiography for Acute Heart Failure: Impact of Heart Failure History and Pleural Effusion (Diagnostics 15(23):3047 · PMID 41374428 · PMC12691748 · doi: 10.3390/diagnostics15233047)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12691748/"
+      },
+      {
+        "type": "Occupational & Clinical Guidance",
+        "label": "U.S. OSHA Chemical Data — Nitric Acid (#627) · Respiratory Protection & Ventilation Standards",
+        "url": "https://www.osha.gov/chemicaldata/627"
+      },
+      {
+        "type": "Toxicology & Emergency Guidance",
+        "label": "NIH MedlinePlus — Nitric Acid Poisoning (reviewed Jan 8, 2025) & CDC/ATSDR Medical Management Guidelines for Nitrogen Oxides",
+        "url": "https://medlineplus.gov/ency/article/002478.htm"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 3016 Verbatim Transcript in Google Drive (8,081 words)",
+        "url": "https://drive.google.com/file/d/17oomkGCDUWuQKm62wyjCQyQ68dZm4RBa/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 3016 Audio Stream — Eight Hours After the Brief Cough (47:53)",
+        "url": "https://drive.google.com/file/d/1VC7_qE54SqkSZcMqn0qRXgUgFCLbNu92/view"
+      }
+    ],
+    "relatedSlugs": [
+      "room-not-safe-to-finish",
+      "tank-after-the-collapse-h2s",
+      "fume-left-different-record-welding"
+    ]
+  },
+  "thirty-seconds-on-pitch-vf-arrest": {
+    "slug": "thirty-seconds-on-pitch-vf-arrest",
+    "fileNo": "271",
+    "partId": "outdoors",
+    "partLabel": "Part IV · The Gym, Trail & Vacation",
+    "title": "Thirty Seconds of Walking Without a Pulse—and the Verdict That Flipped a Month Later",
+    "deck": "Why residual cerebral oxygen lets a quivering heart walk across the pitch, how acute resuscitation labs camouflage chronic heart muscle disease at discharge, and why chest pads never replace a two-minute AED.",
+    "byline": "Compiled from Ep 3017 (PREV_1139) · Peer-Reviewed Forensic Ledger",
+    "readTime": "5 min read",
+    "toeTag": {
+      "cause": "Witnessed blunt-chest-impact ventricular fibrillation cardiac arrest on a soccer pitch followed at 1 month by persistent left ventricular dysfunction (EF 35–40%), polymorphic ventricular tachycardia, and asystole pauses",
+      "mechanism": "Precordial impact during the 10–30 ms T-wave upslope stretches mechanosensitive K_ATP channels into VF in classic commotio cordis, OR blunt trauma against a stiffer adult rib cage unmasks latent cardiomyopathy/repolarization vulnerability—initially camouflaged by post-arrest stunning and catecholamine potassium shift",
+      "manner": "Survivor Case & 15-Year Nationwide School OHCA Registry",
+      "avoidability": "High (3–5 min sideline CPR/AED EAPs & 1-mo specialist cardiology)",
+      "falseReassurance": "“He walked several steps after the ball hit him and is jerking like a seizure—plus the hospital cath lab was clean, so it was just a one-off freak accident.”"
+    },
+    "looksLike": "A player merely ‘getting the wind knocked out’ or having a brief seizure 30 seconds after a soccer ball hits his chest—followed by a closed-case commotio cordis hospital discharge once coronary arteries look clean",
+    "actuallyIs": "Witnessed ventricular fibrillation arrest saved on the grass—unmasking persistent 35–40% cardiomyopathy, polymorphic VT, and asystole pauses at his 1-month clinic visit",
+    "sections": [
+      {
+        "heading": "A Soccer Ball to the Sternum, Thirty Seconds on Residual Brain Fumes, and Three Shocks on the Grass",
+        "paragraphs": [
+          "Prime-time medical dramas owe athletic sidelines an apology: when a human heart snaps into ventricular fibrillation, the victim does not always crumple like a marionette with cut strings on frame one. Enough oxygenated blood lingers in cerebral arteries to power footsteps for several eerie seconds while cardiac output sits at zero. In Neha Patel and colleagues’ June 2022 BMC Cardiovascular Disorders report from The University of Toledo, a healthy 33-year-old African American man—zero medical history, zero medications or substance use, zero personal or family history of syncope or sudden death—took a forceful soccer ball squarely in the chest. He walked a few steps across the pitch, then collapsed roughly thirty seconds later with several convulsive jerking movements. Fortunately, medically trained match participants were on the field rather than waiting out a suspected seizure: finding him apneic in ambulance-documented ventricular fibrillation, they restored sinus rhythm across three rounds of CPR, three defibrillation shocks, and one dose of epinephrine.",
+          "In the emergency room he was awake, mildly confused, and tender over his sternum, while his post-arrest blood panel looked like wreckage after a tornado: potassium 2.9 mEq/L (reference 3.5–5.1), creatinine 1.56 mg/dL (0.7–1.3), lactate 9.2 mmol/L (0.5–2.2), creatine kinase 574 IU/L (30–223), magnesium 2.0 mg/dL, negative toxicology and SARS-CoV-2 tests, and initial troponin 0.04 ng/mL rising to 1.43 ng/mL. Arrival ECG showed sinus rhythm, right atrial enlargement, right axis deviation, lateral precordial T-wave inversions, and a prolonged 490 ms QTc; chest CTA showed pulmonary edema without embolism, echocardiography showed global hypokinesis with an ejection fraction of 45–50% and no hypertrophy, and invasive coronary angiography proved completely non-obstructive arteries. By day two—after intravenous potassium and fluids—his electrolytes, creatinine, and lactate normalized, troponin trended down, and QTc shortened by 42 ms to 448 ms, sending him home with likely commotio cordis."
+        ]
+      },
+      {
+        "heading": "The 10-to-30-Millisecond T-Wave Window—and the One-Month Clinic Visit That Rewrote the Chart",
+        "paragraphs": [
+          "Classic commotio cordis is pure mechano-electrical bad luck without a scratch of structural heart disease: a blunt precordial blow landing inside a 10-to-30-millisecond slice on the upslope of the T wave spikes intracavitary pressure, stretches cell membranes, and pries open mechanosensitive K_ATP potassium channels into instant ventricular fibrillation. Yet demographics whispered a warning from the start. Published registries cluster around a mean age of 14 years (78% under age 18), where pliable pediatric rib cages transmit projectile energy straight to the heart; at age 33, an ossified adult chest cage ordinarily buffers moderate impacts unless ball velocity is extreme or the myocardium underneath is already vulnerable. Worse, every hospital abnormality at discharge wore a plausible post-resuscitation disguise: potassium of 2.9 mEq/L commonly reflects catecholamine and epinephrine beta-2 shifts into cells, while a 45–50% ejection fraction and 490 ms QTc routinely follow defibrillation stunning.",
+          "Thirty days later in the outpatient cardiology clinic, time peeled that disguise right off. His serum potassium was rock-normal at 4.3 mEq/L and his chest X-ray was clear—yet repeat echocardiography refused to rebound, dropping instead to a persistently reduced ejection fraction of 35–40%. Most chilling of all, his ambulatory cardiac event monitor caught frequent runs of polymorphic ventricular tachycardia alongside frank asystole pauses. Cardiologists immediately started a beta-blocker and an ACE inhibitor (holding spironolactone over low-blood-pressure concern), referred him for an implantable cardioverter-defibrillator (ICD), and ordered a cardiac MRI that remained pending at publication. Without pre-arrest baselines or completed MRI tissue mapping, Patel’s team kept exact forensic discipline: commotio cordis is strictly a diagnosis of exclusion, and a chest blow can unmask lethal cardiomyopathy or repolarization disease that hospital discharge alone will miss."
+        ]
+      },
+      {
+        "heading": "Thirty Japanese School Arrests, Two-Minute AEDs, and Why Chest Pads Never Replace an Action Plan",
+        "paragraphs": [
+          "Scale that dual lesson across an entire country in Kosuke Kiyohara and colleagues’ October 2026 Acute Medicine & Surgery study from Japan’s SPIRITS registry (2008–2022). Filtering 699 school-supervised pediatric out-of-hospital cardiac arrests—subtracting 9 nursery/kindergarten, 46 unresuscitated, 27 unknown-rhythm, 481 internal-cause, and 106 non-sports cases (699 minus 669)—left exactly 30 sports external-cause arrests (86.7% male), split cleanly into 15 operational commotio cordis cases (100% male, median age 15, led by 6 soccer/futsal and 4 baseball) and 15 other external causes (8 drownings including canal ball retrievals, 3 head injuries including a falling unanchored soccer goalpost, 2 baseball lightning strikes, 1 ski chest collision, and 1 avalanche). In the 15 chest-blow arrests—where operational rules required witnessed collapse, initial VF, and no recorded competing heart diagnosis—median bystander response took just 2 minutes (IQR 0–3): 14 of 15 (93.3%) got bystander CPR and AED pads, 13 of 15 (86.7%) received a shock and survived one month, and 12 of 15 (80.0%) walked out neurologically intact (CPC 1–2).",
+          "Against the 15 drowning, trauma, and lightning arrests—where 10 of 15 (66.7%, including 7 of 8 drownings) were already in non-shockable asystole, only 1 of 15 (6.7%) could be shocked, and just 1 of 15 (6.7%) achieved CPC 1–2—that 73.3 percentage-point survival gap proves both the superpower and the boundary of an AED, while Kiyohara explicitly warned that missing MRIs, genetics, and autopsies meant silent cardiomyopathy or channelopathy could not be excluded in their registry either. Paired with American Heart Association, Korey Stringer Institute, and 2025 European Resuscitation Council guidance, venues need two defenses: rehearsed 3-to-5-minute Emergency Action Plans with unlocked community AEDs (closing stark U.S. racial survival disparities tied to delayed CPR and scarce onsite AEDs) that never hesitate over walking steps or seizure-like jerks—and honest equipment and facility rules recognizing that chest protectors fail to stop VF, survivors require full specialist follow-up before returning to play, and anchored goalposts, canal bans, pool lifeguards, and lightning stoppages prevent the arrests no shock can fix."
+        ]
+      },
+      {
+        "kicker": "RED FLAGS · WALKING STEPS AND CHEST PADS DO NOT RULE OUT VENTRICULAR FIBRILLATION",
+        "heading": "Three Minutes on the Grass, Thirty Days in the Cardiology Clinic",
+        "bullets": [
+          "Never get fooled by 30 seconds of walking or seizure-like jerks: Residual brain oxygen lets fibrillating athletes take brief steps before collapsing with hypoxic myoclonic jerking and agonal gasps—start immediate CPR and attach an AED instead of waiting out a ‘seizure.’",
+          "Rehearse a 3–5 minute unlocked-AED plan on every field: Assign callers, compressors, AED runners, and ambulance guides before kickoff across youth, community, and adult evening leagues—an AED locked in a school office at 5 p.m. saves nobody.",
+          "Treat ‘commotio cordis’ at discharge as provisional: Require specialist cardiology follow-up—repeat echo after stunning clears, ambulatory rhythm monitoring, and cardiac MRI/EP clearance when indicated—before any cardiac-arrest survivor returns to play.",
+          "Retire chest-protector overconfidence and single-hazard blinders: Commercial chest pads do not eliminate VF risk or replace AEDs; pair softer youth balls and safe blocking technique with anchored soccer goalposts, waterway ball-retrieval bans, pool supervision, and lightning rules."
+        ],
+        "paragraphs": []
+      }
+    ],
+    "ledger": [
+      {
+        "label": "Adult Pitch VF Case (Patel 2022)",
+        "value": "Patel N, Pena C, Nesheiwat Z, Zafrullah F, Eltahawy E (2022), BMC Cardiovasc Disord 22:252 (PMID 35658897 · PMC9166514 · doi: 10.1186/s12872-022-02689-4) · Healthy 33-yo African American man struck directly in chest by forceful soccer ball, walked a few steps, collapsed ~30 s later with jerking movements; witnessed VF restored to sinus rhythm after 3 CPR rounds, 3 shocks & 1 epinephrine"
+      },
+      {
+        "label": "Acute Labs, Cath & Discharge Mask",
+        "value": "ER K+ 2.9 mEq/L (3.5–5.1), Cr 1.56 mg/dL (0.7–1.3), lactate 9.2 mmol/L (0.5–2.2), CK 574 IU/L (30–223), Mg 2.0, initial troponin 0.04 -> 1.43 ng/mL; ECG QTc 490 -> 448 ms (lateral T-wave inversions); inpatient echo EF 45–50% with lateral/inferolateral hypokinesis; clean non-obstructive coronary angiogram -> discharged as likely commotio cordis"
+      },
+      {
+        "label": "1-Month Clinic Twist & Boundaries",
+        "value": "At 1-mo clinic follow-up (normal K+ 4.3 mEq/L, normal CXR), repeat echo showed persistent reduced EF 35–40% and ambulatory event monitor recorded frequent polymorphic VT + asystole pauses -> beta-blocker & ACE-I started (spironolactone held for low-BP concern), ICD referral & ordered/pending cardiac MRI (zero MRI results invented; p3 swine 'mg' unit typo omitted)"
+      },
+      {
+        "label": "15-Yr Japan SPIRITS Registry (Kiyohara 2026)",
+        "value": "Kiyohara K et al. (2026), Acute Med Surg 13(1):e70168 (PMID 42876952 · PMC13662531 · doi: 10.1002/ams2.70168) · 699 school-supervised pediatric OHCAs (2008–2022) minus 669 exclusions = 30 external-cause sports OHCAs (86.7% male): 15 operational commotio cordis (median age 15 y; 6 soccer/futsal, 4 baseball, 2 basketball, 3 combat sports; 100% witnessed & VF by definition; median 2 min response, 14/15 [93.3%] CPR & AED pads, 13/15 [86.7%] shocked & 1-mo survival, 12/15 [80.0%] CPC 1–2)"
+      },
+      {
+        "label": "Non-Shockable Gap & Registry Blind Spot",
+        "value": "Other 15 external sports OHCAs (8 drownings [5 pools, 2 canal/river ball retrieval, 1 rowboat], 3 head injuries [falling goalpost, baseball, ski], 2 lightning, 1 ski chest, 1 avalanche): 53.3% witnessed, 26.7% VF, 66.7% asystole, 1/15 (6.7%) shocked & 1/15 (6.7%) CPC 1–2 (73.3 percentage-point descriptive contrast). SPIRITS lacked universal inpatient MRI/genetics/autopsy to exclude underlying cardiomyopathy or channelopathy"
+      },
+      {
+        "label": "Sideline EAPs, Equity & Venue Controls",
+        "value": "AHA Commotio Cordis (Nov 2025), UConn Korey Stringer Institute EAPs & ERC 2025: rehearsed venue EAPs applying unlocked AEDs within 3–5 min across youth & community adult fields (countering lower survival tied to delayed CPR/lower AED access), specialist cardiac clearance before return to play, recognition that chest protectors do not prevent VF, and primary hazard controls (goalpost anchoring, waterway non-entry, pool lifeguards, lightning suspension)"
+      }
+    ],
+    "survivalCard": {
+      "headline": "FIRST 60 SECONDS · COLLAPSE AFTER A CHEST BLOW ON ANY SPORTS FIELD",
+      "subhead": "Ignore brief footsteps or jerking—start compressions, shock within 3–5 minutes, and follow the heart past discharge.",
+      "steps": [
+        {
+          "action": "TREAT POST-IMPACT COLLAPSE AS CARDIAC ARREST IMMEDIATELY",
+          "detail": "Never assume a player just got the wind knocked out or is having a seizure because they walked for 30 seconds or jerked on the turf—call 911 and begin hard, fast center-chest compressions immediately."
+        },
+        {
+          "action": "APPLY AN UNLOCKED ONSITE AED WITHIN 3–5 MINUTES",
+          "detail": "Execute a rehearsed field Emergency Action Plan to place AED pads and follow shock prompts within minutes; two-minute bystander action and school AED shocks yielded 80.0% neurologically intact survival in Japan."
+        },
+        {
+          "action": "MANDATE ONE-MONTH+ SPECIALIST CARDIOLOGY FOLLOW-UP",
+          "detail": "Never treat a clean hospital angiogram as final return-to-play clearance; repeat echocardiography, ambulatory rhythm monitoring, and specialist imaging catch unmasked cardiomyopathy and polymorphic VT after stunning clears."
+        },
+        {
+          "action": "PAIR REALISTIC GEAR WITH MULTI-HAZARD VENUE RULES",
+          "detail": "Never rely on chest protectors to stop VF in place of an AED, and prevent non-shockable sports arrests by anchoring movable goalposts, banning canal/river ball retrieval, staffing lifeguards, and clearing fields for lightning."
+        }
+      ]
+    },
+    "sources": [
+      {
+        "type": "Primary Paper",
+        "label": "Patel N, Pena C, Nesheiwat Z, Zafrullah F, Eltahawy E (2022) — Ventricular fibrillation arrest after blunt chest trauma in a 33-year-old man, commotio cordis? (BMC Cardiovasc Disord 22:252 · PMID 35658897 · PMC9166514 · doi: 10.1186/s12872-022-02689-4)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9166514/"
+      },
+      {
+        "type": "Companion Nationwide Registry",
+        "label": "Kiyohara K et al. (2026) — Sports-Related Out-of-Hospital Cardiac Arrest due to External Causes, Including Commotio Cordis, at Schools in Japan (Acute Med Surg 13(1):e70168 · PMID 42876952 · PMC13662531 · doi: 10.1002/ams2.70168)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13662531/"
+      },
+      {
+        "type": "Emergency & Cardiac Guidance",
+        "label": "American Heart Association — Commotio Cordis & Cardiac Emergency Response Plans (last reviewed Nov 24, 2025)",
+        "url": "https://www.heart.org/en/health-topics/commotio-cordis"
+      },
+      {
+        "type": "Athletic Venue Safety Guidance",
+        "label": "University of Connecticut Korey Stringer Institute — Emergency Action Plans & Commotio Cordis",
+        "url": "https://koreystringer.institute.uconn.edu/eap/"
+      },
+      {
+        "type": "Podcast Transcript",
+        "label": "Ep 3017 Verbatim Transcript in Google Drive (10,974 words)",
+        "url": "https://drive.google.com/file/d/1uqYop57z0rCsbpuBf17YtERXbqw7drwe/view"
+      },
+      {
+        "type": "Companion Audio",
+        "label": "Ep 3017 Audio Stream — Thirty Seconds on the Pitch, One Month in the Clinic (1:04:50)",
+        "url": "https://drive.google.com/file/d/1OWBG03LHRJlScNfJXIV16IcaAw__7n5F/view"
+      }
+    ],
+    "relatedSlugs": [
+      "unbruised-chests-silent-hearts",
+      "autopsy-that-reached-the-family",
+      "calcified-heart-toothpaste-micro-tumors"
+    ]
   }
 }

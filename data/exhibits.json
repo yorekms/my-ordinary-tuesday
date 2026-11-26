@@ -1,17 +1,17 @@
 {
   "meta": {
-    "updated": "2026-11-25",
-    "totalStoriesEnriched": 265,
-    "ccByClinicalExhibitStories": 223,
-    "ccByClinicalExhibitImages": 230,
-    "primaryClinicalExhibitStories": 131,
-    "referenceClinicalExhibitStories": 59,
-    "hazardFieldPhotoStories": 33,
+    "updated": "2026-11-26",
+    "totalStoriesEnriched": 271,
+    "ccByClinicalExhibitStories": 229,
+    "ccByClinicalExhibitImages": 238,
+    "primaryClinicalExhibitStories": 134,
+    "referenceClinicalExhibitStories": 60,
+    "hazardFieldPhotoStories": 35,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 235,
-    "perStoryQuizzes": 265,
-    "examPoolSize": 91,
-    "externalFigureLinkoutStories": 54
+    "dynamicBlueprintStories": 241,
+    "perStoryQuizzes": 271,
+    "examPoolSize": 97,
+    "externalFigureLinkoutStories": 59
   },
   "stories": {
     "fractal-wood-burning": {
@@ -9528,6 +9528,281 @@
           "licenseNote": "Author Manuscript / Non-CC (view directly on PMC)"
         }
       ]
+    },
+    "mushroom-that-outlasted-boiling-bongkrekic": {
+      "quiz": {
+        "prompt": "In July, you discover a bowl of dried wood-ear mushrooms (Auricularia auricula) that sat soaking in water on the kitchen counter for three days. They look firm and smell completely normal. What is the only safe call?",
+        "options": [
+          {
+            "label": "Discard the entire batch immediately—preformed bongkrekic acid is colorless, odorless, tasteless, and survives rolling boiling intact—and refrigerate any future overnight soaks.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Burkholderia gladioli pathovar cocovenenans synthesizes bongkrekic acid readily at 22–30°C without spoiling smell or taste, and cooking heat never breaks down the preformed mitochondrial ANT toxin."
+          },
+          {
+            "label": "Rinse the mushrooms well and boil them hard for 20 minutes before stir-frying, since 100°C boiling water kills the bacteria and neutralizes foodborne toxins.",
+            "correct": false,
+            "feedback": "Boiling kills vegetative bacteria in the pan while leaving preformed bongkrekic acid untouched—exactly how the cooked five-day-soaked batch in Shi et al. (2024) caused fatal multi-organ failure."
+          },
+          {
+            "label": "Taste a small boiled piece first and only seek medical care if liver enzymes or clotting times turn severely abnormal on an outpatient blood draw the next day.",
+            "correct": false,
+            "feedback": "Contaminated dishes taste completely normal, and in Shi et al. (2024) initial kidney and clotting panels looked normal (PT 14.40 s, creatinine 62 µmol/L) even while blood glucose had crashed to 0.3 mmol/L—21 hours before ALT surged nearly 48-fold."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Auricularia_auricula_judae_359987102_824222.jpg",
+          "caption": "Verified reference photograph of wood-ear fungus (Auricularia auricula-judae; illustrative—not the index kitchen specimen in Shi et al. 2024): prolonged warm-water soaking allows Burkholderia gladioli pathovar cocovenenans to synthesize heat-stable bongkrekic acid.",
+          "spoilerNote": "Verified real-world reference photograph of wood-ear fungus (Auricularia auricula-judae; illustrative, not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Owen and Carol Fawcett · Wikimedia Commons (Auricularia auricula-judae 359987102.jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auricularia_auricula-judae_359987102.jpg"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Shi et al. (2024), BMC Complement Med Ther — Primary ICU clinical course, glucose/lactate curves & day-4 ECG on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11661036/",
+          "licenseNote": "CC BY-NC-ND 4.0 (view directly on PMC)"
+        }
+      ]
+    },
+    "bitter-remedy-in-gourd-colocynth": {
+      "quiz": {
+        "prompt": "A relative eats a traditional wild bitter-gourd remedy for constipation—or drinks fresh home-pressed bottle gourd juice that tasted intensely bitter—suffers bloody vomiting and bloody diarrhea two hours later, and the next day stops vomiting while becoming drowsy and pale. What is the safest immediate action?",
+        "options": [
+          {
+            "label": "Let them rest at home and sip sweet tea now that active vomiting has stopped, or boil the remaining gourd for 30 minutes if anyone else plans to eat it.",
+            "correct": false,
+            "feedback": "In Alemseged et al. (2025), active vomiting had ceased at 48 hours even while the patient was in 60/40 mmHg uncompensated shock with GCS 10, forcing oral fluids into a drowsy patient risks aspiration, and boiling never destroys heat-stable cucurbitacins."
+          },
+          {
+            "label": "Discard the bitter gourd immediately without anyone else tasting it, do not force oral drinks into a drowsy patient, and rush them to an emergency department for hemodynamic check and IV saline resuscitation.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Stopping at unexpected bitterness limits cucurbitacin dose, and rapid hospital 0.9% normal saline resuscitation reversed 60/40 shock, unmasked hemoconcentration, and restored full organ function within five days."
+          },
+          {
+            "label": "Check a fingerstick hemoglobin first; if hemoglobin is high-normal around 16.8 g/dL, severe internal fluid loss and shock can be safely ruled out.",
+            "correct": false,
+            "feedback": "Rapid diarrheal and capillary plasma loss concentrates red cells faster than blood escapes—giving the Hargeisa patient a deceptively normal 16.8 g/dL hemoglobin (48.2% hematocrit) right in the middle of life-threatening 60/40 shock."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · ENDOSCOPY",
+          "src": "assets/exhibits/REF_PMC10364191_cureus-0015-00000040886-i01.jpg",
+          "caption": "Illustrative upper gastrointestinal endoscopy from a separate CC BY bitter-gourd cucurbitacin poisoning report (Hussain et al. 2023; not the index patient in Alemseged et al. 2025, where endoscopy was not performed), showing altered intragastric blood with edematous, erythematous, ulcerated mucosa.",
+          "spoilerNote": "Illustrative endoscopic exhibit from a separate CC BY cucurbitacin toxicity report showing hemorrhagic gastric mucosal injury (not the index patient). Contains endoscopic photography—click to unseal.",
+          "blurredByDefault": true,
+          "citation": "Figure 1 from Hussain et al. (2023), Cureus · PMC10364191 (Reference Case)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10364191/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Alemseged, Ibrahim & Sheikabdullahi (2025), J Med Case Rep — Primary colocynth multiorgan toxicity clinical & serial laboratory tables on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12522648/",
+          "licenseNote": "CC BY-NC-ND 4.0 (view directly on PMC)"
+        }
+      ]
+    },
+    "harness-and-sudden-drop-suspension": {
+      "quiz": {
+        "prompt": "A fellow climber falls cleanly into a modern sit harness without hitting rock, hangs motionless for 25 minutes while you rig a lower, and suddenly turns pale, sweaty, dizzy, and bradycardic right as their feet touch flat ground. What should you do immediately?",
+        "options": [
+          {
+            "label": "Prop them upright or semi-seated against a pack for at least 30 minutes so pooled leg blood cannot rush back and fatally overload the right ventricle.",
+            "correct": false,
+            "feedback": "That 1972 ‘rescue death’ rule came from misreading benign horizontal arrhythmias in 10 chest-harness volunteers; Rauch et al.’s 2019 echocardiography proved supine recovery stays 2.1 mm below baseline LVEDD while propping a hypotensive vagal casualty upright starves the brain."
+          },
+          {
+            "label": "Assume a certified sit harness prevents circulatory collapse unless they bled externally, leave them clipped upright on the line until dizziness clears, and use a simple waist belt next time.",
+            "correct": false,
+            "feedback": "In Rauch et al. (2019), 30.0% of healthy motionless sit-harness hangs hit abrupt vagal pre-syncope between 13.4 and 59.7 minutes, and waist belts/ropes concentrate lethal internal bowel-shearing force beneath intact skin."
+          },
+          {
+            "label": "Lay them horizontally flat on their back (supine) immediately with standard life-support monitoring—and if any passive hang exceeded two hours, transport to a dialysis-capable hospital watching for rhabdomyolysis and hyperkalemia.",
+            "correct": true,
+            "feedback": "Survived Tuesday! ICAR MedCom 2023 (Grade 1A) recommends immediate horizontal supine positioning, which resolved experimental vagal pre-syncope within seconds, paired with hospital ECG/potassium/CK surveillance after prolonged (>2 h) hangs."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · TECHNICAL SCHEMATIC",
+          "src": "assets/exhibits/PMC10710713_13049_2023_1164_fig2_html.jpg",
+          "caption": "Hanging motionless on a rope precludes a horizontal position after loss of consciousness whether the harness attachment point lies at chest level (left) or hip level in a sit harness (right), sustaining dependent venous pooling and vagally mediated collapse until horizontal supine rescue.",
+          "spoilerNote": "Medical rescue schematic from the primary ICAR MedCom scoping review and guideline report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Rauch et al. (2023), Scand J Trauma Resusc Emerg Med · PMC10710713",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10710713/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Katiyar et al. (2019), Trauma Case Reports — Companion abdominal waist-rope visceral transection clinical & CECT figures on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6911898/",
+          "licenseNote": "CC BY-NC-ND 4.0 (view directly on PMC)"
+        }
+      ]
+    },
+    "three-spoonfuls-same-table-hemlock": {
+      "quiz": {
+        "prompt": "Twenty minutes after sharing a skillet of wild greens sautéed in olive oil and tomato paste, your uncle becomes drowsy and short of breath while your aunt—who stopped after three spoonfuls—is wide awake on room air complaining only of mild dizziness and heavy legs. Raw trimmings are still on the kitchen counter. What is the safest immediate response?",
+        "options": [
+          {
+            "label": "Call EMS and Poison Control immediately, send both diners for emergency evaluation along with the intact raw plant trimmings, and avoid inducing vomiting or giving home oral charcoal.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Ucar (2026), early physiology-driven intubation saved the husband before plant ID, intact remnants identified Conium maculatum, and examining the alert three-spoonful wife caught 4/5 leg weakness needing 24-hour ICU observation—without charcoal aspiration risk."
+          },
+          {
+            "label": "Give your uncle a glass of over-the-counter activated charcoal slurry right away while he can still groan, and let your aunt rest at home since cooking neutralized most toxins and her oxygen looks fine.",
+            "correct": false,
+            "feedback": "Sautéing does not neutralize coniine alkaloids, forcing oral charcoal into a drowsy patient with failing neuromuscular reflexes risks catastrophic aspiration, and an alert three-spoonful diner can still harbor ascending nicotinic blockade."
+          },
+          {
+            "label": "Check the leftover stems on the counter first; if they have no purple blotches, rule out poison hemlock and wait an hour to see whether his breathing improves.",
+            "correct": false,
+            "feedback": "Juvenile Conium maculatum rosettes harvested in spring frequently lack mature purple-spotted hollow stems, and waiting an hour when hypercapnic ventilatory failure can drop pH to 7.03 in 30 minutes is lethal."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "hazard",
+          "exhibitCode": "HAZARD REFERENCE · VERIFIED PHOTO",
+          "src": "assets/exhibits/HAZ_WM_Conium_maculatum_poison_hemlock_flowering_umbels_eb424f.jpg",
+          "caption": "Verified botanical reference photograph of poison hemlock (Conium maculatum; illustrative—not the index meal specimen in Ucar 2026), showing white compound umbels, finely divided parsley-like leaves, and characteristic purple-blotched hollow stems.",
+          "spoilerNote": "Verified real-world botanical reference photograph of poison hemlock (Conium maculatum; illustrative, not the index incident).",
+          "blurredByDefault": false,
+          "citation": "Steffen Bauer · Wikimedia Commons (Conium maculatum (poison hemlock), flowering umbels (SaatPilot).jpg)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conium_maculatum_(poison_hemlock),_flowering_umbels_(SaatPilot).jpg"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Ucar (2026), Int J Emerg Med — Primary shared poison hemlock case table & botanical figure (third-party CC BY-SA 3.0) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13047759/",
+          "licenseNote": "Fig. 1 CC BY-SA 3.0 (view directly on PMC)"
+        }
+      ]
+    },
+    "eight-hours-after-cough-nitric-acid": {
+      "quiz": {
+        "prompt": "Near the end of a metal-pickling shift, nitric acid contacts scrap metal and releases a brief whiff of reddish-brown vapor. A 52-year-old technician steps into fresh air, coughs twice, and says her throat feels completely unswollen and pain-free, so she wants to drive home and go to sleep. What is the right call?",
+        "options": [
+          {
+            "label": "Inspect her throat with a flashlight and check a finger pulse oximeter; if her pharynx isn’t red and her SpO2 is above 95%, clear her to sleep at home with an N95 mask for tomorrow’s shift.",
+            "correct": false,
+            "feedback": "Low-water-solubility nitrogen oxides bypass upper-airway swelling completely while setting a 3-to-30-hour fuse in the deep alveoli—and N95 dust masks filter zero nitrogen dioxide gas."
+          },
+          {
+            "label": "Contact emergency medical care or Poison Control promptly for formal evaluation and 24–48 hour observation for delayed pulmonary edema, while securing the area for trained responders and auditing exhaust controls.",
+            "correct": true,
+            "feedback": "Survived Tuesday! In Zhao et al. (2025), only a mild initial cough and an unswollen pharynx preceded severe alveolar exudation at 8 hours and a 62.1% P/F drop by day 3—making 24–48 hour surveillance essential."
+          },
+          {
+            "label": "Have her inhale an over-the-counter steroid mist at home tonight and return only if a hospital ultrasound later shows five B-lines, which automatically proves chemical acid injury rather than heart failure.",
+            "correct": false,
+            "feedback": "Home inhalers cannot safely manage evolving chemical ARDS, and Miger et al. (2025) plus Zhao et al. (2025) show B-lines measure physical lung fluid/density—requiring cardiac testing and clinical history to establish cause."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · CT / IMAGING SCAN",
+          "src": "assets/exhibits/PMC12224870_12890_2025_3758_fig1_html.jpg",
+          "caption": "Serial chest CT across identical planes after accidental nitric acid fume inhalation: diffuse bilateral pulmonary exudation at 8 hours (1a–1c), visually similar CT appearance at day 3 despite severe hypoxic deterioration (2a–2c), and marked resolution by day 5 (3a–3c).",
+          "spoilerNote": "Serial chest CT scan from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Zhao et al. (2025), BMC Pulmonary Medicine · PMC12224870",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12224870/"
+        },
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT B · ULTRASOUND / ECHO",
+          "src": "assets/exhibits/PMC12224870_12890_2025_3758_fig2_html.jpg",
+          "caption": "Serial anterolateral bedside lung ultrasound tracking vertical comet-tail B-lines (arrows) in the same patient: 3 total B-lines at 8 hours (1a, 1b), rising to 5 B-lines during day-3 deterioration when repeat CT looked unchanged (2a, 2b), and falling to 2 B-lines by day 5 (3a, 3b).",
+          "spoilerNote": "Bedside lung ultrasound exhibit from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Zhao et al. (2025), BMC Pulmonary Medicine · PMC12224870",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12224870/"
+        }
+      ]
+    },
+    "thirty-seconds-on-pitch-vf-arrest": {
+      "quiz": {
+        "prompt": "During a Tuesday-night adult recreational soccer match, a hard-kicked ball hits a 33-year-old player squarely in the chest. He walks four steps, collapses 30 seconds later with brief arm-and-leg jerking, and stops breathing normally. What must happen both on the pitch and after he survives hospital discharge?",
+        "options": [
+          {
+            "label": "Roll him onto his side until the jerking stops so he doesn’t bite his tongue, then check whether he was wearing a padded chest protector before calling 911.",
+            "correct": false,
+            "feedback": "Brief walking steps reflect residual brain oxygen and jerking reflects sudden cerebral hypoperfusion during ventricular fibrillation—not epilepsy—and chest protectors never prevent VF."
+          },
+          {
+            "label": "Start CPR and shock with an AED immediately, then clear him to resume soccer right after hospital discharge as long as his coronary angiogram is clean and his potassium normalizes.",
+            "correct": false,
+            "feedback": "In Patel et al. (2022), clean coronary arteries and normalized labs at discharge masked a 35–40% ejection fraction plus frequent polymorphic VT and asystole pauses uncovered at his 1-month cardiology visit."
+          },
+          {
+            "label": "Call 911, start immediate chest compressions, and apply an unlocked onsite AED within 3–5 minutes—then complete specialist outpatient cardiology follow-up (repeat echo, rhythm monitoring, imaging) before any return to play.",
+            "correct": true,
+            "feedback": "Survived Tuesday! Immediate CPR and rapid AED shocks rescue shockable VF on the grass, while longitudinal specialist follow-up after post-arrest stunning clears catches unmasked cardiomyopathy or lethal arrhythmias."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT A · ELECTROCARDIOGRAM",
+          "src": "assets/exhibits/PMC9166514_12872_2022_2689_fig1_html.jpg",
+          "caption": "Initial ambulance rhythm strip demonstrating coarse ventricular fibrillation in a 33-year-old soccer player who walked a few steps and collapsed roughly 30 seconds after a direct precordial ball impact.",
+          "spoilerNote": "Emergency rhythm strip from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 1 from Patel et al. (2022), BMC Cardiovascular Disorders · PMC9166514",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9166514/"
+        },
+        {
+          "tier": "primary",
+          "exhibitCode": "EXHIBIT B · ELECTROCARDIOGRAM",
+          "src": "assets/exhibits/PMC9166514_12872_2022_2689_fig2_html.jpg",
+          "caption": "Post-defibrillation emergency-department 12-lead ECG showing restored sinus rhythm with prolonged QTc (490 ms) and lateral precordial T-wave inversions—preceding one-month follow-up discovery of persistent reduced ejection fraction (35–40%) and polymorphic ventricular tachycardia.",
+          "spoilerNote": "Emergency-department 12-lead ECG from the primary peer-reviewed case report.",
+          "blurredByDefault": false,
+          "citation": "Fig. 2 from Patel et al. (2022), BMC Cardiovascular Disorders · PMC9166514",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9166514/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Kiyohara et al. (2026), Acute Medicine & Surgery — 15-year nationwide Japanese school-sports external-cause OHCA selection figure on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13662531/",
+          "licenseNote": "CC BY-NC 4.0 (view directly on PMC)"
+        }
+      ]
     }
   },
   "exam": [
@@ -11532,21 +11807,158 @@
           "why": "Iverson et al.’s 2021 Maricopa County investigation documented 71 confirmed or probable canine leptospirosis cases across arid Phoenix suburbs, with strong epidemiological clustering around congregate dog daycare and boarding settings."
         }
       ]
+    },
+    {
+      "q": "In July, you discover a bowl of dried wood-ear mushrooms (Auricularia auricula) that sat soaking in water on the kitchen counter for three days. They look firm and smell completely normal. What is the only safe call?",
+      "caseSlug": "mushroom-that-outlasted-boiling-bongkrekic",
+      "caseRef": "Case 266",
+      "options": [
+        {
+          "label": "Discard the entire batch immediately—preformed bongkrekic acid is colorless, odorless, tasteless, and survives rolling boiling intact—and refrigerate any future overnight soaks.",
+          "ok": true,
+          "why": "Survived Tuesday! Burkholderia gladioli pathovar cocovenenans synthesizes bongkrekic acid readily at 22–30°C without spoiling smell or taste, and cooking heat never breaks down the preformed mitochondrial ANT toxin."
+        },
+        {
+          "label": "Rinse the mushrooms well and boil them hard for 20 minutes before stir-frying, since 100°C boiling water kills the bacteria and neutralizes foodborne toxins.",
+          "ok": false,
+          "why": "Boiling kills vegetative bacteria in the pan while leaving preformed bongkrekic acid untouched—exactly how the cooked five-day-soaked batch in Shi et al. (2024) caused fatal multi-organ failure."
+        },
+        {
+          "label": "Taste a small boiled piece first and only seek medical care if liver enzymes or clotting times turn severely abnormal on an outpatient blood draw the next day.",
+          "ok": false,
+          "why": "Contaminated dishes taste completely normal, and in Shi et al. (2024) initial kidney and clotting panels looked normal (PT 14.40 s, creatinine 62 µmol/L) even while blood glucose had crashed to 0.3 mmol/L—21 hours before ALT surged nearly 48-fold."
+        }
+      ]
+    },
+    {
+      "q": "A relative eats a traditional wild bitter-gourd remedy for constipation—or drinks fresh home-pressed bottle gourd juice that tasted intensely bitter—suffers bloody vomiting and bloody diarrhea two hours later, and the next day stops vomiting while becoming drowsy and pale. What is the safest immediate action?",
+      "caseSlug": "bitter-remedy-in-gourd-colocynth",
+      "caseRef": "Case 267",
+      "options": [
+        {
+          "label": "Let them rest at home and sip sweet tea now that active vomiting has stopped, or boil the remaining gourd for 30 minutes if anyone else plans to eat it.",
+          "ok": false,
+          "why": "In Alemseged et al. (2025), active vomiting had ceased at 48 hours even while the patient was in 60/40 mmHg uncompensated shock with GCS 10, forcing oral fluids into a drowsy patient risks aspiration, and boiling never destroys heat-stable cucurbitacins."
+        },
+        {
+          "label": "Discard the bitter gourd immediately without anyone else tasting it, do not force oral drinks into a drowsy patient, and rush them to an emergency department for hemodynamic check and IV saline resuscitation.",
+          "ok": true,
+          "why": "Survived Tuesday! Stopping at unexpected bitterness limits cucurbitacin dose, and rapid hospital 0.9% normal saline resuscitation reversed 60/40 shock, unmasked hemoconcentration, and restored full organ function within five days."
+        },
+        {
+          "label": "Check a fingerstick hemoglobin first; if hemoglobin is high-normal around 16.8 g/dL, severe internal fluid loss and shock can be safely ruled out.",
+          "ok": false,
+          "why": "Rapid diarrheal and capillary plasma loss concentrates red cells faster than blood escapes—giving the Hargeisa patient a deceptively normal 16.8 g/dL hemoglobin (48.2% hematocrit) right in the middle of life-threatening 60/40 shock."
+        }
+      ]
+    },
+    {
+      "q": "A fellow climber falls cleanly into a modern sit harness without hitting rock, hangs motionless for 25 minutes while you rig a lower, and suddenly turns pale, sweaty, dizzy, and bradycardic right as their feet touch flat ground. What should you do immediately?",
+      "caseSlug": "harness-and-sudden-drop-suspension",
+      "caseRef": "Case 268",
+      "options": [
+        {
+          "label": "Prop them upright or semi-seated against a pack for at least 30 minutes so pooled leg blood cannot rush back and fatally overload the right ventricle.",
+          "ok": false,
+          "why": "That 1972 ‘rescue death’ rule came from misreading benign horizontal arrhythmias in 10 chest-harness volunteers; Rauch et al.’s 2019 echocardiography proved supine recovery stays 2.1 mm below baseline LVEDD while propping a hypotensive vagal casualty upright starves the brain."
+        },
+        {
+          "label": "Assume a certified sit harness prevents circulatory collapse unless they bled externally, leave them clipped upright on the line until dizziness clears, and use a simple waist belt next time.",
+          "ok": false,
+          "why": "In Rauch et al. (2019), 30.0% of healthy motionless sit-harness hangs hit abrupt vagal pre-syncope between 13.4 and 59.7 minutes, and waist belts/ropes concentrate lethal internal bowel-shearing force beneath intact skin."
+        },
+        {
+          "label": "Lay them horizontally flat on their back (supine) immediately with standard life-support monitoring—and if any passive hang exceeded two hours, transport to a dialysis-capable hospital watching for rhabdomyolysis and hyperkalemia.",
+          "ok": true,
+          "why": "Survived Tuesday! ICAR MedCom 2023 (Grade 1A) recommends immediate horizontal supine positioning, which resolved experimental vagal pre-syncope within seconds, paired with hospital ECG/potassium/CK surveillance after prolonged (>2 h) hangs."
+        }
+      ]
+    },
+    {
+      "q": "Near the end of a metal-pickling shift, nitric acid contacts scrap metal and releases a brief whiff of reddish-brown vapor. A 52-year-old technician steps into fresh air, coughs twice, and says her throat feels completely unswollen and pain-free, so she wants to drive home and go to sleep. What is the right call?",
+      "caseSlug": "eight-hours-after-cough-nitric-acid",
+      "caseRef": "Case 270",
+      "options": [
+        {
+          "label": "Inspect her throat with a flashlight and check a finger pulse oximeter; if her pharynx isn’t red and her SpO2 is above 95%, clear her to sleep at home with an N95 mask for tomorrow’s shift.",
+          "ok": false,
+          "why": "Low-water-solubility nitrogen oxides bypass upper-airway swelling completely while setting a 3-to-30-hour fuse in the deep alveoli—and N95 dust masks filter zero nitrogen dioxide gas."
+        },
+        {
+          "label": "Contact emergency medical care or Poison Control promptly for formal evaluation and 24–48 hour observation for delayed pulmonary edema, while securing the area for trained responders and auditing exhaust controls.",
+          "ok": true,
+          "why": "Survived Tuesday! In Zhao et al. (2025), only a mild initial cough and an unswollen pharynx preceded severe alveolar exudation at 8 hours and a 62.1% P/F drop by day 3—making 24–48 hour surveillance essential."
+        },
+        {
+          "label": "Have her inhale an over-the-counter steroid mist at home tonight and return only if a hospital ultrasound later shows five B-lines, which automatically proves chemical acid injury rather than heart failure.",
+          "ok": false,
+          "why": "Home inhalers cannot safely manage evolving chemical ARDS, and Miger et al. (2025) plus Zhao et al. (2025) show B-lines measure physical lung fluid/density—requiring cardiac testing and clinical history to establish cause."
+        }
+      ]
+    },
+    {
+      "q": "Twenty minutes after sharing a skillet of wild greens sautéed in olive oil and tomato paste, your uncle becomes drowsy and short of breath while your aunt—who stopped after three spoonfuls—is wide awake on room air complaining only of mild dizziness and heavy legs. Raw trimmings are still on the kitchen counter. What is the safest immediate response?",
+      "caseSlug": "three-spoonfuls-same-table-hemlock",
+      "caseRef": "Case 269",
+      "options": [
+        {
+          "label": "Call EMS and Poison Control immediately, send both diners for emergency evaluation along with the intact raw plant trimmings, and avoid inducing vomiting or giving home oral charcoal.",
+          "ok": true,
+          "why": "Survived Tuesday! In Ucar (2026), early physiology-driven intubation saved the husband before plant ID, intact remnants identified Conium maculatum, and examining the alert three-spoonful wife caught 4/5 leg weakness needing 24-hour ICU observation—without charcoal aspiration risk."
+        },
+        {
+          "label": "Give your uncle a glass of over-the-counter activated charcoal slurry right away while he can still groan, and let your aunt rest at home since cooking neutralized most toxins and her oxygen looks fine.",
+          "ok": false,
+          "why": "Sautéing does not neutralize coniine alkaloids, forcing oral charcoal into a drowsy patient with failing neuromuscular reflexes risks catastrophic aspiration, and an alert three-spoonful diner can still harbor ascending nicotinic blockade."
+        },
+        {
+          "label": "Check the leftover stems on the counter first; if they have no purple blotches, rule out poison hemlock and wait an hour to see whether his breathing improves.",
+          "ok": false,
+          "why": "Juvenile Conium maculatum rosettes harvested in spring frequently lack mature purple-spotted hollow stems, and waiting an hour when hypercapnic ventilatory failure can drop pH to 7.03 in 30 minutes is lethal."
+        }
+      ]
+    },
+    {
+      "q": "During a Tuesday-night adult recreational soccer match, a hard-kicked ball hits a 33-year-old player squarely in the chest. He walks four steps, collapses 30 seconds later with brief arm-and-leg jerking, and stops breathing normally. What must happen both on the pitch and after he survives hospital discharge?",
+      "caseSlug": "thirty-seconds-on-pitch-vf-arrest",
+      "caseRef": "Case 271",
+      "options": [
+        {
+          "label": "Roll him onto his side until the jerking stops so he doesn’t bite his tongue, then check whether he was wearing a padded chest protector before calling 911.",
+          "ok": false,
+          "why": "Brief walking steps reflect residual brain oxygen and jerking reflects sudden cerebral hypoperfusion during ventricular fibrillation—not epilepsy—and chest protectors never prevent VF."
+        },
+        {
+          "label": "Start CPR and shock with an AED immediately, then clear him to resume soccer right after hospital discharge as long as his coronary angiogram is clean and his potassium normalizes.",
+          "ok": false,
+          "why": "In Patel et al. (2022), clean coronary arteries and normalized labs at discharge masked a 35–40% ejection fraction plus frequent polymorphic VT and asystole pauses uncovered at his 1-month cardiology visit."
+        },
+        {
+          "label": "Call 911, start immediate chest compressions, and apply an unlocked onsite AED within 3–5 minutes—then complete specialist outpatient cardiology follow-up (repeat echo, rhythm monitoring, imaging) before any return to play.",
+          "ok": true,
+          "why": "Survived Tuesday! Immediate CPR and rapid AED shocks rescue shockable VF on the grass, while longitudinal specialist follow-up after post-arrest stunning clears catches unmasked cardiomyopathy or lethal arrhythmias."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 15 (Ep 3011) (1)",
-      "tagline": "Freshly added on 2026-11-25 — 1 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 16 (Ep 3012–3017) (6)",
+      "tagline": "Freshly added on 2026-11-26 — 6 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "patient-in-other-clinic-leptospirosis"
+        "mushroom-that-outlasted-boiling-bongkrekic",
+        "bitter-remedy-in-gourd-colocynth",
+        "harness-and-sudden-drop-suspension",
+        "three-spoonfuls-same-table-hemlock",
+        "eight-hours-after-cough-nitric-acid",
+        "thirty-seconds-on-pitch-vf-arrest"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (223)",
-      "tagline": "All 223 chapters featuring commercial-cleared primary case imaging (131), peer-reviewed reference exhibits (59), and verified hazard field photos (33).",
+      "label": "🩻 All Verified Exhibits (229)",
+      "tagline": "All 229 chapters featuring commercial-cleared primary case imaging (134), peer-reviewed reference exhibits (60), and verified hazard field photos (35).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -11770,13 +12182,19 @@
         "livers-unexpected-outlet-shunt-cat",
         "parasite-and-antibody-babesiosis",
         "deposit-between-injection-blood-amyloid",
-        "patient-in-other-clinic-leptospirosis"
+        "patient-in-other-clinic-leptospirosis",
+        "mushroom-that-outlasted-boiling-bongkrekic",
+        "bitter-remedy-in-gourd-colocynth",
+        "harness-and-sudden-drop-suspension",
+        "three-spoonfuls-same-table-hemlock",
+        "eight-hours-after-cough-nitric-acid",
+        "thirty-seconds-on-pitch-vf-arrest"
       ]
     },
     {
       "id": "primary-exhibits",
-      "label": "🏥 Primary Case Exhibits (131)",
-      "tagline": "The 131 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
+      "label": "🏥 Primary Case Exhibits (134)",
+      "tagline": "The 134 chapters featuring verified CC BY / Public Domain clinical scans and photos directly from each story’s own primary peer-reviewed case report.",
       "slugs": [
         "fractal-wood-burning",
         "dry-ice-riding-shotgun",
@@ -11908,7 +12326,10 @@
         "wounds-and-failing-circulation-sporotrichosis",
         "growth-behind-snoring-acromegaly",
         "livers-unexpected-outlet-shunt-cat",
-        "parasite-and-antibody-babesiosis"
+        "parasite-and-antibody-babesiosis",
+        "harness-and-sudden-drop-suspension",
+        "eight-hours-after-cough-nitric-acid",
+        "thirty-seconds-on-pitch-vf-arrest"
       ]
     },
     {
@@ -11916,36 +12337,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "pool-had-another-hazard-drain-suction",
+        "anesthetic-that-triggered-the-furnace",
+        "hot-baths-fentanyl-patches-deadly",
         "family-behind-the-enzyme-g6pd",
-        "ring-and-unbroken-bone-avulsion",
-        "battery-already-in-the-stomach",
-        "thyroid-that-changed-in-the-test-biotin",
-        "spin-class-rhabdo",
-        "boots-in-the-snow-and-heatstroke",
         "aquarium-more-than-one-patient-palytoxin",
+        "burn-looked-like-infection-wet-cement",
+        "hair-treatment-reached-the-cat",
         "tank-after-the-collapse-h2s",
-        "fractal-wood-burning",
+        "small-hands-moving-treadmill-belt",
+        "room-not-safe-to-finish",
+        "dry-ice-riding-shotgun",
+        "one-finger-varicose-vein",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "thread-across-the-road-kite-string",
+        "potassium-that-rose-in-the-tube",
         "van-that-was-not-empty",
-        "handlebar-and-hidden-pancreatic-duct",
+        "pool-had-another-hazard-drain-suction",
         "charger-between-phone-and-wall",
         "reheated-rice-and-botulism",
-        "one-finger-varicose-vein",
-        "hair-treatment-reached-the-cat",
-        "chocolate-brown-blood",
-        "anesthetic-that-triggered-the-furnace",
+        "ring-and-unbroken-bone-avulsion",
         "driveway-ied-truck-tire",
-        "potassium-that-rose-in-the-tube",
-        "dry-ice-riding-shotgun",
-        "puppy-with-the-twisted-stomach-gdv",
         "super-rat-bait-and-vitamin-k-trap",
-        "burn-looked-like-infection-wet-cement",
-        "hot-baths-fentanyl-patches-deadly",
-        "thread-across-the-road-kite-string",
-        "room-not-safe-to-finish",
-        "small-hands-moving-treadmill-belt",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "wire-behind-the-pain"
+        "puppy-with-the-twisted-stomach-gdv",
+        "chocolate-brown-blood",
+        "wire-behind-the-pain",
+        "boots-in-the-snow-and-heatstroke",
+        "spin-class-rhabdo",
+        "battery-already-in-the-stomach",
+        "thyroid-that-changed-in-the-test-biotin",
+        "handlebar-and-hidden-pancreatic-duct",
+        "fractal-wood-burning"
       ]
     },
     {
