@@ -60,24 +60,35 @@ def fetch_github_m4a_map():
 
 
 def download_drive_file(file_id, dest_path):
+    import time
     if dest_path.exists() and dest_path.stat().st_size > 200:
         return True
     dest_path.parent.mkdir(parents=True, exist_ok=True)
-    p = subprocess.run(
-        ["gdrive", "readonly", "download", file_id, "--output", str(dest_path)],
-        capture_output=True,
-        text=True,
-    )
-    if p.returncode != 0:
-        # Fallback flag check (-o)
+    for attempt in range(5):
+        p = subprocess.run(
+            ["gdrive", "readonly", "download", file_id, "--out", str(dest_path)],
+            capture_output=True,
+            text=True,
+        )
+        if p.returncode == 0:
+            return True
+        err = (p.stderr or p.stdout or "").strip()
+        if any(tok in err for tok in ("rateLimitExceeded", "RATE_LIMIT_EXCEEDED", "Error 403", "Error 429")):
+            time.sleep(6 * (attempt + 1))
+            continue
         p2 = subprocess.run(
             ["gdrive", "readonly", "download", file_id, "-o", str(dest_path)],
             capture_output=True,
             text=True,
         )
-        if p2.returncode != 0:
-            raise RuntimeError(f"Drive download failed for {file_id}: {p.stderr.strip()} / {p2.stderr.strip()}")
-    return True
+        if p2.returncode == 0:
+            return True
+        err2 = (p2.stderr or p2.stdout or "").strip()
+        if any(tok in err2 for tok in ("rateLimitExceeded", "RATE_LIMIT_EXCEEDED", "Error 403", "Error 429")):
+            time.sleep(6 * (attempt + 1))
+            continue
+        raise RuntimeError(f"Drive download failed for {file_id}: {err} / {err2}")
+    raise RuntimeError(f"Drive download exhausted retries on rate limit for {file_id}")
 
 
 def extract_citations(text):

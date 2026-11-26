@@ -1,16 +1,16 @@
-# How Not to Die on an Ordinary Tuesday — Master Book & Site Lineup (264 Stories)
+# How Not to Die on an Ordinary Tuesday — Master Book & Site Lineup (265 Stories)
 *True Stories From the Autopsy Table, Deceptive Normal Tests, and the 60-Second Moves That Keep You Alive*
 
 - **Edition:** Vol. I · The Morgue Gazette & Book Incubator
-- **Last Updated:** 2026-11-24
-- **Status:** **264 Full Stories Live** · **264 Curated Chapters Across 6 Rooms** · **Rolling Pipeline Ready for Ep 1005+**
+- **Last Updated:** 2026-11-25
+- **Status:** **265 Full Stories Live** · **265 Curated Chapters Across 6 Rooms** · **Rolling Pipeline Ready for Ep 1005+**
 - **Editorial Tone Charter:** Wicked, razor-sharp wit aimed exclusively at bad physics, smug consumer contraptions, and deceptive normal test results—never at victims or families. Every chapter obeys the 5-Pillar Forensic-Survival Schema and strictly separates Cause, Mechanism, and Manner.
 - **Live Web Reader:** [https://yorekms.github.io/my-ordinary-tuesday/](https://yorekms.github.io/my-ordinary-tuesday/)
 - **Key Drive Vaults:** [Forensic Medicine Show Bible](https://docs.google.com/document/d/1paOx0iSE3D_sUN3y3qcSTKIxdTBbWFi35ODoj09BMcc/edit) · [How Not to Die Notebook Folder](https://drive.google.com/drive/folders/1ftNpMmbgLw2Rw7Be6--C7yML3SsjNv9U) · [Master Transcript Sheet](https://docs.google.com/spreadsheets/d/1BeAwVdAlCSZ7dxurF03hOJmdDzfxFPWcPcO1tnA4FR0/edit)
 
 ---
 
-# PART A: CURATED 264-CHAPTER MASTER LINEUP (ALL LIVE)
+# PART A: CURATED 265-CHAPTER MASTER LINEUP (ALL LIVE)
 
 ## Part I: The Garage, Backyard & Hardware Store
 *Where weekend DIY confidence collides with industrial physics.*
@@ -311,6 +311,7 @@
 | `258` | **Spotless Exam, Wagging Tail—and the Two DNA Copies Behind a Labrador’s Sudden Collapse** | [**Read Live ↗**](https://yorekms.github.io/my-ordinary-tuesday/story.html?case=collapse-and-two-copies-dnm1-dog) | [Ep 3005](https://drive.google.com/file/d/1DI1hOfR1_K6j_ax5NsdLRODDSanhwEVT/view) (42:54) | A high-drive young Labrador whose back legs briefly fold on intense walks while he stays bright and alert, recovers with rest, and passes every resting vet check → **Homozygous DNM1 c.767G>T (Arg-to-Leu) autosomal recessive susceptibility impairing synaptic vesicle recycling—with zero event-time vitals recorded and lethal lookalikes still unexcluded in any live collapse** | Stop all exercise at the first sign of hind-limb wobbling or weakness and seek immediate veterinary evaluation—never trust a wagging tail, never wait on or hide behind a DNA printout during an acute collapse, and skip folklore ice-water or oral-paste rescues. |
 | `259` | **Pale Gums, Hijacked Macrophages—and the Forest Fungus That Learned to Live at 37°C** | [**Read Live ↗**](https://yorekms.github.io/my-ordinary-tuesday/story.html?case=wounds-and-failing-circulation-sporotrichosis) | [Ep 3002](https://drive.google.com/file/d/1TUkB8rsWzfh5Z0RdHjSERA4pdt2l5dZk/view) (43:27) | A stubborn outdoor cat-fight wound—or a bacterial scratch infection that leftover antibiotics and home ointment ought to clear → **Severe ulcerative Sporothrix brasiliensis sporotrichosis (calmodulin 100%/100%, beta-tubulin 100%/82%) with nasal septum deformity, stridor, intracellular macrophage invasion, and progressive multi-system decline** | Call the veterinary clinic ahead for isolation whenever a cat develops persistent expanding ulcers, facial deformity, or noisy breathing—never attempt home debridement or leftover antibacterials, and disclose sick-animal contact to your own doctor if you develop a skin lesion. |
 | `262` | **Ammonia at 598, Zero Seizures—and a Stomach Vein Detouring Straight Into a Cat’s Lung** | [**Read Live ↗**](https://yorekms.github.io/my-ordinary-tuesday/story.html?case=livers-unexpected-outlet-shunt-cat) | [Ep 3008](https://drive.google.com/file/d/1K5_JdQZrOWKdxOmlKSoNwhx7rXjwIYI3/view) (42:16) | A middle-aged cat drooling and skipping dinner over a bad tooth, tummy bug, or mild toxin—and looking surprisingly composed on the exam table → **Congenital portopulmonary shunt routing blood from the left gastric vein through the diaphragm into the left pulmonary vein just before the left atrium** | Treat new feline drooling and appetite loss with prompt veterinary testing—and any collapse, unsteadiness, or seizure as an emergency—keeping dated labs with units and feeding states plus the exact vascular map in her chart forever. |
+| `265` | **70/50 Shock, Silent Blood Cultures—and the Missing Clue Filing Away in a Vet Clinic** | [**Read Live ↗**](https://yorekms.github.io/my-ordinary-tuesday/story.html?case=patient-in-other-clinic-leptospirosis) | [Ep 3011](https://drive.google.com/file/d/1aMkzITEB1aTVYv6aXcQiFguLMW1ZYTL3/view) (58:23) | Culture-negative human septic shock—or a dog’s resolved ‘routine infectious enterocolitis’ safely unrelated to its owner’s mysterious fever a month later → **Severe systemic leptospirosis (L. interrogans flaB PCR+, creatinine 3.28 mg/dL, platelets 40,000/µL) unlocked only when clinicians connected the owner’s chart to her unvaccinated dog’s earlier illness** | If you develop fever, muscle pain, or GI illness after caring for a sick pet—especially with urine or vomit contact—seek human medical care immediately and volunteer the veterinary timeline so both clinics can share records. |
 
 ## Fresh From the Studio — Rolling Expansion Watchlist (Ep 1005+)
 

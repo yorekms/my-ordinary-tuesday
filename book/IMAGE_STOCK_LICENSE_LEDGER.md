@@ -1,11 +1,11 @@
-# How Not to Die on an Ordinary Tuesday — Commercial Image Stock & License Ledger (229 Verified Images)
+# How Not to Die on an Ordinary Tuesday — Commercial Image Stock & License Ledger (230 Verified Images)
 
-**Updated:** 2026-11-24 · **Edition:** 264 Chapters
+**Updated:** 2026-11-25 · **Edition:** 265 Chapters
 **Commercial Book Clearance:** 100% cleared (`CC BY 4.0`, `CC BY 3.0`, `CC BY 2.0`, `CC0 1.0`, `Public Domain` / `CDC MMWR` / `US Gov` only — **zero** `CC BY-NC`, `CC BY-ND`, or `CC BY-SA` files hosted locally).
 
 ## Tier Breakdown
 - **Tier 1 — Primary Peer-Reviewed Case Exhibits (`primary`):** 138 images
-- **Tier 2 — Peer-Reviewed Reference Clinical Exhibits (`reference`):** 58 images *(clearly labeled as illustrative separate CC BY cases)*
+- **Tier 2 — Peer-Reviewed Reference Clinical Exhibits (`reference`):** 59 images *(clearly labeled as illustrative separate CC BY cases)*
 - **Tier 3 — Verified Real-World Hazard Field Photos (`hazard`):** 33 images *(Public Domain / CC0 / CC BY verified photos)*
 - **Original Vector Infographics (Author-Owned SVG in `assets/diagrams.js`):** 30 vector diagrams
 
@@ -240,3 +240,4 @@
 | 262 | 258 | `hazard` | `HAZ_labrador_retriever_cc0.jpg` | 1080x720 | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Photo by Dktue via Wikimedia Commons (Portrait of a labrador retriever.jpg) ([Source](https://commons.wikimedia.org/wiki/File:Portrait_of_a_labrador_retriever.jpg)) |
 | 263 | 259 | `primary` | `PMC12067789_fvets-12-1573924-g002.jpg` | 767x557 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Figure 2 from Cartes et al. (2025), Frontiers in Veterinary Science · PMC12067789 ([Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC12067789/)) |
 | 264 | 262 | `primary` | `PMC9826224_jsap-63-843-g001.jpg` | 709x351 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | FIG 1 from Terai et al. (2022), Journal of Small Animal Practice · PMC9826224 ([Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC9826224/)) |
+| 265 | 265 | `reference` | `REF_PMC10028085_fsurg-10-1131659-g001.jpg` | 616x489 | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Figure 1 from Thalji et al. (2023), Frontiers in Surgery · PMC10028085 (Reference Case) ([Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC10028085/)) |

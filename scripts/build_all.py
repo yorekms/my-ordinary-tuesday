@@ -879,7 +879,13 @@ for r in stock_rows:
 print(f'[5b/5] Wrote assets/exhibits/IMAGE_STOCK_MANIFEST.csv & book/IMAGE_STOCK_LICENSE_LEDGER.md ({len(stock_rows)} images: {tier_counts})')
 
 if BUILD_ARGS.pdf:
-    chrome = shutil.which('google-chrome') or shutil.which('chromium') or shutil.which('chromium-browser')
+    chrome = (
+        shutil.which('google-chrome')
+        or shutil.which('chromium')
+        or shutil.which('chromium-browser')
+        or ('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+            if Path('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome').exists() else None)
+    )
     if not chrome:
         raise RuntimeError('Headless Chrome/Chromium not found for --pdf rendering.')
     pdf_out = BOOK_DIR / 'Ordinary_Tuesday_Book_Draft.pdf'

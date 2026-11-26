@@ -1,17 +1,17 @@
 {
   "meta": {
-    "updated": "2026-11-24",
-    "totalStoriesEnriched": 264,
-    "ccByClinicalExhibitStories": 222,
-    "ccByClinicalExhibitImages": 229,
+    "updated": "2026-11-25",
+    "totalStoriesEnriched": 265,
+    "ccByClinicalExhibitStories": 223,
+    "ccByClinicalExhibitImages": 230,
     "primaryClinicalExhibitStories": 131,
-    "referenceClinicalExhibitStories": 58,
+    "referenceClinicalExhibitStories": 59,
     "hazardFieldPhotoStories": 33,
     "bespokeInfographics": 30,
-    "dynamicBlueprintStories": 234,
-    "perStoryQuizzes": 264,
-    "examPoolSize": 90,
-    "externalFigureLinkoutStories": 53
+    "dynamicBlueprintStories": 235,
+    "perStoryQuizzes": 265,
+    "examPoolSize": 91,
+    "externalFigureLinkoutStories": 54
   },
   "stories": {
     "fractal-wood-burning": {
@@ -9480,6 +9480,54 @@
           "licenseNote": "CC BY-NC (view directly on PMC)"
         }
       ]
+    },
+    "patient-in-other-clinic-leptospirosis": {
+      "quiz": {
+        "prompt": "Three weeks after nursing your unvaccinated dog bare-handed through acute fever, vomiting, and diarrhea—which cleared up after your vet prescribed antibiotics—you develop a high fever, severe muscle aches, and diarrhea. Your dog looks completely healthy today. What is the safest immediate move?",
+        "options": [
+          {
+            "label": "Have your vet run a urine PCR on your recovered dog first; if the dog’s urine PCR comes back negative today, you can safely rule out leptospirosis and treat your fever at home.",
+            "correct": false,
+            "feedback": "In Nakashiro et al. (2024), the recovered dog’s post-antibiotic urine PCR was completely negative even though canine MAT titers stood at 800—a negative test weeks after antimicrobials never rules out earlier urinary shedding."
+          },
+          {
+            "label": "Seek human medical care promptly, tell the clinician up front about your dog’s prior illness and bare-handed urine/vomit contact, and authorize your doctor and veterinarian to share clinical summaries.",
+            "correct": true,
+            "feedback": "Survived Tuesday! CDC guidance stresses immediate medical evaluation without waiting for shock vitals or pet test results, and bridging the human and veterinary records unlocked the life-saving diagnosis in Nakashiro et al.’s case."
+          },
+          {
+            "label": "Skip the zoonotic history if you live in a dry suburban desert neighborhood and your dog only visits an indoor doggy daycare, since Leptospira requires tropical floodwaters to spread.",
+            "correct": false,
+            "feedback": "Iverson et al.’s 2021 Maricopa County investigation documented 71 confirmed or probable canine leptospirosis cases across arid Phoenix suburbs, with strong epidemiological clustering around congregate dog daycare and boarding settings."
+          }
+        ]
+      },
+      "clinicalFigures": [
+        {
+          "tier": "reference",
+          "exhibitCode": "REFERENCE EXHIBIT · CHEST CT SCAN",
+          "src": "assets/exhibits/REF_PMC10028085_fsurg-10-1131659-g001.jpg",
+          "caption": "Illustrative chest CT from a separate CC BY leptospirosis case (not the index patient in Nakashiro et al. 2024): bilateral patchy alveolar infiltration and ground-glass opacification in severe systemic leptospirosis.",
+          "spoilerNote": "Illustrative peer-reviewed chest CT exhibit from a separate CC BY leptospirosis report showing bilateral pulmonary involvement (not the index patient).",
+          "blurredByDefault": false,
+          "citation": "Figure 1 from Thalji et al. (2023), Frontiers in Surgery · PMC10028085 (Reference Case)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10028085/"
+        }
+      ],
+      "externalFigureLinks": [
+        {
+          "label": "Nakashiro et al. (2024), BMJ Case Reports — Primary body CT & chest radiograph (bilateral ground-glass opacification) on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11308896/",
+          "licenseNote": "CC BY-NC 4.0 (view directly on PMC)"
+        },
+        {
+          "label": "Iverson et al. (2021), JAVMA — Maricopa County canine leptospirosis outbreak curves & diagnostic breakdowns on PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8786034/",
+          "licenseNote": "Author Manuscript / Non-CC (view directly on PMC)"
+        }
+      ]
     }
   },
   "exam": [
@@ -11462,31 +11510,43 @@
           "why": "An SMR of 1.7 (153 observed vs. 90 expected deaths across 811 patients diagnosed in 1980–2002) is a historical aggregate ratio—not a 70% fatality rate or a forecast for modern care—and treating it with fatalism sacrifices effective, life-preserving comorbidity management."
         }
       ]
+    },
+    {
+      "q": "Three weeks after nursing your unvaccinated dog bare-handed through acute fever, vomiting, and diarrhea—which cleared up after your vet prescribed antibiotics—you develop a high fever, severe muscle aches, and diarrhea. Your dog looks completely healthy today. What is the safest immediate move?",
+      "caseSlug": "patient-in-other-clinic-leptospirosis",
+      "caseRef": "Case 265",
+      "options": [
+        {
+          "label": "Have your vet run a urine PCR on your recovered dog first; if the dog’s urine PCR comes back negative today, you can safely rule out leptospirosis and treat your fever at home.",
+          "ok": false,
+          "why": "In Nakashiro et al. (2024), the recovered dog’s post-antibiotic urine PCR was completely negative even though canine MAT titers stood at 800—a negative test weeks after antimicrobials never rules out earlier urinary shedding."
+        },
+        {
+          "label": "Seek human medical care promptly, tell the clinician up front about your dog’s prior illness and bare-handed urine/vomit contact, and authorize your doctor and veterinarian to share clinical summaries.",
+          "ok": true,
+          "why": "Survived Tuesday! CDC guidance stresses immediate medical evaluation without waiting for shock vitals or pet test results, and bridging the human and veterinary records unlocked the life-saving diagnosis in Nakashiro et al.’s case."
+        },
+        {
+          "label": "Skip the zoonotic history if you live in a dry suburban desert neighborhood and your dog only visits an indoor doggy daycare, since Leptospira requires tropical floodwaters to spread.",
+          "ok": false,
+          "why": "Iverson et al.’s 2021 Maricopa County investigation documented 71 confirmed or probable canine leptospirosis cases across arid Phoenix suburbs, with strong epidemiological clustering around congregate dog daycare and boarding settings."
+        }
+      ]
     }
   ],
   "starterPacks": [
     {
       "id": "latest",
-      "label": "🆕 Wave 14 (Ep 3000–3010 · 11 New Chapters) (11)",
-      "tagline": "Freshly added on 2026-11-24 — 11 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
+      "label": "🆕 Wave 15 (Ep 3011) (1)",
+      "tagline": "Freshly added on 2026-11-25 — 1 brand-new peer-reviewed forensic survival stories with clinical exhibits, diagrams, and custom quizzes.",
       "slugs": [
-        "signal-from-the-foot-tio",
-        "pressure-in-spinal-veins-sdavf",
-        "protein-leaving-stomach-menetrier",
-        "hip-in-metabolic-investigation-metallosis",
-        "collapse-and-two-copies-dnm1-dog",
-        "wounds-and-failing-circulation-sporotrichosis",
-        "growth-behind-snoring-acromegaly",
-        "pill-that-dissolved-airway-iron",
-        "livers-unexpected-outlet-shunt-cat",
-        "parasite-and-antibody-babesiosis",
-        "deposit-between-injection-blood-amyloid"
+        "patient-in-other-clinic-leptospirosis"
       ]
     },
     {
       "id": "visual-pilot",
-      "label": "🩻 All Verified Exhibits (222)",
-      "tagline": "All 222 chapters featuring commercial-cleared primary case imaging (131), peer-reviewed reference exhibits (58), and verified hazard field photos (33).",
+      "label": "🩻 All Verified Exhibits (223)",
+      "tagline": "All 223 chapters featuring commercial-cleared primary case imaging (131), peer-reviewed reference exhibits (59), and verified hazard field photos (33).",
       "slugs": [
         "fractal-wood-burning",
         "ottoman-bed-and-gravity",
@@ -11709,7 +11769,8 @@
         "pill-that-dissolved-airway-iron",
         "livers-unexpected-outlet-shunt-cat",
         "parasite-and-antibody-babesiosis",
-        "deposit-between-injection-blood-amyloid"
+        "deposit-between-injection-blood-amyloid",
+        "patient-in-other-clinic-leptospirosis"
       ]
     },
     {
@@ -11855,36 +11916,36 @@
       "label": "📐 Signature Forensic Diagrams (30)",
       "tagline": "All 30 chapters featuring hand-crafted “Airline Safety Card meets NTSB” original vector infographics across all 6 rooms.",
       "slugs": [
-        "ring-and-unbroken-bone-avulsion",
         "pool-had-another-hazard-drain-suction",
-        "fractal-wood-burning",
-        "spin-class-rhabdo",
-        "puppy-with-the-twisted-stomach-gdv",
-        "potassium-that-rose-in-the-tube",
-        "wire-behind-the-pain",
-        "reheated-rice-and-botulism",
         "family-behind-the-enzyme-g6pd",
-        "aquarium-more-than-one-patient-palytoxin",
+        "ring-and-unbroken-bone-avulsion",
+        "battery-already-in-the-stomach",
         "thyroid-that-changed-in-the-test-biotin",
+        "spin-class-rhabdo",
+        "boots-in-the-snow-and-heatstroke",
+        "aquarium-more-than-one-patient-palytoxin",
+        "tank-after-the-collapse-h2s",
+        "fractal-wood-burning",
         "van-that-was-not-empty",
-        "driveway-ied-truck-tire",
+        "handlebar-and-hidden-pancreatic-duct",
+        "charger-between-phone-and-wall",
+        "reheated-rice-and-botulism",
+        "one-finger-varicose-vein",
         "hair-treatment-reached-the-cat",
         "chocolate-brown-blood",
-        "charger-between-phone-and-wall",
-        "super-rat-bait-and-vitamin-k-trap",
-        "handlebar-and-hidden-pancreatic-duct",
-        "tank-after-the-collapse-h2s",
-        "hot-baths-fentanyl-patches-deadly",
-        "thread-beneath-the-swelling-hair-tourniquet",
-        "one-finger-varicose-vein",
         "anesthetic-that-triggered-the-furnace",
-        "burn-looked-like-infection-wet-cement",
-        "battery-already-in-the-stomach",
-        "thread-across-the-road-kite-string",
-        "boots-in-the-snow-and-heatstroke",
-        "room-not-safe-to-finish",
+        "driveway-ied-truck-tire",
+        "potassium-that-rose-in-the-tube",
         "dry-ice-riding-shotgun",
-        "small-hands-moving-treadmill-belt"
+        "puppy-with-the-twisted-stomach-gdv",
+        "super-rat-bait-and-vitamin-k-trap",
+        "burn-looked-like-infection-wet-cement",
+        "hot-baths-fentanyl-patches-deadly",
+        "thread-across-the-road-kite-string",
+        "room-not-safe-to-finish",
+        "small-hands-moving-treadmill-belt",
+        "thread-beneath-the-swelling-hair-tourniquet",
+        "wire-behind-the-pain"
       ]
     },
     {
@@ -11940,7 +12001,7 @@
     },
     {
       "id": "pets",
-      "label": "🐾 Pet Owner’s Mandatory 54",
+      "label": "🐾 Pet Owner’s Mandatory 55",
       "tagline": "Every single One Medicine chapter protecting the innocent four-legged roommates sharing your floor.",
       "partFilter": "pets"
     }
